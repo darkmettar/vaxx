@@ -1,0 +1,1308 @@
+Individuals using assistive technology may not be able to fully
+access the information contained in this file. For assistance,
+please call 800-835-4709 or 240-402-8010, extension 1. CBER
+Consumer Affairs Branch or send an e-mail to: ocod@fda.hhs.gov
+and include 508 Accommodation and the title of the document in
+the subject line of your e-mail.
+
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use
+HIBERIX safely and effectively. See full prescribing information for
+HIBERIX.
+
+•
+
+Vial and prefilled syringe presentation: a single dose after reconstitution
+is approximately 0.5 mL. (3)
+
+------------------------------ CONTRAINDICATIONS -----------------------------Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any
+H. influenzae type b- or tetanus toxoid-containing vaccine or any component
+of HIBERIX. (4)
+
+HIBERIX [Haemophilus b Conjugate Vaccine (Tetanus Toxoid
+Conjugate)] for injection, for intramuscular use
+Initial U.S. Approval: 2009
+
+----------------------- WARNINGS AND PRECAUTIONS ----------------------• If Guillain-Barré syndrome has occurred within 6 weeks of receipt of a
+prior vaccine containing tetanus toxoid, the decision to give HIBERIX
+should be based on potential benefits and risks. (5.1)
+• Syncope (fainting) can occur in association with administration of
+injectable vaccines, including HIBERIX. Procedures should be in place to
+avoid falling injury and to restore cerebral perfusion following syncope.
+(5.2)
+• Apnea following intramuscular vaccination has been observed in some
+infants born prematurely. Decisions about when to administer an
+intramuscular vaccine, including HIBERIX, to infants born prematurely
+should be based on consideration of the individual infant’s medical status,
+and the potential benefits and possible risks of vaccination. (5.3)
+
+--------------------------- RECENT MAJOR CHANGES --------------------------Dosage and Administration (2)
+12/2023
+--------------------------- INDICATIONS AND USAGE---------------------------HIBERIX is a vaccine indicated for active immunization for the prevention of
+invasive disease caused by Haemophilus influenzae type b. HIBERIX is
+approved for use in children aged 6 weeks through 4 years (prior to fifth
+birthday). (1)
+----------------------- DOSAGE AND ADMINISTRATION ----------------------For intramuscular administration only.
+A 4-dose series (either 0.5 mL or approximately 0.5 mL each, depending on
+the presentation) given by intramuscular injection (2.1):
+• Primary series: One dose each at 2, 4, and 6 months of age. The first dose
+may be given as early as 6 weeks of age.
+• Booster: One dose at 15 through 18 months of age.
+HIBERIX is supplied in 2 presentations:
+• Vial and vial presentation: vial of Lyophilized Antigen Component and
+vial of Sterile Saline Diluent. (2.2)
+• Vial and prefilled syringe presentation: vial of Lyophilized Antigen
+Component and prefilled syringe of Sterile Saline Diluent. (2.2)
+
+------------------------------ ADVERSE REACTIONS -----------------------------Common solicited adverse reactions (≥20%) were pain and redness at the
+injection site, irritability, drowsiness, fever, loss of appetite, fussiness, and
+restlessness. (6.1)
+To report SUSPECTED ADVERSE REACTIONS, contact
+GlaxoSmithKline at 1-888-825-5249 or VAERS at 1-800-822-7967 or
+www.vaers.hhs.gov.
+See 17 for PATIENT COUNSELING INFORMATION.
+
+--------------------- DOSAGE FORMS AND STRENGTHS---------------------Solution for injection.
+• Vial and vial presentation: a single dose after reconstitution is 0.5 mL. (3)
+
+Revised: 12/2023
+
+7
+
+FULL PRESCRIBING INFORMATION: CONTENTS*
+FULL PRESCRIBING INFORMATION
+1 INDICATIONS AND USAGE
+2 DOSAGE AND ADMINISTRATION
+2.1 Dose and Schedule
+2.2 Presentations and Reconstitution
+2.3 Administration
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+5 WARNINGS AND PRECAUTIONS
+5.1 Guillain-Barré Syndrome
+5.2 Syncope
+5.3 Apnea in Premature Infants
+5.4 Preventing and Managing Allergic Vaccine Reactions
+5.5 Altered Immunocompetence
+5.6 Interference with Laboratory Tests
+5.7 Tetanus Immunization
+6 ADVERSE REACTIONS
+6.1 Clinical Trials Experience
+6.2 Postmarketing Experience
+
+8
+11
+12
+13
+14
+15
+16
+17
+
+DRUG INTERACTIONS
+7.1 Interference with Laboratory Tests
+7.2 Concomitant Vaccine Administration
+7.3 Immunosuppressive Therapies
+USE IN SPECIFIC POPULATIONS
+8.4 Pediatric Use
+DESCRIPTION
+CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+CLINICAL STUDIES
+14.1 Immunological Evaluation
+14.2 Concomitant Vaccine Administration
+REFERENCES
+HOW SUPPLIED/STORAGE AND HANDLING
+16.1 Storage before Reconstitution
+PATIENT COUNSELING INFORMATION
+
+*Sections or subsections omitted from the full prescribing information are not
+listed.
+
+______________________________________________________________________
+
+1
+
+FULL PRESCRIBING INFORMATION
+1
+
+INDICATIONS AND USAGE
+
+HIBERIX is indicated for active immunization for the prevention of invasive disease caused by
+Haemophilus influenzae (H. influenzae) type b. HIBERIX is approved for use in children aged
+6 weeks through 4 years (prior to fifth birthday).
+2
+
+DOSAGE AND ADMINISTRATION
+
+For intramuscular use only.
+2.1
+
+Dose and Schedule
+
+After reconstitution, a single dose of HIBERIX is either 0.5 mL or approximately 0.5 mL
+depending on the presentation [see Dosage and Administration (2.2)].
+HIBERIX is administered as a 4-dose series. The series consists of a primary immunization
+course of 3 doses administered at 2, 4, and 6 months of age, followed by a booster dose
+administered at 15 through 18 months of age. The first dose may be given as early as 6 weeks of
+age.
+2.2
+
+Presentations and Reconstitution
+
+HIBERIX is supplied in 2 presentations as follows:
+Vial and Vial Presentation
+The vial and vial presentation includes a vial of Lyophilized Antigen Component and a vial of
+Sterile Saline Diluent.
+Vial and Prefilled Syringe Presentation
+The vial and prefilled syringe presentation includes a vial of Lyophilized Antigen Component
+and a prefilled syringe of Sterile Saline Diluent.
+For both presentations reconstitute the Lyophilized Antigen Component only with the
+accompanying Sterile Saline Diluent to form HIBERIX.
+
+2
+
+Instructions for Vial and Vial Presentation
+
+'
+
+Sall~
+Ollu~n
+
+;0.6ml
+•
+
+J
+
+Figure 1. Cleanse both
+vial stoppers. Using a
+graduated syringe,
+withdraw 0.6 mL of
+Sterile Saline Diluent
+from accompanying
+vial.
+
+ll~ru.lilUf~
+
+v~ccine
+
+t , o.5m
+
+Lyophilized
+Antigen
+Component
+
+•
+
+Figure 2. Transfer
+0.6 mL Sterile Saline
+Diluent into
+Lyophilized Antigen
+Component vial.
+
+-l
+
+•
+
+Figure 3. Shake
+the vial well
+until the powder
+is completely
+dissolved.
+
+Figure 4. After
+reconstitution, withdraw
+0.5 mL of reconstituted
+vaccine into the same
+syringe and administer
+intramuscularly.
+
+Instructions for Vial and Prefilled Syringe Presentation
+Rci.:onstitutcd
+
+Vaccin e
+
+Saline
+
+Diluent
+
+■
+
+■
+Lyophilizcd
+Anti gen
+Component
+
+Figure 1. Hold the
+ungraduated prefilled syringe
+of Sterile Saline Diluent by
+the barrel and unscrew the
+syringe cap by twisting it
+counterclockwise. Align the
+needle to the axis of the
+syringe and attach by gently
+connecting the needle hub
+into the Luer Lock Adaptor
+(LLA) and rotate a quarter
+turn clockwise until you feel
+it lock.
+
+Figure 2. Cleanse the
+Lyophilized Antigen
+Component vial stopper.
+Transfer the entire
+contents of the prefilled
+syringe into the vial.
+
+3
+
+Figure 3. Shake
+the vial well until
+the powder is
+completely
+dissolved.
+
+Figure 4. After
+reconstitution,
+withdraw the
+entire contents of
+reconstituted
+vaccine into the
+same syringe and
+after changing the
+needle administer
+the vaccine
+intramuscularly.
+
+2.3
+
+Administration
+
+The reconstituted vaccine should be a clear and colorless solution. Parenteral drug products
+should be inspected visually for particulate matter and discoloration prior to administration,
+whenever solution and container permit. If either of these conditions exists, the vaccine should
+not be administered.
+Administer HIBERIX intramuscularly immediately after reconstitution.
+3
+
+DOSAGE FORMS AND STRENGTHS
+
+HIBERIX is a solution for injection.
+For the vial and vial presentation a single dose after reconstitution is 0.5 mL.
+For the vial and prefilled syringe presentation a single dose after reconstitution is approximately
+0.5 mL.
+4
+
+CONTRAINDICATIONS
+
+Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any H. influenzae type b- or
+tetanus toxoid-containing vaccine or any component of the vaccine is a contraindication to
+administration of HIBERIX [see Description (11)].
+5
+
+WARNINGS AND PRECAUTIONS
+
+5.1
+
+Guillain-Barré Syndrome
+
+If Guillain-Barré syndrome has occurred within 6 weeks of receipt of a prior vaccine containing
+tetanus toxoid, the decision to give any tetanus toxoid-containing vaccine, including HIBERIX,
+should be based on careful consideration of the potential benefits and possible risks.
+5.2
+
+Syncope
+
+Syncope (fainting) can occur in association with administration of injectable vaccines, including
+HIBERIX. Syncope can be accompanied by transient neurological signs such as visual
+disturbance, paresthesia, and tonic-clonic limb movements. Procedures should be in place to
+avoid falling injury and to restore cerebral perfusion following syncope.
+5.3
+
+Apnea in Premature Infants
+
+Apnea following intramuscular vaccination has been observed in some infants born prematurely.
+Decisions about when to administer an intramuscular vaccine, including HIBERIX, to infants
+born prematurely should be based on consideration of the individual infant’s medical status, and
+the potential benefits and possible risks of vaccination.
+5.4
+
+Preventing and Managing Allergic Vaccine Reactions
+
+Prior to administration, the healthcare provider should review the patient's immunization history
+for possible vaccine hypersensitivity. Epinephrine and other appropriate agents used for the
+4
+
+control of immediate allergic reactions must be immediately available should an acute
+anaphylactic reaction occur.
+5.5
+
+Altered Immunocompetence
+
+Safety and effectiveness of HIBERIX in immunosuppressed children have not been evaluated. If
+HIBERIX is administered to immunosuppressed children, including children receiving
+immunosuppressive therapy, the expected immune response may not be obtained.
+5.6
+
+Interference with Laboratory Tests
+
+Urine antigen detection may not have a diagnostic value in suspected disease due to
+H. influenzae type b within 1 to 2 weeks after receipt of a H. influenzae type b-containing
+vaccine, including HIBERIX [see Drug Interactions (7.1)].
+5.7
+
+Tetanus Immunization
+
+Immunization with HIBERIX does not substitute for routine tetanus immunization.
+6
+
+ADVERSE REACTIONS
+
+6.1
+
+Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates
+observed in the clinical trials of a vaccine cannot be directly compared with rates in the clinical
+trials of another vaccine and may not reflect the rates observed in practice. There is the
+possibility that broad use of HIBERIX could reveal adverse reactions not observed in clinical
+trials.
+Across clinical trials, common solicited adverse reactions (≥20%) were pain and redness at the
+injection site, irritability, drowsiness, fever, loss of appetite, fussiness, and restlessness.
+Study 1: In a randomized, controlled clinical trial conducted in the U.S., children were
+vaccinated with HIBERIX (n = 2,963), a U.S.-licensed monovalent Haemophilus b Conjugate
+Vaccine (Control PRP-T) (Sanofi Pasteur SA) (n = 520), or a U.S.-licensed combined Diphtheria
+and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and
+Haemophilus b Conjugate Vaccine (DTaP-IPV/Hib) (Sanofi Pasteur Ltd.) (n = 520) at 2, 4, and 6
+months of age. HIBERIX and Control PRP-T (Sanofi Pasteur SA) were administered
+concomitantly with PEDIARIX (DTaP-HBV-IPV) [Diphtheria and Tetanus Toxoids and
+Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine]
+and Pneumococcal 13-valent Conjugate Vaccine (PCV13) (Wyeth Pharmaceuticals Inc.) with
+Doses 1, 2, and 3 and ROTARIX [Rotavirus Vaccine, Live, Oral] with Doses 1 and 2. DTaPIPV/Hib was administered concomitantly with PCV13 and ENGERIX-B [Hepatitis B Vaccine
+(Recombinant)] with Doses 1, 2, and 3 and ROTARIX with Doses 1 and 2. If a birth dose of
+hepatitis B vaccine was received, ENGERIX-B was given with Doses 1 and 3. In the total
+population, 51.2% were male; 61% were white, 8% were Asian, 9% were black, and 22% were
+other racial/ethnic groups.
+5
+
+In Study 1, children received a booster dose of either HIBERIX (n = 2,336), a Haemophilus b
+Conjugate Vaccine (Control PRP-T) (Sanofi Pasteur SA) (n = 435), or a combined Diphtheria
+and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and
+Haemophilus b Conjugate Vaccine (DTaP-IPV/Hib) (Sanofi Pasteur Ltd.) (n = 400) at 15 to 18
+months of age (mean age: 15.6 months) following primary vaccination at 2, 4, and 6 months of
+age with the same vaccine. The booster dose of HIBERIX and Control PRP-T (Sanofi Pasteur
+SA) was administered concomitantly with INFANRIX (DTaP) [Diphtheria and Tetanus Toxoids
+and Acellular Pertussis Vaccine Adsorbed].
+In 7 additional clinical studies, 1,008 children received HIBERIX as a booster dose following
+primary vaccination with either HIBERIX (n = 530), Haemophilus b Conjugate Vaccine (Control
+PRP-T) (Sanofi Pasteur SA) (n = 235), Haemophilus b Conjugate Vaccine (Merck & Co., Inc.)
+(n = 26), or Haemophilus b Conjugate Vaccine (Wyeth Pharmaceuticals Inc.) (no longer licensed
+in the U.S., n = 217). None of the studies included a comparator group that received a booster
+dose with a U.S.-licensed Haemophilus b Conjugate Vaccine. Studies were conducted in Europe,
+Canada, and Latin America. Across these studies, the mean age of subjects at the time of booster
+vaccination with HIBERIX ranged from 16 to 19 months. At the time of vaccination, 172
+(17.1%) subjects were aged 11 to 14 months, 642 (63.7%) subjects were aged 15 to 18 months,
+and 194 (19.2%) subjects were aged 19 to 25 months. Approximately half of the subjects were
+male. Among subjects for whom information on race/ethnicity was available, nearly all subjects
+were white.
+In these 7 studies, HIBERIX was administered concomitantly with non-U.S. formulations
+(containing 2.5 mg 2-phenoxyethanol per dose as preservative) of one of the following U.S.licensed vaccines: INFANRIX (DTaP) [Diphtheria and Tetanus Toxoids and Acellular Pertussis
+Vaccine Adsorbed], KINRIX (DTaP-IPV) [Diphtheria and Tetanus Toxoids and Acellular
+Pertussis Adsorbed and Inactivated Poliovirus Vaccine], or PEDIARIX (DTaP-HBV-IPV). In the
+studies, DTaP-IPV and DTaP-HBV-IPV were administered in dosing regimens not approved in
+the U.S. Some subjects received DTaP-HBV (GlaxoSmithKline Biologicals, not licensed in
+U.S.) concomitantly with HIBERIX.
+Solicited Adverse Reactions
+The reported frequencies of solicited local reactions and general adverse reactions from Study 1
+after primary and booster vaccination are presented in Table 1 and Table 2, respectively.
+
+6
+
+Table 1. Percentage of Children with Solicited Local Reactions and General Adverse
+Reactions within 4 Days of Primary Series Vaccinationa (at 2, 4, and 6 Months of Age) with
+HIBERIXb, Control PRP-Tb, or DTaP-IPV/Hibc, Total Vaccinated Cohortd
+HIBERIX
+Control PRP-T
+DTaP-IPV/Hib
+%
+%
+%
+Dose
+Dose
+Dose
+Adverse Reactions
+1
+2
+3
+1
+2
+3
+1
+2
+3
+e
+Local
+n
+2,828 2,668 2,553 498
+481
+463
+492 469 443
+Pain
+49
+45
+43
+57
+53
+48
+58
+50
+49
+f
+Pain, Grade 3
+4
+3
+2
+9
+5
+4
+9
+3
+3
+Redness
+19
+25
+29
+24
+32
+30
+26
+31
+37
+Redness, >20 mm
+1
+1
+1
+2
+1
+0
+2
+2
+2
+Swelling
+13
+15
+19
+19
+22
+20
+20
+24
+24
+Swelling, >20 mm
+2
+1
+1
+4
+3
+1
+4
+2
+2
+General
+n
+2,830 2,669 2,553 499
+480
+463
+492 469 443
+Irritability
+69
+70
+67
+76
+71
+67
+73
+67
+69
+g
+Irritability, Grade 3
+4
+6
+5
+8
+8
+5
+6
+5
+3
+Drowsiness
+60
+54
+49
+66
+56
+50
+61
+52
+50
+h
+Drowsiness, Grade 3
+2
+3
+2
+4
+2
+1
+4
+3
+3
+Loss of appetite
+29
+28
+28
+33
+32
+27
+34
+24
+24
+Loss of appetite,
+1
+2
+2
+2
+1
+0
+1
+0
+1
+i
+Grade 3
+Fever
+14
+19
+19
+16
+19
+16
+12
+11
+18
+j
+Fever, Grade 3
+0
+1
+1
+0
+0
+1
+0
+0
+1
+n = All subjects for whom safety data were available.
+a
+Within 4 days of vaccination defined as day of vaccination and the next 3 days.
+b
+Each dose (Doses 1, 2, and 3) of HIBERIX or Control PRP-T (Sanofi Pasteur SA) was
+concomitantly administered with PEDIARIX (DTaP-HBV-IPV) and PCV13. Doses 1 and 2
+were concomitantly administered with ROTARIX.
+c
+Each dose (Doses 1, 2, and 3) of DTaP-IPV/Hib was concomitantly administered with PCV13
+and ENGERIX-B with Doses 1, 2, and 3 and ROTARIX with Doses 1 and 2. If a birth dose of
+hepatitis B vaccine was received, ENGERIX-B was given with Doses 1 and 3.
+d
+Study 1: NCT01000974.
+e
+Local reactions at the injection site for HIBERIX, Control PRP-T, or DTaP-IPV/Hib.
+f
+Grade 3 pain defined as cried when limb was moved/spontaneously painful.
+g
+Grade 3 irritability defined as crying that could not be comforted/prevented normal activity.
+h
+Grade 3 drowsiness defined as prevented normal daily activity.
+i
+Grade 3 loss of appetite defined as did not eat at all.
+j
+Fever defined as ≥100.4°F (≥38.0°C) rectally; Grade 3 fever defined as >103.1°F (>39.5°C)
+rectally.
+7
+
+Table 2. Percentage of Children with Solicited Local Reactions and General Adverse
+Reactions within 4 Days of Booster Vaccinationa (Dose 4 at 15 through 18 Months of Age)
+with HIBERIXb, Control PRP-Tb, or DTaP-IPV/Hib, Total Vaccinated Cohortc
+HIBERIX
+Control PRP-T
+DTaP-IPV/Hib%
+%
+%
+Adverse Reactions
+Any
+Grade 3d
+Any
+Grade 3d
+Any I Grade 3d
+Locale
+n = 2,224
+n = 416
+n = 379
+Pain
+41
+1
+43
+1
+43
+2
+Redness
+30
+0
+31
+1
+30
+3
+Swelling
+18
+1
+20
+1
+20
+3
+General
+n = 2,225
+n = 416
+n = 379
+Irritability
+58
+2
+60
+5
+53
+2
+Drowsiness
+39
+1
+39
+3
+31
+0
+Loss of appetite
+28
+1
+34
+2
+22
+1
+f
+Fever
+15
+1
+14
+1
+18
+1
+n = All subjects for whom safety data were available.
+Subjects received primary vaccination at 2, 4, and 6 months of age with the same vaccine as the
+booster dose.
+a
+Within 4 days of vaccination defined as day of vaccination and the next 3 days.
+b
+The booster dose of HIBERIX and Control PRP-T (Sanofi Pasteur SA) was concomitantly
+administered with INFANRIX (DTaP).
+c
+Study 1: NCT01000974.
+d
+Grade 3 pain defined as cried when limb was moved/spontaneously painful.
+Grade 3 redness, swelling defined as >20 mm.
+Grade 3 irritability defined as crying that could not be comforted/prevented normal activity.
+Grade 3 drowsiness defined as prevented normal daily activity.
+Grade 3 loss of appetite defined as did not eat at all.
+Grade 3 fever defined as >102.2°F (>39.0°C) axillary.
+e
+Local reactions at the injection site for HIBERIX, Control PRP-T, or DTaP-IPV/Hib.
+f
+Fever defined as ≥99.5°F (≥37.5°C) axillary.
+In an open-label, multicenter study conducted in Germany (Study 2), 371 children received a
+booster dose of HIBERIX administered concomitantly with DTaP-HBV-IPV. The mean age at
+the time of vaccination was 16 months. Subjects in this study had previously received a primary
+series with either HIBERIX (n = 92), Control PRP-T (Sanofi Pasteur SA) (n = 96), or
+Haemophilus b Conjugate Vaccine (Wyeth Pharmaceuticals Inc.) (no longer licensed in the U.S.)
+(n = 183). All subjects previously received 3 doses of DTaP-HBV-IPV. The reported frequencies
+of solicited local reactions and general adverse reactions are presented in Table 3.
+
+8
+
+Table 3. Percentage of Children with Solicited Local Reactions and General Adverse
+Reactions within 4 Days of Booster Vaccinationa (Dose 4) with HIBERIXb Coadministered
+with DTaP-HBV-IPVc, Intent-to-Treat Cohort (n = 371)
+%
+%
+Adverse Reactions
+Any
+Grade 3
+Locald
+Redness
+25
+2e
+Pain
+21
+1f
+Swelling
+15
+2e
+General
+Feverg
+35
+4
+Fussiness
+26
+1h
+Loss of appetite
+23
+1i
+Restlessness
+22
+1i
+Sleepiness
+20
+1i
+Diarrhea
+15
+1i
+Vomiting
+5
+1i
+n = All subjects for whom safety data were available.
+a
+Within 4 days of vaccination defined as day of vaccination and the next 3 days.
+b
+In this study, 92 subjects previously received 3 doses of HIBERIX, 96 subjects previously
+received 3 doses of a Control PRP-T (Sanofi Pasteur SA), and 183 subjects previously received
+3 doses of a Haemophilus b Conjugate Vaccine that is no longer licensed in the U.S.
+c
+In this study, DTaP-HBV-IPV was given to subjects who previously received 3 doses of DTaPHBV-IPV. In the U.S., PEDIARIX is approved for use as a 3-dose primary series; use as a
+fourth consecutive dose is not approved in the U.S.
+d
+Local reactions at the injection site for HIBERIX.
+e
+Grade 3 redness or swelling defined as >20 mm.
+f
+Grade 3 pain defined as causing crying when limb moved.
+g
+Fever defined as ≥100.4°F (≥38.0°C) rectally or ≥99.5°F (≥37.5°C) axillary, oral, or tympanic;
+Grade 3 fever defined as >103.1°F (>39.5°C) rectally or >102.2°F (>39.0°C) axillary, oral, or
+tympanic.
+h
+Grade 3 fussiness defined as persistent crying and could not be comforted.
+i
+Grade 3 for these symptoms defined as preventing normal daily activity.
+Serious Adverse Reactions
+In Study 1, one of 2,963 subjects who received HIBERIX and coadministered vaccines given at
+2, 4, and 6 months of age experienced a serious adverse reaction which was in temporal
+association with vaccination and had no alternative plausible causes (convulsion on Day 14 after
+Dose 1). One of 2,336 subjects who received a booster dose of HIBERIX concomitantly with
+INFANRIX experienced a serious adverse reaction which was in temporal association with
+
+9
+
+vaccination and had no alternative plausible causes (new onset febrile seizure on Day 1 after
+Dose 4).
+In the 7 additional studies, 2 of 1,008 subjects reported a serious adverse reaction that occurred
+in the 31-day period following booster immunization with HIBERIX. One subject developed
+bilateral pneumonia 9 days post-vaccination and one subject experienced asthenia following
+accidental drug ingestion 18 days post-vaccination.
+6.2
+
+Postmarketing Experience
+
+In addition to reports in clinical trials for HIBERIX, the following adverse reactions have been
+identified during postapproval use of HIBERIX. Because these reactions are reported voluntarily
+from a population of uncertain size, it is not possible to reliably estimate their frequency or
+establish a causal relationship to vaccination.
+General Disorders and Administration Site Conditions
+Extensive swelling of the vaccinated limb, injection site induration.
+Immune System Disorders
+Allergic reactions (including anaphylactic and anaphylactoid reactions), angioedema.
+Nervous System Disorders
+Convulsions (with or without fever), hypotonic-hyporesponsive episode (i.e., sudden onset of
+hypotonia, hyporesponsiveness, and pallor or cyanosis), somnolence, syncope, or vasovagal
+responses to injection.
+Respiratory, Thoracic, and Mediastinal Disorders
+Apnea [see Warnings and Precautions (5.3)].
+Skin and Subcutaneous Tissue Disorders
+Rash, urticaria.
+7
+
+DRUG INTERACTIONS
+
+7.1
+
+Interference with Laboratory Tests
+
+Haemophilus b capsular polysaccharide derived from Haemophilus b Conjugate Vaccines has
+been detected in the urine of some vaccinees.1 Urine antigen detection may not have a diagnostic
+value in suspected disease due to H. influenzae type b within 1 to 2 weeks after receipt of a
+H. influenzae type b-containing vaccine, including HIBERIX [see Warnings and Precautions
+(5.6)].
+7.2
+
+Concomitant Vaccine Administration
+
+In clinical studies, HIBERIX was administered concomitantly with routinely recommended
+pediatric vaccines [see Clinical Studies (14.2)].
+10
+
+7.3
+
+Immunosuppressive Therapies
+
+Immunosuppressive therapies, including irradiation, antimetabolites, alkylating agents, cytotoxic
+drugs, and corticosteroids (used in greater than physiologic doses), may reduce the immune
+response to HIBERIX.
+8
+
+USE IN SPECIFIC POPULATIONS
+
+8.4
+
+Pediatric Use
+
+Safety and effectiveness of HIBERIX in children younger than 6 weeks and in children aged 5 to
+16 years have not been established.
+11
+
+DESCRIPTION
+
+HIBERIX [Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate)] is a solution for
+intramuscular injection, supplied as a sterile, lyophilized powder which is reconstituted at the
+time of use with the accompanying saline diluent. HIBERIX contains Haemophilus b capsular
+polysaccharide (polyribosyl-ribitol-phosphate [PRP]), a high molecular weight polymer prepared
+from the H. influenzae type b strain 20,752 grown in a synthetic medium that undergoes heat
+inactivation and purification. The tetanus toxin, prepared from Clostridium tetani grown in a
+semi-synthetic medium, is detoxified with formaldehyde and purified. The capsular
+polysaccharide is covalently bound to the tetanus toxoid. After purification, the conjugate is
+lyophilized in the presence of lactose as a stabilizer. The diluent for HIBERIX is a sterile saline
+solution (0.9% sodium chloride) supplied in vials or prefilled syringes.
+After reconstitution, each approximately 0.5-mL dose of HIBERIX contains 10 mcg of purified
+capsular polysaccharide conjugated to approximately 25 mcg of tetanus toxoid, 12.6 mg of
+lactose, and ≤0.5 mcg of residual formaldehyde.
+HIBERIX does not contain a preservative.
+The stopper of the vial containing Lyophilized Antigen Component or Sterile Saline Diluent and
+the tip cap and rubber plunger stopper of the prefilled syringe containing Sterile Saline Diluent
+are not made with natural rubber latex.
+12
+
+CLINICAL PHARMACOLOGY
+
+12.1
+
+Mechanism of Action
+
+H. influenzae is a gram-negative coccobacillus. Most strains of H. influenzae that cause invasive
+disease are type b. H. influenzae type b can cause invasive disease such as sepsis and meningitis.
+Specific levels of antibodies to polyribosyl-ribitol-phosphate (anti-PRP) have been shown to
+correlate with protection against invasive disease due to H. influenzae type b. Based on data from
+passive antibody studies2 and a clinical efficacy study with unconjugated Haemophilus b
+polysaccharide vaccine3, an anti-PRP concentration of 0.15 mcg/mL has been accepted as a
+11
+
+minimal protective level. Data from an efficacy study with unconjugated Haemophilus b
+polysaccharide vaccine indicate that an anti-PRP concentration of ≥1.0 mcg/mL predicts
+protection through at least a 1-year period.4,5 These antibody levels have been used to evaluate
+the effectiveness of Haemophilus b Conjugate Vaccines, including HIBERIX.
+13
+
+NONCLINICAL TOXICOLOGY
+
+13.1
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+HIBERIX has not been evaluated for carcinogenic or mutagenic potential, or for impairment of
+fertility.
+14
+
+CLINICAL STUDIES
+
+14.1
+
+Immunological Evaluation
+
+Primary Series Vaccination (Doses 1, 2, and 3)
+The immunogenicity of HIBERIX was evaluated in a randomized, controlled trial (Study 1).
+HIBERIX or control vaccines were administered concomitantly with U.S.-licensed vaccines [see
+Adverse Reactions (6.1)].
+Anti-PRP geometric mean concentrations (GMCs) and seroprotection rates 1 month following
+Dose 3 of HIBERIX, Control PRP-T (Sanofi Pasteur SA), or DTaP-IPV/Hib are presented in
+Table 4.
+
+12
+
+Table 4. Anti-PRP GMCs and Seroprotection Rates 1 Month following 3 Doses of
+HIBERIX, Control PRP-Ta, or DTaP-IPV/Hibb Administered at 2, 4, and 6 Months of
+Age, ATP Cohort for Immunogenicityc
+% Anti-PRP
+% Anti-PRP
+Anti-PRP GMC
+(mcg/mL)
+≥0.15 mcg/mL
+≥1.0 mcg/mL
+Vaccine
+n
+(95% CI)
+(95% CI)
+(95% CI)
+HIBERIX
+1,590
+5.19
+96.6
+81.2
+(4.77, 5.66)
+(95.6, 97.4)
+(79.2, 83.1)
+Control PRP-T
+274
+6.74
+96.7d
+89.8e
+(5.59, 8.13)
+(93.9, 98.5)
+(85.6, 93.1)
+DTaP-IPV/Hib
+253
+3.64
+92.5f
+78.3f
+(2.89, 4.58)
+(88.5, 95.4)
+(72.7, 83.2)
+a
+U.S.-licensed monovalent Haemophilus b Conjugate Vaccine (Control PRP-T) (Sanofi Pasteur
+SA).
+b
+U.S.-licensed DTaP-IPV/Hib Vaccine (Sanofi Pasteur Ltd.).
+c
+Study 1: NCT01000974.
+d
+HIBERIX was non-inferior to Control PRP-T for percent of subjects achieving anti-PRP
+≥0.15 mcg/mL (lower limit of 95% CI on difference of HIBERIX minus Control PRP-T ≥
+predefined limit of -5%).
+e
+The non-inferiority criterion was not met (lower limit of 95% CI for the difference in the
+percentages of subjects with anti-PRP ≥1.0 mcg/mL between two groups [HIBERIX minus
+Control PRP-T] was -12.28%, which was lower than the predefined limit of -10%).
+f
+Analyses of anti-PRP immune responses following DTaP-IPV/Hib vaccination were
+exploratory.
+Booster Vaccination (Dose 4)
+The immunogenicity of HIBERIX administered as a booster dose at 15 to 18 months of age was
+evaluated in a subset of children from Study 1 (n = 336) in comparison with U.S.-licensed
+vaccines following primary vaccination at 2, 4, and 6 months of age [see Adverse Reactions
+(6.1)]. The booster dose of HIBERIX and Control PRP-T (Sanofi Pasteur SA) was administered
+concomitantly with INFANRIX.
+Antibodies to PRP were measured in sera obtained immediately prior to and 1 month after
+booster vaccination with HIBERIX or the control vaccines. Anti-PRP GMCs and seroprotection
+rates are presented in Table 5.
+
+13
+
+Table 5. Anti-PRP GMCs and Seroprotection Rates prior to and 1 Month following a
+Booster Dose (Dose 4 at 15 through 18 Months of Age) of HIBERIX, Control PRP-Ta, or
+DTaP-IPV/Hibb, ATP Cohort for Immunogenicityc
+
+a
+
+Anti-PRP GMC
+% Anti-PRP
+% Anti-PRP
+(mcg/mL)
+≥0.15 mcg/mL
+≥1.0 mcg/mL
+(95% CI)
+(95% CI)
+(95% CI)
+Vaccine
+n
+PrePostPrePostPrePostHIBERIX
+329-336
+0.50
+48.78
+75.1
+100.0
+32.2
+99.1
+(0.42, 0.59) (42.0, 56.66) (70.0, 79.7) (98.9, 100.0) (27.2, 37.6) (97.4, 99.8)
+Control PRP-T 226-236
+0.47
+40.29
+76.1
+99.6
+27.0
+97.9d
+(0.38, 0.57) (33.39, 48.63) (70.0, 81.5) (97.7, 100.0) (21.3, 33.3) (95.1, 99.3)
+DTaP-IPV/Hib 175-186
+0.38
+37.54
+66.3
+100.0
+25.1
+98.9e
+(0.30, 0.48) (30.53, 46.16) (58.8, 73.2) (98.0, 100.0) (18.9, 32.2) (96.2, 99.9)
+
+U.S.-licensed monovalent Haemophilus b Conjugate Vaccine (Control PRP-T) (Sanofi Pasteur
+SA).
+b
+U.S.-licensed DTaP-IPV/Hib Vaccine (Sanofi Pasteur Ltd.).
+c
+Study 1: NCT01000974.
+d
+HIBERIX was non-inferior to Control PRP-T for percent of subjects achieving anti-PRP
+≥1.0 mcg/mL (lower limit of 97.5% CI on difference of HIBERIX minus Control PRP-T
+≥predefined limit of -10%) at 1 month following the booster dose.
+e
+Analyses of anti-PRP immune responses following DTaP-IPV/Hib vaccination were
+exploratory.
+In 6 additional clinical studies, the immune response to HIBERIX administered as a booster dose
+was evaluated in a total of 415 children aged 12 to 23 months. At the time of vaccination, 30
+children were aged 12 to 14 months, 316 children were aged 15 to 18 months, and 69 children
+were aged 19 to 23 months. Among subjects, 43% to 60% were male. Among subjects for whom
+information on race/ethnicity was available, nearly all subjects were white. None of the studies
+included a comparator group that received a booster dose with a U.S.-licensed Haemophilus b
+Conjugate Vaccine. Characteristics of 3 of these studies are presented in Table 6.
+
+14
+
+Table 6. Characteristics of 3 Open-Label Booster Immunization Studies of HIBERIX
+Booster Vaccination with
+HIBERIX
+Per-Protocol
+Immunogenicity
+Age at
+Concomitantly
+Cohort
+Vaccination
+Administered
+Study Country
+n
+Priming History
+(months)
+Vaccinea
+3
+Canada
+42
+DTaP-HBV-IPVb +
+16-18
+DTaP-HBVHaemophilus b
+IPVb
+Conjugate Vaccinec
+at 2, 4, and 6 months
+of age
+4
+Canada
+64
+DTaP-IPVd +
+16-19
+DTaP-IPVd
+HIBERIX
+at 2, 4, and 6 months
+of age
+5
+Germany
+108
+DTaP-HBVe +
+16-23
+DTaP-HBVe
+HIBERIX
+at 3, 4, and 5 months
+of age
+a
+Administered at a separate site.
+b
+Non-U.S. formulation equivalent to PEDIARIX with the exception of containing 2.5 mg 2phenoxyethanol per dose as preservative. In the U.S., PEDIARIX is approved for use as a 3dose primary series; use as a fourth consecutive dose is not approved in the U.S.
+c
+U.S.-licensed Haemophilus b Conjugate Vaccine (Control PRP-T) (Sanofi Pasteur SA).
+d
+Non-U.S. formulation equivalent to KINRIX with the exception of containing 2.5 mg 2phenoxyethanol per dose as preservative. In the U.S., KINRIX is approved for use as the fifth
+dose of DTaP and the fourth dose of IPV in children aged 4 to 6 years previously primed with
+approved dosing regimens of INFANRIX and/or PEDIARIX. The DTaP-IPV dosing regimen is
+not approved in the U.S.
+e
+Manufactured by GlaxoSmithKline Biologicals (not licensed in the U.S.).
+Antibodies to PRP were measured in sera obtained immediately prior to and 1 month after
+booster vaccination with HIBERIX. Geometric mean concentrations and anti-PRP seroprotection
+rates are presented in Table 7.
+
+15
+
+Table 7. Anti-PRP GMCs and Seroprotection Rates prior to and 1 Month following a
+Booster Dose of HIBERIX, Per-Protocol Immunogenicity Cohort
+Anti-PRP GMC
+% Anti-PRP
+% Anti-PRP
+(mcg/mL)
+≥0.15 mcg/mL
+≥1.0 mcg/mL
+Study
+n
+PrePostPrePostPrePost3a
+42
+0.46
+59.07
+76.2
+100
+35.7
+97.6
+b
+4
+63-64
+0.25
+47.78
+71.4
+100
+12.7
+100
+5c
+108
+0.59
+96.12
+77.8
+100
+32.4
+100
+GMC = Geometric mean antibody concentration.
+n = Number of children for whom serological results were available for the pre- and post-dose
+immunological evaluations.
+Studies 3, 4, and 5 correspond to Studies 3, 4, and 5, respectively in Table 6.
+a
+Canadian study in children aged 16 to 18 months who previously received 3 doses of DTaPHBV-IPV and Haemophilus b Conjugate Vaccine (Control PRP-T) (Sanofi Pasteur SA). The
+booster dose of HIBERIX was coadministered with DTaP-HBV-IPV (a fourth consecutive dose
+of PEDIARIX is not approved in the U.S.). In this study, pre-vaccination sera may have been
+obtained up to 1 week prior to booster vaccination with HIBERIX.
+b
+Canadian study in children aged 16 to 19 months who previously received 3 doses of DTaPIPV and HIBERIX. The booster dose of HIBERIX was coadministered with DTaP-IPV. The
+DTaP-IPV dosing regimen is not approved in the U.S.
+c
+German study in children aged 16 to 23 months who previously received 3 doses of DTaPHBV (GlaxoSmithKline Biologicals, not licensed in the U.S.) and HIBERIX. The booster dose
+of HIBERIX was coadministered with DTaP-HBV.
+14.2
+
+Concomitant Vaccine Administration
+
+Primary Series Vaccination (Doses 1, 2, and 3)
+In U.S. Study 1, subjects who received HIBERIX concomitantly with PEDIARIX (DTaP-HBVIPV) and PCV13 at 2, 4, and 6 months of age had no evidence for reduced antibody responses
+relative to the response in control subjects administered Control PRP-T (Sanofi Pasteur SA)
+concomitantly with PEDIARIX (DTaP-HBV-IPV) and PCV13, to pertussis antigens (GMC to
+pertussis toxin, filamentous hemagglutinin, and pertactin), diphtheria toxoid (antibody levels
+≥0.1 IU/mL), tetanus toxoid (antibody levels ≥0.1 IU/mL), poliovirus types 1, 2, and 3 (antibody
+levels ≥1:8 to each virus), PCV13 (antibody levels ≥0.2 mcg/mL and GMC to each serotype), or
+hepatitis B (anti-hepatitis B surface antigen ≥10 mIU/mL). The immune responses to PEDIARIX
+(DTaP-HBV-IPV) and PCV13 were evaluated 1 month following Dose 3. Subjects in both
+groups received ROTARIX at 2 and 4 months of age.
+Booster Vaccination (Dose 4)
+In U.S. Study 1, subjects who received a booster dose of HIBERIX concomitantly with
+INFANRIX at 15 to 18 months of age had no evidence for reduced antibody responses to
+
+16
+
+pertussis antigens (GMC to pertussis toxin, filamentous hemagglutinin, and pertactin), diphtheria
+toxoid (antibody levels ≥0.1 IU/mL), and tetanus toxoid (antibody levels ≥0.1 IU/mL), relative to
+the responses in control subjects administered Control PRP-T (Sanofi Pasteur SA) concomitantly
+with INFANRIX.
+In 7 additional studies, a booster dose of HIBERIX was administered concomitantly with nonU.S. formulations of INFANRIX, KINRIX, and PEDIARIX. Non-U.S. formulations of KINRIX
+and PEDIARIX were administered in dosing regimens not approved in the U.S.
+Sufficient data are not available to confirm lack of interference in immune responses to vaccines
+other than INFANRIX administered concomitantly with a booster dose of HIBERIX.
+15
+REFERENCES
+1. Rothstein EP, Madore DV, Girone JAC, et al. Comparison of antigenuria after immunization
+with three Haemophilus influenzae type b conjugate vaccines. Pediatr Infect Dis J.
+1991;10:311-314.
+2. Robbins JB, Parke JC, Schneerson R, et al. Quantitative measurement of “natural” and
+immunization-induced Haemophilus influenzae type b capsular polysaccharide antibodies.
+Pediatr Res. 1973;7:103-110.
+3. Peltola H, Käythy H, Sivonen A, et al. Haemophilus influenzae type b capsular
+polysaccharide vaccine in children: A double-blind field study of 100,000 vaccinees
+3 months to 5 years of age in Finland. Pediatrics. 1977;60:730-737.
+4. Käythy H, Peltola H, Karanko V, et al. The protective level of serum antibodies to the
+capsular polysaccharide of Haemophilus influenzae type b. J Infect Dis. 1983;147:1100.
+5. Anderson P. The protective level of serum antibodies to the capsular polysaccharide of
+Haemophilus influenzae type b. J Infect Dis. 1984;149:1034.
+16
+
+HOW SUPPLIED/STORAGE AND HANDLING
+
+HIBERIX Vial and Vial presentation is supplied in a carton packaged without syringes or
+needles (NDC 58160-818-11) containing:
+•
+
+10 single-dose vials of Lyophilized Antigen Component (NDC 58160-816-01) in a carton:
+NDC 58160-816-05.
+
+•
+
+10 single-dose vials of Sterile Saline Diluent (NDC 58160-817-01) in a carton: NDC 58160817-05.
+
+HIBERIX Vial and Prefilled Syringe Presentation is supplied in a carton (NDC 58160-726-15)
+containing:
+•
+
+10 single-dose vials of Lyophilized Antigen Component: NDC 58160-816-03.
+
+17
+
+•
+
+10 single-dose, prefilled, ungraduated TIP-LOK syringes (Luer Lock syringes) of Sterile
+Saline Diluent packaged without needles NDC 58160-817-02.
+
+TIP-LOK syringes are to be used with Luer Lock compatible needles.
+
+Storage before Reconstitution
+
+The stopper of the vial containing Lyophilized Antigen Component or Sterile Saline Diluent and
+the tip cap and rubber plunger stopper of the prefilled syringe containing Sterile Saline Diluent
+are not made with natural rubber latex.
+16.1
+Lyophilized Antigen Component vials: Store refrigerated between 2° and 8°C (36° and 46°F).
+Protect vials from light.
+Sterile Saline Diluent prefilled syringes and vials: Store refrigerated or at controlled room
+temperature between 2° and 25°C (36° and 77°F). Do not freeze. Discard if the diluent has been
+frozen.
+
+•
+
+Inform parents or guardians of the potential benefits and risks of immunization with
+HIBERIX.
+
+PATIENT COUNSELING INFORMATION
+
+•
+
+Inform parents or guardians about the potential for adverse reactions that have been
+temporally associated with administration of HIBERIX or other vaccines containing similar
+components.
+
+17
+
+•
+
+Give parents or guardians the Vaccine Information Statements, which are required by the
+National Childhood Vaccine Injury Act of 1986 to be given prior to immunization. These
+materials are available free of charge at the Centers for Disease Control and Prevention
+(CDC) website (www.cdc.gov/vaccines).
+
+Trademarks are owned by or licensed to the GSK group of companies.
+
+Manufactured by GlaxoSmithKline Biologicals
+Rixensart, Belgium, U.S. License 1617, and
+Distributed by GlaxoSmithKline
+Durham, NC 27701
+
+18
+
+©2023 GSK group of companies or its licensor.
+HRX:9PI
+
+19
+
+

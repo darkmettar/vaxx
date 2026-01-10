@@ -1,0 +1,1674 @@
+Individuals using assistive technology may not be able to fully
+access the information contained in this file. For assistance,
+please call 800-835-4709 or 240-402-8010, extension 1. CBER
+Consumer Affairs Branch or send an e-mail to: ocod@fda.hhs.gov
+and include 508 Accommodation and the title of the document in
+the subject line of your e-mail.
+
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use
+ROTARIX safely and effectively. See full prescribing information for
+ROTARIX.
+
+------------------------------ CONTRAINDICATIONS -----------------------------• A demonstrated history of hypersensitivity to the vaccine or any
+component of the vaccine. (4.1, 11)
+• History of uncorrected congenital malformation of the gastrointestinal
+tract that would predispose the infant to intussusception. (4.2)
+• History of intussusception. (4.3)
+• History of Severe Combined Immunodeficiency Disease (SCID). (4.4,
+6.2)
+
+ROTARIX (Rotavirus Vaccine, Live, Oral)
+Suspension, for oral use
+Initial U.S. Approval: 2008
+--------------------------- RECENT MAJOR CHANGES --------------------------Dosage and Administration (2.1, 2.2, 2.3)
+xx/xxxx
+
+----------------------- WARNINGS AND PRECAUTIONS ----------------------• The tip caps of the prefilled oral dosing applicators contain natural rubber
+latex which may cause allergic reactions. (5.1)
+• Administration of ROTARIX in infants suffering from acute diarrhea or
+vomiting should be delayed. Safety and effectiveness of ROTARIX in
+infants with chronic gastrointestinal disorders have not been evaluated.
+(5.2)
+• Safety and effectiveness of ROTARIX in infants with known primary or
+secondary immunodeficiencies have not been established. (5.3)
+• In a postmarketing study, cases of intussusception were observed in
+temporal association within 31 days following the first dose of
+ROTARIX, with a clustering of cases in the first 7 days. (5.5, 6.2)
+
+--------------------------- INDICATIONS AND USAGE ---------------------------ROTARIX is a vaccine indicated for the prevention of rotavirus gastroenteritis
+caused by G1 and non-G1 types (G3, G4, and G9). ROTARIX is approved for
+use in infants 6 weeks and up to 24 weeks of age. (1)
+----------------------- DOSAGE AND ADMINISTRATION ----------------------FOR ORAL USE ONLY.
+ROTARIX is supplied as either:
+• Vial and oral dosing applicator presentation: The vial contains the
+lyophilized vaccine component and the oral dosing applicator contains the
+diluent. The contents of the vial must be reconstituted with the diluent to
+form ROTARIX prior to administration (2.1), or
+• Oral dosing applicator only presentation: The oral dosing applicator
+contains ROTARIX and does NOT require reconstitution or dilution
+before use. (2.1)
+Schedule
+• Administer first dose to infants beginning at 6 weeks of age. (2.3)
+• Administer second dose after an interval of at least 4 weeks and up to
+24 weeks of age. (2.3)
+
+------------------------------ ADVERSE REACTIONS -----------------------------Common (5%) solicited adverse reactions included fussiness/irritability,
+cough/runny nose, fever, loss of appetite, and vomiting. (6.1)
+To report SUSPECTED ADVERSE REACTIONS, contact
+GlaxoSmithKline at 1-888-825-5249 or VAERS at 1-800-822-7967 or
+www.vaers.hhs.gov.
+See 17 for PATIENT COUNSELING INFORMATION and FDAapproved patient labeling.
+
+--------------------- DOSAGE FORMS AND STRENGTHS ---------------------Suspension for oral use.
+• Vial and oral dosing applicator presentation: a single dose is 1 mL. (3)
+• Oral dosing applicator only presentation: a single dose is 1.5 mL. (3)
+
+Revised: xx/xxxx
+
+FULL PRESCRIBING INFORMATION: CONTENTS*
+1 INDICATIONS AND USAGE
+2 DOSAGE AND ADMINISTRATION
+2.1 ROTARIX Presentations
+2.2 Preparation and Administration
+2.3 Dosing and Schedule
+2.4 Infant Feeding
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+4.1 Hypersensitivity
+4.2 Gastrointestinal Tract Congenital Malformation
+4.3 History of Intussusception
+4.4 Severe Combined Immunodeficiency Disease
+5 WARNINGS AND PRECAUTIONS
+5.1 Latex
+5.2 Gastrointestinal Disorders
+5.3 Altered Immunocompetence
+5.4 Shedding and Transmission
+5.5 Intussusception
+5.6 Post-Exposure Prophylaxis
+6 ADVERSE REACTIONS
+6.1 Clinical Trials Experience
+6.2 Postmarketing Experience
+
+7
+
+DRUG INTERACTIONS
+7.1 Immunosuppressive Therapies
+8 USE IN SPECIFIC POPULATIONS
+8.4 Pediatric Use
+11 DESCRIPTION
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+12.2 Pharmacodynamics
+13 NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+14 CLINICAL STUDIES
+14.1 Efficacy Studies
+14.2 Efficacy through Two Rotavirus Seasons
+14.3 Efficacy against Specific Rotavirus Types
+14.4 Immunogenicity
+14.5 Concomitant Vaccine Administration
+15 REFERENCES
+16 HOW SUPPLIED/STORAGE AND HANDLING
+16.1 ROTARIX Vial and Oral Dosing Applicator Presentation
+16.2 ROTARIX Oral Dosing Applicator Only Presentation
+17 PATIENT COUNSELING INFORMATION
+*Sections or subsections omitted from the full prescribing information are not
+listed.
+
+1
+
+FULL PRESCRIBING INFORMATION
+1
+
+INDICATIONS AND USAGE
+
+ROTARIX is indicated for the prevention of rotavirus gastroenteritis caused by G1 and non-G1
+types (G3, G4, and G9) when administered as a 2-dose series [see Clinical Studies (14.3)].
+ROTARIX is approved for use in infants 6 weeks and up to 24 weeks of age.
+2
+
+DOSAGE AND ADMINISTRATION
+
+For oral use only.
+2.1
+
+ROTARIX Presentations
+
+ROTARIX is supplied in two presentations, a vial and oral dosing applicator presentation and an
+oral dosing applicator only presentation.
+Vial and Oral Dosing Applicator Presentation
+The vial contains the lyophilized vaccine component, and the oral dosing applicator contains the
+diluent. The contents of the vial must be reconstituted with the diluent to form ROTARIX prior
+to administration.
+Oral Dosing Applicator Only Presentation
+The oral dosing applicator only presentation contains ROTARIX and does NOT require
+reconstitution or dilution before use.
+2.2
+
+Preparation and Administration
+
+Vial and Oral Dosing Applicator Presentation
+Use accompanying diluent to reconstitute the lyophilized vaccine component to form ROTARIX.
+After reconstitution, each dose of 1 mL is administered orally.
+See Figure 1 for preparation and administration steps.
+Figure 1. Preparation and Administration steps of Vial and Oral Dosing Applicator
+Presentation
+
+2
+
+3
+
+For oral administration only. Have the infant
+seated in a reclining position. Place the oral
+dosing applicator towards the inner cheek.
+Administer the entire contents of the oral dosing
+applicator into the infant’s mouth.
+Oral Dosing Applicator Only Presentation
+The ROTARIX oral dosing applicator only presentation does NOT require reconstitution or
+dilution before use. Each dose of 1.5 mL is administered orally.
+See Figure 2 for preparation and administration steps.
+Figure 2. Preparation and Administration Steps of Oral Dosing Applicator Only
+Presentation
+
+4
+
+For oral administration only. Have the infant
+seated in a reclining position. Place the oral
+dosing applicator towards the inner cheek.
+Administer the entire contents of the oral
+dosing applicator into the infant’s mouth.
+2.3
+
+Dosing and Schedule
+
+The vaccination series consists of two doses administered orally. The first dose should be
+administered to infants beginning at 6 weeks of age. There should be an interval of at least 4
+weeks between the first and second dose. The 2-dose series should be completed by 24 weeks of
+age.
+Safety and effectiveness have not been evaluated if ROTARIX were administered for the first
+dose and another rotavirus vaccine were administered for the second dose or vice versa.
+In the event that the infant spits out or regurgitates most of the vaccine dose, a single
+replacement dose may be considered at the same vaccination visit.
+2.4
+
+Infant Feeding
+
+Breastfeeding was permitted in clinical studies. There was no evidence to suggest that
+breastfeeding reduced the protection against rotavirus gastroenteritis afforded by ROTARIX.
+There are no restrictions on the infant’s liquid consumption, including breast milk, either before
+or after vaccination with ROTARIX.
+3
+
+DOSAGE FORMS AND STRENGTHS
+
+Suspension for oral use
+• Vial and oral dosing applicator presentation: after reconstitution a single dose is 1 mL.
+• Oral dosing applicator only presentation: a single dose is 1.5 mL.
+
+5
+
+4
+
+CONTRAINDICATIONS
+
+4.1
+
+Hypersensitivity
+
+A demonstrated history of hypersensitivity to any component of the vaccine.
+Infants who develop symptoms suggestive of hypersensitivity after receiving a dose of
+ROTARIX should not receive further doses of ROTARIX.
+4.2
+
+Gastrointestinal Tract Congenital Malformation
+
+Infants with a history of uncorrected congenital malformation of the gastrointestinal tract (such
+as Meckel’s diverticulum) that would predispose the infant for intussusception should not receive
+ROTARIX.
+4.3
+
+History of Intussusception
+
+Infants with a history of intussusception should not receive ROTARIX [see Warnings and
+Precautions (5.5)]. In postmarketing experience, intussusception resulting in death following a
+second dose has been reported following a history of intussusception after the first dose [see
+Adverse Reactions (6.2)].
+4.4
+
+Severe Combined Immunodeficiency Disease
+
+Infants with Severe Combined Immunodeficiency Disease (SCID) should not receive
+ROTARIX. Postmarketing reports of gastroenteritis, including severe diarrhea and prolonged
+shedding of vaccine virus, have been reported in infants who were administered live, oral
+rotavirus vaccines and later identified as having SCID [see Adverse Reactions (6.2)].
+5
+
+WARNINGS AND PRECAUTIONS
+
+5.1
+
+Latex
+
+The tip caps of the prefilled oral dosing applicators contain natural rubber latex which may cause
+allergic reactions.
+5.2
+
+Gastrointestinal Disorders
+
+Administration of ROTARIX should be delayed in infants suffering from acute diarrhea or
+vomiting.
+Safety and effectiveness of ROTARIX in infants with chronic gastrointestinal disorders have not
+been evaluated. [See Contraindications (4.2).]
+5.3
+
+Altered Immunocompetence
+
+Safety and effectiveness of ROTARIX in infants with known primary or secondary
+immunodeficiencies, including infants with human immunodeficiency virus (HIV), infants on
+immunosuppressive therapy, or infants with malignant neoplasms affecting the bone marrow or
+lymphatic system have not been established.
+6
+
+5.4
+
+Shedding and Transmission
+
+Rotavirus shedding in stool occurs after vaccination with peak excretion occurring around Day 7
+after Dose 1.
+One clinical trial demonstrated that vaccinees transmit vaccine virus to healthy seronegative
+contacts [see Clinical Pharmacology (12.2)].
+The potential for transmission of vaccine virus following vaccination should be weighed against
+the possibility of acquiring and transmitting natural rotavirus. Caution is advised when
+considering whether to administer ROTARIX to individuals with immunodeficient close
+contacts, such as individuals with malignancies, primary immunodeficiency or receiving
+immunosuppressive therapy.
+5.5
+
+Intussusception
+
+Following administration of a previously licensed oral live rhesus rotavirus-based vaccine, an
+increased risk of intussusception was observed.1 The risk of intussusception with ROTARIX was
+evaluated in a pre-licensure randomized, placebo-controlled safety study (including 63,225
+infants) conducted in Latin America and Finland. No increased risk of intussusception was
+observed in this clinical trial following administration of ROTARIX when compared with
+placebo. [See Adverse Reactions (6.1).]
+In a postmarketing, observational study conducted in Mexico, cases of intussusception were
+observed in temporal association within 31 days following the first dose of ROTARIX, with a
+clustering of cases in the first 7 days. [See Adverse Reactions (6.2).]
+Other postmarketing observational studies conducted in Brazil and Australia also suggest an
+increased risk of intussusception within the first 7 days following the second dose of
+ROTARIX.2,3 [See Adverse Reactions (6.2).]
+In worldwide passive postmarketing surveillance, cases of intussusception have been reported in
+temporal association with ROTARIX [see Adverse Reactions (6.2)].
+5.6
+
+Post-Exposure Prophylaxis
+
+Safety and effectiveness of ROTARIX when administered after exposure to rotavirus have not
+been evaluated.
+6
+
+ADVERSE REACTIONS
+
+6.1
+
+Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates
+observed in the clinical trials of a vaccine cannot be directly compared with rates in the clinical
+trials of another vaccine and may not reflect the rates observed in practice.
+
+7
+
+There are two formulations of ROTARIX: a reconstituted lyophilized formulation (supplied in a
+vial and oral dosing applicator presentation) and a liquid formulation (supplied in an oral dosing
+applicator only presentation) [see Description (11)]. Safety data accrued with each formulation
+is relevant to the other because each contains the same live, attenuated rotavirus strain and is
+manufactured using a similar process.
+Common (≥5%) solicited adverse reactions included fussiness/irritability, cough/runny nose,
+fever, loss of appetite, and vomiting.
+Solicited adverse reactions, unsolicited adverse events, serious adverse events (SAEs), and cases
+of intussusception were collected in 7 clinical studies (Studies 1 to 7; NCT00729001,
+NCT00385320, NCT00429481, NCT00757770, NCT00140686, NCT00169455,
+NCT00137930). Cases of intussusception and SAEs were collected in an additional large safety
+study (Study 8; NCT00140673) that compared ROTARIX (reconstituted lyophilized
+formulation) to placebo. Solicited adverse reactions, unsolicited adverse events, and SAEs were
+collected in 3 clinical studies (Studies 9 to 11; NCT02914184, NCT03207750, NCT03954743)
+that compared the two ROTARIX formulations.
+Clinical Trials Experience with ROTARIX (Reconstituted Lyophilized Formulation)
+Studies 1 to 8 evaluated a total of 71,209 infants who received ROTARIX (n = 36,755) or
+placebo (n = 34,454). The racial distribution for these studies was as follows: Hispanic 73.4%,
+White 16.2%, Black 1.0%, and other 9.4%; 51% were male.
+Solicited Adverse Reactions: In 7 clinical studies (Studies 1 to 7), detailed safety information
+was collected by parents/guardians for 8 consecutive days following vaccination with ROTARIX
+(i.e., day of vaccination and the next 7 days). A diary card was completed to record
+fussiness/irritability, cough/runny nose, the infant’s temperature, loss of appetite, vomiting, or
+diarrhea on a daily basis during the first week following each dose of ROTARIX or placebo.
+Adverse reactions among recipients of ROTARIX and placebo occurred at similar rates
+(Table 1).
+
+8
+
+Table 1. Solicited Adverse Reactions within 8 Days Following Doses 1 and 2 of ROTARIX
+or Placebo (Total Vaccinated Cohort)
+Dose 1
+Dose 2
+ROTARIX
+Placebo
+ROTARIX
+Placebo
+n = 3,284
+n = 2,013
+n = 3,201
+n = 1,973
+Adverse Reaction
+%
+%
+%
+%
+a
+Fussiness/irritability
+52
+52
+42
+42
+b
+Cough/runny nose
+28
+30
+31
+33
+c
+Fever
+25
+33
+28
+34
+d
+Loss of appetite
+25
+25
+21
+21
+Vomiting
+13
+11
+8
+8
+Diarrhea
+4
+3
+3
+3
+Total vaccinated cohort = All vaccinated infants for whom safety data were available.
+n = Number of infants for whom at least one symptom sheet was completed.
+a
+Defined as crying more than usual.
+b
+Data not collected in 1 of 7 studies; Dose 1: ROTARIX n = 2,583; placebo n = 1,897; Dose 2:
+ROTARIX n = 2,522; placebo n = 1,863.
+c
+Defined as temperature 100.4°F (38.0°C) rectally or 99.5°F (37.5°C) orally.
+d
+Defined as eating less than usual.
+Unsolicited Adverse Reactions: Infants were monitored for unsolicited serious and non-SAEs
+that occurred in the 31-day period following vaccination in 7 clinical studies (Studies 1 to 7).
+The following adverse reactions occurred at a statistically higher incidence (95% Confidence
+Interval [CI] of Relative Risk [RR] excluding 1) among recipients of ROTARIX (n = 5,082) as
+compared with placebo recipients (n = 2,902): irritability (ROTARIX 11.4%, placebo 8.7%) and
+flatulence (ROTARIX 2.2%, placebo 1.3%).
+Serious Adverse Reactions: Infants were monitored for SAEs that occurred in the 31-day period
+following vaccination in 8 clinical studies (Studies 1 to 8). Serious adverse reactions occurred in
+1.7% of recipients of ROTARIX (n = 36,755) as compared with 1.9% of placebo recipients
+(n = 34,454). Among placebo recipients, diarrhea (placebo 0.07%, ROTARIX 0.02%),
+dehydration (placebo 0.06%, ROTARIX 0.02%), and gastroenteritis (placebo 0.3%, ROTARIX
+0.2%) occurred at a statistically higher incidence (95% CI of RR excluding 1) as compared with
+recipients of ROTARIX.
+Deaths: During the entire course of 8 clinical studies (Studies 1 to 8), there were 68 (0.19%)
+deaths following administration of ROTARIX (n = 36,755) and 50 (0.15%) deaths following
+placebo administration (n = 34,454). The most commonly reported cause of death following
+vaccination was pneumonia, which was observed in 19 (0.05%) recipients of ROTARIX and 10
+(0.03%) placebo recipients (RR: 1.74, 95% CI: 0.76, 4.23).
+
+9
+
+Intussusception: In a controlled safety study (Study 8) conducted in Latin America and Finland,
+the risk of intussusception was evaluated in 63,225 infants (31,673 received ROTARIX and
+31,552 received placebo). Infants were monitored by active surveillance including independent,
+complementary methods (prospective hospital surveillance and parent reporting at scheduled
+study visits) to identify potential cases of intussusception within 31 days after vaccination and, in
+a subset of 20,169 infants (10,159 received ROTARIX and 10,010 received placebo), up to one
+year after the first dose.
+No increased risk of intussusception following administration of ROTARIX was observed within
+a 31-day period following any dose, and rates were comparable to the placebo group after a
+median of 100 days (Table 2). In a subset of 20,169 infants (10,159 received ROTARIX and
+10,010 received placebo) followed up to one year after Dose 1, there were 4 cases of
+intussusception with ROTARIX compared with 14 cases of intussusception with placebo (RR:
+0.28 [95% CI: 0.10, 0.81]). All of the infants who developed intussusception recovered without
+sequelae.
+Table 2. Intussusception and Relative Risk with ROTARIX Compared with Placebo
+ROTARIX
+Placebo
+Confirmed Cases of Intussusception
+n = 31,673
+n = 31,552
+Within 31 days following diagnosis after any dose
+6
+7
+Relative Risk (95% CI)
+0.85 (0.30, 2.42)
+a
+Within 100 days following Dose 1
+9
+16
+Relative Risk (95% CI)
+0.56 (0.25, 1.24)
+CI = Confidence Interval.
+a
+Median duration after Dose 1 (follow-up visit at 30 to 90 days after Dose 2).
+Among vaccine recipients, there were no confirmed cases of intussusception within the 0- to 14day period after the first dose (Table 3), which was the period of highest risk for the previously
+licensed oral live rhesus rotavirus-based vaccine.1
+Table 3. Intussusception Cases by Day Range in Relation to Dose
+Dose 1
+Dose 2
+ROTARIX
+Placebo
+ROTARIX
+Placebo
+n = 31,673 n = 31,552 n = 29,616 n = 29,465
+Day Range
+0-7
+0
+0
+2
+0
+8-14
+0
+0
+0
+2
+15-21
+1
+1
+2
+1
+22-30
+0
+1
+1
+2
+Total (0-30)
+1
+2
+5
+5
+
+10
+
+Any Dose
+ROTARIX
+Placebo
+n = 31,673 n = 31,552
+2
+0
+0
+2
+3
+2
+1
+3
+6
+7
+
+Kawasaki Disease – Results from Controlled and Uncontrolled Clinical Studies: Kawasaki
+disease has been reported in 18 (0.035%) recipients of ROTARIX and 9 (0.021%) placebo
+recipients from 16 completed or ongoing clinical trials (Studies 1 to 8; Studies 12 to 14,
+NCT00425737, NCT00346892, NCT00139347; Studies 15 to 17, NCT00197210 for the 3
+studies; Studies 18 and 19, NCT00334607, NCT00382772). Of the 27 cases, 5 occurred
+following ROTARIX in clinical trials that were either not placebo-controlled or 1:1 randomized.
+In placebo-controlled trials, Kawasaki disease was reported in 17 recipients of ROTARIX and 9
+placebo recipients (RR: 1.71 [95% CI: 0.71, 4.38]). Three of the 27 cases were reported within
+30 days post-vaccination: 2 cases (ROTARIX = 1, placebo = 1) were from placebo-controlled
+trials (RR: 1.00 [95% CI: 0.01, 78.35]) and one case following ROTARIX was from a non–
+placebo-controlled trial. Among recipients of ROTARIX, the time of onset after study dose
+ranged 3 days to 19 months.
+Clinical Trials Comparing the Two ROTARIX Formulations
+The safety of the ROTARIX liquid formulation was evaluated in 3 randomized clinical studies
+(Studies 9 to 11). A total of 4,223 infants received ROTARIX (liquid formulation, n = 2,507;
+reconstituted lyophilized formulation, n = 1,716). The racial distribution for these 3 studies was
+as follows: Asian 24.4%, White 63.2%, Black or African American 5.1%, and other 7.3%; 49.7%
+were male.
+In Study 10, a concomitant vaccine administration study conducted in United States, 1,272
+infants received ROTARIX (liquid formulation, n = 632; reconstituted lyophilized formulation,
+n = 640). The racial distribution for this study was as follows: Asian 3.3%, White 73.8%, Black
+or African American 11.9%, and other 10.9%; 51.5% were male.
+In Studies 9 to 11, solicited general adverse reactions (cough/runny nose, diarrhea, fever,
+irritability/fussiness, loss of appetite and vomiting) were recorded by the parent on diary cards
+during the 8 days after each vaccination (day of vaccination and 7 following days). Unsolicited
+adverse events were assessed within 31 days following each vaccination (day of vaccination and
+30 following days). SAEs were assessed through 6 months after the last dose.
+Solicited Adverse Reactions: In Study 10, solicited adverse reactions among recipients of the two
+ROTARIX formulations are presented in the Table 4:
+
+11
+
+Table 4. Solicited Adverse Reactions within 8 Days Following Doses 1 and 2 of ROTARIX
+(Liquid or Reconstituted Lyophilized Formulation), Study 10 Total Vaccinated Cohort
+Dose 1
+
+Dose 2
+
+ROTARIX
+ROTARIX
+ROTARIX
+(Reconstituted
+ROTARIX
+(Reconstituted
+(Liquid
+Lyophilized
+(Liquid
+Lyophilized
+Formulation)
+Formulation)
+Formulation)
+Formulation)
+n = 632
+n = 640
+n = 607
+n = 609
+Adverse Reactions Overall% G3% Overall% G3% Overall% G3% Overall% G3%
+Fussiness/irritabilitya
+70.9
+9.2
+71.6
+8.8
+72.5
+13.7
+70.1
+11.8
+Cough/runny noseb
+
+27.2
+
+0.5
+
+28.1
+
+1.3
+
+36.9
+
+3.8
+
+36.5
+
+3.6
+
+Feverc
+
+5.7
+
+0.3
+
+5.0
+
+0.3
+
+10.5
+
+0.3
+
+12.3
+
+0.7
+
+Loss of appetited
+
+32.3
+
+0.2
+
+33.4
+
+0.9
+
+29.5
+
+1.2
+
+29.2
+
+1.8
+
+Vomitinge
+
+17.4
+
+2.8
+
+16.4
+
+3.4
+
+13.7
+
+4.0
+
+12.8
+
+3.3
+
+Diarrheaf
+
+6.2
+
+0.2
+
+5.6
+
+0.8
+
+5.6
+
+0.5
+
+4.3
+
+0.3
+
+G3 = Grade 3.
+Total vaccinated cohort = All vaccinated infants for whom safety data were available.
+n = Number of infants who received the specified dose.
+a
+Overall: Defined as crying more than usual. Grade 3: Crying that could not be
+comforted/prevented normal activity.
+b
+Grade 3 cough/runny nose: cough/runny nose that prevented daily activity.
+c
+Overall: Defined as temperature ≥100.4°F (≥38.0°C). Grade 3: Defined as temperature
+>103.1 F (>39.5°C).
+d
+Overall: Defined as eating less than usual. Grade 3: Defined as not eating at all.
+e
+Overall: Defined as 1 or more episodes of forceful emptying of partially digested stomach
+contents ≥1 hour after feeding within a day.. Grade 3: ≥3 episodes of vomiting/day.
+f
+Overall: Defined as passage of 3 or more looser than normal stools within a day. Grade 3: ≥6
+looser than normal stools/day.
+Unsolicited Adverse Events: Infants were monitored for unsolicited serious and non-SAEs that
+occurred in the 31-day period following vaccination in Studies 9 to 11. There were no notable
+differences in the occurrence and frequency of unsolicited adverse events between the groups.
+Serious Adverse Events: During the entire course of Studies 9 to 11, SAEs occurred in 4.7% of
+recipients of ROTARIX liquid formulation (n = 2,507) as compared with 4.4% of ROTARIX
+reconstituted lyophilized formulation recipients (n = 1,716).
+12
+
+During the entire course of Studies 9 to 11, there was 1 fatal SAE (with diagnosis of sudden
+infant death syndrome) following administration of ROTARIX liquid formulation (Study 10).
+The SAE was assessed as not causally related to the vaccination.
+Among participants in Studies 9 to 11, 2 intussusception cases were reported. One subject from
+Study 10 experienced intussusception 8 days after receiving the second dose of ROTARIX
+(reconstituted lyophilized formulation). The event was considered possibly related to ROTARIX.
+One subject from Study 9 experienced intussusception 133 days after receiving the second dose
+of ROTARIX (liquid formulation); the event was not considered related to ROTARIX. Both
+subjects were hospitalized, and the outcome of intussusception was reported as resolved.
+6.2
+
+Postmarketing Experience
+
+The temporal association between vaccination with ROTARIX and intussusception was
+evaluated in a hospital-based active surveillance study that identified infants with intussusception
+at participating hospitals in Mexico. Using a self-controlled case series method,4 the incidence of
+intussusception during the first 7 days after receipt of ROTARIX and during the 31-day period
+after receipt of ROTARIX was compared with a control period. The control period was from
+birth to one year, excluding the pre-defined risk period (first 7 days or first 31 days postvaccination, respectively).
+Over a 2-year period, the participating hospitals provided health services to approximately
+1 million infants under 1 year of age. Among 750 infants with intussusception, the relative
+incidence of intussusception in the 31-day period after the first dose of ROTARIX compared
+with the control period was 1.96 (95.5% CI: 1.46, 2.63)]; the relative incidence of
+intussusception in the first 7 days after the first dose of ROTARIX compared with the control
+period was 6.07 (95.5% CI: 4.20, 8.63).
+The Mexico study did not take into account all medical conditions that may predispose infants to
+intussusception. The results may not be generalizable to U.S. infants who have a lower
+background rate of intussusception than Mexican infants. However, if a temporal increase in the
+risk for intussusception following ROTARIX similar in magnitude to that observed in the
+Mexico study does exist in U.S. infants, it is estimated that approximately 1 to 3 additional cases
+of intussusception hospitalizations would occur per 100,000 vaccinated infants in the U.S. within
+7 days following the first dose of ROTARIX. In the first year of life, the background rate of
+intussusception hospitalizations in the U.S. has been estimated to be approximately 34 per
+100,000 infants.5
+Other postmarketing observational studies conducted in Brazil and Australia also suggest an
+increased risk of intussusception within the first 7 days following the second dose of
+ROTARIX.2,3
+Worldwide passive postmarketing surveillance data suggest that most cases of intussusception
+reported following ROTARIX occur in the 7-day period after the first dose.
+13
+
+The following adverse reactions have been identified during post-approval use of ROTARIX.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not
+always possible to reliably estimate their frequency or establish a causal relationship to
+vaccination.
+Gastrointestinal Disorders
+Intussusception (including death), recurrent intussusception (including death), hematochezia,
+gastroenteritis with vaccine viral shedding in infants with SCID.
+Blood and Lymphatic System Disorders
+Idiopathic thrombocytopenic purpura.
+Vascular Disorders
+Kawasaki disease.
+General Disorders and Administration Site Conditions
+Maladministration.
+7
+
+DRUG INTERACTIONS
+
+7.1
+
+Immunosuppressive Therapies
+
+Immunosuppressive therapies, including irradiation, antimetabolites, alkylating agents, cytotoxic
+drugs, and corticosteroids (used in greater than physiologic doses), may reduce the immune
+response to ROTARIX. [See Warnings and Precautions (5.3).]
+8
+
+USE IN SPECIFIC POPULATIONS
+
+8.4
+
+Pediatric Use
+
+Safety and effectiveness of ROTARIX in infants younger than 6 weeks or older than 24 weeks of
+age have not been evaluated.
+The effectiveness of ROTARIX in pre-term infants has not been established. Safety data are
+available in pre-term infants (ROTARIX = 134, placebo = 120) with a reported gestational age
+36 weeks. These pre-term infants were followed for SAEs up to 30 to 90 days after Dose 2.
+SAEs were observed in 5.2% of recipients of ROTARIX as compared with 5.0% of placebo
+recipients. No deaths or cases of intussusception were reported in this population.
+11
+
+DESCRIPTION
+
+ROTARIX (Rotavirus Vaccine, Live, Oral), for oral administration, is a live, attenuated rotavirus
+vaccine derived from the human 89-12 strain which belongs to G1P[8] type. The rotavirus
+vaccine strain is propagated on Vero cells.
+
+14
+
+There are two formulations of ROTARIX: a reconstituted lyophilized formulation (supplied in a
+vial and oral dosing applicator presentation) and a liquid formulation (supplied in an oral dosing
+applicator only presentation).
+Formulation for the Vial and Oral Dosing Applicator Presentation
+After reconstitution of the lyophilized vaccine component, each 1 mL dose of the ROTARIX
+formulation for the vial and oral dosing applicator presentation contains at least 106.0 median Cell
+Culture Infective Dose (CCID50) of live, attenuated rotavirus.
+The lyophilized vaccine component of this ROTARIX formulation contains amino acids,
+dextran, Dulbecco’s Modified Eagle Medium (DMEM), sorbitol, and sucrose. DMEM contains
+the following ingredients: sodium chloride, potassium chloride, magnesium sulfate, ferric (III)
+nitrate, sodium dihydrogen phosphate, sodium pyruvate, D-glucose, concentrated vitamin
+solution, L-cystine, L-tyrosine, amino acids solution, L-glutamine, calcium chloride, and sodium
+hydrogenocarbonate.
+In the manufacturing process, porcine-derived materials are used. Porcine circovirus type 1
+(PCV-1) is present in this ROTARIX formulation. PCV-1 is not known to cause disease in
+humans.
+The liquid diluent contains calcium carbonate, sterile water, and xanthan. The diluent includes an
+antacid component (calcium carbonate) to protect the vaccine during passage through the
+stomach and prevent its inactivation due to the acidic environment of the stomach.
+This ROTARIX formulation is available in single-dose vials of lyophilized vaccine,
+accompanied by a prefilled oral dosing applicator of liquid diluent [see How Supplied/Storage
+and Handling (16)]. The tip caps of the prefilled oral dosing applicators contain natural rubber
+latex; the vial stoppers are not made with natural rubber latex.
+This ROTARIX formulation contains no preservatives.
+Formulation for the Oral Dosing Applicator Only Presentation
+Each 1.5 mL dose of the ROTARIX formulation for the oral dosing applicator only presentation
+contains at least 106.0 CCID50 of live, attenuated rotavirus.
+This ROTARIX formulation contains disodium adipate, Dulbecco’s Modified Eagle Medium
+(DMEM), sucrose, and sterile water. DMEM contains the following ingredients: sodium
+chloride, potassium chloride, magnesium sulfate, ferric (III) nitrate, sodium dihydrogen
+phosphate, sodium pyruvate, D-glucose, concentrated vitamin solution, L-cystine, L-tyrosine,
+amino acids solution, L-glutamine, calcium chloride, and sodium hydrogenocarbonate.
+This ROTARIX formulation contains an antacid component (disodium adipate) to protect the
+vaccine during passage through the stomach and prevent its inactivation due to the acidic
+environment of the stomach.
+
+15
+
+This ROTARIX formulation is available in single-dose prefilled oral dosing applicator [see How
+Supplied/Storage and Handling (16)]. The tip caps of the prefilled oral dosing applicators
+contain natural rubber latex.
+This ROTARIX formulation contains no preservatives.
+12
+
+CLINICAL PHARMACOLOGY
+
+12.1
+
+Mechanism of Action
+
+The exact immunologic mechanism by which ROTARIX protects against rotavirus
+gastroenteritis is unknown [see Clinical Studies (14.4)]. ROTARIX contains a live, attenuated
+human rotavirus that replicates in the small intestine and induces immunity.
+12.2
+
+Pharmacodynamics
+
+Shedding and Transmission
+A prospective, randomized, double-blind, placebo-controlled study was performed in the
+Dominican Republic in twins within the same household to assess whether transmission of
+vaccine virus occurs from a vaccinated infant to a non-vaccinated infant (Study 20;
+NCT00396630). One hundred pairs of healthy twins 6 to 14 weeks of age (gestational age
+32 weeks) were randomized with one twin to receive ROTARIX (n = 100) and the other twin to
+receive placebo (n = 100). Twenty subjects in each arm were excluded for reasons such as
+having rotavirus antibody at baseline. Stool samples were collected on the day of or 1 day prior
+to each dose, as well as 3 times weekly for 6 consecutive weeks after each dose of ROTARIX or
+placebo. Transmission was defined as presence of the vaccine virus strain in any stool sample
+from a twin receiving placebo.
+Transmitted vaccine virus was identified in 15 of 80 twins receiving placebo (18.8% [95% CI:
+10.9, 29.0]). Median duration of the rotavirus shedding was 10 days in twins who received
+ROTARIX as compared with 4 days in twins who received placebo in whom the vaccine virus
+was transmitted. In the 15 twins who received placebo, no gastrointestinal symptoms related to
+transmitted vaccine virus were observed.
+13
+
+NONCLINICAL TOXICOLOGY
+
+13.1
+
+Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+ROTARIX has not been evaluated for carcinogenic or mutagenic potential, or for impairment of
+fertility.
+14
+
+CLINICAL STUDIES
+
+There are two formulations of ROTARIX: a reconstituted lyophilized formulation (supplied in a
+vial and oral dosing applicator presentation) and a liquid formulation (supplied in an oral dosing
+applicator only presentation) [see Description (11)]. Efficacy was evaluated using the
+16
+
+reconstituted lyophilized formulation [see Clinical Studies (14.1, 14.2, 14.3)]. These data are
+relevant to the liquid formulation because both formulations contain the same live, attenuated
+rotavirus strain and are manufactured using a similar process.
+14.1
+
+Efficacy Studies
+
+The data demonstrating the efficacy of ROTARIX in preventing rotavirus gastroenteritis come
+from 24,163 infants randomized in two placebo-controlled studies conducted in 17 countries in
+Europe and Latin America (Studies 5 and 8). In these studies, oral polio vaccine (OPV) was not
+coadministered; however, other routine childhood vaccines could be concomitantly administered.
+Breastfeeding was permitted in both studies.
+A randomized, double-blind, placebo-controlled study was conducted in 6 European countries
+(Study 5). A total of 3,994 infants were enrolled to receive ROTARIX (n = 2,646) or placebo
+(n = 1,348). Vaccine or placebo was given to healthy infants as a 2-dose series with the first dose
+administered orally from 6 through 14 weeks of age followed by one additional dose
+administered at least 4 weeks after the first dose. The 2-dose series was completed by 24 weeks
+of age. For both vaccination groups, 98.3% of infants were White and 53% were male.
+The clinical case definition of rotavirus gastroenteritis was an episode of diarrhea (passage of 3
+or more loose or watery stools within a day), with or without vomiting, where rotavirus was
+identified in a stool sample. Severity of gastroenteritis was determined by a clinical scoring
+system, the Vesikari scale, assessing the duration and intensity of diarrhea and vomiting, the
+intensity of fever, use of rehydration therapy, or hospitalization for each episode. Scores range
+from 0 to 20, where higher scores indicate greater severity. An episode of gastroenteritis with a
+score of 11 or greater was considered severe.6
+The primary efficacy endpoint was prevention of any grade of severity of rotavirus
+gastroenteritis caused by naturally occurring rotavirus from 2 weeks after the second dose
+through one rotavirus season (according to protocol, ATP). Other efficacy evaluations included
+prevention of severe rotavirus gastroenteritis, as defined by the Vesikari scale, and reductions in
+hospitalizations due to rotavirus gastroenteritis and all-cause gastroenteritis regardless of
+presumed etiology. Analyses were also done to evaluate the efficacy of ROTARIX against
+rotavirus gastroenteritis among infants who received at least one vaccination (total vaccinated
+cohort, TVC).
+Efficacy of ROTARIX against any grade of severity of rotavirus gastroenteritis through one
+rotavirus season was 87.1% (95% CI: 79.6, 92.1); TVC efficacy was 87.3% (95% CI: 80.3,
+92.0). Efficacy against severe rotavirus gastroenteritis through one rotavirus season was 95.8%
+(95% CI: 89.6, 98.7); TVC efficacy was 96.0% (95% CI: 90.2, 98.8) (Table 5). The protective
+effect of ROTARIX against any grade of severity of rotavirus gastroenteritis observed
+immediately following Dose 1 administration and prior to Dose 2 was 89.8% (95% CI: 8.9,
+99.8).
+17
+
+Efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through one
+rotavirus season was 100% (95% CI: 81.8, 100); TVC efficacy was 100% (95% CI: 81.7, 100)
+(Table 5). ROTARIX reduced hospitalizations for all-cause gastroenteritis regardless of
+presumed etiology by 74.7% (95% CI: 45.5, 88.9).
+Table 5. Efficacy Evaluation of ROTARIX through One Rotavirus Season
+According to Protocola
+Total Vaccinated Cohortb
+ROTARIX
+Placebo
+ROTARIX
+Placebo
+Infants in Cohort
+n = 2,572
+n = 1,302
+n = 2,646
+n = 1,348
+Gastroenteritis cases
+Any severity
+24
+94
+26
+104
+c
+Severe
+5
+60
+5
+64
+Efficacy estimate against RV GE
+Any severity
+87.1%d
+87.3%d
+(95% CI)
+(79.6, 92.1)
+(80.3, 92.0)
+c
+d
+Severe
+95.8%
+96.0%d
+(95% CI)
+(89.6, 98.7)
+(90.2, 98.8)
+Cases of hospitalization due to RV
+0
+12
+0
+12
+GE
+Efficacy in reducing
+100%d
+100%d
+hospitalizations due to RV GE
+(95% CI)
+(81.8, 100)
+(81.7, 100)
+RV GE = Rotavirus gastroenteritis; CI = Confidence Interval.
+a
+ATP analysis includes all infants in the efficacy cohort who received two doses of vaccine
+according to randomization.
+b
+TVC analysis includes all infants in the efficacy cohort who received at least one dose of
+vaccine or placebo.
+c
+Severe gastroenteritis defined as 11 on the Vesikari scale.
+d
+Statistically significant versus placebo (P <0.001).
+A randomized, double-blind, placebo-controlled study was conducted in 11 countries in Latin
+America and Finland (Study 8). A total of 63,225 infants received ROTARIX (n = 31,673) or
+placebo (n = 31,552). An efficacy subset of these infants consisting of 20,169 infants from Latin
+America received ROTARIX (n = 10,159) or placebo (n = 10,010). Vaccine or placebo was
+given to healthy infants as a 2-dose series with the first dose administered orally from 6 through
+13 weeks of age followed by one additional dose administered at least 4 weeks after the first
+dose. The 2-dose series was completed by 24 weeks of age. For both vaccination groups, the
+racial distribution of the efficacy subset was as follows: Hispanic 85.8%, White 7.9%, Black
+1.1%, and other 5.2%; 51% were male.
+
+18
+
+The clinical case definition of severe rotavirus gastroenteritis was an episode of diarrhea
+(passage of 3 or more loose or watery stools within a day), with or without vomiting, where
+rotavirus was identified in a stool sample, requiring hospitalization and/or rehydration therapy
+equivalent to World Health Organization (WHO) plan B (oral rehydration therapy) or plan C
+(intravenous rehydration therapy) in a medical facility.
+The primary efficacy endpoint was prevention of severe rotavirus gastroenteritis caused by
+naturally occurring rotavirus from 2 weeks after the second dose through one year (ATP).
+Analyses were done to evaluate the efficacy of ROTARIX against severe rotavirus gastroenteritis
+among infants who received at least one vaccination (TVC). Reduction in hospitalizations due to
+rotavirus gastroenteritis was also evaluated (ATP).
+Efficacy of ROTARIX against severe rotavirus gastroenteritis through one year was 84.7% (95%
+CI: 71.7, 92.4); TVC efficacy was 81.1% (95% CI: 68.5, 89.3) (Table 6).
+Efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through one year
+was 85.0% (95% CI: 69.6, 93.5); TVC efficacy was 80.8% (95% CI: 65.7, 90.0) (Table 6).
+Table 6. Efficacy Evaluation of ROTARIX through One Year
+a
+
+According to Protocol
+ROTARIX
+Placebo
+n = 9,009
+n = 8,858
+
+Total Vaccinated
+Cohortb
+ROTARIX
+Placebo
+n = 10,159
+n = 10,010
+
+Infants in Cohort
+Gastroenteritis cases
+Severe
+12
+77
+18
+94
+Efficacy estimate against RV GE
+Severe
+84.7%c
+81.1%c
+(95% CI)
+(71.7, 92.4)
+(68.5, 89.3)
+Cases of hospitalization due to
+9
+59
+14
+72
+RV GE
+Efficacy in reducing
+85.0%c
+80.8%c
+hospitalizations due to RV GE
+(95% CI)
+(69.6, 93.5)
+(65.7, 90.0)
+RV GE = Rotavirus gastroenteritis; CI = Confidence Interval.
+a
+ATP analysis includes all infants in the efficacy cohort who received two doses of vaccine
+according to randomization.
+b
+TVC analysis includes all infants in the efficacy cohort who received at least one dose of
+vaccine or placebo.
+c
+Statistically significant versus placebo (P <0.001).
+
+19
+
+14.2
+
+Efficacy through Two Rotavirus Seasons
+
+The efficacy of ROTARIX persisting through two rotavirus seasons was evaluated in two
+studies.
+In the European study (Study 5), the efficacy of ROTARIX against any grade of severity of
+rotavirus gastroenteritis through two rotavirus seasons was 78.9% (95% CI: 72.7, 83.8). Efficacy
+in preventing any grade of severity of rotavirus gastroenteritis cases occurring only during the
+second season post-vaccination was 71.9% (95% CI: 61.2, 79.8). The efficacy of ROTARIX
+against severe rotavirus gastroenteritis through two rotavirus seasons was 90.4% (95% CI: 85.1,
+94.1). Efficacy in preventing severe rotavirus gastroenteritis cases occurring only during the
+second season post-vaccination was 85.6% (95% CI: 75.8, 91.9).
+The efficacy of ROTARIX in reducing hospitalizations for rotavirus gastroenteritis through two
+rotavirus seasons was 96.0% (95% CI: 83.8, 99.5).
+In the Latin American study (Study 8), the efficacy of ROTARIX against severe rotavirus
+gastroenteritis through two years was 80.5% (95% CI: 71.3, 87.1). Efficacy in preventing severe
+rotavirus gastroenteritis cases occurring only during the second year post-vaccination was 79.0%
+(95% CI: 66.4, 87.4). The efficacy of ROTARIX in reducing hospitalizations for rotavirus
+gastroenteritis through two years was 83.0% (95% CI: 73.1, 89.7).
+The efficacy of ROTARIX beyond the second season post-vaccination was not evaluated.
+14.3
+
+Efficacy against Specific Rotavirus Types
+
+The type-specific efficacy against any grade of severity and severe rotavirus gastroenteritis
+caused by G1P[8], G3P[8], G4P[8], G9P[8], and combined non-G1 (G2, G3, G4, G9) types was
+statistically significant through one year. Additionally, type-specific efficacy against any grade
+of severity and severe rotavirus gastroenteritis caused by G1P[8], G2P[4], G3P[8], G4P[8],
+G9P[8], and combined non-G1 (G2, G3, G4, G9) types was statistically significant through two
+years (Table 7).
+
+20
+
+Table 7. Type-Specific Efficacy of ROTARIX against Any Grade of Severity and Severe
+Rotavirus Gastroenteritis (According to Protocol)
+Through One Rotavirus Season
+
+Through Two Rotavirus Seasons
+
+Number of Cases
+
+Number of Cases
+
+ROTARIX
+
+Placebo
+
+% Efficacy
+
+ROTARIX
+
+Placebo
+
+% Efficacy
+
+n = 2,572
+
+n = 1,302
+
+(95% CI)
+
+n = 2,572
+
+n = 1,302
+
+(95% CI)
+
+Any Grade of Severity
+G1P[8]
+
+4
+
+46
+
+18
+
+89c,d
+
+G2P[4]
+
+3
+
+4c
+
+95.6%b
+(87.9, 98.8)
+NS
+
+14
+
+17c
+
+G3P[8]
+
+1
+
+5
+
+3
+
+10
+
+G4P[8]
+
+3
+
+13
+
+6
+
+18
+
+G9P[8]
+
+13
+
+27
+
+38
+
+71d
+
+Combined non-G1
+(G2, G3, G4, G9,
+G12) typese
+
+20
+
+49
+
+89.9%b
+(9.5, 99.8)
+88.3%b
+(57.5, 97.9)
+75.6%b
+(51.1, 88.5)
+79.3%b
+(64.6, 88.4)
+
+62
+
+116
+
+89.8%b
+(82.9, 94.2)
+58.3%b
+(10.1, 81.0)
+84.8%b
+(41.0, 97.3)
+83.1%b
+(55.6, 94.5)
+72.9%b
+(59.3, 82.2)
+72.9%b
+(62.9, 80.5)
+
+Severe
+G1P[8]
+
+2
+
+28
+
+4
+
+57
+
+G2P[4]
+
+1
+
+2c
+
+96.4%b
+(85.7, 99.6)
+NS
+
+2
+
+7c
+
+G3P[8]
+
+0
+
+5
+
+1
+
+8
+
+G4P[8]
+
+0
+
+7
+
+1
+
+11
+
+G9P[8]
+
+2
+
+19
+
+13
+
+44d
+
+Combined non-G1
+(G2, G3, G4, G9,
+G12) typese
+
+3
+
+33
+
+100%b
+(44.8, 100)
+100%b
+(64.9, 100)
+94.7%b
+(77.9, 99.4)
+95.4%b
+(85.3, 99.1)
+
+17
+
+70
+
+Type Identified
+
+a
+
+96.4%b
+(90.4, 99.1)
+85.5%b
+(24.0, 98.5)
+93.7%b
+(52.8, 99.9)
+95.4%b
+(68.3, 99.9)
+85.0%b
+(71.7, 92.6)
+87.7%b
+(78.9, 93.2)
+
+CI = Confidence Interval; NS = Not significant.
+a
+Statistical analyses done by G type; if more than one rotavirus type was detected from a
+rotavirus gastroenteritis episode, the episode was counted in each of the detected rotavirus type
+categories.
+b
+Statistically significant versus placebo (P <0.05).
+c
+The P genotype was not typeable for one episode.
+d
+P[8] genotype was not detected in one episode.
+e
+Two cases of G12P[8] were isolated in the second season (one in each group).
+21
+
+14.4
+
+Immunogenicity
+
+A relationship between antibody responses to rotavirus vaccination and protection against
+rotavirus gastroenteritis has not been established. Seroconversion was defined as the appearance
+of anti-rotavirus IgA antibodies (concentration 20 U/mL) post-vaccination in the serum of
+infants previously negative for rotavirus.
+In 2 safety and efficacy studies (Studies 5 and 8), one to two months after a 2-dose series, 86.5%
+of 787 recipients of ROTARIX reconstituted lyophilized formulation seroconverted compared
+with 6.7% of 420 placebo recipients, and 76.8% of 393 recipients of ROTARIX reconstituted
+lyophilized formulation seroconverted compared with 9.7% of 341 placebo recipients,
+respectively.
+Immunogenicity of a 2-dose series of ROTARIX liquid formulation was evaluated in Study 9.
+This study compared seroconversion rates and Geometric Mean Concentrations (GMCs)
+following administration of the ROTARIX liquid formulation (n = 984) or the ROTARIX
+reconstituted lyophilized formulation (n = 329). The primary analyses demonstrated noninferiority of IgA seroconversion rates and GMCs at 1 to 2 months post-vaccination for the
+ROTARIX liquid formulation group compared to the ROTARIX reconstituted lyophilized
+formulation group (Lower Limit of the 95% CI for the difference in seroconversion rates ≥-10%;
+Lower Limit of the 95% CI for the GMC ratio ≥0.67).
+In Study 10, 3 months after a 2-dose series, the percentage of subjects with anti-rotavirus IgA
+antibodies (concentration ≥20 U/mL) was comparable after administration of the ROTARIX
+liquid formulation (76.3% of 417) and the ROTARIX reconstituted lyophilized formulation
+(78.9% of 426).
+14.5
+
+Concomitant Vaccine Administration
+
+In clinical trials, ROTARIX was administered concomitantly with U.S.-licensed and non–U.S.licensed vaccines. In a U.S. concomitant vaccine administration study (Study 18) using
+ROTARIX (reconstituted lyophilized formulation) in 484 infants, there was no evidence of
+interference in the immune responses to any of the antigens when PEDIARIX [Diphtheria and
+Tetanus Toxoids and Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated
+Poliovirus Vaccine], a U.S.-licensed 7-valent pneumococcal conjugate vaccine (Wyeth
+Pharmaceuticals Inc.), and a U.S.-licensed Haemophilus b conjugate vaccine (Sanofi Pasteur SA)
+were concomitantly administered with ROTARIX as compared with separate administration of
+ROTARIX.
+In a concomitant vaccine administration study (Study 10) in 1,272 infants, non-inferiority was
+demonstrated regarding the immune response to each of the antigens in PEDIARIX, HIBERIX
+[Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate)], and a U.S.-licensed, 13-valent
+pneumococcal conjugate vaccine (Pfizer Inc.) when concomitantly administered with the
+
+22
+
+ROTARIX liquid formulation as compared to when concomitantly administered with the
+ROTARIX reconstituted lyophilized formulation.
+15
+
+REFERENCES
+
+1. Murphy TV, Gargiullo PM, Massoudi MS, et al. Intussusception among infants given an oral
+rotavirus vaccine. N Engl J Med. 2001;344:564–572.
+2. Carlin JB, Macartney KK, Lee KJ, et al. Intussusception Risk and Disease Prevention
+Associated with Rotavirus Vaccines in Australia’s National Immunization Program. CID.
+2013;57(10):1427-1434.
+3. Patel MM, López-Collada VR, Bulhões MM, et al. Intussusception Risk and Health Benefits
+of Rotavirus Vaccination in Mexico and Brazil. N Engl J Med. 2011;364:2283-2292.
+4. Farrington CP, Whitaker HJ, Hocine MN, et al. Case series analysis for censored, perturbed,
+or curtailed post-event exposures. Biostatistics. 2009;10(1):3–16.
+5. Tate JE, Simonsen L, Viboud C, et al. Trends in intussusception hospitalizations among US
+infants, 1993–2004: implications for monitoring the safety of the new rotavirus vaccination
+program. Pediatrics. 2008;121:e1125-e1132.
+6. Ruuska T, Vesikari T. Rotavirus disease in Finnish children: use of numerical scores for
+severity of diarrheal episodes. Scand J Infect Dis. 1990;22:259-267.
+16
+
+HOW SUPPLIED/STORAGE AND HANDLING
+
+16.1
+
+ROTARIX Vial and Oral Dosing Applicator Presentation
+
+The ROTARIX vial and oral dosing applicator presentation is supplied as single-dose vials of
+lyophilized vaccine component, accompanied by a prefilled oral dosing applicator of liquid
+diluent (1 mL) with a plunger stopper, and a transfer adapter for reconstitution.
+Supplied as an outer package of 10 doses (NDC 58160-854-52) containing:
+•
+
+Inner package of 10 vials of lyophilized vaccine component (NDC 58160-851-10)
+o Single vial of lyophilized vaccine component (NDC 58160-851-01)
+
+•
+
+Oral dosing applicator of diluent (NDC 58160-853-02) (10 applicators)
+
+Storage before Reconstitution
+•
+
+Lyophilized vaccine component in vials: Store refrigerated at 2 to 8C (36 to 46F).
+Protect vials from light.
+
+•
+
+Diluent in oral dosing applicators: Store refrigerated at 2 to 8C (36 to 46F) or at a
+controlled room temperature up to 25C (77F). Do not freeze. Discard if the diluent has
+been frozen.
+
+23
+
+Storage after Reconstitution
+ROTARIX (vial and oral dosing applicator presentation) should be administered within 24 hours
+of reconstitution. After reconstitution, store refrigerated at 2 to 8C (36 to 46F) or at a
+controlled room temperature up to 25C (77F). Discard the reconstituted vaccine in biological
+waste container if not used within 24 hours. Do not freeze. Discard if the reconstituted vaccine
+has been frozen.
+16.2
+
+ROTARIX Oral Dosing Applicator Only Presentation
+
+ROTARIX oral dosing applicator only presentation is supplied as a single, 1.5-mL dose in a
+prefilled oral dosing applicator with a plunger stopper (NDC 58160-740-02) in a carton of 10
+(NDC 58160-740-21).
+Storage
+Store refrigerated at 2 to 8C (36 to 46F). Do not freeze. Discard if the vaccine has been
+frozen. Keep in original package to protect from light.
+17
+
+PATIENT COUNSELING INFORMATION
+
+See FDA-approved patient labeling (Patient Information). Patient labeling is provided as a tearoff leaflet at the end of this full prescribing information.
+Provide the following information to the parent or guardian:
+•
+
+Inform of the potential benefits and risks of immunization with ROTARIX, and of the
+importance of completing the immunization series.
+
+•
+
+Inform about the potential for adverse reactions that have been temporally associated with
+administration of ROTARIX or other vaccines containing similar components.
+
+•
+
+Instruct to immediately report any signs and/or symptoms of intussusception to their
+healthcare provider.
+
+•
+
+Give the Vaccine Information Statements, which are required by the National Childhood
+Vaccine Injury Act of 1986 to be given prior to immunization. These materials are available
+free of charge at the Centers for Disease Control and Prevention (CDC) website
+(www.cdc.gov/vaccines).
+
+ROTARIX, PEDIARIX, and HIBERIX are owned by or licensed to the GSK group of
+companies. The other brands listed are trademarks owned by or licensed to their respective
+owners and are not owned by or licensed to the GSK group of companies. The makers of these
+brands are not affiliated with and do not endorse the GSK group of companies or its products.
+
+24
+
+Manufactured by GlaxoSmithKline Biologicals
+Rixensart, Belgium, U.S. License 1617
+Distributed by GlaxoSmithKline
+Durham, NC 27701
+©xxxx GSK group of companies or its licensor.
+RTX:xxPI
+
+DETACH HERE AND GIVE LEAFLET TO PATIENT
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+25
+
+PATIENT INFORMATION
+ROTARIX (ROW-tah-rix)
+Rotavirus Vaccine, Live, Oral
+What is ROTARIX?
+ROTARIX is a vaccine that protects your baby from a kind of virus (called a rotavirus) that can cause bad
+diarrhea and vomiting. Rotavirus can cause diarrhea and vomiting that is so bad that your baby can lose
+too much body fluid and need to go to the hospital.
+Rotavirus vaccine is a liquid that is given to your baby by mouth. It is not an injection.
+Who should not take ROTARIX?
+Your baby should not get ROTARIX if:
+•
+
+he or she has had an allergic reaction after getting a dose of ROTARIX.
+
+•
+
+he or she is allergic to any of the ingredients of this vaccine. A list of ingredients can be found at the
+end of this leaflet.
+
+•
+
+a doctor has told you that your baby’s digestive system has a defect (is not normal).
+
+•
+
+he or she has a history of a serious problem called intussusception that happens when a part of the
+intestine gets blocked or twisted.
+
+•
+
+he or she has Severe Combined Immunodeficiency Disease (SCID), a severe problem with his/her
+immune system.
+
+Tell your doctor if your baby:
+•
+
+is allergic to latex.
+
+•
+
+has problems with his/her immune system.
+
+•
+
+has cancer.
+
+•
+
+will be in close contact with someone who has problems with his/her immune system or is getting
+treated for cancer, as the spread of vaccine virus to non-vaccinated contacts could occur. Hand
+washing is recommended after diaper changes to help prevent the spread of vaccine virus.
+
+If your baby has been having diarrhea and vomiting, your doctor may want to wait before giving your
+baby a dose of ROTARIX.
+
+1
+
+How is ROTARIX given?
+ROTARIX is a liquid that is dropped into your baby’s mouth and swallowed.
+
+Your baby will get the first dose at around 6 weeks old.
+The second dose will be at least 4 weeks after the first dose (before 6 months old).
+Be sure to plan the time for your baby’s second dose with the doctor because it is important that your
+baby gets both doses of ROTARIX before your baby is 6 months old.
+The doctor may decide to give your baby other vaccines at the same time as ROTARIX.
+Your baby can be fed normally after getting ROTARIX.
+What are possible side effects of ROTARIX?
+The most common side effects of ROTARIX are:
+•
+
+crying
+
+•
+
+fussiness
+
+•
+
+cough
+
+•
+
+runny nose
+
+•
+
+fever
+
+•
+
+loss of appetite
+
+•
+
+vomiting.
+
+Call your doctor right away or go to the emergency department if your baby has any of these problems
+after getting ROTARIX, even if it has been several weeks since the last vaccine dose because these may
+be signs of a serious problem called intussusception:
+•
+
+bad vomiting
+
+•
+
+bad diarrhea
+
+•
+
+bloody bowel movement
+
+•
+
+high fever
+
+•
+
+severe stomach pain (if your baby brings his/her knees to his/her chest while crying or screaming).
+
+Studies showed an increased risk of intussusception after the first and second dose of vaccine,
+especially in the first 7 days.
+Since FDA approval, reports of infants with intussusception have been received by Vaccine Adverse
+Event Reporting System (VAERS). Intussusception occurred days and sometimes weeks after
+vaccination. Some infants needed hospitalization, surgery on their intestines, or a special enema to treat
+this problem. Death due to intussusception has occurred.
+
+2
+
+Other reported side effects include: Kawasaki disease (a serious condition that can affect the heart;
+symptoms may include fever, rash, red eyes, red mouth, swollen glands, swollen hands and feet, and, if
+not treated, death can occur).
+Talk to your baby’s doctor if your baby has any problems that concern you.
+What are the ingredients in ROTARIX?
+There are two formulations of Rotarix, one that requires your vaccination provider to mix a freeze-dried
+component with a liquid component and one that is provided as a liquid that does not require mixing.
+Your provider can tell you the formulation your baby will receive.
+Formulation that requires mixing
+This formulation of ROTARIX contains weakened human rotavirus.
+This formulation of ROTARIX also contains calcium carbonate, dextran, sorbitol, sucrose, amino acids,
+xanthan, Dulbecco’s Modified Eagle Medium (DMEM), and sterile water. The ingredients of DMEM are
+as follows: sodium chloride, potassium chloride, magnesium sulphate, ferric (III) nitrate, sodium
+dihydrogen phosphate, sodium pyruvate, D-glucose, concentrated vitamin solution, L-cystine, L-tyrosine,
+amino acids solution, L-glutamine, calcium chloride, and sodium hydrogenocarbonate.
+Porcine circovirus type 1 (PCV-1), a virus found in pigs, is present in this formulation of ROTARIX. PCV1 is not known to cause disease in humans.
+This formulation of ROTARIX contains no preservatives.
+The tip cap of the dropper used to give your baby ROTARIX contains latex.
+Formulation that does not require mixing
+This formulation of ROTARIX contains weakened human rotavirus.
+This formulation of ROTARIX also contains disodium adipate, sucrose, Dulbecco’s Modified Eagle
+Medium (DMEM), and sterile water. The ingredients of DMEM are as follows: sodium chloride, potassium
+chloride, magnesium sulphate, ferric (III) nitrate, sodium dihydrogen phosphate, sodium pyruvate, Dglucose, concentrated vitamin solution, L-cystine, L-tyrosine, amino acids solution, L-glutamine, calcium
+chloride, and sodium hydrogenocarbonate.
+This formulation of ROTARIX contains no preservatives.
+The tip cap of the dropper used to give your baby ROTARIX contains latex.
+
+Manufactured by GlaxoSmithKline Biologicals
+Rixensart, Belgium, U.S. License 1617
+Distributed by GlaxoSmithKline
+Durham, NC 27701
+Trademarks are owned by or licensed to the GSK group of companies.
+©xxxx GSK group of companies or its licensor.
+RTX:xxPIL
+This Patient Information has been approved by the U.S. Food and Drug
+Administration.
+
+3
+
+Revised: xx/xxxx
+
+

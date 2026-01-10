@@ -1,0 +1,1056 @@
+Summary Basis for Regulatory Action
+Date: January 23, 2015
+From: Margaret C. Bash, M.D., M.P.H., Chair of the Review Committee
+BLA/ STN#: 125546/0
+Applicant Name: Novartis Vaccines and Diagnostics, Inc.
+Date of Submission: July 24, 2014
+PDUFA Goal Date: March 24, 2015
+Proprietary Name: BEXSERO®
+Established Name: Meningococcal Group B Vaccine
+Indication: BEXSERO is indicated for active immunization to prevent invasive disease
+caused by Neisseria meningitidis serogroup B. BEXSERO is approved for use in individuals
+10 through 25 years of age.
+Recommended Action: Approval
+Signatory Authorities Action:
+Offices Signatory Authority:
+
+Marion F. Gruber, Ph.D.,
+Director
+Office of Vaccines Research and Review
+
+√ I concur with the summary review.
+□ I concur with the summary review and include a separate review to add further
+analysis.
+
+□ I do not concur with the summary review and include a separate review.
+
+1
+
+Specific documentation used in
+developing the SBRA
+Clinical Review
+Statistical Review
+
+Clinical Serology Assay Review
+CMC Review
+
+Facilities and CMC Review
+Lot Release Protocol Template
+Pharmacology/Toxicology
+Review
+Bioresearch Monitoring Review
+Epidemiology/Pharmacovigilance
+Review
+Advertising and Promotional
+Labeling
+Establishment Inspection Report
+Inspection Waiver Memos
+
+Advisory Committee Transcript
+Approved Draft Labeling
+
+Reviewer name – Document(s) date
+Anuja Rastogi, M.D., M.H.S. - January 23, 2015
+Barbara Krasnicka, Ph.D. (Clinical efficacy) - December 17,
+2014
+Zhong Gao, Ph.D. (Serology assays) - December 17, 2014
+Tammy Massie, Ph.D. (Clinical safety) - December 22, 2014
+Tsai-Lien Lin, Ph.D. (CMC, Potency assays) - December 20,
+2014
+Freyja Lynn, B.S. - December 8, 2014
+John Cipollo, Ph.D. - January 23, 2015
+James Kenney, Ph.D. - January 13, 2015
+Anil Choudhary, Ph.D. - December 3, 2014
+Hyesuk Kong, Ph.D. - November 12, 2014
+Hsiaoling Wang, Ph.D. - November 17 and December 29, 2014
+Tao Pan, Ph.D. - January 6, 2015
+Freyja Lynn, B.S. - December 8, 2014
+Donald Ertel, MT (ASCP), - November 6, 2014 and January
+15, 2015
+Karen Campbell, M.S - January 6, 2015
+Ching-Long (Joe) Sun, Ph.D. - November 5, 2014
+Carla Jordan, BS, MT (ASCP), SBB - November 18, 2014
+Jane Baumblatt, M.D. - January 23, 2015
+Michael Brony, Pharm. D. - October 7, 2014
+September 16, 2014
+Donald Ertel, MT (ASCP), - September 8, 2014 - Facility for
+drug substance manufacturing and drug product final
+formulation, filling, labeling and packaging, January 21, 2015 Testing Facility for Drug Substance and Product
+April 7, 2011
+N/A
+
+2
+
+1.
+
+Introduction
+
+Novartis Vaccines and Diagnostics, Inc., submitted Biologics License Application (BLA)
+125546/0 for licensure of Meningococcal Group B Vaccine. The proprietary name is
+BEXSERO®. BEXSERO is indicated for active immunization to prevent invasive disease
+caused by Neisseria meningitidis serogroup B. BEXSERO is intended for intramuscular
+injection administered as a two-dose series at least one month apart in individuals 10 through
+25 years of age.
+BEXSERO is a sterile suspension of three recombinant proteins and meningococcal outer
+membrane vesicles (OMV). The recombinant proteins Neisserial adhesin A (NadA),
+Neisserial Heparin Binding Antigen (NHBA), and factor H binding protein (fHbp), are
+individually produced in Escherichia coli and purified. The OMV component is produced
+from N. meningitidis strain NZ98/254 (expressing outer membrane protein PorA serosubtype
+P1.4). The antigens are adsorbed onto aluminum hydroxide. Each 0.5 mL dose of BEXSERO
+is formulated to contain 50 micrograms each of recombinant proteins NadA, NHBA, and
+fHbp, 25 micrograms of OMV, 1.5 mg aluminium hydroxide, 3.125 mg sodium chloride,
+0.776 mg histidine, and 10 mg sucrose at pH 6.4 – 6.7.
+Each pre-filled syringe of BEXSERO delivers a 0.5 ml dose of vaccine. BEXSERO contains
+no preservative. BEXSERO should be stored in the refrigerator at 36-46ºF (2-8ºC). The shelflife is 24 months and the date of manufacture is the date of initiation of filling into final
+containers.
+
+2.
+
+Background
+
+Invasive disease caused by N. meningitidis, typically meningitis and sepsis, is a serious
+condition with high morbidity and mortality, even with optimal medical treatment. Among
+survivors, permanent sequelae may include hearing loss, significant neurological damage, limb
+amputation, skin scarring, renal failure, and cognitive deficits. While most cases of invasive
+meningococcal disease are sporadic, clusters, outbreaks, and prolonged epidemics can occur,
+which is unique among bacterial agents causing meningitis. The World Health Organization
+estimates that there are 1.2 million cases of invasive meningococcal disease (IMD) and
+135,000 related deaths annually caused by all pathogenic serogroups of N. meningitidis (1). In
+the United States, most cases of meningococcal disease are sporadic, with an incidence of 0.15
+to 0.35 cases per 100,000 population. Serogroup B N. meningitidis is now the most frequently
+reported cause of IMD in the US. The Centers for Disease Control and Prevention (CDC)
+estimates that an average of 402 cases of serogroup B meningococcal disease occurred
+annually between 2002 and 2011 (2); in 2012, the estimated serogroup B incidence rate was
+0.06/100,000 (3).
+N. meningitidis strains are classified based on their capsular polysaccharide into serogroups.
+Vaccines composed of serogroup-specific capsular polysaccharides are available to prevent
+invasive disease caused by serogroups A, C, Y, and W. Serogroup B polysaccharides, even
+when conjugated to immunogenic carrier proteins, are poorly immunogenic. Thus,
+meningococcal serogroup B vaccines have been developed that are based on immunogenic
+3
+
+outer membrane proteins. Serogroup B OMV vaccines have been used outside the US to
+control prolonged outbreaks caused by a single predominant serogroup B N. meningitidis
+strain. The immune responses to OMV vaccines are directed primarily to the PorA major outer
+membrane protein and are strain-specific. To expand the breadth of the immune response to
+encompass antigenically diverse serogroup B strains, BEXSERO includes three recombinant
+proteins, in addition to the OMV component that was developed for and used during an
+epidemic in New Zealand. The three recombinant proteins are immunogenic bacterial surface
+proteins fHbp, NadA and NHBP. fHbp is a virulence factor that contributes to the ability of N.
+meningitidis to avoid complement-mediated killing in the host. NadA and NHBP are adhesins.
+PorA is a major outer membrane protein that is important for the survival of the bacterium.
+All four proteins contribute to the ability of meningococci to survive in the human host and
+cause disease. fHbp is less diverse than the PorA protein, but immunologically distinct
+variants exist. NadA is expressed by some but not all strains. NHBA is highly conserved. The
+recombinant proteins in BEXSERO are based on the most common sequence types of these
+antigens identified among endemic disease isolates (4).
+While the incidence of meningococcal serogroup B disease in the US is relatively low, recent
+outbreaks on college campuses in the US have heightened concerns. Because of the diverse
+nature of meningococcal group B strains as well as the low incidence of disease and the
+sporadic and unpredictable nature of an outbreak, obtaining data to support effectiveness of a
+serogroup B vaccine is challenging. On April 7, 2011, the Vaccines and Related Biological
+Products Advisory Committee (VRBPAC) of the Center for Biologics Evaluation and
+Research (CBER), FDA met to discuss approaches to demonstrate effectiveness of
+meningococcal serogroup B vaccines. The consensus of the committee was that the primary
+mechanism of protection against meningococcal serogroup B disease is complement-mediated
+antibody-dependent killing of the bacterium. Thus, serum bactericidal antibody levels induced
+by the vaccine, as measured by serum bactericidal activity assays using human complement
+(hSBA assays), could be used as a measure of vaccine effectiveness. The committee
+acknowledged that the genetic diversity and range of the level of expression of surface proteins
+among meningococcal group B strains adds an additional challenge to ascertaining
+effectiveness of meningococcal serogroup B vaccines against the diverse population of
+circulating meningococcal serogroup B strains.
+CBER determined that BEXSERO met the criteria for Breakthrough Therapy designation and
+granted that designation on April 1, 2014. Given the public health concerns about
+meningococcal serogroup B disease in the US, CBER agreed to consider licensing BEXSERO
+under the accelerated approval regulations, 21 CFR 601 Subpart E. The Agency determined
+that the accelerated approval pathway was appropriate, basing approval on the ability of the
+vaccine to induce bactericidal antibodies, as measured by the hSBA assay, that are able to kill
+a panel of meningococcal group B strains that are representative of prevalent strains in the US.
+This panel consists of three strains, each of which expresses one antigen (fHbp, NadA, PorA
+P1.4) in common with the vaccine components. The breadth of coverage of BEXSERO against
+diverse meningococcal group B strains will be confirmed in subsequent clinical studies that
+examine the ability of the vaccine to induce bactericidal antibodies against a larger panel of
+genetically diverse meningococcal serogroup B strains that represent disease isolates in the
+US.
+
+4
+
+During the IND review process for this product, CBER conducted extensive discussions with
+the applicant concerning design of clinical studies, appropriate serological end-points, and
+clinical serology methodology. The clinical trials supporting the current application were
+conducted prior to some of these discussions. Therefore, CBER requested additional analyses
+of modified immunogenicity endpoints which were considered more meaningful than those
+originally specified in the clinical trial protocols. On July 24, 2014, Novartis Vaccines and
+Diagnostics Inc., submitted a BLA for BEXSERO. The established name for this vaccine is
+Meningococcal Group B Vaccine.
+
+3.
+
+Chemistry Manufacturing and Controls (CMC)
+
+a. Product Quality
+Product Composition
+BEXSERO contains four meningococcal serogroup B antigenic components consisting of
+Outer Membrane Vesicles (OMV) and three recombinant outer membrane proteins: rp287-953
+(NHBA chimera), rp936-741 (fHbp chimera), and rp961c (NadA). The composition of the
+BEXSERO final drug product and the function of the ingredients are provided in Table 1.
+Table 1: Composition of BEXSERO Final Drug Product
+Ingredient
+Function
+rp287-953 (NHBA chimera)
+Active ingredient
+rp936-741 (fHbp chimera)
+Active ingredient
+rp961c (NadA)
+Active ingredient
+OMV (PorA)
+Active ingredient
+Aluminum hydroxide
+--(b)(4)------Histidine
+--(b)(4)----------Sodium chloride
+--(b)(4)-Sucrose
+--(b)(4)-Water for injection
+Solvent
+
+Amount/Dose
+0.05 mg
+0.05 mg
+0.05 mg
+0.025 mg
+1.5 mg
+0.776 mg
+3.125 mg
+10 mg
+--(b)(4)-------
+
+rp: recombinant protein; OMV: Outer Membrane Vesicles
+
+Presentation and Packaging System
+BEXSERO is supplied in 1 ml pre-filled hydrolytic glass --(b)(4)- Luer Lok™ syringes without
+needle, with a --(b)(4)- rubber tip cap. A single dose of vaccine is 0.5 ml with no preservative.
+The plunger stopper (--(b)(4)- rubber) and syringes (--(b)(4)- glass) are ----(b)(4)------ with a
+-----------------(b)(4)-------------------------------. The Tip-cap is a ----------(b)(4)------------------- rubber closure that contains natural rubber latex.
+Manufacturing Overview
+BEXSERO consists of four separate Drug Substances:
+• Outer Membrane Vesicles (OMV) from N. meningitidis serogroup B strain NZ98/254
+• Neisserial adhesin A (NadA) as single protein: rp961c
+• Neisserial Heparin Binding Antigen (NHBA) as fusion protein: rp287-953
+• Factor H binding protein (fHbp) as a fusion protein: rp936-741
+
+5
+
+The three recombinant protein drug substances (rp287-953, rp936-741, and rp961c) are
+manufactured at ------------------(b)(4)------------------------------. The OMV drug substance is
+manufactured at Novartis Vaccines and Diagnostics, Bellaria-Rosia, Italy.
+The drug product is manufactured (formulated, filled, inspected, labeled, and packaged) at
+Novartis Vaccines and Diagnostics Bellaria-Rosia, Italy. The final vaccine is a sterile liquid
+suspension.
+Drug Substances
+Protein rp287-953 is a fusion protein of meningococcal NHBA, the primary antigenic
+component, and 953, an accessory protein that enhances the immunogenicity of its fused
+counterpart. Protein rp936-741 is a fusion protein of meningococcal fHbp, the primary
+antigenic component, and 936, an accessory protein that enhances the immunogenicity of its
+fused counterpart. Protein rp961c is a fragment of meningococcal NadA. Each of the
+recombinant proteins is individually expressed in Escherichia coli. The manufacturing
+process can be divided into ------------------(b)(4)-----------------------------------.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------(b)(4)----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------(b)(4)-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------(b)(4)----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------(b)(4)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6
+
+2 pages determined to be not releaseable: (b)(4)
+
+7
+
+[(b)(4)]
+
+Drug Product
+The BEXSERO drug product contains the drug substances rp287-953, rp936-741, rp961c and
+OMV. During formulation, the drug substances are adsorbed to aluminum hydroxide.
+Additional ingredients are histidine as a ----(b)(4)---------, sodium chloride and sucrose as
+--(b)(4)-- agents, and water for injection (WFI). The composition of the drug product is shown
+in Table 1. The BEXSERO drug product manufacturing process is divided into five stages
+including formulation, filling, inspection, labeling and packaging.
+At formulation, --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------.
+
+8
+
+In-process controls (process parameters and in process tests) are used to ensure control of the
+process and product quality. Appropriate validation of the process was conducted. The
+manufacturing process and in-process controls were reviewed and found to be acceptable.
+Specifications for release and stability testing of drug product were deemed to be appropriate.
+The release and stability specifications for the drug product are shown in Table 6. Tests
+performed on stability are footnoted.
+Table 6: BEXSERO Drug Product Specifications
+Test
+Method
+Final Bulk
+-------(b)(4)------------------(b)(4)------(b)(4)----(b)(4)----------Filled Product (Pre-filled syringe)
+Identitya
+---(b)(4)---------
+
+Volume
+Appearancea
+
+---(b)(4)--------Visual inspection
+
+---(b)(4)---------------------(b)(4)----------------------------------(b)(4)----------------------------pHa
+---(b)(4)---Endotoxina
+---(b)(4)---------Sterilitya
+Pyrogen
+Immunogenicitya
+rp961c
+rp936-741
+rp287-953
+OMV
+
+---(b)(4)-----(b)(4)---
+
+Visible particlesa
+General safety/Abnormal toxicity
+Packaged Product
+Identity
+
+Visual inspection
+---(b)(4)---
+
+---(b)(4)-----(b)(4)---------(b)(4)---------------------(b)(4)---------------------(b)(4)-----(b)(4)---------(b)(4)------(b)(4)------------------------------------
+
+---(b)(4)----------
+
+Specification
+---(b)(4)----------(b)(4)----(b)(4)-----------(b)(4)--------------(b)(4)--------------(b)(4)-----------(b)(4)--Opalescent liquid (white
+suspension)
+---(b)(4)---------(b)(4)---(b)(4)---6.4-6.7
+---(b)(4)------(b)(4)------(b)(4)---Sterile
+---(b)(4)--------(b)(4)------------------------ -----(b)(4)------------------------ -----(b)(4)------------------------ -----(b)(4)-----------------------Conforms
+Not toxic
+-----(b)(4)----------------(b)(4)----------------(b)(4)----------------(b)(4)------------
+
+a
+
+These tests are performed for the stability assessment
+Abbreviations: ----------------(b)(4)----------------------------------------------------OMV: Outer Membrane Vesicles
+rp: recombinant protein; RP: Relative Potency; -------------------------------(b)(4)---------------------------------------------------------------: upper confidence limit.
+
+9
+
+An (b)(4) potency test (immunogenicity test) is used to assess the potency of the final drug
+product. ----(b)(4)-------------------- are tested using (b)(4), and evaluated relative to a
+reference vaccine. Performance of the test over time was evaluated. Consistency of lot release
+data and the absence of trends indicating changes in the assay or product over time, supported
+consistency of manufacturing.
+Stability data up to 18 months for the three validation lots of BEXSERO were provided as well
+as supporting stability data performed under stressed conditions when stored at (b)(4) and at
+(b)(4)---. All data remained within the proposed commercial stability specifications. CBER
+determined that the submitted data support a dating period of 24 months.
+Among the Chemistry, Manufacturing and Controls (CMC) issues that arose and were
+resolved during the BLA review were the following: 1) resetting of ------------(b)(4)--------------------------------------------- specifications during OMV Process Validation studies, 2) setting
+of specifications outside of manufacturing experience, 3) missing or incomplete filter
+validation, 4) drug substance manufacturing process ---(b)(4)----- not validated for worst case
+scenario, 5) incomplete information regarding rp287-953 manufacturing process validation, 6)
+insufficient information demonstrating control of --(b)(4)-- in rp287-953, 7) missing matrix
+reuse validation, 8) insufficient information on control of --------------(b)(4)-------- for drug
+substance ----(b)(4)---, 9) incomplete information regarding final container
+extractable/leachable (E/L) studies, 10) need for General Safety Test, 11) missing information
+regarding aluminum hydroxide manufacturing process, validation and stability, 12) assessment
+of the levels of ----(b)(4)---------------- and 13) potency assay optimization. The applicant
+supplied the necessary data and information, instituted appropriate tests, or, in certain cases,
+provided timelines for submission of supporting data that CBER deemed to be non-critical.
+
+b. CBER Lot Release
+The lot release protocol templates were submitted to CBER for review and found to be
+acceptable after revisions. Samples from three lots of BEXSERO were submitted in support of
+the BLA for lot release testing and were found to be acceptable. For post approval lot release,
+the applicant will submit a lot release protocol, samples of final container drug product from
+each lot, and samples of each bulk drug substance contained in each lot. Routine Lot Release is
+performed by reviewing the submitted Lot Release Protocol and by testing submitted samples.
+Confirmatory testing will be performed by CBER according to a lot testing plan developed by
+CBER.
+
+10
+
+c. Facilities Review/Inspection
+The facilities involved in the manufacture of BEXSERO are listed in the table below. The
+activities performed and the inspectional histories of the facilities are included in the table.
+Table 7. Manufacturing Facilities for BEXSERO (Meningococcal Group B Vaccine)
+FEI
+DUNS
+Inspection/
+Name/Address
+Justification
+number
+number
+waiver
+Drug Substance
+ORA/CDER
+Pre---------------------------------------------(b)(4)--License
+Voluntary
+------------(b)(4)------------------------ --(b)(4)------ --(b)(4)----Inspection
+Action
+------------------------------------------(PLI)
+Indicated (VAI)
+---------------------------------Drug Substance
+------------------------------------------Team Biologics
+Inspection
+----------(b)(4)---------------------June 2013
+3006738517 445558679
+VAI
+Waived
+Novartis Vaccines and Diagnostics
+See
+notes
+below
+S.r.l., Bellaria-Rosia,
+SI 53018 Italy.
+Drug Substance
+Waived based
+------------(b)(4)---------------on acceptable
+Novartis Vaccines and Diagnostics
+Inspection
+FDA
+--(b)(4)------ --(b)(4)----Waived
+------------(b)(4)-----------------------compliance
+-------------------------------------history
+Drug Product
+Formulation, Fill/Finish, Labeling
+& Packaging, Testing
+Novartis Vaccines and Diagnostics
+S.r.l., Bellaria-Rosia,
+SI 53018 Italy.
+Drug Product
+Selected Testing for DP
+Novartis Vaccines and Diagnostics
+------------------(b)(4)---------------------------------------
+
+3006738517
+
+445558679
+
+--(b)(4)------ --(b)(4)-----
+
+Inspection
+Waived
+
+Team Biologics
+June 2013
+VAI
+See notes below
+
+Inspection
+Waived
+
+Waived based
+on acceptable
+FDA
+compliance
+history
+
+ORA, in conjunction with CDER, conducted a PLI of -----------(b)(4)---------------------- from
+-----(b)(4)--------------- for quality, facilities & equipment, materials, production, packaging &
+labeling, and laboratory operations. At the end of the inspection, a Form FDA 483 with four
+observations was issued. Two observations were directly related to Meningococcal Group B
+Vaccine operations. Deficiencies were related to sample handling and clean hold time
+validation. The firm responded to the observations on October 8, 2014, and the corrective
+actions were reviewed and found to be adequate. All inspectional issues are considered to be
+satisfactorily resolved.
+
+11
+
+Team Biologics performed a surveillance inspection of the Novartis Bellaria-Rosia
+manufacturing facility from June 10 – 18, 2013. All 483 issues were resolved and the
+inspection was classified as voluntary action indicated (VAI).
+Team Biologics last inspected the Novartis (b)(4) Facility from ---(b)(4)-------. The (b)(4)
+facility discontinued the manufacture of all U.S. approved products, and the facility currently
+performs only QC testing for U.S. Products, -------(b)(4)----------. The (b)(4) Facility is
+included in the Team Biologics Inspection Inventory for GMP Surveillance.
+Facility information and data provided in the BLA were reviewed by CBER and found to be
+sufficient and acceptable.
+
+d. Environmental Assessment
+The BLA included a request for categorical exclusion from an Environmental Assessment
+under 21 CFR 25.31(c). The FDA concluded that this request is justified as the manufacturing
+of this product will not alter significantly the concentration and distribution of naturally
+occurring substances and no extraordinary circumstances exist that would require an
+environmental assessment.
+
+4.
+
+Nonclinical Pharmacology/Toxicology
+
+Reports from three toxicologic studies conducted with BEXSERO (and three supportive
+toxicologic studies conducted with related formulations) were submitted to provide nonclinical
+support for this BLA. In the single and multiple dose intramuscular toxicity study, rabbits
+received intramuscular administration of the vaccine once or five times during eight weeks.
+The vaccine at the dose equivalent to the absolute human dose or 15 times the human dose on
+a body weight basis (4 kg in rabbits and 60 kg in humans) was well tolerated with minimal
+effects. Vaccination of the animals was associated with increases in fibrinogen, leukocyte
+counts and globulin values that are indicative of inflammation. Increases in creatinine kinase
+values suggested skeletal muscle involvement which is likely involved at the injection sites.
+All these changes, although treatment-related, were mild and transient. No significant safety
+issues were identified.
+In the reproductive and developmental toxicity study, five intramuscular administrations of the
+vaccine at the equivalent of an absolute human dose or 15 times the human dose on a body
+weight basis during pre-mating and gestation periods revealed no significant reproductive and
+developmental effects in rabbits. Based on the data derived from these studies, BEXSERO
+received a pregnancy category B designation which will be reflected in the Prescribing
+Information for BEXSERO under Section 8.1: Pregnancy.
+
+5.
+
+Clinical Pharmacology
+
+Mechanism of Action
+Protection against invasive meningococcal disease is conferred mainly by complementmediated antibody-dependent killing of N. meningitidis. The effectiveness of BEXSERO was
+assessed by measuring serum bactericidal activity using human complement (hSBA).
+
+12
+
+NHBA, NadA, fHbp and PorA are proteins on the surface of meningococci and contribute to
+the ability of the bacterium to colonize human mucosal surfaces and to avoid host defenses.
+Vaccination with BEXSERO leads to the production of antibodies directed against NHBA,
+NadA, fHbp, and PorA (present in OMV). The susceptibility of serogroup B meningococci to
+complement-mediated antibody-dependent killing following vaccination with BEXSERO is
+dependent on the antigenic similarity of the bacterial and vaccine antigens, as well as the
+amount of antigen expressed on the surface of the invading meningococci.
+
+6.
+
+Clinical/Statistical
+
+In 2013 and 2014, 13 cases of serogroup B meningococcal disease were reported among
+students associated with two US universities, including one fatality. Importantly, the outbreak
+at one university extended across two academic years, showing a sustained transmission within
+that community. At that time, no vaccine for prevention of serogroup B meningococcal
+disease was licensed and available in the US to prevent this serious and life-threatening
+condition. Through an expanded access IND submitted by the Centers for Disease Control and
+Prevention (CDC), BEXSERO was used in vaccination campaigns on both campuses. The
+urgent public health need for a group B meningococcal vaccine prompted FDA to assess
+existing data available from the international clinical development program of BEXSERO, and
+determine if those data could support an expedited approval under the accelerated approval
+regulations (21 CFR 601.40). These regulations authorize FDA to approve products for a
+serious or life-threatening condition upon a determination that the product has an effect on a
+surrogate endpoint that is reasonably likely to predict clinical benefit. For products approved
+under accelerated approval, postmarketing confirmatory trials are required to verify and
+describe the anticipated clinical benefit. As the result of communications between FDA and
+Novartis Vaccines and Diagnostics, Inc., this original Biologics License Application was filed
+with data intended to support an accelerated approval.
+General Description of Clinical Studies
+BEXSERO has been licensed in the EU, Canada and Australia. Data from nine completed
+clinical trials, including six randomized trials and one extension study conducted among
+adolescents and young adults, were provided in the application. The three main
+immunogenicity studies were conducted in Chile, the United Kingdom (UK) and
+Canada/Australia. One study, conducted in the US, contributed safety data only, as
+immunogenicity was tested using assays that are still under development. In addition, two
+small phase I/II studies conducted in Europe contributed safety data (Table 8A). Taken
+together, these trials provide safety and immunogenicity data that support accelerated approval
+of BEXSERO for use in individuals 10 through 25 years of age. Safety data from the
+expanded access IND immunization campaigns, in which serious adverse events were
+monitored up to 30 days following the second dose, were submitted to the BLA as interim and
+final reports. These were reviewed and further supported the safety assessment of BEXSERO
+(Table 8B). Manufacturing consistency was supported by two studies, including a phase III lot
+consistency study conducted in European infants (Table 8C).
+
+13
+
+Table 8A. Clinical Studies of Safety and Immunogenicity in Participants 10 through 24
+Years of Age
+Study
+Age
+Number of
+Country /
+Vaccination Schedule and Design
+subjects
+Region
+receiving at
+least 1 dose
+BEXSERO
+11
+342
+Canada,
+2 doses one month apart
+V72_41
+through
+Australia
+17 years
+Randomized comparison of two lots
+of BEXSERO bridging OMV
+manufactured at Rosia to previous
+manufacturing site.
+18
+974
+United
+2 doses one month apart
+V72_29
+through
+Kingdom
+Randomized, observer-blind,
+24 years
+active-controlled
+11
+1662
+Chile
+2 doses, one and two months apart.
+V72P10
+through
+17 years
+Randomized, observer-blind,
+placebo controlled (first and second
+doses)
+Study included one, two and three
+dose groups on various schedules
+10
+120
+U.S,
+2 doses two months apart
+V102_03
+through
+Poland
+25 years
+Randomized, active controlled
+18
+28
+Switzerland 3 doses one month apart
+V72P5
+through
+40 years
+Phase 1
+18
+53
+Germany,
+3 dose series (0, Month 2, Month 6)
+V72P4
+through
+Italy
+50 years
+Phase 2
+Table 8B. Vaccination Campaigns under Expanded Access IND
+Study
+Age
+Number of
+Country /
+Vaccination Schedule and Design
+subjects
+Region
+receiving at
+least 1 dose
+BEXSERO
+5520
+US
+Open label. Expanded access IND
+V72_68TP 16-65
+years
+immunization campaign
+9831
+US
+Open label. Expanded access IND
+V72_70TP 16-68
+years
+immunization campaign
+
+14
+
+Table 8C. Clinical Studies of Manufacturing Consistency
+Study
+Age
+Number of
+Country /
+Vaccination Schedule and Design
+subjects
+Region
+receiving at
+least 1 dose
+BEXSERO
+Infants
+2480
+Europe
+Phase 3 lot-to-lot consistency study
+V72P13
+Randomized, active control
+
+V72P16
+
+Infants
+
+367
+
+Europe
+Argentina
+Chile
+
+3 doses (2 mo, 4mo, 6 mo)
+Routine immunizations
+Phase 2 dose ranging study
+3 doses (2mo, 3mo, 4mo)
+Routine immunizations
+
+Vaccine Effectiveness
+Evaluating the effectiveness of vaccines for prevention of serogroup B meningococcal disease
+is challenging. Clinical end-point efficacy studies are not feasible due to low rates of
+meningococcal disease. At the VRBPAC meeting held April 7, 2011, the committee
+supported the use of hSBA to evaluate effectiveness of protein-based meningococcal B
+vaccines. However, antigenic diversity and variable expression of meningococcal surface
+proteins, and limitations in methods developed to bridge immunogenicity data generated using
+specific strains to a broad range of disease isolates, complicate the approach to extrapolating
+effectiveness from immunogenicity.
+Through several meetings and multiple communications between the applicant and CBER,
+different approaches for evaluating effectiveness were examined. The approach agreed upon
+addresses the conditions for accelerated approval by providing data to demonstrate the likely
+benefit of the vaccine: a) the vaccine stimulates the production of antigen-specific bactericidal
+antibodies; and b) individuals develop an immune response that is active against multiple
+strains. Further clinical development post-licensure would provide confirmation that the
+vaccine will induce an immune response that is protective against a broad range of diverse
+strains responsible for endemic and epidemic meningococcal disease in the US. CBER
+determined that the available immunogenicity data from completed clinical trials could be
+analyzed using modified immunogenicity end-points that address more definitively the criteria
+described above to support accelerated approval. Subsequently, effectiveness will be
+evaluated in confirmatory studies that will assess the bactericidal activity of NHBA, fHbp,
+NadA, and PorA P1.4 specific antibodies and the effectiveness of BEXSERO against a broad
+panel of N. meningitidis serogroup B strains (approximately 100) that have been isolated from
+people with invasive disease.
+
+15
+
+Clinical Immunogenicity Data
+In pre-clinical and clinical studies, specific antibody responses were demonstrated to each of
+the antigens in BEXSERO: NHBA, fHbp, NadA, and PorA P1.4. To assess effectiveness for
+this accelerated approval, bactericidal responses to three of these antigens were evaluated in
+individuals 11 through 24 years of age following 2 doses of BEXSERO. Serum bactericidal
+antibodies were measured with hSBA assays using three strains selected to measure responses
+to one of three vaccine antigens, either fHbp, NadA or PorA P1.4, prevalent among strains in
+the US. A suitable strain for quantifying bactericidal activity of NHBA-specific antibodies
+was not available. Studies assessed the proportion of subjects who achieved a 4-fold or greater
+increase in hSBA titer for each of the three strains (measuring the immunogenicity of the
+vaccine components), and the proportion of subjects with a titer greater than or equal to the
+lower limit of quantitation (LLOQ) of the assay for all three strains (composite response used
+to show the proportion of vaccinees with quantifiable serum bactericidal antibodies to all three
+indicator strains). The LLOQ was defined as the lowest amount of the antibody in a sample
+that can be reliably quantified.
+In a clinical trial conducted in Canada and Australia, adolescents 11 through 17 years of age
+received two doses of BEXSERO one month apart. The hSBA responses one month after the
+second dose are shown in Table 9.
+Table 9: Bactericidal Antibody Response Rates Following 2 Doses of BEXSERO
+Administered 1 Month Apart to Canadian and Australian Adolescents a, b
+≥ 4-Fold hSBA Response 1 Month Post Dose 2b, c
+Strain (Antigen)
+
+N
+
+%
+
+95% CI
+
+H44/76 (fHbp)
+
+298
+
+98
+
+95, 99
+
+5/99 (NadA)
+
+299
+
+99
+
+98,100
+
+NZ98/254 (PorA P1.4)
+
+298
+
+39
+
+33,44
+
+N
+
+%
+
+95% CI
+
+299
+298
+
+0
+63
+
+57, 68
+
+Composite hSBA Responsec, d
+Time point
+Baseline (pre-vaccination)
+1 Month Post Dose 2
+
+NCT 01423084
+Abbreviations: CI = Confidence interval; hSBA = Serum bactericidal activity measured using human complement; LLOQ = Lower limit of
+quantitation
+a
+Evaluable Immunogenicity Population (11 through 17 years of age)
+b
+≥ 4-fold hSBA response is defined as: a post-vaccination hSBA ≥ 1:16 for participants with pre-vaccination hSBA <1:4, a
+post-vaccination titer at least 4-fold the LLOQ for participants with pre-vaccination hSBA ≥1:4 but < LLOQ, and a postvaccination 4-fold rise for participants with pre-vaccination hSBA ≥ LLOQ.
+c
+LLOQ = 1:16 for H44/76; 1:16 for 5/99; 1:8 for NZ98/254.
+d
+Composite hSBA Response means hSBA ≥ LLOQ for all 3 indicator Meningococcal B strains.
+
+16
+
+In a randomized, controlled clinical trial conducted in the UK among university students 18
+through 24 years of age, hSBA responses in a subset of participants who received BEXSERO
+were measured 1 month and 11 months after the second dose (Table 10).
+Table 10: Bactericidal Antibody Response Rates Following 2 Doses of BEXSERO
+Administered 1 Month Apart to University Students in the UKa
+≥4-Fold hSBA Response 1 Month Post Dose 2b, c
+Strain (Antigen)
+
+N
+
+%
+
+95% CI
+
+H44/76 (fHbp)
+
+148
+
+78
+
+71, 85
+
+5/99 (NadA)
+
+148
+
+94
+
+89, 97
+
+NZ98/254 (PorA P1.4)
+
+147
+
+67
+
+58, 74
+
+Composite hSBA Responsec, d
+Time point
+
+N
+
+%
+
+95% CI
+
+Baseline (pre-vaccination)
+1 Month Post Dose 2
+
+186
+147
+
+24
+88
+
+18, 30
+82, 93
+
+11 Months Post Dose 2
+
+136
+
+66
+
+58, 72
+
+NCT 01214850
+Abbreviations: CI = Confidence interval; hSBA = Serum bactericidal activity measured using human complement; LLOQ
+=Lower limit of quantitation
+a
+Evaluable Immunogenicity Population (18 through 24 years of age)
+b
+≥ 4-fold hSBA response is defined as: a post-vaccination hSBA ≥ 1:16 for participants with pre-vaccination hSBA <1:4, a
+post-vaccination titer at least 4-fold the LLOQ for participants with pre-vaccination hSBA ≥1:4 but < LLOQ, and a postvaccination 4-fold rise for participants with pre-vaccination hSBA ≥ LLOQ.
+c
+LLOQ = 1:16 for H44/76; 1:8 for 5/99; 1:16 for NZ98/254.
+d
+Composite hSBA Response means hSBA ≥ LLOQ for all 3 indicator Meningococcal B strains.
+
+BEXSERO was immunogenic in both study populations. The immunogenicity data presented
+above are from different studies and were generated in two different laboratories: the ---(b)(4)-------------- (Canada/Australia) and the -----------(b)(4)--------------------- (UK), however they
+suggest that the two populations differ in baseline sero-positivity to the serogroup B strains
+tested. Higher baseline titers were also observed in Chilean adolescents 11 through 17 years
+of age indicating that population differences besides age affect both baseline titers and hSBA
+responses. Across three trials, the composite hSBA immune response one month after the
+second dose was 63% to 94% (studies in Canada/Australia, and Chile respectively) and in the
+UK, the composite response eleven months after the second dose remained significantly above
+baseline. These immunogenicity data support that effectiveness providing clinical benefit is
+likely in individuals 10 to 25 years of age following vaccination with two doses of BEXSERO
+at least one month apart.
+
+17
+
+Clinical Serology Assays
+The benefit of the vaccine is based on the ability of the vaccine to induce serum bactericidal
+antibody responses as measured by an hSBA assay. The methodology, performance and
+quality of the hSBA assays used for the clinical studies in this application were supported with
+detailed methodologies and validation reports. The assays were found to perform adequately
+for their intended use.
+Bioresearch Monitoring
+The CBER Bioresearch Monitoring (BIMO) Branch issued six high-priority foreign
+inspections for three pivotal trials in support of this BLA. The inspections of one study,
+V72P10, contributed to the Agency requesting that the Sponsor revise its reactogenicity rates.
+The inspections for two other pivotal studies, V72_29 and V72_41, did not reveal significant
+problems that impact the data submitted in this application.
+Pediatric Research Equity Act (PREA)
+In accordance with PREA, the requirement for studies in children ages 0 to less than 6 weeks
+was waived because use of BEXSERO in this age group does not represent a meaningful
+therapeutic benefit over initiating vaccination at 6 weeks of age and BEXSERO is not likely to
+be used in a substantial number of pediatric patients in this group.
+Studies in children ages 6 weeks to <10 years were deferred because the product was ready for
+regulatory approval for use in adolescents and young adults before studies in children age 6
+weeks to <10 years were completed. The requirement for studies in children 10 to <17 years
+of age was fulfilled by studies in this application.
+
+7.
+
+Safety
+
+Safety of BEXSERO
+The safety of BEXSERO was evaluated in 3,139 subjects enrolled in randomized clinical trials
+conducted in Canada, Australia, UK, Chile, US, Poland, Switzerland, Germany, and Italy.
+These subjects received at least one dose of BEXSERO and provided post-vaccination safety
+data. Additional serious adverse event safety data from 15,351 BEXSERO recipients who
+participated in vaccination campaigns sponsored by the CDC at two US universities were
+reviewed.
+Revised analyses of local and systemic reactogenicity rates for the four main trials were
+requested to address FDA (BIMO) inspection findings and patterns of solicited reaction data in
+the BLA suggesting that data was not obtained solely from source documents. The revised
+reactogenicity rates were similar to the original analyses and demonstrated that the overall
+reactogenicity findings were similar across studies.
+Common adverse reactions across trials included injection site pain, injection site erythema,
+myalgia, malaise, and headache. Unsolicited adverse events that were reported among at least
+2% of participants and were more frequently reported in BEXSERO recipients than in control
+recipients were injection site pain, headache, and injection site induration unresolved within 7
+days, and nasopharyngitis.
+
+18
+
+In the clinical trials, serious adverse events were rare following BEXSERO vaccination and
+had etiologies unrelated to vaccination. Juvenile arthritis was reported ~5-6 months following
+the last vaccination in two study participants, one of whom had symptoms that predated
+vaccination. One case of acute thyroiditis was reported ~ 3 weeks following last vaccination;
+this subject also has symptoms consistent with this diagnosis that began before vaccination.
+One case of anaphylaxis was reported in the CDC vaccination campaigns which occurred
+within 30 minutes of the first BEXSERO vaccination, and was considered related to
+vaccination by both the investigator and the reviewer. There were no additional cases of
+anaphylaxis related to vaccination in the clinical trials evaluated as part of this BLA.
+The safety data submitted indicate that local and systemic reactogenicity is common, and the
+observed frequency and severity following immunization with BEXSERO was greater than
+that seen following administration of a control or comparator vaccines. In the majority of
+individuals, local and systemic symptoms were mild and resolved. The type of unsolicited and
+severe adverse events reported in subjects 10 through 25 years of age were consistent with
+events commonly observed in adolescents and young adults in the US, and the one case of
+anaphylaxis, considered related to vaccination, did not occur at a frequency greater than that
+seen following other immunizations administered to this age group.
+Subgroup Demographic Analyses
+The observed rates of adverse events across different demographic groups based on race,
+gender, and age were fairly comparable and consistent with overall safety findings.
+Concomitant vaccination
+Data are not available to establish the safety and immunogenicity of concomitant
+administration of BEXSERO with recommended adolescent vaccines.
+The applicant has committed to submit the clinical study report from a safety and
+immunogenicity study to assess concomitant use of BEXSERO with a second dose of
+Meningococcal (Groups A, C, Y, and W-135) Oligosaccharide Diphtheria CRM197 Conjugate
+vaccine in persons 16 years through18 years of age.
+
+8.
+
+Advisory Committee Meeting
+
+An advisory committee meeting was not convened during the review of this original BLA. A
+VRBPAC meeting was held April 7, 2011, to discuss approaches to demonstrate effectiveness
+of meningococcal serogroup B vaccines. At this meeting, the committee concluded that serum
+bactericidal antibody levels induced by a meningococcal serogroup B vaccine as measured by
+hSBA assays are an appropriate measure of vaccine effectiveness. The committee agreed that
+genetic diversity and range of the level of expression of surface proteins among
+meningococcal group B strains adds an additional challenge to ascertaining effectiveness of
+meningococcal group B vaccines, such as BEXSERO, against the diverse population of
+circulating serogroup B strains. The committee discussed possible strategies for assessing
+breadth of coverage of a meningococcal serogroup B vaccine. Novartis will further address
+breadth of coverage as part of their confirmatory studies.
+
+19
+
+9.
+
+Other Relevant Regulatory Issues
+
+Not Applicable
+
+10. Labeling
+The proprietary name BEXSERO was reviewed by the Advertising and Promotional Labeling
+Branch, CBER, and found acceptable.
+The labels for the carton and container were reviewed. All issues, including required revisions,
+were resolved after exchange of information and discussions with the applicant.
+The prescribing information was reviewed and specific comments on the labeling were
+provided by CBER to the applicant who made the requested revisions. All issues were
+satisfactorily resolved.
+
+11. Recommendations and Risk/ Benefit Assessment
+a. Recommended Regulatory Action
+The committee recommends approval of the BLA.
+
+b. Risk/ Benefit Assessment
+Based on the data submitted by the applicant to support the safety and effectiveness of
+BEXSERO that have been presented and discussed in this document, as well as the high
+degree of mortality and serious and permanent sequelae associated with meningococcal
+group B invasive disease, the review committee is in agreement that the risk/benefit profile
+for BEXSERO is favorable and supports approval of this BLA.
+
+c. Recommendation for Postmarketing Risk Management Activities
+The applicant will conduct routine surveillance reported in accordance with 21 CFR 600.80.
+
+d. Recommendation for Postmarketing Activities
+Post-marketing Requirements
+• In accordance with the accelerated approval regulations, confirmatory studies in the
+post-marketing period are being conducted to confirm the effectiveness of BEXSERO
+against diverse meningococcal group B strains that are epidemiologically relevant in
+US adolescents and young adults. The confirmatory studies will evaluate the ability of
+BEXSERO to elicit hSBA responses against four indicator strains and hSBA responses
+against an additional large panel (~100) of invasive disease isolates.
+• Studies in children ≥ 6 weeks to <10 years of age will be conducted to fulfill PREA
+requirements.
+Post-marketing Commitments
+• The applicant will submit the clinical study report from a safety and immunogenicity
+study to assess concomitant use of BEXSERO with a second dose of Meningococcal
+
+20
+
+•
+
+(Groups A, C, Y, and W-135) Oligosaccharide Diphtheria CRM197 Conjugate Vaccine
+in persons 16 years through 18 years of age.
+The applicant committed to establish a pregnancy registry for BEXSERO in the U.S. to
+collect prospective data on pregnancy and birth outcomes following exposures to
+BEXSERO occurring within 30 days prior to the last menstrual period or at any time
+during pregnancy. The applicant will submit annual reports as well as a three-year
+summary report.
+
+12. References
+1. WHO. 2011. Meningococcal vaccines: WHO position paper, November 2011 [Online].
+Available: http://www.who.int/wer/2011/wer8647.pdf [Accessed March 14, 2014
+2014]
+2. CDC. Prevention and Control of Meningococcal Disease: Recommendations of the
+Advisory Committee on Immunization Practices (ACIP). MMWR 2013;62(RR02);122.
+3. CDC. Active Bacterial Core Surveillance (ABCs) Report: Neisseria meningitidis,
+2012.
+4. Wang X, Cohn, A., Comanducci, M., et al. Prevalence and genetic diversity of
+candidate vaccine antigens among invasive N. meningitidis isolates in the United
+States. Vaccine 2011; 29:4739-4744.
+
+21
+
+

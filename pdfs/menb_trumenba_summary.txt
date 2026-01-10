@@ -1,0 +1,686 @@
+Summary Basis for Regulatory Action
+Date: March 13, 2017
+From: CDR Mike Smith, Ph.D., Chair of the Review Committee
+BLA/ STN#: 125549/173
+Applicant Name: Wyeth Pharmaceuticals, Inc., a subsidiary of Pfizer, Inc.
+Date of Submission: May 13, 2016
+Goal Date: March 13, 2017
+Proprietary Name/Established Name: Trumenba®/Meningococcal Group B
+Vaccine
+Indication: Active immunization to prevent invasive disease caused by
+Neisseria meningitidis serogroup B. Trumenba is approved for use in individuals 10
+through 25 years of age.
+Recommended Action:
+The Review Committee recommends approval of this Clinical Efficacy Supplement to
+include data from two confirmatory clinical studies to verify and describe the clinical
+benefit of the three-dose schedule (a dose administered at 0, 1-2, and 6 months) of
+Trumenba. Also, we recommend approval of the Applicant’s request to include data
+from a study to further describe the safety of Trumenba in persons 10 years to less than
+26 years of age, and a study to assess the concomitant use of Trumenba with
+Meningococcal (Groups A, C, Y and W-135) Polysaccharide Diphtheria Toxoid
+Conjugate Vaccine and Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular
+Pertussis Vaccine, Adsorbed in persons 10 years to less than 13 years of age. We
+approved BLA STN 125549/0 on October 29, 2014, under 21 CFR 601 Subpart E for
+Accelerated Approval of Biological Products for Serious or Life-Threatening Illnesses.
+Approval of this supplement fulfills the Applicant’s postmarketing requirements 1 and 2
+for the three-dose schedule for Trumenba under 21 CFR 601.41 and their postmarketing
+commitments 6 and 7, identified in the October 29, 2014, approval letter for STN
+125549/0 for Trumenba. Lastly, we also recommend approval of revisions to the
+package insert labeling to comply with the 2014 Final Rule, Content and Format of
+Labeling for Human Prescription Drug and Biological Products; Requirements for
+Pregnancy and Lactation Labeling.
+Review Office Signatory Authority: Wellington Sun, M.D., Director, Division of
+Vaccines and Related Products Applications, Office of Vaccines Research and Review
+√ I concur with the summary review.
+□ I concur with the summary review and include a separate review to
+add further analysis.
+
+□ I do not concur with the summary review and include a separate
+review.
+The table below indicates the material reviewed when developing the SBRA.
+Document title
+Clinical Review
+• Clinical (OVRR/DVRPA)
+Statistical Reviews
+• Clinical data (OBE/VEB)
+• Non-clinical data (OBE/VEB)
+CMC Reviews
+• Clinical serology (OVRR/DBPAP)
+• Clinical serology (OVRR/DBPAP)
+
+Reviewer name, Document date
+Suyoung (Tina) Chang, M.D. (3/12/2017)
+Lei Huang, Ph.D. (3/10/2017)
+Tsai-Lien Lin, Ph.D. (3/1/2017)
+Leslie Wagner (2/22/2017)
+Freyja Williams (10/21/2016)
+
+1. Introduction
+This Clinical Efficacy Supplement was submitted on May 13, 2016, to the
+Biologics License Application (BLA) for Trumenba to include the final Clinical
+Study Reports for the accelerated approval required studies: two confirmatory
+studies (B1971009 and B1971016), and two postmarketing commitments: a
+safety study (B1971014) and a concomitant use study with Adacel and Menactra
+(B1971015). These four studies were postmarketing requirements or
+commitments under the original approval of the three-dose schedule (a dose
+administered according to a 0, 2, and 6 month schedule).
+2. Background
+Trumenba is a bivalent meningococcal group B vaccine that contains two factor H
+binding proteins (fHBP) from Neisseria meningitidis (N. meningitidis)
+serogroup B. fHBP is a conserved, outer membrane lipoprotein and a virulence
+factor that contributes to the ability of the bacteria to avoid host defenses.
+On June 16, 2014, Wyeth Pharmaceuticals, Inc. (U.S. license 0003), a subsidiary
+of Pfizer Inc., submitted BLA 125549 for licensure of Meningococcal Group B
+Vaccine (Trumenba). Trumenba was approved on October 29, 2014, under the
+accelerated approval regulations (21 CFR 601.4o-46) for active immunization to
+prevent invasive disease caused by N. meningitidis serogroup B in individuals 10
+through 25 years of age. Under this approval, the Applicant was required to
+conduct adequate and well-controlled studies (B1971009 and B1971016) to verify
+and describe the clinical benefit attributable to this product by demonstration of
+effectiveness against diverse meningococcal group B strains. Additionally, the
+Applicant was required to conduct three pediatric studies and committed to
+conducting three postmarketing studies: to further describe the safety of
+Trumenba in persons 10 years to less than 26 years of age (B1971014), to assess
+the concomitant use of Trumenba with Menactra and Adacel and in persons 10
+2
+
+years to less than 13 years of age (B1971015) and a cohort study to examine
+pregnancy and birth outcomes following vaccination with Trumenba prior to or
+during pregnancy (B1971052).
+On March 27, 2015, the Applicant submitted a Clinical Efficacy Supplement (STN
+125549/17) to revise the dosing regimen. The FDA approved the supplement on
+April 14, 2016, to include a two-dose schedule (a dose administered at 0 and 6
+months) under the regulations for accelerated approval, 21 CFR 601.40-46. The
+approval also included a modification of the three-dose schedule (that had been
+approved under the original BLA according to the regulations for accelerated
+approval) from administration at 0, 2, and 6 months to administration at 0, 1-2,
+and 6 months.
+3. Clinical/Statistical/Pharmacovigilance
+a) Clinical Program
+(Extracted in part from Dr. Tina Chang’s clinical review)
+This supplement contains clinical data from four studies (B1971009,
+B1971016, B1971014 and B1971015) that were ongoing at the time of the
+original Trumenba BLA approval.
+•
+
+Studies B1971009 and B1971016 were confirmatory Phase 3 studies
+that were conducted in subjects 10 to <18 years of age and 18 to <26
+years of age, respectively, as postmarketing requirements (PMRs)
+for accelerated approval of the Trumenba three-dose schedule (0, 2,
+and 6 months). Lot consistency was also evaluated as part of study
+B1971009.
+
+•
+
+Study B1971014 was a Phase 3 safety study conducted in persons 10
+years to <26 years of age.
+
+•
+
+Study B1971015 was a Phase 2 study that assessed concomitant use
+of Trumenba with Meningococcal (Groups A, C, Y, and W-135)
+Polysaccharide Diphtheria Toxoid Conjugate Vaccine (MCV4) and
+Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis
+Vaccine Adsorbed (Tdap) in persons 10 years to <13 years of age.
+
+All four studies, B1971009, B1971016, B1971014, and B1971015, were
+randomized, controlled, observer-blinded studies. Study B1971014
+evaluated only safety while the other three studies evaluated safety and
+immunogenicity. Additionally, studies B1971009 and B1971016 were
+conducted in the U.S., Canada and Europe, study B1971014 was conducted
+in the U.S. and Europe, and study B1971015 was conducted only in the
+U.S.
+
+3
+
+Table 1. Clinical Trials
+Study #
+(Region)
+
+Study Objectives
+
+Age
+(years)
+
+Study Groups
+
+B1971009
+(U.S.,
+Canada and
+Europe)
+
+Safety and
+Immunogenicity of
+Trumenba
+
+10 to <19
+
+Group 1: Lot 1 Trumenba
+Group 2: Lot 2 Trumenba
+Group 3: Lot 3 Trumenba
+Group 4: HAV/Saline
+
+Number of
+Randomized
+Subjects
+1509
+600
+589
+898
+
+18 to <26
+
+Group 1: Trumenba
+
+2480
+
+Group 2: Saline
+
+824
+
+B1971016
+(U.S.,
+Canada, and
+Europe)
+B1971014
+(U.S. and
+Europe)
+B1971015
+(U.S.)
+
+Lot-to-lot consistency
+Safety and
+immunogenicity of
+Trumenba
+Safety of Trumenba
+
+10 to <26
+
+Group 1: Trumenba
+Group 2: HAV/Saline
+
+3804
+1908
+
+Safety and
+Immunogenicity of
+MCV4 and Tdap coadministered with
+Trumenba
+
+10 to <13
+
+Group 1:
+MCV4+Tdap+Trumenba
+
+888
+
+Group 2:
+MCV4+Tdap+Saline
+
+878
+
+Group 3:
+Saline+Saline+Trumenba
+
+882
+
+MCV4 = Meningococcal (Groups A, C, Y, and W-135) Polysaccharide Diphtheria Toxoid
+Conjugate Vaccine (Menactra)
+Tdap = Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine
+Adsorbed (Adacel)
+HAV = Hepatitis A Vaccine, Inactivated (Havrix)
+
+Immunogenicity
+The effectiveness of Trumenba against diverse N. meningitidis serogroup
+B strains was inferred by human serum bactericidal activity (hSBA)
+responses using 14 test strains (four primary strains and 10 secondary
+strains) in the two confirmatory Phase 3 studies. As mentioned above,
+these studies were ongoing at the time the original Trumenba BLA was
+approved and conducted with the original three-dose schedule (a dose
+administered at 0, 2, and 6 months). These studies confirmed the
+effectiveness through an evaluation using the same four diverse strains
+that were evaluated in the Phase 2 studies reviewed under the original BLA
+as well as a further description of responses to an additional 10 strains to
+confirm breadth of coverage of the vaccine against this panel of diverse
+strains. The primary objectives and analyses for the Phase 3 studies were
+to assess the hSBA response to each primary strain and to all of the
+primary strains to provide pivotal evidence of effectiveness. We consider
+these studies as adequately designed for confirmation of effectiveness to
+support traditional approval of the vaccine.
+
+4
+
+Primary strains:
+Evaluation of hSBA responses using four primary meningococcal
+serogroup B (MenB) strains expressing variants A22, A56, B24 and B44
+was the primary objective for the confirmatory studies. The selection of
+the four primary strains included the most prevalent fHBP variants from
+each family in the U.S. (A22 and B24). The two additional primary strains
+represent genetically diverse fHBP variants. The five co-primary
+endpoints and corresponding data are summarized below. The prespecified primary immunogenicity endpoints were met in both studies.
+Table 2. Study B1971009 and Study B1971016. Percentage of
+Participants with a ≥4-Fold Increase in hSBA Titer and Composite
+Response – Evaluable Immunogenicity Population.
+
+fHBP
+varianta
+A22
+A56
+B24
+B44
+
+Subjects ≥10 to <19 years
+U.S. %b
+U.S. +
+Pre(95% CI)
+Europe %b
+specified
+(95% CI)
+Lower
+Bound of
+95% CI
+Thresholdd
+
+Subjects 18 to <26 years of age
+U.S. %b
+U.S. +
+Pre(95% CI)
+Europe %b
+specified
+(95% CI)
+Lower
+Bound of
+95% CI
+Thresholdd
+
+86.2
+(83.1, 88.9)
+92.0
+(89.4, 94.2)
+81.9
+(78.5, 84.9)
+
+83.2
+(81.0, 85.2)
+90.2
+(88.4, 91.9)
+79.8
+(77.4, 82.0)
+
+88.3
+(85.3,
+90.8)
+
+85.9
+(83.8,
+87.8)
+
+81.1
+(77.8, 84.0)
+90.7
+(88.1, 92.8)
+83.9
+(80.8,
+86.7)
+79.3
+(76.0, 82.4)
+
+75%
+85%
+65%
+60%
+
+80.5
+(78.6, 82.4)
+90.0
+(88.4, 91.4)
+79.3
+(77.3, 81.2)
+79.6
+(77.6, 81.5)
+
+55%
+85%
+50%
+60%
+
+Composite
+85.7
+83.5
+75%
+82.4
+84.9
+60%
+(≥LLOQ
+(82.4,
+(81.3, 85.6)
+(79.2, 85.3) (83.1, 86.6)
+for all 4
+88.5)
+variants)c
+Source: Adapted from STN 125549/173; B1971009 study body report, Table 20, page 108, Table 21,
+page 109 and from B1971016 study body report, Table 18, page 97 and Table 19, page 98.
+hSBA = serum bactericidal assay using human complement; N= the number of subjects with valid
+and determinate hSBA titers for the given strain at both the specified time point and baseline;
+LLOQ = lower limit of quantitation; CI = confidence interval
+Note: LLOQ = 1:16 for A22; 1:8 for A56, B24, and B44.
+a The strains expressing variant A22, A56, B24, and B44 correspond to strains PMB80, PMB2001,
+PMB2948, and PMB2707, respectively.
+b ≥4-fold increase in hSBA titer: %=n/N = number of subjects with a hSBA fold rise ≥4 from
+baseline (pre-Vaccination #1) for the given strain/ number of subjects with valid and determinate
+hSBA titers for the given strain at both the specified time point and baseline. A ≥4-fold increase in
+hSBA titer is defined as follows: (1) For subjects with a baseline hSBA titer <1:4, a response was
+defined as an hSBA titer ≥1:16. (2) For subjects with a baseline hSBA titer ≥1:4, a 4-fold response
+
+5
+
+was defined as an hSBA titer ≥4 times the LLOQ or ≥4 times the baseline titer, whichever was
+higher.
+c Composite hSBA response (hSBA ≥ LLOQ for all four primary strains: %=n/N = number of
+subjects with observed hSBA titer ≥ LLOQ for all four primary strains at the given time point/
+number of subjects with valid and determinate hSBA results on all four strains at the given time
+point.
+d If the lower bound of the 95% CI is greater than the corresponding threshold, the immunogenicity
+objective with respect to that endpoint is achieved. The primary study objective requires this
+criterion to be met for all five co-primary endpoints.
+
+Secondary strains:
+hSBA responses against the following 10 diverse meningococcal group B
+strains (secondary strains) was a descriptive, secondary objective in the
+two Phase 3 confirmatory studies: PMB3010 (A06), PMB3040 (A07),
+PMB824 (A12), PMB1672 (A15), PMB1989 (A19), PMB3175 (A29),
+PMB1256 (B03), PMB866 (B09), PMB431 (B15), and PMB648 (B16). The
+descriptive assessment of serum bactericidal antibodies against these
+additional strains further describes effectiveness against circulating strains
+expressing protein variants that differ from the primary strains.
+For subjects 10 to <18 years of age (study B1971009), the proportion of
+subjects with a hSBA titer ≥LLOQ one month after Vaccination #3 with
+Trumenba were 76.1% to 98.9% for U.S. subjects and 75.1% to 98.6% for
+all subjects (U.S. and Europe), depending on the strain. For subjects 18 to
+<26 years of age (study B1971016), the proportion of subjects with a hSBA
+titer ≥LLOQ one month after Vaccination #3 with Trumenba was 66.7% to
+98.8% for U.S. subjects and 71.3% to 99.3% for all subjects (U.S. and
+Europe), depending on the strain.
+The hSBA responses to primary strains were not necessarily predictive of
+responses to secondary strains. Overall, the immunogenicity data from
+B1971009 and B1971016 verify and further describe the clinical benefit of
+Trumenba administered as a three-dose series (o, 1-2, and 6 months), to
+induce bactericidal antibodies against diverse MenB strains.
+Lot consistency
+The lot consistency was evaluated in study B1971009 and the objective was
+met. The 2-sided 95% CIs on the hSBA GMT ratios between any 2 of the 3
+Trumenba lots using MenB strains PMB80 (A22) and PMB2948 (B24)
+were tested with a 2-fold margin and the results were within the prespecified interval (0.5, 2.0), one month after Vaccination #3.
+Concomitant vaccination
+No immunological interference with meningococcal hSBA responses was
+observed when Trumenba was administered concomitantly with Menactra
+and Adacel vaccines compared to hSBA responses when Trumenba was
+6
+
+administered alone (study B1971015). Immune responses were evaluated
+by comparisons of GMTs for each of the Menactra and Adacel antigens one
+month after the first Trumenba vaccination, and hSBA GMTs using two
+MenB strains (variants A22 and B24) one month after the third Trumenba
+vaccination. The non-inferiority criteria for the comparisons of GMTs
+(lower limit of the 2-sided 95% CI of the GMT ratio (Group 1/Group 3 for
+MenB strains and Group 1/Group 2 for MCV4 and Tdap) > 0.67) were met
+for all antigens.
+Clinical serology assays
+The performance of each serological assay was evaluated and deemed
+appropriate for its intended use in the studies submitted to this
+application.
+•
+•
+•
+
+The primary strains were validated and the secondary strains were
+qualified for the hSBA assays.
+Serum bactericidal assays (using (b) (4) complement (rSBA) and the
+(b) (4)
+IgG assay) were used to assess the responses to the
+polysaccharides in Menactra.
+The (b) (4) IgG assay was used to quantitate antibodies against
+pertussis toxin (PT), filamentous hemagglutinin (FHA), pertactin
+(PRN) and fimbriae (FIM) to assess the responses to the
+polysaccharides in Adacel.
+
+Statistical
+There were no major statistical issues related to the submission. Primary
+results were confirmed by independent analyses from the statistical
+reviewer. The pre-specified immunogenicity objectives in the studies
+were met and supported the approval of the vaccine.
+b) Pediatrics
+This supplement did not contain a pediatric assessment.
+4. Chemistry, Manufacturing and Controls (CMC)
+The product has not changed since the original BLA was approved and no new
+CMC information was submitted to this supplement.
+5. Nonclinical Pharmacology/Toxicology
+N/A
+
+7
+
+6. Clinical Pharmacology
+N/A
+7. Safety
+(Extracted in part from Dr. Tina Chang’s clinical review)
+The safety of Trumenba was evaluated in four randomized, controlled studies
+(B1971009, B1971016, B1971014, and B1971015) in this supplement. A total of
+10,718 subjects received at least one dose of Trumenba and 4,497 subjects were
+included in control groups. The control group in studies B1971009 and B1971014
+received hepatitis A virus vaccine (at 0 and 6 months) and saline (at 2 months).
+The control group in study B1971016 received 3 saline injections (at 0, 2 and 6
+months). In study B1971015, Group 2 received 3 saline injections (at 0, 2, and 6
+months) with Menactra and Adacel at 0 months. Solicited local reactions and
+systemic events were recorded on an e-diary in all studies except in the phase 3
+study B1971014. Because the purpose of study B1971014 was to detect rare safety
+events, e-diaries were not used; therefore, reactogenicity events were reported as
+unsolicited adverse events (AEs).
+Among the 10,718 subjects who received at least one dose of Trumenba, 48.0% of
+subjects were male and 84.3% were Caucasian, 11.6% were African-American,
+1.4% were Asian, and 2.7% were characterized as “other.”
+In general, Trumenba was more reactogenic than the comparator (saline,
+HAV/saline or Menactra +Adacel, depending on the study) for local adverse
+reactions and systemic adverse reactions. The most common solicited adverse
+reactions in adolescents and young adults that occurred in ≥30% were pain at the
+injection site (≥85%), fatigue (≥60%), headache (≥55%) and muscle pain (≥35%).
+In study B1971009, the proportion of subjects reporting AEs that led to study
+withdrawal was 0.82% in the combined Trumenba groups (receiving lots 1, 2 and
+3) and 0.33% in the HAV/saline group. In study B1971016, the proportion of
+subjects reporting AEs that led to study withdrawal was 1.01% in the Trumenba
+group and 0.73% in the saline group. In study B1971014, the proportion of
+subjects reporting AEs that led to study withdrawal was 1.19% in the Trumenba
+group and 0.52% in the HAV/Saline group. In study B1971015, the proportion of
+subjects reporting AEs that led to study withdrawal was 1.4% in Group 1
+(Menactra+Adacel+Trumenba) 0.6% in Group 2 (Menactra+Adacel+saline), and
+0.7% in Group 3 (saline+saline+Trumenba).
+The percentage of subjects with at least 1 SAE occurring during the time period
+from the first study vaccination through 6 months after last study vaccination
+was 1.89% in the HAV/saline group and 2.45% in the combined Trumenba
+groups in study B1971009 and 1.34% in the Trumenba group and 1.34% in the
+saline group for study B1971016. In study B1971014, 1.55% of subjects in Group 1
+8
+
+and 2.52% subjects in Group 2 reported serious adverse events (SAEs)
+throughout the study. In study B1971009 and B1971015, none of the SAEs were
+assessed as related to study vaccination by the investigators. In study B1971016,
+there were 3 (0.12%) SAEs (pyrexia, multiple sclerosis, and dystonia) in the
+Trumenba group and no SAEs in the saline group that were assessed as possibly
+related to study vaccination by the investigators. In study B1971014, there were 2
+(0.05%) SAEs (neutropenia and anaphylactic reaction) in the Trumenba group
+and 2 (0.10%) SAEs (demyelination and spontaneous abortion) in HAV/saline
+group that were assessed as possibly related to study vaccination by the
+investigators.
+Solicited local reactions within 7 days of vaccination
+In adolescents in study B1971009, subjects in the combined Trumenba group
+(Lots #1-3) (93.0%) reported more local reactions than subjects receiving either
+HAV or saline (58.8%). Pain at the injection site was the most commonly
+reported local reaction and was reported in a higher proportion of subjects in the
+combined Trumenba group compared to the HAV/saline group after Vaccination
+#1 (86.7% and 47.0%, respectively), Vaccination #2 (77.7% and 15.2%,
+respectively), and Vaccination #3 (76.0% and 34.0%, respectively). Most cases
+were mild to moderate in severity. Redness at the injection site was reported in a
+higher proportion of subjects in the combined Trumenba group compared to the
+HAV/saline group after Vaccination #1 (16.2% and 1.3%, respectively),
+Vaccination #2 (12.5% and 0.6%, respectively), and Vaccination #3 (13.9% and
+1.1%, respectively). Swelling at the injection site was reported in a higher
+proportion of subjects in the combined Trumenba group compared to the
+HAV/saline group after Vaccination #1 (18.0% and 2.2%, respectively),
+Vaccination #2 (13.9% and 0.6%, respectively), and Vaccination #3 (15.4% and
+0.9%, respectively). In Study 1, mean duration of pain was 2.4 to 2.6 days (range
+1-17 days), for redness 2.0 to 2.2 days (range 1-12 days) and for swelling 2.0 to 2.1
+days (range 1-21 days) in the combined Trumenba group.
+In young adults in study B1971016, subjects in the Trumenba group (90.0%)
+reported more local reactions within 7 days after each vaccination than subjects
+receiving saline (19.2%). Again, pain at the injection site was the most commonly
+reported local reaction and was reported in a higher proportion of subjects in the
+Trumenba group compared to the saline group after Vaccination #1 (84.2% and
+11.8%, respectively), Vaccination #2 (79.3% and 7.8%, respectively), and
+Vaccination #3 (80.4% and 6.7%, respectively). Most cases were mild to
+moderate in severity. Redness at the injection site was reported in a higher
+proportion of subjects in Group 1 compared to Group 2 after Vaccination #1
+(13.8% and 0.6%), Vaccination #2 (11.8% and 0.3%), and Vaccination #3 (17.1%
+and 0.2%). Swelling at the injection site was reported in a higher proportion of
+subjects in Group 1 compared to Group 2 after Vaccination #1 (15.5% and 0.6%),
+Vaccination #2 (14.0% and 0.4%), and Vaccination #3 (16.6% and 0.3%). In
+Study 2, mean duration of pain was 2.6 to 2.8 days (range 1-67 days), for redness
+
+9
+
+2.2 to 2.5 days (range 1-13 days) and for swelling 2.1 to 2.6 days (range 1-70 days)
+in the Trumenba group.
+Solicited systemic reaction within 7 days of vaccination
+In adolescents in study B1971009, a higher proportion of subjects in the
+combined Trumenba group reported any systemic events within 7 days compared
+to the HAV/saline group after Vaccination #1 (74.2% vs 60.4%, respectively),
+Vaccination #2 (59.4% vs 42.7%, respectively) and Vaccination #3 (55.7% vs
+41.4%, respectively). A higher proportion of subjects reported systemic events
+after Vaccination #1 in the combined Trumenba group compared to the
+HAV/saline group (the control group received an injection of HAV) for fever
+(6.4% vs 1.9%), headache (51.8% vs 37.2%), fatigue (54.0% vs 40.3%), chills
+(25.3% vs 17.2%), muscle pain (24.4% vs 19.2%), joint pain (21.9% vs 13.6%), and
+a similar proportion of subjects reported vomiting (3.7% vs 1.9%) and diarrhea
+(10.6% vs 12.1%). After Vaccination #2, a higher proportion of systemic events
+was observed for the combined Trumenba group compared to the HAV/saline
+group (the control group received an injection of saline) for headache (37.8% vs
+28.1%), fatigue (38.3% vs 26.3%), chills (16.0% vs 10.3%), muscle pain (17.8% vs
+10.3%), and joint pain (16.7% vs 9.1%) and a similar proportion for fever (2.0% vs
+1.5%), vomiting (2.2% vs 1.4%) and diarrhea (7.6% vs 9.1%). After Vaccination
+#3, a higher proportion of systemic events was observed for the combined
+Trumenba group compared to the HAV/saline group (the control group received
+an injection of HAV) for headache (35.4% vs 24.8%), fatigue (35.9% vs 24.4%),
+chills (13.1% vs 8.3%), muscle pain (17.6% vs 11.1%), joint pain (16.0% vs 8.9%),
+and a similar proportion for fever (2.7% vs 2.3%), vomiting (1.7% vs 2.2%), and
+diarrhea (7.7% vs 7.6%). Headache and fatigue were the most commonly
+reported systemic events in both groups. Overall a low rate of fever and a low
+rate of antipyretic use were reported in subjects receiving Trumenba and subjects
+receiving HAV vaccine/saline. The mean duration of systemic events was
+generally similar between the subjects receiving Trumenba and subjects receiving
+HAV/saline.
+In young adults in study B1971016, a higher proportion of subjects in the
+Trumenba group reported any systemic events within 7 days compared to the
+saline group after Vaccination #1 (71.6% vs 60.5%, respectively), Vaccination #2
+(56.8% vs 43.6%, respectively) and Vaccination #3 (56.9% vs 36.7%, respectively).
+Fatigue and headache were the most frequently reported systemic events in
+Group 1 and Group 2. After Vaccination #1, a higher incidence of systemic events
+was observed for Group 1 compared with Group 2 for headache (43.9% vs 36.2%),
+fatigue (50.9% vs 39.8%), chills (18.1% vs 9.8%), muscle pain (25.9% vs 14.5%),
+and joint pain (19.6% vs 10.9%). After Vaccination #2, a higher incidence of
+systemic events was observed for Group 1 compared with Group 2 for headache
+(33.1% vs 24.9%), fatigue (39.2% vs 27.3%), chills (12.4% vs 8.5%), muscle pain
+(15.6% vs 8.5%), and joint pain (15.1% vs 6.5%). After Vaccination #3, a higher
+incidence of systemic events was observed for Group 1 compared with Group 2
+for fever (2.0% vs 0.6%), headache (32.5% vs 21.6%), fatigue (39.3% vs 24.5%),
+10
+
+chills (12.6% vs 6.4%), muscle pain (16.9% vs 7.5%), and joint pain (12.6% vs
+5.3%). Overall, a low rate of fever and a low rate of antipyretic use were reported
+in subjects from Group 1 and 2 (2.7% and 0.6%, respectively). The mean
+durations of systemic events were generally similar between the subjects in
+Group 1 and Group 2.
+Autoimmune and neuroinflammatory conditions
+Twelve of 10,718 subjects (0.11%) who received Trumenba reported an
+autoimmune condition and 7 of 10,718 (0.07%) Trumenba recipients reported a
+neuroinflammatory condition. Six of 4,497 (0.13%) subjects categorized as
+controls reported an autoimmune condition and 4 of 4497 (0.09%) subjects
+categorized as controls reported a neuroinflammatory condition for comparison.
+Based on clinical review of individual cases, there was no conclusive evidence of
+excess risk of autoimmune or neuroinflammatory conditions among the overall
+population of Trumenba recipients. Five of the 12 subjects with autoimmune
+conditions had evidence of pre-existing disease prior to vaccination with
+Trumenba. In all, autoimmune and neuroinflammatory conditions reported in
+Trumenba recipients did not suggest a pattern of a common pathophysiological
+mechanism.
+8. Advisory Committee Meeting
+A Vaccines and Related Biologics Products Advisory Committee meeting was not
+held for this supplement, as there were no issues or concerns that presented
+during the course of review of the supplement that required consult from the
+advisory committee.
+9. Other Relevant Regulatory Issues
+The two-dose schedule (a dose administered at 0 and 6 months) was approved on
+April 14, 2016, also under the accelerated approval regulations. As both the twodose and three-dose schedules are mentioned in the package insert (PI), it is
+important to refer to the specific schedule that is being confirmed under this
+supplement (as the two-dose schedule has yet to be verified and further
+described).
+The Applicant submitted post-dose 2 clinical data obtained after month two
+within the three-dose schedule. However, because this supplement was to
+confirm the original three-dose schedule, the immunogenicity data obtained after
+the second dose were not incorporated into the Trumenba PI. Only
+immunogenicity data obtained after the final dose in the series were included in
+the PI.
+
+11
+
+10. Labeling
+(Extracted in part from Dr. Tina Chang’s clinical review)
+During the review of this supplement, changes were made to the following
+sections of the Trumenba PI: Dosage and Administration (2.0), Adverse
+Reactions (6.0), Clinical Trials Experience (6.1), Pregnancy (8.1), Lactation (8.2),
+Immunogenicity (14.1), and Concomitant Vaccine Administration (14.2). No
+changes were made to the carton and container labeling. The notable changes in
+the specific subsections are described below.
+The following statement was added under the Dosage and Administration section
+to provide guidance regarding the two-dose schedule: “If the second dose is
+administered earlier than 6 months after the first dose, a third dose should be
+administered at least 4 months after the second dose.” Revisions were made to
+the Adverse Reactions section to describe the most common solicited adverse
+reactions in adolescents and young adults (from studies B1971009 and B1971016).
+The safety results of two Phase 3 confirmatory studies (B1971009 and B1971016)
+replaced the Phase 2 data in the Clinical Trials Experience section (i.e., four new
+tables containing local and systemic adverse reactions replaced two comparable
+tables). Revisions were made to the Pregnancy and Lactation sections to be
+compliant with the format established by the 2014 Pregnancy and Lactation
+Labeling (PLLR) rule. The immunogenicity results of two Phase 3 confirmatory
+studies replaced the Phase 2 data in the Immunogenicity section (i.e., two new
+tables containing immunogenicity data replaced a comparable table). Additional
+descriptive information was added in the Concomitant Vaccine Administration
+section to describe 1) study 4 (B1971011) with respect to the administration of
+Trumenba with Gardasil that was reviewed under the original BLA and 2) study 5
+(B1971015) with respect to the administration of Trumenba with Menactra and
+Adacel that was reviewed under this supplement. The final draft PI dated March
+10, 2017, was reviewed by the review committee and found to be acceptable.
+11. Recommendations and Risk/Benefit Assessment
+a) Recommended Regulatory Action
+The immunogenicity data from two confirmatory clinical studies B1971009
+and B1971016 confirm the clinical benefit of Trumenba for the primary
+strains and the breadth of coverage against a panel of diverse
+meningococcal group B strains. Thus, this supplement supports a
+recommendation for conversion of the Trumenba three-dose schedule
+(administered at 0, 1-2, and 6 months) from accelerated approval status to
+traditional approval, and removal of the following language from the
+highlights section of the PI: “the effectiveness of Trumenba against diverse
+serogroup B strains has not been confirmed.” In contrast, since the twodose schedule (a dose administered at 0 and 6 months) is still approved
+under the accelerated approval regulations, the following language will be
+12
+
+retained in the highlights section of the PI: “The effectiveness of the twodose schedule of Trumenba against diverse N. meningitidis serogroup B
+strains has not been confirmed.”
+b) Risk/Benefit Assessment
+The risk/benefit assessment of the three dose schedule of Trumenba is
+unchanged.
+c) Recommendation for Postmarketing Activities
+The review team made a determination that no new postmarketing
+commitments or postmarketing requirements were needed.
+
+13
+
+

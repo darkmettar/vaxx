@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Large files (GitHub limit: 100MB)
+pdfs/var_varivax_clinical.pdf

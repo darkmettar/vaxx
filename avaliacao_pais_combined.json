@@ -1,0 +1,2361 @@
+{
+  "generatedAt": "2025-12-14T14:02:14.652Z",
+  "totalVaccines": 22,
+  "vaccines": [
+    {
+      "_sourceFile": "covid19_comirnaty_pais.json",
+      "vaccine": {
+        "name": "Comirnaty",
+        "genericName": "COVID-19 Vaccine, mRNA",
+        "manufacturer": "BioNTech Manufacturing GmbH / Pfizer Inc.",
+        "initialApproval": null,
+        "type": "mRNA",
+        "targetDisease": "COVID-19"
+      },
+      "document": {
+        "sourceFile": "covid19_comirnaty_insert.pdf",
+        "sourceType": "Prescribing Information 2025-2026 Formula",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Study 3 (5-11 anos): 3,109 criancas receberam vacina vs 1,538 placebo. Amostra adequada para detectar eventos comuns, mas limitada para eventos raros.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Mediana de acompanhamento: 1.9 meses (range 0.1-7.5 meses). Insuficiente para avaliar efeitos de longo prazo. Apenas ~8% acompanhados por 4+ meses apos dose 2.",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Placebo salino utilizado (controle adequado). Estudo randomizado, duplo-cego, controlado por placebo.",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa de eventos adversos",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Diario eletronico (e-diary) por 7 dias pos-dose para eventos solicitados. Eventos nao-solicitados coletados por 1 mes. SAEs coletados durante todo o estudo.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Miocardite/pericardite identificados como risco (principalmente homens 12-24 anos: ~27 casos/milhao de doses). Nao ha protocolo especifico de monitoramento neurologico descrito para criancas 5-11.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Dados limitados para criancas com condicoes pre-existentes. Criancas <5 anos nao cobertas neste documento. Estudo excluiu criancas imunocomprometidas.",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados de seguranca detalhados em tabelas. NCT04816643 registrado. Taxas de eventos adversos serios reportadas (0.3% vacina vs 0.1% placebo).",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-mercado",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "VAERS ativo. Eventos pos-comercializacao listados incluindo: miocardite, pericardite, anafilaxia, paralisia facial, parestesia, sincope. Sistema de monitoramento continuo estabelecido.",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "O documento demonstra que a Comirnaty passou por estudos clinicos controlados com tamanho amostral razoavel e metodologia adequada (randomizado, duplo-cego, placebo salino). Os dados de curto prazo mostram perfil de seguranca aceitavel para a maioria das criancas.",
+        "keyFindings": [
+          "Acompanhamento mediano de apenas ~2 meses e insuficiente para uma vacina baseada em tecnologia nova (mRNA) sem historico de uso de longo prazo",
+          "O risco de miocardite, especialmente em adolescentes masculinos, e uma preocupacao real documentada",
+          "Criancas menores de 5 anos e imunocomprometidas nao foram adequadamente estudadas",
+          "Eventos raros podem nao ter sido detectados com o tamanho amostral utilizado"
+        ],
+        "efficacy": "88.2% (IC 95%: 76.2-94.7) em criancas 5-11 anos",
+        "parentQuestion": "Para pais buscando confianca total na seguranca de longo prazo, este documento nao fornece essa garantia devido ao acompanhamento limitado e a novidade da tecnologia. A decisao deve considerar o risco individual da crianca para COVID-19 grave versus os riscos conhecidos e desconhecidos da vacina."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "den_dengvaxia_pais.json",
+      "vaccine": {
+        "name": "Dengvaxia",
+        "genericName": "Dengue Tetravalent Vaccine, Live",
+        "manufacturer": "Sanofi Pasteur",
+        "initialApproval": null,
+        "type": "Live",
+        "targetDisease": "Dengue"
+      },
+      "document": {
+        "sourceFile": "den_dengvaxia_statistical.pdf, den_dengvaxia_insert.pdf",
+        "sourceType": "Statistical Review + Package Insert",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "APROVAÇÃO CONDICIONAL COM RESTRIÇÕES CRÍTICAS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediátrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Excelente: >31.000 crianças nos estudos pivotais (CYD14: 10.275 sujeitos de 2-14 anos; CYD15: 20.869 sujeitos de 9-16 anos)",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duração do acompanhamento",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Excelente: Fase ativa de ~25 meses + acompanhamento hospitalar de até 72 meses (6 anos)",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparação",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Estudo randomizado controlado por placebo (solução salina 0.9%) com proporção 2:1 (vacina:placebo)",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Monitoramento ativo de segurança",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Presente: Vigilância ativa de eventos adversos solicitados por 14 dias pós-vacinação e eventos não solicitados por 28 dias",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurológico",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Presente: Monitoramento específico de eventos adversos graves incluindo manifestações neurológicas",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneráveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "ALERTA CRÍTICO: Crianças <6 anos e soronegativos têm RISCO AUMENTADO de dengue grave pós-vacinação (HR 3.94 para hospitalizações em soronegativos)",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparência dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados de eficácia e segurança reportados por faixa etária e status sorológico basal",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilância pós-comercialização",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "FDA exige monitoramento contínuo e restrições rigorosas de uso",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "A Dengvaxia apresenta dados robustos de estudos clínicos com amostras grandes e acompanhamento prolongado. Entretanto, existe uma preocupação de segurança crítica: a vacina está CONTRAINDICADA para crianças menores de 6 anos e indivíduos sem infecção prévia por dengue (soronegativos).",
+        "keyFindings": [
+          "Crianças menores de 6 anos - risco aumentado de dengue grave",
+          "Indivíduos sem infecção prévia por dengue (soronegativos) - risco 3-4x maior de hospitalização por dengue grave após vacinação",
+          "A aprovação do FDA é restrita a indivíduos de 6-16 anos com infecção prévia por dengue confirmada laboratorialmente",
+          "A vacinação de pessoas sem imunidade prévia pode paradoxalmente aumentar o risco de doença grave através de um mecanismo semelhante ao ADE (Antibody-Dependent Enhancement)"
+        ],
+        "efficacy": null,
+        "parentQuestion": "EXIGIR teste laboratorial de infecção prévia por dengue antes da vacinação. NÃO VACINAR crianças menores de 6 anos. NÃO VACINAR crianças sem histórico confirmado de dengue. Vacina pode ser apropriada APENAS para crianças de 6-16 anos que já tiveram dengue confirmada e vivem em áreas endêmicas."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "dtap_daptacel_pais.json",
+      "vaccine": {
+        "name": "DAPTACEL",
+        "genericName": "Difteria, Tetano e Coqueluche Acelular",
+        "manufacturer": "Sanofi Pasteur",
+        "initialApproval": null,
+        "type": "Acelular",
+        "targetDisease": "Difteria, Tetano e Coqueluche"
+      },
+      "document": {
+        "sourceFile": "dtap_daptacel_insert.pdf",
+        "sourceType": "Bula FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Aproximadamente 18.000 doses administradas em 9 estudos clinicos. O estudo principal da Suecia (Sweden I Efficacy Trial) incluiu 2.587 bebes que receberam DAPTACEL. Estudo americano incluiu 1.454 criancas.",
+            "details": "Embora razoavel, fica abaixo do ideal de >3.000 por faixa etaria para detectar eventos raros."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "No estudo sueco, follow-up medio de 2 anos apos a terceira dose, com ligacoes telefonicas mensais por 2 meses apos a ultima injecao. Nos estudos americanos, eventos serios monitorados por 6 meses apos a ultima dose.",
+            "details": "Adequado para eventos agudos, mas insuficiente para efeitos neurologicos ou autoimunes de longo prazo."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "O estudo Sweden I foi randomizado, duplo-cego, comparando DAPTACEL com vacina DT (essencialmente placebo para coqueluche) e vacina DTP de celula inteira.",
+            "details": "Este e um dos melhores designs possiveis para uma vacina."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Diario padrao mantido por 14 dias apos cada dose, ligacoes telefonicas 1 e 14 dias apos cada injecao, e ligacoes mensais para monitorar eventos graves e hospitalizacoes.",
+            "details": "No estudo americano, eventos solicitados registrados diariamente por 7 dias."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Convulsoes foram rastreadas (0 casos em 3 dias pos-DAPTACEL no estudo sueco). Um caso de espasmos infantis reportado. Episodios hipotonico-hiporresponsivos (HHE) monitorados.",
+            "details": "Porem, nao ha mencao de avaliacao formal do neurodesenvolvimento ou acompanhamento de longo prazo para condicoes autoimunes."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Documento menciona apneia em prematuros como precaucao (Secao 5.7), mas NAO apresenta dados de estudos especificos em prematuros ou imunossuprimidos.",
+            "details": "Apenas recomenda \"considerar status medico individual\" sem evidencias de testes nesses grupos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Tabelas detalhadas com taxas de reacoes por dose, numeros absolutos fornecidos, intervalos de confianca para eficacia. Estudo principal patrocinado pelo NIH (National Institute of Allergy and Infectious Diseases).",
+            "details": "Dados suficientes para analise independente."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao 6.2 lista eventos reportados espontaneamente apos comercializacao, incluindo reacoes locais extensas, convulsoes, HHE, reacoes anafilaticas. Sistema VAERS mencionado para reportar eventos adversos.",
+            "details": "Porem, limitacao reconhecida: \"nao e possivel estimar frequencia de forma confiavel\"."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "A bula do DAPTACEL apresenta evidencias razoaveis de seguranca baseadas em um estudo clinico bem desenhado (randomizado, duplo-cego) com aproximadamente 2.500 criancas e follow-up de 2 anos. Os dados mostram que DAPTACEL tem perfil de reacoes significativamente melhor que a vacina de celula inteira antiga.",
+        "keyFindings": [
+          "Design de estudo solido com grupo placebo verdadeiro (DT), busca ativa por eventos adversos, taxas baixas de eventos graves (0 convulsoes em 3 dias, taxa de HHE de 0.039% vs 0.056% da vacina celular)",
+          "Nenhum dado especifico sobre prematuros ou imunossuprimidos - apenas advertencias genericas",
+          "Follow-up maximo de 2 anos e insuficiente para detectar problemas neurologicos ou autoimunes de longo prazo",
+          "O documento NAO foi avaliado para carcinogenese, mutagenese ou impacto na fertilidade (Secao 13.1 admite explicitamente isso)",
+          "Eventos pos-comercializacao incluem convulsoes e HHE, mas sem dados de frequencia confiavel"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Este documento fornece confianca moderada sobre seguranca a curto prazo (dias a meses), mas NAO responde adequadamente sobre efeitos de longo prazo (anos). Para uma decisao totalmente informada, seria necessario buscar estudos de acompanhamento de longo prazo que nao estao incluidos nesta bula."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "dtap_infanrix_pais.json",
+      "vaccine": {
+        "name": "INFANRIX",
+        "genericName": "Difteria, Tetano e Coqueluche Acelular",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": null,
+        "type": "Inactivated/Toxoid",
+        "targetDisease": "Difteria, Tetano e Coqueluche"
+      },
+      "document": {
+        "sourceFile": "dtap_infanrix_insert.pdf",
+        "sourceType": "Bula FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Aproximadamente 95.000 doses administradas em estudos clinicos",
+            "details": "29.243 bebes receberam INFANRIX em estudos de serie primaria; 6.081 criancas receberam 4a dose; 1.764 receberam 5a dose. Estudo italiano com 4.696 criancas; estudo alemao com 22.505 bebes (66.867 doses). Amostra robusta que permite detectar eventos raros."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Acompanhamento de reacoes solicitadas apenas por 4 dias apos vacinacao",
+            "details": "O estudo italiano acompanhou eficacia por ate 6 anos, mas eventos adversos foram monitorados principalmente a curto prazo (48h-7 dias). Estudo alemao monitorou eventos nao solicitados por 28 dias. Nao ha dados de acompanhamento sistematico de longo prazo (1-3 anos) para seguranca."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O estudo italiano usou DT (toxoides sem pertussis) como controle - nao placebo salino",
+            "details": "O estudo alemao nao tinha grupo controle randomizado. Nenhum estudo usou placebo inerte (salina) com duplo-cego verdadeiro. Comparacao com vacina DTP de celulas inteiras mostrou melhor perfil de seguranca."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Diarios padronizados preenchidos pelos pais para reacoes solicitadas",
+            "details": "Relatos espontaneos e historico medico coletados em visitas subsequentes. Eventos graves como episodios hipotonico-hiporresponsivos, convulsoes e febre alta foram especificamente rastreados. Porem, a busca foi principalmente passiva apos os primeiros dias."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Nao ha mencao de avaliacao sistematica do desenvolvimento neurologico ou marcos de desenvolvimento apos vacinacao",
+            "details": "Convulsoes foram monitoradas apenas nos primeiros 3-7 dias. Encefalopatia e listada como contraindicacao apos dose previa, mas nao ha dados de acompanhamento neurologico de longo prazo. Nenhuma avaliacao de condicoes autoimunes."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Prematuros: apenas aviso sobre apneia, sem dados de estudos especificos",
+            "details": "Recomenda-se \"consideracao do status medico individual\". Imunossuprimidos: apenas nota de que terapias imunossupressoras podem reduzir resposta imune. Nao ha resultados separados para estes subgrupos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Tabelas detalhadas com porcentagens de reacoes adversas por dose",
+            "details": "Dados de estudos publicados (Italia, Alemanha, EUA). Taxas por 1.000 doses fornecidas para eventos raros. Porem, dados brutos completos nao estao disponiveis no documento."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao 6.2 lista eventos reportados apos comercializacao",
+            "details": "Inclui: encefalopatia, trombocitopenia, reacoes anafilaticas, apneia, cianose e SIDS (Sindrome da Morte Subita Infantil). Sistema VAERS mencionado para relatos. Reconhece que frequencia e causalidade nao podem ser estabelecidas."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "A documentacao do INFANRIX apresenta evidencias moderadas de seguranca com algumas lacunas importantes.",
+        "keyFindings": [
+          "Amostra pediatrica robusta (>95.000 doses, incluindo grandes estudos na Italia e Alemanha)",
+          "Monitoramento adequado de reacoes a curto prazo com dados detalhados por dose",
+          "Sistema de vigilancia pos-comercializacao estabelecido",
+          "Acompanhamento de seguranca foi predominantemente de curto prazo (4-7 dias para maioria dos eventos)",
+          "Nao houve grupo placebo verdadeiro (salina) - apenas comparacao com outras vacinas DT/DTP",
+          "Nao ha dados sobre monitoramento neurologico ou de desenvolvimento a longo prazo",
+          "Para subgrupos vulneraveis (prematuros, imunossuprimidos), ha apenas advertencias gerais sem estudos especificos"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Para um pai buscando evidencias solidas de seguranca de longo prazo - especialmente neurologica - este documento deixa questoes importantes sem resposta."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hepa_havrix_pais.json",
+      "vaccine": {
+        "name": "HAVRIX",
+        "genericName": "Hepatitis A Vaccine",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": 1995,
+        "type": "Inactivated",
+        "targetDisease": "Hepatitis A"
+      },
+      "document": {
+        "sourceFile": "hepa_havrix_insert.pdf",
+        "sourceType": "FDA Package Insert",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Aproximadamente 37.000 individuos nos ensaios clinicos totais, com mais de 22.000 criancas de 1-18 anos avaliadas. O estudo principal de eficacia (Tailandia) incluiu 40.119 criancas de 1-16 anos. Estudos especificos em criancas de 11-25 meses incluiram 3.152 criancas. Numeros robustos para deteccao de eventos comuns.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O acompanhamento principal foi de 31 dias para eventos adversos nao-solicitados. Houve follow-up telefonico de 6 meses apos a ultima vacinacao em um estudo (HAV 231) para eventos adversos graves e doencas cronicas de inicio recente. Porem, nao ha dados de acompanhamento de 2-3+ anos documentados neste insert.",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "O estudo de eficacia na Tailandia foi duplo-cego e randomizado, usando ENGERIX-B (vacina Hepatite B) como comparador ativo. Estudos de seguranca usaram grupos que receberam HAVRIX sozinha vs. HAVRIX com outras vacinas. Nao houve placebo verdadeiro (salina).",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Eventos foram coletados via cartoes de diario preenchidos pelos pais (4 dias para eventos solicitados, 31 dias para nao-solicitados). Follow-up telefonico de 6 meses em um estudo. Taxa de eventos adversos graves: 0.9% (29/3.152) em 31 dias. 4 casos de convulsao em 31 dias pos-vacinacao foram relatados. Nao ha descricao de revisao sistematica de prontuarios ou investigacao hospitalar ativa.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O documento menciona 4 convulsoes em estudos pediatricos (2, 9, 12, e 27 dias pos-vacinacao) e lista eventos neurologicos no pos-marketing (convulsao, encefalopatia, Guillain-Barre, esclerose multipla, mielite, neuropatia). Porem, nao ha evidencia de avaliacao sistematica do neurodesenvolvimento ou acompanhamento de marcos de desenvolvimento nas criancas vacinadas.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "Nao ha dados especificos sobre prematuros ou criancas imunossuprimidas neste documento. Menciona apenas que \"imunossuprimidos podem ter resposta imune diminuida.\"",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento fornece taxas percentuais de eventos adversos, numeros de sujeitos e GMTs. Porem, dados individuais completos nao estao disponiveis. Os estudos sao identificados por codigo (HAV 210, HAV 231, etc.), mas publicacoes revisadas por pares nao sao citadas alem da referencia do CDC.",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao 6.2 lista eventos reportados no pos-marketing, incluindo eventos raros graves como: trombocitopenia, reacoes anafilaticas, Guillain-Barre, encefalopatia, esclerose multipla, mielite. Sistema VAERS e contato com fabricante sao mencionados para relato de eventos. Vacina aprovada desde 1995 com amplo uso global.",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencia razoavel de seguranca a curto prazo para HAVRIX em criancas, com base em estudos grandes (>22.000 criancas) e quase 30 anos de uso pos-comercializacao desde 1995. Os eventos adversos mais comuns sao leves e locais (dor 21-32%, vermelhidao 20-29%, irritabilidade 27-44%, sonolencia 21-35%). A eficacia de 94% demonstrada em estudo controlado e expressiva.",
+        "keyFindings": [
+          "O acompanhamento documentado e predominantemente de curto prazo (31 dias, maximo 6 meses)",
+          "Nao ha dados sobre avaliacao sistematica do neurodesenvolvimento",
+          "Eventos neurologicos graves (Guillain-Barre, encefalopatia, esclerose multipla, mielite) aparecem na lista de pos-marketing, mas sem frequencia estimavel",
+          "Nenhum dado especifico sobre prematuros ou imunossuprimidos",
+          "O grupo comparador nao foi placebo verdadeiro (salina), mas outra vacina"
+        ],
+        "efficacy": "Eficacia de 94% demonstrada em estudo controlado",
+        "parentQuestion": "O documento confirma que a vacina funciona e e bem tolerada no curto prazo, mas oferece confianca limitada sobre efeitos neurologicos ou imunologicos de longo prazo em criancas."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hepa_vaqta_pais.json",
+      "vaccine": {
+        "name": "VAQTA",
+        "genericName": "Hepatitis A Vaccine, Inactivated",
+        "manufacturer": "Merck Sharp & Dohme Corp.",
+        "initialApproval": 1996,
+        "type": "Inactivated",
+        "targetDisease": "Hepatitis A"
+      },
+      "document": {
+        "sourceFile": "hepa_vaqta_insert.pdf, hepa_vaqta_study.pdf (The Monroe Efficacy Study - NEJM 1992)",
+        "sourceType": "Bula e Estudo Clinico",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO",
+        "overallEmoji": "✅",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Mais de 6.989 criancas estudadas: 4.374 criancas de 12-23 meses e 2.615 criancas/adolescentes de 2-18 anos receberam pelo menos uma dose. O estudo pivotal Monroe incluiu 1.037 criancas de 2-16 anos. Alem disso, estudo pos-comercializacao incluiu 13.735 criancas/adolescentes. Amostra robusta para detectar eventos adversos.",
+            "details": "Mais de 6.989 criancas estudadas: 4.374 criancas de 12-23 meses e 2.615 criancas/adolescentes de 2-18 anos receberam pelo menos uma dose. O estudo pivotal Monroe incluiu 1.037 criancas de 2-16 anos. Alem disso, estudo pos-comercializacao incluiu 13.735 criancas/adolescentes. Amostra robusta para detectar eventos adversos."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Acompanhamento de seguranca de 14-42 dias para eventos adversos nos estudos clinicos. Porem, estudo Monroe acompanhou criancas por media de 103-104 dias para eficacia. Dados de longo prazo mostram anticorpos detectaveis por pelo menos 10 anos apos vacinacao. Estudo pos-comercializacao monitorou por 60 dias.",
+            "details": "Acompanhamento de seguranca de 14-42 dias para eventos adversos nos estudos clinicos. Porem, estudo Monroe acompanhou criancas por media de 103-104 dias para eficacia. Dados de longo prazo mostram anticorpos detectaveis por pelo menos 10 anos apos vacinacao. Estudo pos-comercializacao monitorou por 60 dias."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "O Estudo Monroe foi randomizado, duplo-cego, controlado por placebo (diluente de aluminio) com 519 vacinados vs 518 placebo. Criancas de 2-16 anos, todos brancos (51.5% masculino, 48.5% feminino). Delineamento de alta qualidade para estudo de eficacia.",
+            "details": "O Estudo Monroe foi randomizado, duplo-cego, controlado por placebo (diluente de aluminio) com 519 vacinados vs 518 placebo. Criancas de 2-16 anos, todos brancos (51.5% masculino, 48.5% feminino). Delineamento de alta qualidade para estudo de eficacia."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Vigilancia ativa semi-mensal por telefone aos pais/responsaveis. Cartoes de diario para registro de eventos locais (dias 1-5) e sistemicos (dias 1-14). Eventos graves coletados por 14-42 dias conforme protocolo. Taxa de eventos graves: 0.7% (32/4374) em criancas 12-23 meses, sendo apenas 0.1% (5/4374) considerados relacionados a vacina.",
+            "details": "Vigilancia ativa semi-mensal por telefone aos pais/responsaveis. Cartoes de diario para registro de eventos locais (dias 1-5) e sistemicos (dias 1-14). Eventos graves coletados por 14-42 dias conforme protocolo. Taxa de eventos graves: 0.7% (32/4374) em criancas 12-23 meses, sendo apenas 0.1% (5/4374) considerados relacionados a vacina."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Nao ha mencao de avaliacao sistematica de desenvolvimento neurologico ou marcos de desenvolvimento. Convulsao febril relatada em 0.05% das criancas 12-23 meses. Pos-comercializacao relata casos raros de Guillain-Barre, ataxia cerebelar e encefalite, mas sem frequencia estabelecida.",
+            "details": "Nao ha mencao de avaliacao sistematica de desenvolvimento neurologico ou marcos de desenvolvimento. Convulsao febril relatada em 0.05% das criancas 12-23 meses. Pos-comercializacao relata casos raros de Guillain-Barre, ataxia cerebelar e encefalite, mas sem frequencia estabelecida."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Documento menciona que imunocomprometidos podem ter resposta diminuida, mas NAO apresenta dados especificos de estudos em prematuros ou criancas imunocomprometidas. Seguranca abaixo de 12 meses nao estabelecida.",
+            "details": "Documento menciona que imunocomprometidos podem ter resposta diminuida, mas NAO apresenta dados especificos de estudos em prematuros ou criancas imunocomprometidas. Seguranca abaixo de 12 meses nao estabelecida."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados publicados em revista revisada por pares (NEJM 1992). Bula da FDA com tabelas detalhadas de eventos adversos com porcentagens. Porem, dados individuais nao estao publicamente disponiveis.",
+            "details": "Dados publicados em revista revisada por pares (NEJM 1992). Bula da FDA com tabelas detalhadas de eventos adversos com porcentagens. Porem, dados individuais nao estao publicamente disponiveis."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Estudo pos-comercializacao de 60 dias em HMO dos EUA com 42.110 individuos (13.735 criancas/adolescentes). Busca eletronica em prontuarios por visitas de emergencia, hospitalizacoes e mortes. Nenhum evento adverso grave relacionado a vacina identificado. Sistema VAERS ativo desde 1996.",
+            "details": "Estudo pos-comercializacao de 60 dias em HMO dos EUA com 42.110 individuos (13.735 criancas/adolescentes). Busca eletronica em prontuarios por visitas de emergencia, hospitalizacoes e mortes. Nenhum evento adverso grave relacionado a vacina identificado. Sistema VAERS ativo desde 1996."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "A documentacao do VAQTA fornece evidencias razoavelmente tranquilizadoras de seguranca para criancas.",
+        "keyFindings": [
+          "Amostra pediatrica grande (quase 7.000 criancas em estudos clinicos)",
+          "Estudo pivotal randomizado duplo-cego controlado por placebo publicado no NEJM",
+          "Vigilancia pos-comercializacao robusta com mais de 42.000 doses monitoradas",
+          "Eficacia de 100% no estudo Monroe (0 casos no grupo vacina vs 25 no placebo)",
+          "Eventos adversos predominantemente leves e locais (dor no local 18-37%, eritema 21%, febre 16%)",
+          "Eventos graves relacionados a vacina sao raros (0.1%), incluindo convulsao febril (0.05%)",
+          "Acompanhamento de seguranca relativamente curto (14-42 dias)",
+          "Nao ha avaliacao sistematica de desenvolvimento neurologico",
+          "Faltam dados especificos para prematuros e imunocomprometidos",
+          "Relatos pos-comercializacao de eventos neurologicos graves (Guillain-Barre, encefalite) sao preocupantes mesmo que raros e sem causalidade estabelecida"
+        ],
+        "efficacy": "Eficacia de 100% no estudo Monroe - 0 casos no grupo vacina vs 25 no placebo",
+        "parentQuestion": "Para uma vacina em uso ha quase 30 anos, o perfil de seguranca parece favoravel, mas pais devem estar cientes das limitacoes na documentacao de efeitos de longo prazo."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hepb_engerix_pais.json",
+      "vaccine": {
+        "name": "ENGERIX-B",
+        "genericName": "Hepatitis B Vaccine - Recombinant",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": 1989,
+        "type": "Recombinant",
+        "targetDisease": "Hepatitis B"
+      },
+      "document": {
+        "sourceFile": "hepb_engerix_insert.pdf",
+        "sourceType": "Bula/Package Insert",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento menciona 36 estudos clinicos com 13.495 doses em 5.071 sujeitos (adultos, criancas e neonatos misturados). Para neonatos, ha dados de apenas 58 bebes de alto risco e estudos com ~381 e ~52 neonatos. Para criancas 6m-10 anos, N=242.",
+            "details": "Numeros insuficientes para detectar eventos raros (<1:3.000)."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Monitoramento de eventos adversos por apenas 4 dias apos cada dose",
+            "details": "O estudo de eficacia em neonatos acompanhou por 12 meses, mas focado em infeccao, nao em eventos adversos. Nao ha dados de acompanhamento de longo prazo (2-3+ anos) para seguranca."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Nao ha mencao de grupo placebo (salina) nos estudos de seguranca",
+            "details": "O estudo em neonatos de alto risco nao usou HBIG como controle. Estudos em diabeticos compararam com controles nao-diabeticos, mas ambos receberam a vacina."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Usaram \"symptom checklist\" (lista de sintomas) preenchida pelos participantes ou pais. Em diabeticos, SAEs monitorados por 30 dias.",
+            "details": "Nao ha mencao de busca ativa sistematica, revisao de prontuarios ou investigacao proativa de hospitalizacoes/mortes."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "O documento NAO menciona avaliacao de desenvolvimento neurologico, marcos de desenvolvimento, convulsoes ou condicoes autoimunes em criancas",
+            "details": "A secao de eventos pos-comercializacao lista eventos neurologicos graves (encefalite, Guillain-Barre, etc.), mas sem dados de incidencia."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Ha advertencias sobre prematuros <2.000g (risco de apneia) e imunossuprimidos (resposta reduzida), mas NAO ha estudos dedicados de seguranca nessas populacoes",
+            "details": "A orientacao e baseada em precaucao, nao em dados."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento e uma bula (package insert), nao uma publicacao cientifica revisada por pares",
+            "details": "Fornece alguns numeros, mas sem dados brutos, intervalos de confianca para eventos adversos, ou metodologia detalhada dos estudos."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "A secao 6.2 lista extensivamente eventos reportados pos-comercializacao via VAERS, incluindo eventos neurologicos graves (encefalite, Guillain-Barre, paralisia, convulsoes), autoimunes e outros",
+            "details": "Isso indica que existe um sistema de vigilancia passiva funcionando."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencias limitadas para um pai avaliar a seguranca de longo prazo da vacina em seu filho.",
+        "keyFindings": [
+          "Vacina no mercado desde 1989 com amplo uso global",
+          "95% de eficacia demonstrada em neonatos de alto risco",
+          "Sistema de vigilancia pos-comercializacao ativo que identificou eventos raros",
+          "Acompanhamento de seguranca de apenas 4 dias - completamente inadequado para detectar problemas neurologicos ou autoimunes que podem surgir semanas/meses depois",
+          "Ausencia de grupo placebo verdadeiro nos estudos",
+          "Amostras pediatricas relativamente pequenas para detectar eventos raros",
+          "Nenhuma avaliacao sistematica de desenvolvimento neurologico/cognitivo",
+          "A longa lista de eventos neurologicos graves na secao pos-comercializacao (Guillain-Barre, encefalite, paralisia, convulsoes) e preocupante, especialmente sem dados de frequencia que permitam calcular risco real"
+        ],
+        "efficacy": "95% de eficacia demonstrada em neonatos de alto risco",
+        "parentQuestion": "Este documento e uma bula regulatoria focada em uso clinico, nao um relatorio de seguranca abrangente para tomada de decisao parental."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hepb_recombivax_pais.json",
+      "vaccine": {
+        "name": "Recombivax HB",
+        "genericName": "Hepatitis B Vaccine, Recombinant",
+        "manufacturer": "Merck Sharp & Dohme Corp.",
+        "initialApproval": 1986,
+        "type": "Recombinant",
+        "targetDisease": "Hepatitis B"
+      },
+      "document": {
+        "sourceFile": "hepb_recombivax_insert.pdf",
+        "sourceType": "Bula - Prescribing Information",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL/INSUFICIENTE",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Apenas 147 criancas (0-10 anos) receberam 434 doses em 3 estudos clinicos",
+            "details": "Amostra muito pequena para detectar eventos adversos raros. Ideal seria >3.000 criancas."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Monitoramento de apenas 5 dias apos cada dose",
+            "details": "Completamente inadequado para detectar problemas neurologicos, autoimunes ou de desenvolvimento que podem levar meses ou anos para aparecer."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "O documento nao menciona uso de grupo placebo (salina), randomizacao ou duplo-cego nos estudos pediatricos",
+            "details": "Estudos de eficacia em neonatos usaram controles historicos."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Monitoramento passivo de 5 dias",
+            "details": "Nao ha mencao de contato regular, revisao de prontuarios ou investigacao sistematica de hospitalizacoes/mortes. Eventos graves aparecem apenas na secao pos-comercializacao."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "Nenhum estudo avaliou desenvolvimento neurologico, convulsoes, atrasos ou condicoes autoimunes a longo prazo",
+            "details": "Estas condicoes aparecem apenas como relatos pos-comercializacao voluntarios."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Ha precaucoes para prematuros (apneia) e bebes <2kg, mas nao ha estudos clinicos especificos nessas populacoes",
+            "details": "Nao ha dados sobre criancas imunossuprimidas."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Dados resumidos na bula",
+            "details": "Numeros de eficacia e imunogenicidade citados, mas sem acesso aos dados brutos ou publicacoes originais revisadas por pares incluidas no documento."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "VAERS existe desde 1986 e o documento lista numerosos eventos adversos reportados voluntariamente",
+            "details": "No entanto, admite que 'nao e possivel estimar frequencia ou estabelecer relacao causal' com relatos voluntarios."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento nao fornece confianca solida sobre a seguranca de longo prazo da vacina Recombivax HB em criancas.",
+        "keyFindings": [
+          "Amostra pediatrica minuscula — apenas 147 criancas estudadas, quando o padrao-ouro seria milhares por faixa etaria",
+          "Monitoramento extremamente curto — 5 dias e absolutamente insuficiente para detectar condicoes neurologicas ou autoimunes que podem levar meses ou anos",
+          "Ausencia de grupo placebo verdadeiro nos estudos pediatricos documentados",
+          "Lista extensa de eventos adversos graves na pos-comercializacao incluindo: Guillain-Barre, esclerose multipla, mielite transversa, convulsoes, lupus, vasculite, encefalite, neurite optica — sem que seja possivel determinar frequencia real ou causalidade"
+        ],
+        "efficacy": "Perfil de eficacia bem documentado (95-100% de soroconversao)",
+        "parentQuestion": "Para um pai que pergunta 'esse documento me da confianca de que a vacina e segura para meu filho agora e no futuro?' — a resposta honesta e: este documento demonstra eficacia, mas os dados de seguranca pediatrica sao limitados em tamanho, duracao e rigor metodologico."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hib_acthib_pais.json",
+      "vaccine": {
+        "name": "ActHIB",
+        "genericName": "Haemophilus b Conjugate Vaccine - Tetanus Toxoid Conjugate",
+        "manufacturer": "Sanofi Pasteur",
+        "initialApproval": null,
+        "type": "Conjugate",
+        "targetDisease": "Haemophilus influenzae type b"
+      },
+      "document": {
+        "sourceFile": "hib_acthib_insert.pdf, hib_acthib_approval.pdf",
+        "sourceType": "Bula - Prescribing Information, Approval Document",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Mais de 7.000 bebes e criancas pequenas (<=2 anos) receberam pelo menos uma dose durante os ensaios clinicos nos EUA. Em estudos de eficacia, aproximadamente 4.300 criancas receberam ActHIB na California e 26.600 na Inglaterra.",
+            "details": "Atende ao ideal de >3.000, porem distribuido por multiplos estudos."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O acompanhamento sistematico foi de apenas 48-72 horas apos a vacinacao para reacoes adversas. Monitoramento de 30 dias foi feito apenas para eventos menos comuns.",
+            "details": "Nao ha dados de acompanhamento de longo prazo (12+ meses) apresentados nos documentos para seguranca."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Nao houve grupo placebo verdadeiro (salina). Os estudos compararam ActHIB com outras vacinas Hib conjugadas ja licenciadas (HibTITER, PedvaxHIB) ou com vacina Hepatite B.",
+            "details": "Os bebes tambem receberam DTP e OPV simultaneamente, dificultando atribuicao de eventos adversos especificamente ao ActHIB."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Houve coleta de dados em 6, 24, 48 e 72 horas em estudo multicenter (365 bebes). Eventos menos comuns foram monitorados por 30 dias apos imunizacao.",
+            "details": "Foram reportados: 5 SIDS e 5 convulsoes febris em ~13.000 doses de ActHIB vs 4 SIDS e 2 convulsoes febris no grupo Hep B, mas nao ha investigacao detalhada desses eventos."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "Os documentos nao mencionam avaliacao de marcos de desenvolvimento, funcao cognitiva ou acompanhamento neurologico de longo prazo.",
+            "details": "Menciona-se 1 caso de convulsao com apneia \"possivelmente relacionado\" no dia da vacinacao, mas sem seguimento detalhado."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Testado em criancas com anemia falciforme (89% atingiram niveis protetores de anticorpos). Testado em nativos americanos do Alasca (populacao de alto risco).",
+            "details": "Porem, sem dados especificos para prematuros ou imunossuprimidos. O documento menciona que em pessoas imunossuprimidas \"as respostas de anticorpos esperadas podem nao ser obtidas\", mas nao apresenta estudos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados de imunogenicidade bem documentados com GMTs e porcentagens de seroconversao. Estudos comparativos randomizados com ensaios cegos.",
+            "details": "Resultados publicados em periodicos revisados por pares (J Pediatr, Lancet, JAMA). Porem, muitos dados citados como \"dados em arquivo\" da Sanofi Pasteur."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Existe sistema VAERS para relato de eventos adversos. O documento de aprovacao menciona que mais de 500.000 bebes receberam a vacina na Franca apos aprovacao naquele pais.",
+            "details": "Eventos pos-comercializacao relatados incluem: anafilaxia, convulsoes, inchaço extenso de membros, urticaria, angioedema."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Os documentos do ActHIB demonstram uma base razoavel de evidencias para eficacia imunologica, com mais de 7.000 criancas estudadas nos EUA e estudos comparativos com outras vacinas Hib.",
+        "keyFindings": [
+          "A vacina mostrou boa resposta de anticorpos (90-97% atingindo niveis protetores apos a serie primaria)",
+          "A principal limitacao e a duracao extremamente curta do acompanhamento de seguranca - apenas 48-72 horas para a maioria dos dados de reacoes adversas",
+          "Insuficiente para detectar problemas autoimunes, neurologicos ou de desenvolvimento que podem surgir semanas, meses ou anos depois",
+          "Ausencia de grupo placebo verdadeiro - todos comparados com outras vacinas ativas",
+          "Falta de dados especificos sobre prematuros e imunossuprimidos",
+          "Os relatos pos-comercializacao de convulsoes e reacoes alergicas graves merecem atencao"
+        ],
+        "efficacy": "Boa resposta de anticorpos (90-97% atingindo niveis protetores apos a serie primaria)",
+        "parentQuestion": "Para um pai preocupado com seguranca de longo prazo, estes documentos fornecem confianca moderada sobre reacoes imediatas, mas deixam questoes sem resposta sobre efeitos a longo prazo no desenvolvimento e sistema neurologico."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "hib_pedvaxhib_pais.json",
+      "vaccine": {
+        "name": "Liquid PedvaxHIB",
+        "genericName": "Haemophilus b Conjugate Vaccine - Meningococcal Protein Conjugate",
+        "manufacturer": "Merck & Co., Inc.",
+        "initialApproval": null,
+        "type": "Conjugate",
+        "targetDisease": "Haemophilus influenzae type b"
+      },
+      "document": {
+        "sourceFile": "hib_pedvaxhib_insert.pdf",
+        "sourceType": "Bula/Package Insert",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Estudo principal (Protective Efficacy Study) com 3.486 bebes Navajo completando regime de 2 doses. Estudo comparativo Liquid vs Lyophilized com 903 bebes (678 recebendo Liquid). Estudos adicionais com lyophilized: 8.086 doses em 5.027 criancas.",
+            "details": "Total razoavel, mas abaixo do ideal de >3.000 por faixa etaria especifica."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Acompanhamento inicial ate 15-18 meses de idade. Follow-up estendido de 2 anos e 9 meses apos termino do estudo para eficacia.",
+            "details": "Porem, monitoramento de seguranca reportado apenas por 3 dias (48 horas para reacoes objetivas) apos vacinacao primaria. Insuficiente para detectar problemas de longo prazo."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Estudo de eficacia foi randomizado, duplo-cego, placebo-controlado em 4.459 bebes Navajo (incluindo grupo placebo verdadeiro).",
+            "details": "Desenho robusto para eficacia, embora seguranca de longo prazo nao tenha sido o foco principal."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Documento menciona que \"nenhuma diferenca foi vista no tipo e frequencia de problemas de saude serios esperados\" entre vacina e placebo. Convulsoes foram rastreadas (9 em vacinados vs 8 em placebo, a maioria recebeu DTP concomitante).",
+            "details": "Nao ha descricao de protocolo sistematico de busca ativa - parece ter sido observacao passiva."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Convulsoes febris mencionadas em pos-marketing. Guillain-Barre mencionado como \"reacao adversa potencial\" de outras vacinas Hib, mas relacao causal nao estabelecida.",
+            "details": "Nao ha avaliacao sistematica de desenvolvimento neurologico ou cognitivo apos vacinacao."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Bebes prematuros mencionados: devem ser vacinados na mesma idade cronologica que bebes a termo. Estudos incluiram populacoes de alto risco (Nativos Americanos Navajo/Apache, negros, hispanos).",
+            "details": "Nao recomendada para imunocomprometidos pois \"resposta imune esperada pode nao ser obtida.\""
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Tabelas com dados de imunogenicidade e algumas reacoes adversas sao fornecidas.",
+            "details": "Porem, muitas referencias sao \"Data on file at Merck Research Laboratories\" (ref. 33) - dados nao publicamente acessiveis. Eventos raros como urticaria (2 criancas) e trombocitopenia (1 crianca) mencionados sem contexto completo."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "VAERS mencionado para relato de eventos adversos. Secao de \"Post-Marketing Adverse Reactions\" lista linfadenopatia, angioedema (raro), convulsoes febris, abscesso esteril no local da injecao.",
+            "details": "Indica que ha monitoramento continuo, embora limitado."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencias moderadas de seguranca para Liquid PedvaxHIB. O ponto forte e o estudo de eficacia randomizado, duplo-cego, placebo-controlado com quase 4.500 bebes, que demonstrou 93-96% de eficacia e perfil de eventos adversos similar ao placebo.",
+        "keyFindings": [
+          "Estudo de eficacia randomizado, duplo-cego, placebo-controlado com quase 4.500 bebes",
+          "93-96% de eficacia demonstrada",
+          "Perfil de eventos adversos similar ao placebo",
+          "Monitoramento de seguranca foi de apenas 48 horas a 3 dias apos cada dose - insuficiente para detectar problemas autoimunes ou neurologicos",
+          "Nao ha avaliacao sistematica de desenvolvimento neurologico",
+          "Eventos raros como trombocitopenia e Guillain-Barre mencionados sem investigacao aprofundada"
+        ],
+        "efficacy": "93-96% de eficacia demonstrada em estudo randomizado, duplo-cego, placebo-controlado",
+        "parentQuestion": "Para um pai buscando confianca na seguranca de longo prazo, este documento confirma que a vacina nao causa problemas agudos graves em taxas maiores que placebo, mas nao responde adequadamente sobre efeitos de medio e longo prazo em desenvolvimento neurologico ou condicoes autoimunes."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "ipv_ipol_pais.json",
+      "vaccine": {
+        "name": "IPOL",
+        "genericName": "Vacina Polio Inativada",
+        "manufacturer": "Sanofi Pasteur",
+        "initialApproval": null,
+        "type": "Inactivated",
+        "targetDisease": "Poliomyelitis"
+      },
+      "document": {
+        "sourceFile": "ipv_ipol_insert.pdf",
+        "sourceType": "Package Insert - Sanofi Pasteur",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Estudos nos EUA incluiram ~700 bebes (2-18 meses) em 3 estudos clinicos, mais 219 bebes em estudo anterior e ~1,300 bebes em 4 estudos adicionais. Fora dos EUA, >3,000 bebes foram estudados mas dados de imunogenicidade disponiveis de apenas 1,485. Total aproximado de ~2,000 criancas com dados de seguranca nos EUA - abaixo do ideal de >3,000 por faixa etaria para detectar eventos raros.",
+            "details": "Total aproximado de ~2,000 criancas com dados de seguranca nos EUA - abaixo do ideal de >3,000 por faixa etaria para detectar eventos raros."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O documento menciona acompanhamento de reacoes apenas ate 48-72 horas apos vacinacao. Persistencia de anticorpos foi medida ate 6 anos (em um estudo) e ate 10 anos na Suecia, mas isso e imunogenicidade, NAO seguranca a longo prazo. Nenhuma informacao sobre monitoramento de seguranca alem de poucos dias.",
+            "details": "Nenhuma informacao sobre monitoramento de seguranca alem de poucos dias."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Nao ha mencao de grupo placebo verdadeiro (salina). Os estudos compararam IPOL dado com DTP vs DTP sozinho, ou diferentes esquemas de IPV/OPV. Isso nao permite isolar efeitos adversos especificos da vacina de polio.",
+            "details": "Isso nao permite isolar efeitos adversos especificos da vacina de polio."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Reacoes locais e sistemicas foram registradas em 6, 24 e 48 horas. Porem o documento afirma: \"deaths have occurred in temporal association after vaccination of infants with IPV\" sem investigacao detalhada. Menciona relatos ao VAERS (sistema passivo). Nao descreve busca ativa estruturada para eventos graves.",
+            "details": "Nao descreve busca ativa estruturada para eventos graves."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O documento menciona que GBS (Guillain-Barre) foi \"temporalmente relacionado\" a outra vacina IPV, mas nega relacao causal estabelecida com IPOL. Menciona convulsoes e convulsoes febris na experiencia pos-comercializacao. Nao ha descricao de avaliacao sistematica de desenvolvimento neurologico em nenhum estudo.",
+            "details": "Nao ha descricao de avaliacao sistematica de desenvolvimento neurologico em nenhum estudo."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Prematuros: Um estudo citado (Adenyi-Jones, 1992) avaliou resposta imune em prematuros e bebes a termo, mas focou em imunogenicidade, nao seguranca. O documento afirma que seguranca em bebes <6 semanas NAO foi estabelecida. Imunocomprometidos: menciona que podem nao desenvolver resposta protetora, mas nao ha dados de seguranca especificos.",
+            "details": "O documento afirma que seguranca em bebes <6 semanas NAO foi estabelecida. Imunocomprometidos: menciona que podem nao desenvolver resposta protetora, mas nao ha dados de seguranca especificos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Duas referencias sao \"dados nao publicados disponiveis da Sanofi Pasteur\" (referencias 11 e 12). A Tabela 2 fornece dados numericos de reacoes, mas muitos detalhes dos estudos nao sao acessiveis publicamente. Dados de aprovacao baseados em demonstracao de imunogenicidade e seguranca, mas metodologia completa nao esta no documento.",
+            "details": "Muitos detalhes dos estudos nao sao acessiveis publicamente. Dados de aprovacao baseados em demonstracao de imunogenicidade e seguranca, mas metodologia completa nao esta no documento."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "O documento lista eventos adversos identificados apos aprovacao atraves de relatos voluntarios (VAERS). Inclui: linfadenopatia, reacoes no local da injecao, reacoes alergicas/anafilaxia, artralgia, mialgia, convulsoes, sincope, urticaria. Reconhece limitacoes: \"may not be possible to reliably estimate their frequency or establish a causal relationship.\"",
+            "details": "Reconhece limitacoes: \"may not be possible to reliably estimate their frequency or establish a causal relationship.\""
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento de bula da vacina IPOL fornece evidencias LIMITADAS para um pai que busca confianca na seguranca a longo prazo para seu filho.",
+        "keyFindings": [
+          "Os pontos positivos incluem: a vacina e usada ha decadas com historico de eliminar polio paralitica associada a vacina (VAPP) que ocorria com a vacina oral, e existe vigilancia pos-comercializacao que identificou eventos adversos raros",
+          "Os estudos clinicos de aprovacao acompanharam criancas por apenas 48-72 horas apos cada dose",
+          "Nao houve grupo placebo verdadeiro (salina)",
+          "As amostras pediatricas (~700-2,000 criancas nos EUA) sao insuficientes para detectar eventos adversos raros",
+          "Nao ha avaliacao sistematica de desenvolvimento neurologico",
+          "Dados-chave de seguranca permanecem nao publicados",
+          "O documento reconhece que mortes ocorreram em associacao temporal com a vacinacao, embora sem causalidade estabelecida"
+        ],
+        "efficacy": "A vacina induz anticorpos protetores contra polio em >95% das criancas",
+        "parentQuestion": "Para um pai, este documento demonstra que a vacina induz anticorpos protetores contra polio em >95% das criancas, mas NAO oferece dados robustos sobre seguranca a longo prazo - voce esta confiando principalmente na experiencia de uso por decadas e na vigilancia passiva, nao em estudos clinicos rigorosos pre-aprovacao."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "men4_menactra_pais.json",
+      "vaccine": {
+        "name": "Menactra",
+        "genericName": "Meningococcal Groups A, C, Y and W-135 Polysaccharide Diphtheria Toxoid Conjugate Vaccine",
+        "manufacturer": "Sanofi Pasteur Inc.",
+        "initialApproval": null,
+        "type": "Conjugate",
+        "targetDisease": "Meningococcal disease (Groups A, C, Y, W-135)"
+      },
+      "document": {
+        "sourceFile": "men4_menactra_insert.pdf",
+        "sourceType": "Prescribing Information, April 2018",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "3.721 criancas de 9-12 meses e 1.713 criancas de 2-10 anos nos estudos primarios. Total de ~10.000 participantes de 2-55 anos.",
+            "details": "Amostra razoavel, mas nao ideal para detectar eventos raros (<1:10.000)."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Monitoramento de 7 dias para reacoes solicitadas e 6 meses para eventos adversos graves (SAEs).",
+            "details": "Sem acompanhamento de longo prazo (anos) documentado nos estudos clinicos."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Estudos foram \"active-controlled\" usando Menomune (outra vacina meningococica) como comparador, NAO placebo salino.",
+            "details": "Randomizados, mas sem duplo-cego verdadeiro devido a diferentes vias de administracao."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento de 20-30 min pos-vacinacao para reacoes imediatas. Diario de 7 dias para eventos solicitados. Contato telefonico ou visita para eventos nao solicitados ate 28-30 dias.",
+            "details": "Acompanhamento de 6 meses para SAEs via entrevista telefonica."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Documentado risco de Sindrome de Guillain-Barre (GBS) com estudo pos-marketing. Convulsoes monitoradas como evento solicitado (0% reportado).",
+            "details": "Sem avaliacao sistematica de desenvolvimento neuromotor a longo prazo."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Menciona que imunossuprimidos podem ter resposta reduzida. NAO aprovada para <9 meses. Sem dados especificos de prematuros nos estudos.",
+            "details": "Sem resultados separados para subgrupos vulneraveis."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados de seguranca e imunogenicidade apresentados em tabelas. GMTs e intervalos de confianca fornecidos.",
+            "details": "Estudos conduzidos nos EUA e Chile."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Estudo retrospectivo com 9.578.688 individuos avaliando risco de GBS. Sistema VAERS ativo.",
+            "details": "Lista de eventos adversos pos-marketing documentada (GBS, encefalomielite, mielite transversa, etc.)."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "O documento de prescricao do Menactra fornece dados de seguranca razoaveis de curto prazo com amostra adequada (~10.000 participantes pediatricos), mostrando que eventos adversos graves sao incomuns (0.6-2.5%).",
+        "keyFindings": [
+          "Acompanhamento maximo de apenas 6 meses, sem dados de anos",
+          "Ausencia de grupo placebo verdadeiro nos estudos - todas comparacoes foram com outra vacina meningococica",
+          "Nenhum dado especifico sobre prematuros ou criancas vulneraveis",
+          "Eventos neurologicos graves (GBS, encefalomielite, mielite transversa) documentados na vigilancia pos-marketing, embora raros"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Para uma vacina que protege contra doenca grave mas rara (meningite meningococica), este documento fornece confianca moderada na seguranca de curto prazo, mas deixa lacunas sobre efeitos de longo prazo e populacoes vulneraveis que podem preocupar pais mais cautelosos."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "men4_menquadfi_pais.json",
+      "vaccine": {
+        "name": "MenQuadfi",
+        "genericName": "Meningococcal Groups A, C, Y, W Conjugate Vaccine",
+        "manufacturer": "Sanofi Pasteur Inc.",
+        "initialApproval": 2020,
+        "type": "Conjugate",
+        "targetDisease": "Meningococcal Disease (Groups A, C, Y, W)"
+      },
+      "document": {
+        "sourceFile": "men4_menquadfi_insert.pdf",
+        "sourceType": "Bula - Prescribing Information, Revisado 5/2025",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO COM RESSALVAS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "4.273 criancas menores de 2 anos receberam pelo menos uma dose (3.807 na serie de 4 doses, 466 na serie de 2 doses). Adicionalmente, 498 criancas de 2-9 anos foram estudadas. Total robusto de quase 5.000 criancas.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Eventos adversos graves (SAEs) coletados por pelo menos 6 meses apos vacinacao na maioria dos estudos. Eventos adversos nao solicitados por 30 dias. Porem, o Estudo 10 coletou SAEs por apenas 1 mes.",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Estudos foram randomizados e controlados ativamente (comparados com Menveo, Menactra ou Menomune), mas NAO houve grupo placebo verdadeiro com salina. Comparacoes foram com outras vacinas meningococicas.",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento de reacoes imediatas por 30 minutos pos-vacinacao. Diarios preenchidos pelos pais por 7 dias. Visitas de acompanhamento 1-2 meses apos. SAEs e visitas medicas nao programadas coletadas ativamente.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Mencao de convulsoes febris (2 casos relacionados a vacina no Estudo 2, ambos sem recorrencia em 6 meses). Advertencia sobre Sindrome de Guillain-Barre reportada com outras vacinas meningococicas. Nao ha mencao de avaliacao sistematica de desenvolvimento neuromotor ou cognitivo.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Prematuros (31-37 semanas) foram incluidos: 133 no Estudo 1, 89 no Estudo 2. Documento afirma \"nao houve diferencas notaveis nas taxas e gravidade de reacoes adversas entre prematuros e bebes a termo.\" Imunocomprometidos mencionados em advertencias, mas nao estudados especificamente.",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados de 10 estudos clinicos com NCT numbers fornecidos. Taxas especificas de eventos adversos por dose, idade e grupo comparador. Porem, dados completos de estudos originais nao incluidos neste documento.",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao 6.2 documenta eventos pos-marketing: anafilaxia, convulsao febril, convulsao, sincope. Sistema VAERS disponivel para relatos (1-800-822-7967). Registro de exposicao na gravidez ativo.",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencias adequadas de seguranca a curto prazo para MenQuadfi em criancas, com um dos maiores programas de estudos pediatricos entre vacinas meningococicas (quase 5.000 criancas menores de 10 anos). Os pontos fortes incluem: amostra robusta, inclusao de prematuros, e coleta ativa de eventos adversos por 6 meses.",
+        "keyFindings": [
+          "Ausencia de grupo placebo verdadeiro - todos os comparadores foram outras vacinas meningococicas, dificultando isolar efeitos especificos do MenQuadfi",
+          "Nao ha avaliacao sistematica de desenvolvimento neurologico/cognitivo a longo prazo",
+          "2 convulsoes febris consideradas possivelmente relacionadas a vacina quando coadministrada com outras vacinas aos 12 meses",
+          "A taxa de SAEs foi ligeiramente maior no grupo MenQuadfi (5,3%) vs comparador (3,6%) nos estudos de bebes, embora a maioria nao tenha sido considerada relacionada a vacina"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Para pais preocupados: os dados mostram um perfil de seguranca consistente com outras vacinas meningococicas aprovadas, com reacoes tipicas de vacinas (irritabilidade, febre, dor local). A doenca meningococica e rara mas devastadora (10% mortalidade, 20% sequelas graves), o que deve ser ponderado na decisao."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "men4_menveo_pais.json",
+      "vaccine": {
+        "name": "MENVEO",
+        "genericName": "Meningococcal Groups A, C, Y, W-135 Oligosaccharide Diphtheria CRM197 Conjugate Vaccine",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": null,
+        "type": "Conjugate",
+        "targetDisease": "Meningococcal Disease (Groups A, C, Y, W-135)"
+      },
+      "document": {
+        "sourceFile": "men4_menveo_insert.pdf",
+        "sourceType": "Prescribing Information FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO COM RESSALVAS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "36.146 individuos de 2 meses a 55 anos receberam pelo menos uma dose. Especificamente: 8.735 bebes receberam a serie de 4 doses (2, 4, 6 e 12 meses); 1.985 criancas de 6-23 meses receberam 2 doses; 3.181 criancas de 2-10 anos. Amostra robusta em todas as faixas etarias pediatricas.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento de eventos adversos serios (SAEs) por 6 meses apos vacinacao em criancas, adolescentes e adultos de 2-55 anos. Em bebes, eventos medicamente significativos coletados entre doses e durante 6 meses apos ultima dose. Acompanhamento razoavel, mas nao ideal para efeitos de muito longo prazo (anos).",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Estudos em bebes compararam MENVEO + vacinas de rotina vs. vacinas de rotina apenas (controle apropriado). Em criancas 2-10 anos e adolescentes, comparador foi outra vacina meningococica (MENACTRA), nao placebo salina. Estudos randomizados mas com comparador ativo.",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Reacoes solicitadas monitoradas diariamente por 7 dias via diario. Eventos adversos nao solicitados (incluindo visitas medicas e hospitalizacoes) monitorados ativamente. SAEs coletados por 6 meses. Menciona contato regular e revisao de eventos.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Documento menciona alertas para Sindrome de Guillain-Barre (GBS) e apneia em prematuros. Relata convulsoes como SAE raro. Estudo pos-comercializacao detectou risco aumentado de paralisia de Bell (8 casos em 48.899 pessoas, todos resolvidos). Nao ha descricao de avaliacao sistematica de desenvolvimento neurologico ou cognitivo a longo prazo.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Ha alerta especifico sobre prematuros (risco de apneia). Menciona que imunocomprometidos podem ter resposta reduzida. Nao apresenta dados separados de estudos dedicados a prematuros ou imunossuprimidos - apenas recomendacoes de cautela.",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados com numeros absolutos, porcentagens, intervalos de confianca e resultados por faixa etaria. Multiplos estudos clinicos registrados (NCT numbers fornecidos). Taxas de SAEs reportadas por grupo. Documento FDA com alto nivel de detalhe.",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Secao 6.2 detalha eventos identificados apos aprovacao. Estudo observacional pos-comercializacao em HMO com 48.899 pessoas (11-21 anos) avaliando eventos pre-especificados. Sistema VAERS mencionado para relatos. Monitoramento continuo ativo.",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento oferece evidencias razoavelmente solidas de seguranca a curto e medio prazo, com uma das maiores amostras pediatricas entre vacinas (>36.000 pessoas, incluindo >8.700 bebes). Os estudos foram bem conduzidos, com monitoramento ativo de eventos adversos por 6 meses e vigilancia pos-comercializacao robusta em quase 49.000 adolescentes. As taxas de reacoes adversas em bebes foram comparaveis ao grupo que recebeu apenas vacinas de rotina, sugerindo que MENVEO nao adiciona risco significativo.",
+        "keyFindings": [
+          "Sensibilidade no local (24-41%)",
+          "Irritabilidade (42-57%)",
+          "Sonolencia (29-50%)",
+          "Choro persistente (21-41%)",
+          "Alteracao alimentar (17-23%)",
+          "Diarreia (8-16%)",
+          "Febre >=38C (3-9%)",
+          "Em bebes: 2.7% (MENVEO + rotina) vs 2.2% (rotina apenas) de SAEs durante serie infantil",
+          "2 mortes em grupo MENVEO (morte subita e sepse) - nenhuma avaliada como relacionada a vacinacao",
+          "3 casos de Doenca de Kawasaki em 12.049 receptores de MENVEO (0.02%)",
+          "1 caso de encefalomielite disseminada aguda 29 dias apos Dose 4",
+          "Paralisia de Bell: Risco aumentado 1-84 dias pos-vacinacao (8 casos, todos resolvidos)"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Para uma doenca grave como meningite, os beneficios provavelmente superam os riscos documentados, mas pais de criancas com condicoes especiais devem discutir com o pediatra.",
+        "limitations": "O acompanhamento de 6 meses nao e ideal para detectar efeitos autoimunes ou neurologicos tardios que podem surgir apos anos. Os estudos em criancas maiores usaram outra vacina meningococica como comparador (nao placebo), dificultando avaliar o risco absoluto. Nao ha dados dedicados sobre prematuros ou imunocomprometidos, apenas alertas. O caso de encefalomielite disseminada aguda e o sinal de paralisia de Bell merecem atencao, embora sejam raros."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "pcv_prevnar13_pais.json",
+      "vaccine": {
+        "name": "Prevnar 13",
+        "genericName": "PCV-13 (Pneumococcal 13-valent Conjugate Vaccine)",
+        "manufacturer": null,
+        "initialApproval": null,
+        "type": "Conjugate",
+        "targetDisease": "Pneumococcal Disease"
+      },
+      "document": {
+        "sourceFile": "pcv_prevnar13_insert.pdf",
+        "sourceType": "Package Insert FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL-ADEQUADO",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "4.729 bebes e criancas pequenas receberam Prevnar 13 em 13 estudos clinicos (mais 2.760 no grupo controle com Prevnar 7). Nos EUA, 1.907 criancas foram avaliadas em 3 estudos principais. Este e um dos maiores programas de estudos clinicos pediatricos para vacinas.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento de eventos adversos solicitados por 7 dias apos cada dose. Eventos adversos nao solicitados coletados por 1 mes apos cada dose. Eventos adversos graves coletados durante todo o periodo do estudo. Follow-up de 6 meses apos a 4a dose em 7 estudos. Porem, nao ha dados de acompanhamento de longo prazo (anos) para avaliar efeitos tardios.",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O controle foi a vacina Prevnar (7-valente), nao placebo verdadeiro (solucao salina). Isso permite comparar Prevnar 13 com uma vacina ja aprovada, mas nao permite avaliar a seguranca absoluta em comparacao com nenhuma intervencao. Estudos eram randomizados e duplo-cegos.",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Eventos adversos graves foram coletados durante todo o periodo do estudo (mais longo que os 30 dias padrao). Pais/responsaveis usaram diarios eletronicos por 7 dias consecutivos apos cada vacinacao. Entrevistas telefonicas 6 meses apos a 4a dose. Hospitalizacoes e condicoes medicas cronicas foram coletadas.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento menciona episodios hipotonico-hiporresponsivos (1 caso em 6.839 com Prevnar 13 vs 3 em 4.204 com Prevnar) e convulsoes (incluindo febris) como eventos raros. Menciona apneia em prematuros. Porem, nao ha avaliacao sistematica do desenvolvimento neuropsicomotor ao longo do tempo.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Prematuros: Ha advertencia especifica sobre apneia e orientacao para decisao individualizada. Dados de imunogenicidade em prematuros (<37 semanas) mostram respostas mais baixas. Imunossuprimidos: Estudos em criancas com doenca falciforme, transplante de celulas-tronco e HIV. Porem eficacia nao estabelecida nestes grupos.",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados de seguranca apresentados em tabelas com numeros absolutos e porcentagens. Estudos registrados no ClinicalTrials.gov com NCT numbers fornecidos. Porem, este e um package insert do fabricante, nao publicacoes independentes revisadas por pares.",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao 6.3 lista eventos adversos reportados apos comercializacao via vigilancia passiva (VAERS). Inclui: reacoes anafilaticas, hipotonia, edema angioneurotic, eritema multiforme, apneia, cianose, palidez. Limitacao: sistema passivo nao permite estimar frequencia real.",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento oferece evidencias razoaveis de seguranca de curto prazo para Prevnar 13 em criancas, baseadas em estudos clinicos com amostras grandes (>4.700 criancas).",
+        "keyFindings": [
+          "Os dados mostram perfil de seguranca similar a vacina Prevnar 7-valente ja estabelecida, com reacoes locais e sistemicas tipicas de vacinas infantis",
+          "Pontos fortes: tamanho da amostra, coleta sistematica de eventos adversos graves, dados em subgrupos vulneraveis",
+          "Limitacoes importantes: ausencia de grupo placebo verdadeiro (salina) impede avaliar seguranca absoluta; falta de acompanhamento de longo prazo (anos) para detectar efeitos tardios no desenvolvimento; sistema de vigilancia pos-comercializacao e passivo",
+          "As mortes por SIDS reportadas estavam dentro das taxas esperadas para a faixa etaria"
+        ],
+        "efficacy": null,
+        "parentQuestion": "Para um pai que busca confianca na seguranca de longo prazo, este documento fornece dados robustos de curto prazo mas deixa lacunas sobre efeitos a longo prazo."
+      },
+      "specificData": {
+        "deaths": {
+          "description": "Mortes nos estudos clinicos",
+          "prevnar13": "3 mortes (0,063%)",
+          "control": "1 morte (0,036%) no grupo Prevnar",
+          "cause": "Todas por Sindrome da Morte Subita Infantil (SMSI/SIDS)",
+          "note": "Taxas consistentes com taxas de fundo esperadas para a idade (ano 2000)"
+        },
+        "seriousAdverseEvents": {
+          "description": "Eventos adversos graves",
+          "prevnar13": "8,2%",
+          "control": "7,2% no grupo Prevnar (similar)",
+          "mostCommon": [
+            "bronquiolite (0,9%)",
+            "gastroenterite (0,9%)",
+            "pneumonia (0,9%)"
+          ],
+          "note": "Periodo de coleta mais longo que o padrao de 30 dias (pode explicar taxas maiores que outras vacinas)"
+        },
+        "commonReactions": {
+          "description": "Reacoes comuns (>20% dos bebes)",
+          "items": [
+            "Irritabilidade: >70%",
+            "Sensibilidade no local: >50%",
+            "Diminuicao do apetite: >40%",
+            "Alteracao do sono (mais/menos): >40%",
+            "Febre: >20%",
+            "Vermelhidao/inchaco no local: >20%"
+          ]
+        },
+        "rareReactions": {
+          "description": "Reacoes raras mas serias (pos-comercializacao)",
+          "items": [
+            "Reacoes anafilaticas/anafilactoides (incluindo choque)",
+            "Hipotonia",
+            "Apneia",
+            "Convulsoes (incluindo febris)",
+            "Eritema multiforme"
+          ]
+        }
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "pcv_vaxneuvance_pais.json",
+      "vaccine": {
+        "name": "Vaxneuvance",
+        "genericName": "Pneumococcal 15-valent Conjugate Vaccine",
+        "manufacturer": "Merck Sharp & Dohme Corp.",
+        "initialApproval": 2021,
+        "type": "Conjugate",
+        "targetDisease": "Pneumococcal Disease"
+      },
+      "document": {
+        "sourceFile": "pcv_vaxneuvance_insert.pdf",
+        "sourceType": "Bula - Prescribing Information",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO COM RESSALVAS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "3.349 criancas receberam pelo menos uma dose da serie de 4 doses em 4 estudos clinicos randomizados (Studies 8-11)",
+            "details": "Alem disso, 1.814 criancas receberam Prevnar 13 como comparador. Nos EUA, 2.827 participantes receberam pelo menos uma dose e 2.409 completaram a serie de 4 doses. Amostra robusta e adequada para detectar eventos comuns."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Monitoramento de eventos adversos graves por 6 meses apos a vacinacao nos Studies 8-10, e apenas 1 mes no Study 11",
+            "details": "A coleta de reacoes adversas solicitadas foi limitada a 14 dias apos cada dose. Nao ha dados de acompanhamento de longo prazo (2-3+ anos) para avaliar efeitos tardios."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Estudos randomizados, duplo-cegos, com comparador ativo (Prevnar 13)",
+            "details": "Nao houve grupo placebo verdadeiro (salina), pois seria anti-etico negar vacina pneumococica aprovada a criancas. O comparador ativo permite avaliar se a nova vacina e tao segura quanto a ja estabelecida."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Utilizaram Vaccination Report Card (VRC) para monitoramento ativo por 14 dias",
+            "details": "Investigadores revisavam o VRC com os responsaveis 15 dias apos vacinacao. Eventos adversos graves foram monitorados por 1-6 meses dependendo do estudo. Taxa de eventos graves similares entre grupos (9.6% VAXNEUVANCE vs 8.9% Prevnar 13)."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O documento menciona apenas um caso de convulsao febril em bebe de 9 semanas (1 dia apos Dose 1)",
+            "details": "Nao ha descricao de avaliacao sistematica de desenvolvimento neurologico, marcos de desenvolvimento, ou seguimento de condicoes autoimunes. Ha alerta sobre apneia em prematuros, mas sem dados detalhados."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Testaram em prematuros (<37 semanas): 142 receberam VAXNEUVANCE vs 144 Prevnar 13 dentro dos Studies 8-10",
+            "details": "Perfil de seguranca similar ao de bebes a termo. Tambem estudaram criancas com doenca falciforme (N=70) e criancas HIV-positivas (N=203). Resultados separados foram fornecidos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados de porcentagens de reacoes adversas por dose, com tabelas completas (Tables 2-5)",
+            "details": "Estudos registrados no ClinicalTrials.gov (NCT03893448, NCT03620162, NCT03692871, NCT02987972). Informacoes sobre metodologia e analises estatisticas disponiveis."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "O documento e a bula de aprovacao inicial (2021)",
+            "details": "Nao contem dados de vigilancia pos-comercializacao apos milhoes de doses aplicadas. VAERS e mencionado apenas como sistema para relatar eventos adversos suspeitos."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencias razoaveis de que a Vaxneuvance tem um perfil de seguranca comparavel ao Prevnar 13, uma vacina ja bem estabelecida.",
+        "keyFindings": [
+          "O tamanho da amostra pediatrica e robusto (>3.300 criancas), os estudos foram bem desenhados (duplo-cegos, randomizados)",
+          "As reacoes adversas mais comuns sao tipicas de vacinas (irritabilidade 57-63%, sonolencia 24-48%, dor no local 26-40%, febre 13-20%)",
+          "Os eventos adversos graves foram similares entre os grupos e nao houve padroes preocupantes",
+          "Acompanhamento relativamente curto (maximo 6 meses para eventos graves), insuficiente para detectar problemas autoimunes ou neurologicos tardios",
+          "Ausencia de avaliacao sistematica do desenvolvimento neuropsicomotor",
+          "Ausencia de dados de vigilancia pos-comercializacao na bula, ja que a vacina foi aprovada em 2021"
+        ],
+        "efficacy": null,
+        "parentQuestion": "A vacina parece segura no curto prazo e comparavel a alternativa ja existente, mas pais que buscam garantias absolutas sobre efeitos de longo prazo nao encontrarao essa informacao neste documento."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "ppsv23_pneumovax23_pais.json",
+      "vaccine": {
+        "name": "Pneumovax 23",
+        "genericName": "pneumococcal vaccine polyvalent",
+        "manufacturer": "Merck Sharp & Dohme Corp.",
+        "initialApproval": 1983,
+        "type": "Polysaccharide",
+        "targetDisease": "Pneumococcal Disease"
+      },
+      "document": {
+        "sourceFile": "ppsv23_pneumovax23_fda.pdf",
+        "sourceType": "FDA Prescribing Information",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "PARCIAL/LIMITADO",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O documento NAO apresenta dados de ensaios clinicos com criancas. Os estudos descritos focam em adultos 50+ anos (444 vacinacao inicial, 564 revacinacao). A unica referencia pediatrica e um estudo em criancas 2-25 anos com doenca falciforme/asplenia, sem numeros especificos de criancas mencionados.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "O acompanhamento de seguranca nos estudos descritos foi de apenas **14 dias** apos a vacinacao. Nao ha dados de acompanhamento de medio ou longo prazo em criancas.",
+            "details": null
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O estudo em adultos foi randomizado, duplo-cego, controlado por placebo (salina com 0.25% fenol). Porem, nao ha estudos controlados descritos especificamente para a populacao pediatrica.",
+            "details": null
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O estudo em adultos coletou eventos adversos serios durante 14 dias, mas o documento nao descreve metodologia de busca ativa (contato regular, revisao de prontuarios). Eventos foram relatados, mas a coleta parece ter sido passiva.",
+            "details": null
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "Nao ha mencao de avaliacao de desenvolvimento neurologico, convulsoes, ou condicoes autoimunes em criancas. O documento menciona Guillain-Barre e convulsoes febris apenas em relatos pos-comercializacao, sem dados de frequencia.",
+            "details": null
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Menciona que imunossuprimidos podem ter resposta diminuida. Ha referencia a um estudo em criancas com doenca falciforme e asplenia, mas sem dados detalhados de seguranca. Prematuros nao sao mencionados.",
+            "details": null
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento e uma bula FDA padrao com dados tabulados para adultos. Porem, dados pediatricos completos nao sao apresentados. Os estudos historicos de eficacia (Africa do Sul) usaram populacao de mineradores adultos.",
+            "details": null
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Existe lista de eventos adversos pos-comercializacao incluindo: Guillain-Barre, convulsoes febris, trombocitopenia, reacoes anafilactoides, celulite, artrite. O sistema VAERS esta disponivel para relatos. Contudo, a frequencia desses eventos e desconhecida (\"uncertain size\").",
+            "details": null
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento oferece confianca **muito limitada** sobre a seguranca da Pneumovax 23 em criancas saudaveis de 0-12 anos.",
+        "keyFindings": [
+          "A vacina e explicitamente **nao aprovada para menores de 2 anos** e indicada apenas para criancas 2+ anos **em risco aumentado**",
+          "Os ensaios clinicos descritos focam quase exclusivamente em adultos 50+ anos, com acompanhamento de apenas 14 dias",
+          "Nao ha dados de amostras pediatricas, duracao de acompanhamento adequada, ou avaliacao de desenvolvimento neurologico em criancas",
+          "Os eventos adversos pos-comercializacao incluem condicoes serias como Guillain-Barre e convulsoes, mas a frequencia e desconhecida"
+        ],
+        "efficacy": "76-92% de eficacia em estudos com mineradores adultos na Africa do Sul; 77% em idosos na Franca. NAO ha estudos de eficacia controlados em criancas saudaveis descritos neste documento.",
+        "parentQuestion": "Para um pai buscando evidencia robusta de seguranca em criancas saudaveis, este documento e **insuficiente** - ele simplesmente nao foi desenhado para essa populacao."
+      },
+      "additionalNotes": [
+        "**Vacinas pneumococicas conjugadas (PCV)** como Prevnar 13, Prevnar 20, ou Vaxneuvance sao as vacinas pneumococicas recomendadas para criancas saudaveis - elas funcionam em menores de 2 anos porque usam tecnologia diferente (conjugada vs polissacaridea).",
+        "Pneumovax 23 e tipicamente reservada para criancas mais velhas e adultos com condicoes especificas de risco (asplenia, imunodeficiencia, doenca falciforme, implante coclear, etc.).",
+        "Consulte o pediatra sobre qual vacina pneumococica e apropriada para seu filho."
+      ],
+      "criticalInfo": "PNEUMOVAX 23 NAO E APROVADA PARA CRIANCAS MENORES DE 2 ANOS. O documento declara explicitamente que \"children in this age group do not develop an effective immune response to the capsular types contained in this polysaccharide vaccine.\"",
+      "postMarketAdverseEvents": {
+        "neurologicos": [
+          "Parestesia",
+          "radiculoneuropatia",
+          "Sindrome de Guillain-Barre",
+          "convulsoes febris"
+        ],
+        "hematologicos": [
+          "Trombocitopenia",
+          "anemia hemolitica",
+          "leucocitose"
+        ],
+        "imunologicos": [
+          "Reacoes anafilactoides",
+          "doenca do soro",
+          "angioedema"
+        ],
+        "outros": [
+          "Celulite",
+          "necrose no local da injecao",
+          "eritema multiforme"
+        ],
+        "note": "A frequencia desses eventos nao pode ser estimada porque sao relatos voluntarios de populacao de tamanho incerto."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "rv_rotarix_pais.json",
+      "vaccine": {
+        "name": "Rotarix",
+        "genericName": "Rotavirus Vaccine, Live, Oral",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": null,
+        "type": "Live",
+        "targetDisease": "Rotavirus"
+      },
+      "document": {
+        "sourceFile": "rv_rotarix_insert.pdf, rv_rotarix_clinical.pdf",
+        "sourceType": "Bula - Prescribing Information, Clinical Review",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO COM RESSALVAS IMPORTANTES",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Amostra excepcional de 63.225 bebes no estudo principal de seguranca (Rota-023), com 31.673 recebendo vacina e 31.552 placebo. Estudos combinados incluiram mais de 71.000 bebes.",
+            "details": "Esta e uma das maiores amostras pre-licenciamento para qualquer vacina pediatrica."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Acompanhamento primario de seguranca de 31 dias apos cada dose para intussuscepcao. Um subgrupo de 20.169 bebes foi acompanhado por 1 ano apos a primeira dose. Estudos de eficacia acompanharam por 2 temporadas de rotavirus.",
+            "details": "Porem, nao ha dados de acompanhamento de longo prazo (anos) publicados nestes documentos."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Estudo randomizado, duplo-cego, controlado por placebo. Os bebes receberam placebo verdadeiro (nao outra vacina).",
+            "details": "Randomizacao 1:1 rigorosa com ocultacao adequada."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Sistema de vigilancia ativa impressionante: (1) vigilancia hospitalar prospectiva para intussuscepcao, (2) pais relatavam eventos em visitas agendadas, (3) diario de eventos solicitados por 8 dias apos cada dose, (4) Comite Independente de Monitoramento de Dados (IDMC) revisava todos os eventos adversos graves.",
+            "details": "Autopsias verbais padronizadas para mortes."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Convulsoes foram monitoradas como eventos adversos graves. Houve um desequilibrio inicial de convulsoes (Rotarix: 16 vs placebo: 6) que perdeu significancia estatistica quando termos relacionados foram agrupados.",
+            "details": "Nao ha descricao de avaliacoes formais de desenvolvimento neuropsicomotor ou acompanhamento de marcos do desenvolvimento. Condicoes autoimunes nao foram sistematicamente avaliadas."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Dados limitados em prematuros: apenas 134 prematuros receberam Rotarix (gestacao ≤36 semanas) vs 120 placebo. A bula afirma explicitamente que \"eficacia em prematuros nao foi estabelecida\".",
+            "details": "Bebes imunocomprometidos foram EXCLUIDOS dos estudos e a vacina e CONTRAINDICADA para bebes com SCID (Imunodeficiencia Combinada Grave)."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Documento de revisao clinica da FDA disponivel com analises detalhadas. Dados de eventos adversos apresentados em tabelas completas. Numeros absolutos e intervalos de confianca fornecidos.",
+            "details": "Porem, alguns dados estavam redigidos/censurados no documento da FDA."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Compromisso pos-licenciamento robusto incluindo: estudo observacional prospectivo nos EUA para intussuscepcao, mortes e hospitalizacoes respiratorias. Ate julho de 2007, mais de 12 milhoes de doses distribuidas em 100 paises.",
+            "details": "Estudos pos-comercializacao no Mexico confirmaram risco aumentado de intussuscepcao nos primeiros 7 dias apos a primeira dose (risco relativo 6.07)."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Os documentos analisados demonstram que a Rotarix passou por um dos programas de estudos clinicos mais extensos ja realizados para uma vacina pediatrica, com mais de 63.000 bebes no estudo principal. O desenho do estudo foi rigoroso (randomizado, duplo-cego, controlado por placebo) e a vigilancia para eventos adversos graves foi ativa e abrangente.",
+        "keyFindings": [
+          "A amostra gigantesca fornece dados robustos sobre eventos adversos comuns e permitiu detectar diferencas pequenas entre grupos. Nao houve aumento estatisticamente significativo de intussuscepcao nos ensaios clinicos (6 casos vacina vs 7 placebo em 31 dias).",
+          "Intussuscepcao pos-comercializacao: Estudos apos o licenciamento no Mexico mostraram risco aumentado de intussuscepcao nos primeiros 7 dias apos a primeira dose (estima-se 1-3 casos adicionais por 100.000 bebes vacinados nos EUA).",
+          "Mortes por pneumonia: Houve mais mortes relacionadas a pneumonia no grupo vacina (16 vs 6 placebo no estudo principal), embora a diferenca dentro de 31 dias pos-vacinacao fosse menor. Isto foi sinalizado para vigilancia continua.",
+          "Convulsoes: Houve desequilibrio inicial de convulsoes que nao atingiu significancia estatistica apos analise agrupada, mas merece atencao.",
+          "Populacoes vulneraveis: Os dados sao muito limitados para prematuros e a vacina e contraindicada para bebes imunocomprometidos."
+        ],
+        "efficacy": null,
+        "parentQuestion": "Os documentos fornecem confianca razoavel na seguranca de curto prazo para bebes saudaveis nascidos a termo, mas deixam lacunas importantes: ausencia de acompanhamento neurodesenvolvimental de longo prazo, dados limitados em prematuros, e um risco pequeno mas real de intussuscepcao que foi confirmado apos milhoes de doses aplicadas. Pais de bebes prematuros ou com condicoes medicas devem discutir cuidadosamente com o pediatra."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "rv_rotateq_pais.json",
+      "vaccine": {
+        "name": "RotaTeq",
+        "genericName": "Rotavirus Vaccine, Live, Oral, Pentavalent",
+        "manufacturer": "Merck",
+        "initialApproval": null,
+        "type": "Live",
+        "targetDisease": "Rotavirus"
+      },
+      "document": {
+        "sourceFile": "rv_rotateq_insert.pdf, rv_rotateq_clinical.pdf",
+        "sourceType": "Bula e Documentos Clinicos",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "ADEQUADO COM RESSALVAS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Estudo principal (REST/Study 006) incluiu 34,837 criancas vacinadas e 34,788 no grupo placebo. Total de 71,725 bebes avaliados nos estudos de fase 3. Um dos maiores estudos de seguranca de vacinas ja realizados.",
+            "details": "Estudo principal (REST/Study 006) incluiu 34,837 criancas vacinadas e 34,788 no grupo placebo. Total de 71,725 bebes avaliados nos estudos de fase 3. Um dos maiores estudos de seguranca de vacinas ja realizados."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento ativo para intussuscepcao nos dias 7, 14 e 42 apos cada dose, e a cada 6 semanas por 1 ano apos a primeira dose. Dados de hospitalizacao acompanhados por 2 anos. Porem, sem acompanhamento de desenvolvimento neurologico a longo prazo (2-3+ anos).",
+            "details": "Monitoramento ativo para intussuscepcao nos dias 7, 14 e 42 apos cada dose, e a cada 6 semanas por 1 ano apos a primeira dose. Dados de hospitalizacao acompanhados por 2 anos. Porem, sem acompanhamento de desenvolvimento neurologico a longo prazo (2-3+ anos)."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O placebo NAO era salina inerte. Continha os mesmos excipientes da vacina: sacarose, citrato de sodio, fosfato de sodio, meio de cultura de tecidos e polissorbato 80. Isso pode mascarar reacoes adversas causadas pelos excipientes. Estudo foi randomizado e duplo-cego, porem.",
+            "details": "O placebo NAO era salina inerte. Continha os mesmos excipientes da vacina: sacarose, citrato de sodio, fosfato de sodio, meio de cultura de tecidos e polissorbato 80. Isso pode mascarar reacoes adversas causadas pelos excipientes. Estudo foi randomizado e duplo-cego, porem."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Contato ativo nos dias 7, 14 e 42 apos cada dose. Vigilancia especifica para intussuscepcao com revisao de prontuarios medicos. Comite independente de seguranca (DSMB) monitorou o estudo.",
+            "details": "Contato ativo nos dias 7, 14 e 42 apos cada dose. Vigilancia especifica para intussuscepcao com revisao de prontuarios medicos. Comite independente de seguranca (DSMB) monitorou o estudo."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Convulsoes foram registradas (33 no grupo vacina vs 24 no placebo em 42 dias), mas sem avaliacao formal de neurodesenvolvimento a longo prazo. Sem acompanhamento de marcos de desenvolvimento, condicoes autoimunes ou efeitos neurologicos tardios.",
+            "details": "Convulsoes foram registradas (33 no grupo vacina vs 24 no placebo em 42 dias), mas sem avaliacao formal de neurodesenvolvimento a longo prazo. Sem acompanhamento de marcos de desenvolvimento, condicoes autoimunes ou efeitos neurologicos tardios."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "2,070 prematuros (25-36 semanas) foram incluidos com resultados separados. Bebes com refluxo gastroesofagico controlado tambem foram estudados. Porem, imunossuprimidos foram EXCLUIDOS - a bula alerta que nao ha dados para esta populacao.",
+            "details": "2,070 prematuros (25-36 semanas) foram incluidos com resultados separados. Bebes com refluxo gastroesofagico controlado tambem foram estudados. Porem, imunossuprimidos foram EXCLUIDOS - a bula alerta que nao ha dados para esta populacao."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados disponiveis nos relatorios clinicos. Publicacao revisada por pares (N Engl J Med). Porem, alguns dados especificos do placebo foram censurados nos documentos da FDA (marcados como informacao comercial confidencial).",
+            "details": "Dados detalhados disponiveis nos relatorios clinicos. Publicacao revisada por pares (N Engl J Med). Porem, alguns dados especificos do placebo foram censurados nos documentos da FDA (marcados como informacao comercial confidencial)."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Extenso monitoramento pos-mercado atraves do programa PRISM com mais de 1,2 milhoes de doses avaliadas. Identificou risco aumentado de intussuscepcao: ~1-1,5 casos adicionais por 100,000 bebes nos 21 dias apos a primeira dose. Sistema VAERS ativo.",
+            "details": "Extenso monitoramento pos-mercado atraves do programa PRISM com mais de 1,2 milhoes de doses avaliadas. Identificou risco aumentado de intussuscepcao: ~1-1,5 casos adicionais por 100,000 bebes nos 21 dias apos a primeira dose. Sistema VAERS ativo."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Os documentos apresentam evidencias substanciais de seguranca baseadas em um dos maiores estudos clinicos de vacina ja conduzidos (~72,000 bebes). O perfil de seguranca a curto prazo (42 dias) e bem caracterizado, com busca ativa por eventos graves.",
+        "keyFindings": [
+          "O placebo continha os mesmos excipientes da vacina, impedindo avaliacao de reacoes a esses componentes",
+          "Confirmado risco pequeno mas real de intussuscepcao (~1-1,5 casos adicionais/100,000 doses)",
+          "Ausencia de monitoramento de neurodesenvolvimento a longo prazo",
+          "Sem dados para criancas imunossuprimidas"
+        ],
+        "efficacy": null,
+        "parentQuestion": "A vigilancia pos-comercializacao robusta e tranquilizadora, mas pais devem estar cientes dos sinais de intussuscepcao (dor abdominal intensa, vomitos, sangue nas fezes, letargia) especialmente na primeira semana apos vacinacao."
+      },
+      "attentionPoints": {
+        "intussusception": {
+          "clinicalTrials": "6 casos no grupo vacina vs 5 no placebo (diferenca nao significativa)",
+          "postMarketing": "Confirmado risco aumentado de 1-1,5 casos adicionais por 100,000 bebes nos 21 dias apos a primeira dose, com maior concentracao nos primeiros 7 dias",
+          "backgroundRate": "~34 por 100,000 bebes no primeiro ano de vida",
+          "outcome": "A maioria dos casos se recuperou sem sequelas"
+        },
+        "kawasakiDisease": {
+          "cases": "5 casos no grupo vacina vs 1 no placebo nos estudos clinicos",
+          "relativeRisk": "4,9 (IC 95%: 0,6-239,1) - nao estatisticamente significativo devido ao pequeno numero"
+        },
+        "deaths": {
+          "vaccineGroup": 25,
+          "placeboGroup": 27,
+          "note": "Sem diferenca significativa",
+          "mostCommonCause": "SMSL (8 no grupo vacina, 9 no placebo)"
+        },
+        "viralShedding": {
+          "rate": "8,9% dos vacinados eliminam o virus vacinal nas fezes apos a dose 1",
+          "transmission": "Transmissao para contatos nao-vacinados foi relatada pos-comercializacao",
+          "concern": "Preocupacao para familias com contatos imunossuprimidos"
+        }
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "tdap_adacel_pais.json",
+      "vaccine": {
+        "name": "Adacel",
+        "genericName": "Tetano, Difteria e Coqueluche (Tdap) - REFORCO",
+        "manufacturer": null,
+        "initialApproval": null,
+        "type": "Toxoid/Inactivated",
+        "targetDisease": "Tetanus, Diphtheria, Pertussis"
+      },
+      "document": {
+        "sourceFile": "tdap_adacel_insert.pdf",
+        "sourceType": "Bula FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "NAO APLICAVEL PARA CRIANCAS < 10 ANOS",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "sem_informacao",
+            "emoji": "❓",
+            "summary": "Sem informacao relevante - Adacel NAO foi estudada em criancas < 10 anos",
+            "details": "Os estudos incluiram 4.695 adolescentes (10-17 anos) e 2.448 adultos. Como a aprovacao e para >= 10 anos, nao ha dados pediatricos para criancas pequenas."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Acompanhamento de 6 meses pos-vacinacao em estudos principais",
+            "details": "Coleta de eventos adversos serios por 6 meses. Monitoramento de eventos adversos solicitados por 14 dias via diario."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Estudos foram randomizados, observer-blind, mas compararam com vacina Td (tetano-difteria), NAO com placebo salino verdadeiro",
+            "details": "Isso permite comparar com alternativa existente, mas nao medir efeitos absolutos da vacina."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento ativo via cartao-diario por 14 dias",
+            "details": "Contato telefonico e visitas clinicas para eventos entre 14-28 dias. Monitoramento de hospitalizacoes e eventos graves por 6 meses. Taxa de SAEs reportada: 1.5% Adacel vs 1.4% Td."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Documento menciona eventos neurologicos pos-comercializacao (Guillain-Barre, neurite braquial, paralisia facial, convulsoes, mielite)",
+            "details": "Dois SAEs neurologicos em adultos nos 28 dias pos-vacinacao (migraine com paralisia facial unilateral e compressao nervosa). Nao ha avaliacao sistematica de desenvolvimento a longo prazo."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "Nao ha dados de eficacia/seguranca em criancas < 10 anos",
+            "details": "Nao e aprovada para idosos >= 65 anos. Advertencia para imunocomprometidos (resposta pode ser reduzida). Dados de gravidez sao observacionais retrospectivos."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Tabelas detalhadas com taxas de eventos adversos por grupo etario e tipo de vacina",
+            "details": "Intervalos de confianca fornecidos. Dados de multiplos estudos clinicos (Td506, NCT01439165, NCT00347958, etc.)."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Existe sistema VAERS para relatos",
+            "details": "Lista extensa de eventos pos-comercializacao incluindo reacoes anafilaticas, disturbios neurologicos, miocardite, reacoes no local da injecao. Registro de exposicao na gravidez ativo desde 2005."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento NAO fornece base para avaliar a seguranca de Adacel em criancas pequenas (0-9 anos) porque a vacina simplesmente nao e aprovada nem foi estudada nessa faixa etaria.",
+        "keyFindings": [
+          "Adacel e uma vacina de REFORCO (Tdap) com quantidades reduzidas de toxoide difterico e pertussis, destinada a adolescentes e adultos que ja completaram a serie primaria com DTaP na infancia",
+          "Para adolescentes de 10-17 anos (a populacao mais jovem aprovada), os dados mostram estudos com ~4.700 adolescentes, acompanhamento de 6 meses",
+          "Eventos adversos mais comuns: dor no local (78%), cefaleia (44%), dor muscular (30%)",
+          "Eventos graves raros (1.5%), comparaveis a vacina Td",
+          "Eventos neurologicos serios relatados pos-comercializacao (Guillain-Barre, convulsoes)"
+        ],
+        "efficacy": "88% na prevencao de coqueluche em bebes (via vacinacao materna na gravidez)",
+        "parentQuestion": "Se voce esta avaliando vacinas para uma crianca menor de 10 anos, esta e a vacina ERRADA para considerar. Consulte as avaliacoes de DTaP (Daptacel ou Infanrix) que sao as vacinas apropriadas para a serie primaria na infancia."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "tdap_boostrix_pais.json",
+      "vaccine": {
+        "name": "BOOSTRIX",
+        "genericName": "Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed",
+        "manufacturer": "GlaxoSmithKline",
+        "initialApproval": 2005,
+        "type": "Toxoid/Acellular",
+        "targetDisease": "Tetanus, Diphtheria, Pertussis"
+      },
+      "document": {
+        "sourceFile": "tdap_boostrix_insert.pdf",
+        "sourceType": "Bula FDA",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "NOTA PARCIAL",
+        "overallEmoji": "⚠️",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Para adolescentes (10-18 anos): ~4.949 participantes nos estudos, sendo 3.080 no estudo principal dos EUA com BOOSTRIX vs 1.034 com Td. Para criancas menores de 10 anos: NAO HA DADOS - vacina nao e indicada para esta faixa. A eficacia em bebes e inferida de estudos com INFANRIX/PEDIARIX.",
+            "details": null
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Eventos adversos solicitados: 4-15 dias. Eventos nao solicitados: 30-31 dias. Eventos adversos graves: 6 meses nos estudos de dose inicial. Estudos de revacinacao: acompanhamento de 9-10 anos entre doses.",
+            "details": "Nao ha acompanhamento sistematico de longo prazo (anos) para efeitos tardios neurologicos ou autoimunes apos cada dose."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Estudos randomizados e controlados comparando BOOSTRIX com vacina Td (tetano/difteria) ou outro Tdap (Adacel). O estudo em gestantes usou placebo (salina) - 341 vacina vs 346 placebo.",
+            "details": "Limitacao: nenhum estudo usou placebo inerte em adolescentes/adultos saudaveis."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Uso de diarios padronizados para eventos solicitados. Monitoramento de eventos adversos graves por 6 meses. Vigilancia de eventos de origem autoimune ou neurologica relatada.",
+            "details": "Resultado: nenhum evento adverso grave dentro de 31 dias nos estudos de adolescentes. Um caso de diabetes tipo 1 diagnosticado 20 dias apos vacinacao em estudo nao-EUA (causalidade nao estabelecida)."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "O documento menciona precaucoes para Guillain-Barre e neurite braquial (IOM encontrou relacao causal com toxoide tetanico). Convulsoes, encefalite e paralisia facial relatadas em pos-comercializacao.",
+            "details": "Nao ha descricao de avaliacao sistematica de desenvolvimento cognitivo ou marcos de desenvolvimento em estudos clinicos."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "insuficiente",
+            "emoji": "🔴",
+            "summary": "NAO ha dados sobre prematuros ou criancas imunossuprimidas menores de 10 anos (vacina nao indicada). Para adultos imunocomprometidos: documento apenas adverte que \"a resposta imune esperada pode nao ser obtida\".",
+            "details": "Gestantes: estudo com 687 participantes (341 vacina/346 placebo) - dados adequados para esta populacao."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados com taxas de eventos adversos, intervalos de confianca, e comparacoes estatisticas. Estudos registrados no ClinicalTrials.gov (NCT00109330, NCT00346073, etc.).",
+            "details": "Dados de registro de gravidez disponiveis. Dados individuais brutos nao fornecidos na bula."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Sistema VAERS mencionado para relatos. Registro de exposicao na gravidez ativo (1-888-452-9622). Relatos pos-comercializacao listados incluem: miocardite, convulsoes, encefalite, paralisia facial, Henoch-Schonlein purpura, sincope.",
+            "details": "Tamanho da populacao e taxas de incidencia nao quantificados."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "Este documento fornece evidencias razoaveis de seguranca para adolescentes e adultos (10+ anos), com estudos controlados de tamanho adequado (~3.000-4.000 participantes) e acompanhamento de 6 meses para eventos graves. No entanto, BOOSTRIX nao e indicada para criancas menores de 10 anos, portanto nao ha dados diretos de seguranca para esta populacao.",
+        "keyFindings": [
+          "A protecao de bebes menores de 2 meses depende de vacinacao materna, e estudos mostram que anticorpos sao transferidos, mas os proprios bebes podem ter respostas imunes diminuidas quando vacinados posteriormente",
+          "O acompanhamento de longo prazo (anos) para eventos neurologicos ou autoimunes nao esta documentado de forma sistematica",
+          "Os eventos graves relatados em pos-comercializacao (miocardite, convulsoes, encefalite) nao tem taxas de incidencia definidas, dificultando a avaliacao de risco real"
+        ],
+        "efficacy": "Vacinacao durante a gravidez mostrou eficacia de ~81-83% em prevenir coqueluche em bebes <2 meses",
+        "parentQuestion": "Se voce esta avaliando BOOSTRIX especificamente: Para seu filho adolescente (10+ anos): Os dados de seguranca sao razoavelmente robustos para esta faixa etaria. Para proteger seu bebe recem-nascido: A vacinacao durante a gravidez mostrou eficacia de ~81-83% em prevenir coqueluche em bebes <2 meses. Para criancas menores de 10 anos: Esta vacina NAO e apropriada - a serie primaria usa vacinas DTaP como INFANRIX ou DAPTACEL. A bula nao fornece informacoes sobre seguranca em criancas de 0-9 anos porque a vacina simplesmente nao e indicada para este grupo."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    },
+    {
+      "_sourceFile": "var_varivax_pais.json",
+      "vaccine": {
+        "name": "VARIVAX",
+        "genericName": "Varicella Virus Vaccine Live",
+        "manufacturer": "Merck Sharp & Dohme LLC",
+        "initialApproval": 1995,
+        "type": "Live",
+        "targetDisease": "Varicella (Chickenpox)"
+      },
+      "document": {
+        "sourceFile": "var_varivax_insert.pdf",
+        "sourceType": "Bula - Prescribing Information",
+        "analysisDate": "2025-12-14"
+      },
+      "evaluation": {
+        "overallRating": "BOM",
+        "overallEmoji": "⭐",
+        "criteria": [
+          {
+            "id": "sample_size",
+            "name": "Tamanho da amostra pediatrica",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Mais de 11.000 criancas, adolescentes e adultos em estudos clinicos. Especificamente, 9.454 criancas saudaveis (12 meses a 12 anos) e 1.648 adolescentes/adultos foram vacinados. Um estudo randomizado acompanhou 2.216 criancas por 10 anos. Esta e uma das maiores amostras pediatricas em estudos de vacinas.",
+            "details": "Mais de 11.000 criancas, adolescentes e adultos em estudos clinicos. Especificamente, 9.454 criancas saudaveis (12 meses a 12 anos) e 1.648 adolescentes/adultos foram vacinados. Um estudo randomizado acompanhou 2.216 criancas por 10 anos. Esta e uma das maiores amostras pediatricas em estudos de vacinas."
+          },
+          {
+            "id": "followup_duration",
+            "name": "Duracao do acompanhamento",
+            "rating": "excelente",
+            "emoji": "⭐",
+            "summary": "Acompanhamento ativo de ate **10 anos** pos-vacinacao em estudos clinicos. Persistencia de anticorpos documentada: 99% em 1 ano, 99.3% em 2 anos, 100% em 10 anos. Tambem ha registro de gravidez mantido de 1995 a 2013 (18 anos).",
+            "details": "Acompanhamento ativo de ate **10 anos** pos-vacinacao em estudos clinicos. Persistencia de anticorpos documentada: 99% em 1 ano, 99.3% em 2 anos, 100% em 10 anos. Tambem ha registro de gravidez mantido de 1995 a 2013 (18 anos)."
+          },
+          {
+            "id": "control_group",
+            "name": "Grupo de comparacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Estudo placebo-controlado duplo-cego com 914 criancas/adolescentes (491 vacina vs 465 placebo). Porem, a maioria dos estudos subsequentes usou formulacoes anteriores como comparador ou foram abertos. O estudo principal de 2 doses (n=2.216) foi randomizado mas comparou 1 vs 2 doses, nao placebo.",
+            "details": "Estudo placebo-controlado duplo-cego com 914 criancas/adolescentes (491 vacina vs 465 placebo). Porem, a maioria dos estudos subsequentes usou formulacoes anteriores como comparador ou foram abertos. O estudo principal de 2 doses (n=2.216) foi randomizado mas comparou 1 vs 2 doses, nao placebo."
+          },
+          {
+            "id": "active_surveillance",
+            "name": "Busca ativa por eventos graves",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Monitoramento ativo por 42 dias apos cada dose com cartoes diario. Convulsoes febris reportadas em <0.1% das criancas. Eventos graves documentados (0.3-1% dependendo da via de administracao). Herpes zoster monitorado ativamente com 42.556 pessoas-ano de acompanhamento em criancas.",
+            "details": "Monitoramento ativo por 42 dias apos cada dose com cartoes diario. Convulsoes febris reportadas em <0.1% das criancas. Eventos graves documentados (0.3-1% dependendo da via de administracao). Herpes zoster monitorado ativamente com 42.556 pessoas-ano de acompanhamento em criancas."
+          },
+          {
+            "id": "neurological_monitoring",
+            "name": "Monitoramento neurologico/desenvolvimento",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Convulsoes febris registradas (<0.1%). Pos-comercializacao documentou encefalite, meningite, Guillain-Barre, mielite transversa, ataxia, paralisia de Bell - mas sem dados de frequencia ou investigacao sistematica de desenvolvimento. Nao ha mencao a avaliacoes formais de neurodesenvolvimento.",
+            "details": "Convulsoes febris registradas (<0.1%). Pos-comercializacao documentou encefalite, meningite, Guillain-Barre, mielite transversa, ataxia, paralisia de Bell - mas sem dados de frequencia ou investigacao sistematica de desenvolvimento. Nao ha mencao a avaliacoes formais de neurodesenvolvimento."
+          },
+          {
+            "id": "vulnerable_subgroups",
+            "name": "Subgrupos vulneraveis",
+            "rating": "parcial",
+            "emoji": "⚠️",
+            "summary": "Imunocomprometidos sao CONTRAINDICADOS (nao testados, apenas relatos de eventos adversos graves quando vacinados inadvertidamente). Nao ha dados especificos sobre prematuros. A bula menciona que criancas <12 meses nao tem dados de seguranca ou eficacia. ACIP tem recomendacoes separadas para HIV.",
+            "details": "Imunocomprometidos sao CONTRAINDICADOS (nao testados, apenas relatos de eventos adversos graves quando vacinados inadvertidamente). Nao ha dados especificos sobre prematuros. A bula menciona que criancas <12 meses nao tem dados de seguranca ou eficacia. ACIP tem recomendacoes separadas para HIV."
+          },
+          {
+            "id": "data_transparency",
+            "name": "Transparencia dos dados",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Dados detalhados de reacoes adversas com percentuais especificos (febre 14.7%, reacoes no local 19.3%). Multiplas referencias a estudos publicados em periodicos revisados por pares (NEJM, JAMA, Pediatrics). Porem, muitos dados de acompanhamento vieram de \"seguimento passivo\".",
+            "details": "Dados detalhados de reacoes adversas com percentuais especificos (febre 14.7%, reacoes no local 19.3%). Multiplas referencias a estudos publicados em periodicos revisados por pares (NEJM, JAMA, Pediatrics). Porem, muitos dados de acompanhamento vieram de \"seguimento passivo\"."
+          },
+          {
+            "id": "post_market_surveillance",
+            "name": "Vigilancia pos-comercializacao",
+            "rating": "adequado",
+            "emoji": "✅",
+            "summary": "Secao dedicada a experiencia pos-comercializacao listando eventos raros: anafilaxia, trombocitopenia, encefalite, Guillain-Barre, Stevens-Johnson. Sistema VAERS mencionado. Registro de gravidez mantido por 18 anos (1.522 mulheres). Porem, frequencias nao podem ser estimadas (relatos voluntarios).",
+            "details": "Secao dedicada a experiencia pos-comercializacao listando eventos raros: anafilaxia, trombocitopenia, encefalite, Guillain-Barre, Stevens-Johnson. Sistema VAERS mencionado. Registro de gravidez mantido por 18 anos (1.522 mulheres). Porem, frequencias nao podem ser estimadas (relatos voluntarios)."
+          }
+        ]
+      },
+      "summary": {
+        "conclusion": "A VARIVAX apresenta uma das bases de evidencia mais solidas entre as vacinas pediatricas, com mais de 11.000 participantes em estudos clinicos e acompanhamento de ate 10 anos.",
+        "keyFindings": [
+          "Mais de 11.000 participantes em estudos clinicos",
+          "Acompanhamento de ate 10 anos",
+          "Dados de eficacia robustos (94-98% de protecao)",
+          "Perfil de seguranca bem caracterizado para reacoes comuns (febre em ~15%, reacoes locais em ~19%)",
+          "Estudo placebo-controlado duplo-cego disponivel",
+          "Eventos neurologicos raros (encefalite, Guillain-Barre) identificados na pos-comercializacao mas sem frequencias estabelecidas",
+          "Nao ha avaliacao sistematica de neurodesenvolvimento a longo prazo",
+          "Prematuros e imunocomprometidos nao foram estudados (contraindicados)",
+          "Risco de herpes zoster futuro pelo virus vacinal estabelecendo latencia e reconhecido (~18.8/100.000 pessoa-ano em criancas)"
+        ],
+        "efficacy": "94-98% de protecao em estudos de 10 anos; 100% protecao no primeiro ano, 96% no segundo ano em estudo placebo-controlado",
+        "parentQuestion": "Para a maioria das criancas saudaveis, os documentos fornecem confianca razoavel sobre a seguranca."
+      },
+      "metadata": {
+        "version": "1.0",
+        "schema": "vaxx-avaliacao-pais-v1"
+      }
+    }
+  ]
+}
