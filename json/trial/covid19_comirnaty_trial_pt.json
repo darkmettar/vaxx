@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "covid19_comirnaty",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo 2 (principal ensaio Fase 2/3) e o Estudo 3 (pediátrico 5-11 anos) utilizaram placebo salino como comparador. Estudo 2: 22.026 COMIRNATY vs 22.021 placebo para idades 16+; 1.131 vs 1.129 para idades 12-15. Estudo 3: 3.109 COMIRNATY vs 1.538 placebo para idades 5-11. Os estudos foram descritos como 'controlados por placebo salino'.",
+      "level_description": "Utiliza placebo salino inerte como comparador, permitindo identificação adequada de eventos relacionados à vacina. Atende ao padrão para ensaios clínicos randomizados."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo 2 foi descrito como 'multicêntrico, randomizado, controlado por placebo salino, duplo-cego (Fase 2/3) Fase 1/2/3'. O Estudo 3 foi descrito como 'cego para o observador' para Fase 2/3. Os participantes foram monitorados via diário eletrônico (e-diary) para reações solicitadas.",
+      "level_description": "O principal ensaio de eficácia (Estudo 2) foi duplo-cego. O estudo pediátrico (Estudo 3) foi cego para o observador. Atende às expectativas para redução de viés na avaliação de desfechos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo 2: 'A randomização foi estratificada por idade: 12 a 15 anos, 16 a 55 anos, ou 56 anos ou mais, com no mínimo 40% dos participantes no estrato >=56 anos.' Os participantes foram 'randomizados igualmente' para os grupos de vacina ou placebo.",
+      "level_description": "Randomização estratificada documentada com alocação 1:1. Atende ao padrão para garantir grupos comparáveis."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Idades 5-11: O Estudo 3 incluiu 3.109 receptores de COMIRNATY no período controlado por placebo Fase 2/3. Idades 12-15: O Estudo 2 incluiu 1.131 receptores de COMIRNATY. O grupo de 5-11 anos atende ao limite de >3.000; o grupo de 12-15 está no nível mínimo aceitável (~1.000).",
+      "level_description": "O grupo de 5-11 anos (3.109) atende ao limite ideal para detectar eventos de 1:1.000. O grupo de 12-15 é menor, mas ainda adequado para avaliação primária de segurança."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo 2 (16+ anos): 'No momento da análise... havia 25.651 (58,2%) participantes com 16 anos ou mais acompanhados por >=4 meses após a segunda dose.' Estudo 3 (5-11 anos): 'mediana de 1,9 meses (variação de 0,1 a 7,5 meses) após a segunda dose.' Para adolescentes de 12-15 anos: '69,0% dos adolescentes acompanhados por >=4 meses após a segunda dose.'",
+      "level_description": "Reações adversas solicitadas foram monitoradas por apenas 7 dias. O acompanhamento cego controlado por placebo foi de 4-6 meses para a maioria dos participantes. Isso é grosseiramente inadequado para detectar reações autoimunes/neurológicas que podem emergir meses ou anos depois. O documento reconhece: 'Informações ainda não estão disponíveis sobre potenciais sequelas de longo prazo.'"
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O documento apresenta análises separadas para: 5-11 anos, 12-15 anos, 16-55 anos e 56+ anos. As Tabelas 3-12 fornecem dados de segurança separados por faixa etária. A eficácia também foi analisada separadamente por estratos de idade.",
+      "level_description": "Estratificação por idade apropriada com análises separadas de segurança e eficácia para populações pediátrica, adolescente, adulta e idosa."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo 2: 'excluiu participantes que eram imunocomprometidos e aqueles que tinham diagnóstico clínico ou microbiológico prévio de COVID-19.' Incluiu: 'participantes com doença estável preexistente... participantes com infecção conhecida e estável por HIV, vírus da hepatite C (HCV) ou vírus da hepatite B (HBV).' Participantes HIV-positivos (n=200) foram 'resumidos separadamente nas análises de segurança.'",
+      "level_description": "Embora algumas populações vulneráveis (HIV estável) tenham sido incluídas, indivíduos imunocomprometidos foram excluídos do ensaio principal. Discussão limitada sobre a generalização para populações do mundo real com condições instáveis."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações locais solicitadas (dor, vermelhidão, inchaço) e reações sistêmicas (febre, fadiga, cefaleia, calafrios, vômito, diarreia, dor muscular, dor articular) foram coletadas via diário eletrônico (e-diary) do Dia 1 ao Dia 7. Gradação de gravidade definida: Leve/Moderada/Grave/Grau 4 com limites específicos (ex.: febre >=38,0°C, vermelhidão >2cm). As tabelas fornecem frequência detalhada por grau de gravidade.",
+      "level_description": "Utiliza categorias padronizadas de eventos adversos solicitados com limites de gravidade definidos. Coleta sistemática via e-diary. Atende ao padrão para relato consistente de eventos adversos."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações solicitadas foram ativamente monitoradas via e-diary por 7 dias pós-vacinação. Eventos adversos não solicitados foram monitorados 'da Dose 1 até 1 mês [todos os eventos adversos não solicitados] ou até 6 meses [eventos adversos graves] após a última vacinação.' Taxas de eventos adversos graves: Estudo 2 adultos 0,8% vacina vs 0,9% placebo; adolescentes 0,9% vs 0,2%.",
+      "level_description": "Solicitação ativa limitada a janela de 7 dias para reações comuns. Além disso, dependeu de relato do participante/investigador (semi-passivo). Janela curta de monitoramento ativo pode perder eventos graves tardios."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Paralisia de Bell relatada: 4 COMIRNATY vs 2 placebo (declarado: 'Informações atualmente disponíveis são insuficientes para determinar relação causal'). Miocardite/pericardite identificadas pós-comercialização: '~8 casos por milhão de doses em indivíduos de 6 meses a 64 anos e ~27 casos por milhão de doses em homens de 12 a 24 anos.' Para crianças de 5-11: convulsões febris relatadas pós-comercialização. Nenhum protocolo específico de monitoramento neurológico/autoimune de longo prazo descrito.",
+      "level_description": "Alguns eventos neurológicos rastreados (Paralisia de Bell, síncope), mas nenhum protocolo sistemático para monitoramento autoimune/neurológico com avaliações programadas. Sinal de miocardite detectado principalmente pós-comercialização, não nos ensaios."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Participantes com HIV estável (n=200) foram incluídos e analisados separadamente. Comorbidades rastreadas: 46% dos adultos e ~26% das crianças tinham condições que aumentam o risco de COVID-19 grave. No entanto, indivíduos imunocomprometidos foram explicitamente excluídos. O documento afirma: 'Pessoas imunocomprometidas... podem ter uma resposta imune diminuída.' Não há prematuros, nem análises de subgrupos de medicamentos concomitantes apresentadas.",
+      "level_description": "Inclusão limitada de subgrupos vulneráveis. Imunocomprometidos excluídos dos ensaios principais. Nenhuma análise separada para crianças prematuras, aquelas com alergias ou medicamentos concomitantes."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Análise de eficácia: 95,0% (intervalo de credibilidade de 95%: 90,3, 97,6) atendendo ao 'critério de sucesso pré-especificado.' Intervalos de confiança fornecidos para comparações de eficácia e imunogenicidade. Critérios de não inferioridade especificados para imunobridging (GMR >0,67). No entanto, não há declaração explícita de que o estudo tinha poder estatístico para desfechos de segurança.",
+      "level_description": "Análise estatística adequada para desfechos de eficácia. Intervalos de confiança padrão e valores p para imunogenicidade. No entanto, os ensaios tinham poder para eficácia, não para segurança - uma limitação fundamental para detectar eventos adversos raros."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Múltiplos estudos registrados no ClinicalTrials.gov (NCT04368728, NCT04816643, NCT04955626, NCT05472038, NCT05543616). Resultados publicados em periódicos revisados por pares. O documento não menciona Comitê Independente de Monitoramento de Segurança de Dados (DSMB) ou disponibilidade de dados de participantes individuais (IPD) para análise independente.",
+      "level_description": "Registro de ensaio clínico e publicação revisada por pares presentes. No entanto, não há menção de supervisão por DSMB ou disponibilidade de dados brutos para verificação independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 Experiência Pós-comercialização lista reações adversas identificadas: miocardite, pericardite, reações alérgicas graves, convulsões febris (em crianças de 5-11). O documento cita fontes de dados pós-comercialização incluindo 'dados de sinistros de seguro de saúde comercial.' Referencia o VAERS para relato de eventos adversos. Menciona estudo de acompanhamento de miocardite em andamento (estudo multicêntrico MACiV).",
+      "level_description": "Vigilância pós-comercialização ativa com identificação de novos sinais de segurança (miocardite/pericardite). Utiliza múltiplas fontes de dados. No entanto, o VAERS é um sistema de notificação passiva com limitações conhecidas de subnotificação."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento é uma bula fabricada pela Pfizer Inc. e BioNTech Manufacturing GmbH. Nenhuma divulgação de fontes de financiamento para ensaios clínicos ou potenciais conflitos de interesse dos investigadores. Nenhuma declaração sobre análise independente.",
+      "level_description": "Nenhuma divulgação de conflito de interesse no documento. Estudos conduzidos pelo fabricante. Sem menção de financiamento ou análise independente."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não fornece dados de mortalidade por todas as causas comparando os grupos de vacina e placebo. Morte é mencionada apenas como componente da definição de COVID-19 grave e como potencial desfecho que requer investigação no monitoramento de eventos adversos. Nenhuma contagem total de mortes apresentada para qualquer grupo.",
+      "level_description": "Mortalidade por todas as causas não relatada. O documento foca em desfechos relacionados à vacina sem fornecer total de mortes nos grupos vacina vs placebo, impedindo avaliação do impacto geral na mortalidade."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Os ensaios clínicos da COMIRNATY demonstram desenho razoável para avaliação de eficácia, com estudos randomizados, controlados por placebo e cegos em múltiplas faixas etárias. O tamanho da amostra pediátrica para idades 5-11 (n=3.109) atende ao limite para detectar eventos adversos de 1:1.000. No entanto, existem limitações significativas para avaliação de segurança pediátrica: (1) a duração do acompanhamento foi inadequada, com mediana de 1,9 meses para crianças de 5-11 e 4-6 meses para participantes mais velhos, muito aquém dos 6-12 meses mínimos necessários para detectar complicações autoimunes/neurológicas; (2) o sinal crítico de miocardite foi detectado principalmente através de vigilância pós-comercialização em vez de ensaios clínicos; (3) nenhum dado de mortalidade por todas as causas é fornecido; (4) crianças imunocomprometidas foram excluídas; (5) nenhuma divulgação de conflito de interesse apesar de ensaios conduzidos pelo fabricante. O documento reconhece explicitamente que 'Informações ainda não estão disponíveis sobre potenciais sequelas de longo prazo de miocardite ou pericardite.' Embora a vacina tenha demonstrado forte eficácia (88,2% em crianças de 5-11), as evidências de segurança têm lacunas notáveis que limitam a confiança na segurança pediátrica de longo prazo."
+  }
+}

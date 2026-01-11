@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os ensaios clínicos usaram comparadores ativos (MENACTRA, MENOMUNE) em vez de controles com placebo. Nos estudos em bebês, os grupos controle receberam apenas vacinas de rotina sem MENVEO. Nenhum ensaio controlado por placebo verdadeiro foi realizado.",
+      "level_description": "Desenho com comparador ativo utilizado em vez de controle com placebo, o que é padrão para comparações de vacinas licenciadas, mas limita a capacidade de avaliar o perfil de segurança absoluto."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo de reforço (NCT02986854) foi descrito como aberto. O estudo de apresentação em frasco único (NCT03433482) foi com observador cego. A maioria dos estudos de vacinação primária não declara explicitamente a metodologia de cegamento na bula.",
+      "level_description": "Abordagens de cegamento mistas entre os estudos, com alguns desenhos abertos e com observador cego documentados."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos estudos clínicos randomizados foram realizados, incluindo NCT00474526, NCT00806195, NCT01000311 para bebês, NCT00616421 para crianças de 2-10 anos, e NCT00450437 para adolescentes/adultos. Os estudos foram descritos como ensaios multicêntricos randomizados.",
+      "level_description": "A randomização foi empregada em ensaios clínicos para várias faixas etárias, embora métodos específicos de randomização não sejam detalhados."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "No geral, 36.146 indivíduos de 2 meses a 55 anos receberam pelo menos uma dose. Estudos em bebês (2-23 meses): 8.735 bebês receberam MENVEO em 3 estudos mais 2.864 controles. Crianças de 2-10 anos: 3.181 receberam MENVEO em 4 ensaios. Estudos em crianças pequenas: 1.985 receberam 2 doses.",
+      "level_description": "Tamanhos amostrais pediátricos muito grandes em múltiplas faixas etárias com milhares de participantes em cada categoria."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações solicitadas foram monitoradas por 7 dias após a vacinação. Eventos adversos clinicamente significativos e EAGs foram monitorados por 6 meses após a vacinação em crianças, adolescentes e adultos de 2-55 anos. Temperatura corporal coletada por 28 dias no estudo de coadministração com MMRV.",
+      "level_description": "O acompanhamento de 6 meses para eventos adversos graves é adequado para avaliação de segurança de vacinas, embora dados de acompanhamento de longo prazo sejam limitados."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados de segurança e imunogenicidade apresentados separadamente para: bebês de 2-23 meses (série de 4 doses), crianças de 7-23 meses (série de 2 doses), crianças de 2-5 anos, crianças de 6-10 anos, adolescentes de 11-18 anos e adultos de 19-55 anos. Diferentes esquemas de dosagem por faixa etária.",
+      "level_description": "Excelente estratificação por faixas etárias com análises dedicadas para cada faixa etária pediátrica."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento menciona 'bebês saudáveis' e 'adolescentes saudáveis' para estudos específicos. Contraindicações incluem reação alérgica grave a dose anterior ou componentes. Critérios detalhados específicos de inclusão/exclusão não são fornecidos na bula.",
+      "level_description": "Critérios básicos de elegibilidade implícitos, mas critérios detalhados de inclusão/exclusão não fornecidos neste documento."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Reações adversas solicitadas padronizadas com graus de gravidade definidos: reações locais (sensibilidade, eritema, endurecimento com limites de tamanho >50mm, >100mm), reações sistêmicas (irritabilidade, sonolência, choro, hábitos alimentares, febre com faixas de temperatura). Cartões-diário usados para coleta de 7 dias.",
+      "level_description": "Coleta abrangente de eventos adversos padronizados com definições claras de gravidade e metodologia consistente entre os estudos."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "EAGs monitorados por 6 meses após a vacinação. Eventos adversos com atendimento médico rastreados. Taxas detalhadas de EAG fornecidas: 2,7% vs 2,2% durante a série em bebês, EAGs específicos listados incluindo sibilância, pneumonia, gastroenterite, convulsões. Óbitos relatados e avaliados quanto à relação com a vacinação.",
+      "level_description": "Monitoramento ativo de eventos adversos graves com acompanhamento de 6 meses e categorização detalhada dos tipos de EAG."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Alerta de SGB incluído observando relação temporal com outra vacina meningocócica. Caso de encefalomielite disseminada aguda relatado (29 dias após Dose 4). Pós-comercialização: paralisia de Bell mostrou risco aumentado (incidência relativa ajustada 2,9). Convulsões monitoradas nos ensaios. Doença de Kawasaki rastreada (3/12.049 receptores de MENVEO).",
+      "level_description": "Condições neurológicas monitoradas com alertas específicos para SGB e casos documentados de EMDA e paralisia de Bell."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Bebês prematuros: alerta de apneia com decisão de vacinação individualizada. Imunocomprometidos: resposta imune reduzida observada. Deficiência de complemento: risco aumentado de doença apesar da vacinação. Dados do registro de gravidez (82 participantes). Sem dados para adultos >55 anos.",
+      "level_description": "Populações vulneráveis principais abordadas, incluindo bebês prematuros e indivíduos imunocomprometidos com alertas específicos."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Análises de não inferioridade realizadas comparando MENVEO a MENACTRA com IC 95% e margem de não inferioridade de -10%. Taxas de sororesposta, TMGs com IC 95% fornecidos. Populações por protocolo definidas. Critérios pré-especificados para imunogenicidade (limite inferior IC 95% >80% para sorogrupo A, >85% para C, W, Y).",
+      "level_description": "Métodos estatísticos apropriados com desenho de não inferioridade, intervalos de confiança e critérios de sucesso pré-especificados."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Identificadores do ClinicalTrials.gov fornecidos para todos os principais estudos (números NCT). Tabelas detalhadas com tamanhos amostrais, porcentagens, intervalos de confiança. Detalhamentos demográficos por raça/etnia e sexo. Números da população por protocolo especificados.",
+      "level_description": "Boa transparência com registro de ensaios, tabelas de dados detalhadas e informações demográficas fornecidas."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Estudo observacional pós-comercialização em HMO dos EUA com 48.899 pessoas de 11-21 anos usando prontuários eletrônicos de saúde. Método de série de casos auto-controlados utilizado. Múltiplas reações adversas pós-comercialização identificadas em sistemas de órgãos. Relato ao VAERS incentivado.",
+      "level_description": "Vigilância pós-comercialização abrangente com grande estudo observacional, análise de prontuários eletrônicos de saúde e sistema de relato voluntário."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não contém informações sobre conflitos de interesse, fontes de financiamento para ensaios clínicos ou divulgações financeiras de investigadores.",
+      "level_description": "Nenhuma divulgação de conflito de interesse fornecida na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Óbitos relatados: 2 óbitos nos grupos MENVEO de 2-23 meses em 28 dias (morte súbita, sepse) vs 0 no controle. Nenhum avaliado como relacionado à vacina. Nenhum óbito nos estudos de apresentação em frasco único. Mortalidade rastreada como parte do monitoramento de EAG.",
+      "level_description": "Mortalidade por todas as causas rastreada e relatada com avaliação de causalidade, embora os números sejam limitados."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Os ensaios clínicos de MENVEO demonstram metodologia adequada a exemplar na maioria das áreas. Pontos fortes incluem tamanhos amostrais pediátricos muito grandes (36.146 participantes no total), excelente estratificação por faixa etária, coleta padronizada de eventos adversos com graduação de gravidade e vigilância pós-comercialização abrangente incluindo estudo observacional com 48.899 pessoas. O acompanhamento de segurança de 6 meses e o monitoramento de condições neurológicas (SGB, EMDA, paralisia de Bell, Doença de Kawasaki) são apropriados. Limitações principais incluem o uso de comparadores ativos em vez de controles com placebo verdadeiro, abordagens de cegamento mistas e ausência de divulgações de conflito de interesse. Métodos estatísticos empregaram desenhos de não inferioridade com critérios pré-especificados apropriados."
+  }
+}

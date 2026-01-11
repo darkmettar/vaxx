@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_engerix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Across 36 clinical studies, 13,495 doses were administered to 5,071 subjects including healthy adults, children, and neonates. Specific pediatric data: 58 high-risk neonates in efficacy study; 381 infants receiving 0,1,2 month schedule; 52 infants on 0,1,6 month schedule; 242 children aged 6 months to 10 years; 181+161 children/adolescents aged 5-16 years on different schedules. While total pediatric numbers are reasonable, individual study sizes are modest."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Primary safety monitoring was only 4 days post-administration for adverse reactions. In the diabetes study, serious adverse events were monitored for 30 days after last vaccination. The document states 'All subjects were monitored for 4 days post-administration.' This short duration is inadequate for detecting delayed adverse events, autoimmune conditions, or long-term safety signals. The neonatal efficacy study had 12-month follow-up for efficacy but safety follow-up duration unclear."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "No placebo control group is documented. The diabetes study included matched control subjects (258 non-diabetics vs 416 diabetics), but both groups received the vaccine. The document describes comparisons between different dosing schedules and populations (e.g., diabetic vs non-diabetic, different age groups) but no unvaccinated or placebo control for direct safety comparison. Interchangeability study compared with RECOMBIVAX HB (another Hep B vaccine), not placebo."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active surveillance used symptom checklists completed by subjects or parents/guardians for 4 days post-administration. In diabetes study, serious adverse events were actively monitored through 30 days. The document states 'Using a symptom checklist, the most frequently reported adverse reactions were injection site soreness (22%) and fatigue (14%).' However, active surveillance was limited to short-term follow-up. Postmarketing surveillance relies on voluntary VAERS reporting."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Two clinical studies specifically evaluated multiple sclerosis association (Section 5.7), finding no association with MS development or increased relapse risk. Clinical trial adverse events included nervous system disorders (dizziness, headache, somnolence, tingling) at 1-10% or <1% incidence. However, systematic neurological monitoring protocols not described. Postmarketing reports include serious neurological events: encephalitis, encephalopathy, Guillain-Barre syndrome, Bell's palsy, transverse myelitis, optic neuritis, seizures, paresthesia."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Multiple vulnerable populations studied: premature infants (<2000g at birth) with specific dosing guidance; immunocompromised persons (Section 5.6 notes diminished immune response); hemodialysis patients (n=56, with 4-dose schedule); adults with type 2 diabetes (n=416 with SAE rate of 3.8% vs 1.6% in controls, no SAEs deemed vaccine-related); chronic hepatitis C patients (n=67); elderly persons over 60 years with documented diminished antibody response. Pregnancy data from 58 inadvertent exposures and TWINRIX registry (245 women)."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Summary statistics provided: adverse event frequencies by category (<1%, 1-10%, 22% injection site soreness), seroprotection rates, GMTs with 95% confidence intervals. SAE rates in diabetes study (3.8% diabetics, 1.6% controls). Eight published references cited. However, individual patient data not available, complete adverse event tables not included, and postmarketing states 'not always possible to reliably estimate their frequency or establish a causal relationship.' No mortality data provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 provides comprehensive postmarketing adverse event reporting organized by system organ class. Reports VAERS contact information (1-800-822-7967) and manufacturer reporting (1-888-825-5249). Events include rare but serious conditions: thrombocytopenia, anaphylaxis, serum sickness-like syndrome, encephalitis, Guillain-Barre syndrome, Stevens-Johnson syndrome, transverse myelitis. Appropriately notes that voluntary reporting cannot establish frequency or causality. Long track record since 1989 approval."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ENGERIX-B safety documentation shows adequate pediatric sample sizes and good coverage of vulnerable subgroups including premature infants, hemodialysis patients, diabetics, and the elderly. Postmarketing surveillance is established with detailed adverse event cataloging. However, significant safety assessment limitations exist: the primary follow-up duration of only 4 days post-dose is insufficient for detecting delayed reactions; no true placebo comparison group was used; active surveillance was short-term. The MS association studies provide some neurological safety data, but systematic neurological monitoring was not described. The vaccine has been in use since 1989 providing extensive real-world safety data through VAERS, though voluntary reporting has inherent limitations."
+  }
+}

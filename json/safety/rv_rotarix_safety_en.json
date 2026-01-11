@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "rv_rotarix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Exceptional sample size of 63,225 infants in the main safety study (Rota-023), with 31,673 receiving Rotarix and 31,552 receiving placebo. Additional 3,994 subjects in Rota-036. Integrated Safety Summary pooled 36,755 subjects at licensure potency. This massive sample far exceeds the 3,000 per group needed to detect 1:1,000 events, enabling detection of rare adverse events like intussusception."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Follow-up extended approximately 2 years through Visit 6 in Rota-023 and to Visit 7 (22-24 months) in Rota-036. This meets the minimum 12-month standard and provides reasonable assessment of medium-term safety. However, longer surveillance (3-5 years) would better capture late-onset autoimmune or developmental effects. The 2-year timeframe is adequate for assessing intussusception risk, which typically occurs within weeks of vaccination."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "True inert placebo used with identical appearance (same diluent lots). Double-blind randomization at 1:1 ratio (Rota-023) and 2:1 ratio (Rota-036) with allocation concealment. Baseline demographics balanced between groups. This gold-standard design enables valid causal inference about vaccine-related adverse events."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive active surveillance implemented: weekly telephone contact with families from Day 7 post-Dose 1, bi-weekly during non-epidemic periods, returning to weekly during rotavirus season. Parents instructed to immediately contact investigators for SAEs. SAEs ascertained at all planned visits. Independent Data Monitoring Committee (IDMC) conducted unblinded reviews of each SAE, IS case, and fatality. Clinical Endpoint Committee adjudicated IS cases. 98% of subjects completed at least 31 days follow-up after each dose."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Convulsive disorders tracked through SAE surveillance: 16 Rotarix vs 6 placebo for PT Convulsions initially (when 5 convulsion-related PTs pooled: 20 vs 12, p=0.219, not significant). Individual case reviews conducted. Kawasaki's disease: 1 Rotarix case at 19 months post-vaccination. However, no systematic neurological examination schedule or developmental milestone assessments were implemented. Monitoring relied on SAE reporting rather than proactive neurological evaluations."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Vulnerable populations were explicitly excluded: preterm infants (birth weight <2000g), immunocompromised children, those with HIV, congenital GI malformations, history of IS, or on immunosuppressants. Document mentions limited data suggests safety in preterm infants but details not provided. Post-marketing studies planned for preterm and immunocompromised populations. This limits generalizability to the very populations who may be at highest risk."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Independent oversight provided: Data Monitoring Committee and Clinical Endpoint Committee reviewed unblinded data. FDA/CBER conducted independent statistical verification with minor discrepancies noted. Complete SAE tables with MedDRA coding submitted to regulators. CBER reviewer notes confirm calculations were verified. However, no mention of public release of individual participant data or complete raw datasets for independent academic analysis."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Robust post-marketing plan documented: prospective US observational safety study planned to evaluate intussusception risk with adequate power. Between July 2004 and July 2007, 12,309,365 doses distributed across 100 countries. Periodic Safety Update Reports submitted covering July 2006 to July 2007. Pharmacovigilance plan addresses IS, pneumonia mortality, RV strain distribution, and vaccine effectiveness. Note that this document predates full post-marketing data availability, representing planned rather than completed surveillance."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "This Rotarix safety evaluation provides reasonably strong evidence of vaccine safety in healthy infants, with several exemplary features: an exceptionally large sample of over 63,000 infants, true placebo-controlled double-blind design, active surveillance with independent oversight, and comprehensive mortality tracking. The study was specifically powered to detect intussusception risk, and no statistically significant increase was found (6 Rotarix vs 7 placebo within 31 days). Key limitations that prevent full confidence include: exclusion of vulnerable subgroups (preterm, immunocompromised) who may react differently; lack of systematic neurological/developmental assessments beyond SAE reporting; a 2-year follow-up that may miss very late-onset effects; and a numerical (non-significant) imbalance in deaths (56 vs 43) and pneumonia mortality (16 vs 6 pooled, p=0.035) that warrant ongoing monitoring. The document demonstrates good safety in the studied population of healthy infants, but parents of children with underlying conditions should discuss with their healthcare provider given limited data in vulnerable groups."
+  }
+}

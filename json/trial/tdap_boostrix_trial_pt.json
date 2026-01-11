@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "tdap_boostrix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os principais ensaios clínicos usaram comparadores ativos (vacina Td ou outra vacina Tdap) em vez de controles placebo verdadeiros. Apenas o estudo em gestantes (NCT02377349) usou um grupo controle com placebo (solução salina) com 341 receptoras de BOOSTRIX e 346 de placebo.",
+      "level_description": "Uso limitado de placebo; a maioria dos ensaios usou vacinas comparadoras ativas (Td ou Tdap) para comparações de imunogenicidade e segurança."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo em Adolescentes dos EUA e o Estudo em Adultos dos EUA foram estudos 'com cegamento do observador'. O Estudo em Idosos dos EUA também foi 'randomizado, com cegamento do observador.' Estudos de revacinação foram 'abertos.' O estudo em gestantes foi 'randomizado, controlado.'",
+      "level_description": "A maioria dos ensaios pivotais foi com cegamento do observador em vez de totalmente duplo-cego; alguns estudos foram abertos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos estudos descrevem randomização: 'estudo multicêntrico, randomizado, com cegamento do observador, controlado' para o Estudo em Adolescentes dos EUA (NCT00109330), Estudo em Adultos dos EUA (NCT00346073), Estudo em Idosos dos EUA (NCT00835237) e o estudo em gestantes (NCT02377349).",
+      "level_description": "A randomização foi consistentemente empregada em todos os ensaios clínicos pivotais."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo em Adolescentes dos EUA recrutou 3.080 receptores de BOOSTRIX e 1.034 receptores de Td (10-18 anos). O Estudo em Adolescentes da Alemanha recrutou 319 participantes de 10-12 anos. Total de participantes adolescentes vacinados com BOOSTRIX em estudos clínicos: 4.949.",
+      "level_description": "Grandes tamanhos de amostra adolescente (mais de 4.900 participantes de 10-18 anos) fornecem poder estatístico adequado para este grupo etário."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos solicitados monitorados por 4-15 dias pós-vacinação dependendo do estudo. Eventos adversos não solicitados monitorados por 30-31 dias. Eventos adversos graves monitorados por 6 meses pós-vacinação em estudos de dose inicial, 31 dias em estudos de revacinação e concomitantes, até 12 meses no estudo de coadministração com SHINGRIX.",
+      "level_description": "Os períodos de acompanhamento variaram, mas eventos adversos graves foram rastreados por 6 meses nos estudos pivotais de dose inicial."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Estudos foram conduzidos separadamente em adolescentes (10-18 anos), adultos (19-64 anos), idosos (65+ anos) e gestantes (18-45 anos). Estudos adicionais de revacinação em adultos de 20-29 anos e 28-73 anos. Dados de segurança e eficácia relatados separadamente para cada coorte etária.",
+      "level_description": "Estudos abrangentes estratificados por idade com populações distintas e relatório separado de desfechos."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento afirma que os participantes 'não haviam recebido reforço de tétano-difteria nos 5 anos anteriores' e aproximadamente 98% haviam recebido a série recomendada de DTaP na infância. As contraindicações listadas incluem histórico de reação alérgica grave e encefalopatia dentro de 7 dias após vacina anterior contra coqueluche.",
+      "level_description": "Alguns critérios de inclusão/exclusão mencionados, mas detalhes completos não fornecidos na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Os participantes foram monitorados usando 'cartões-diário padronizados' para eventos adversos solicitados. Reações locais (dor, vermelhidão, inchaço, circunferência do braço) e eventos gerais (cefaleia, fadiga, sintomas gastrointestinais, febre) foram sistematicamente coletados com escalas de graduação (Grau 1, 2, 3).",
+      "level_description": "Cartões-diário padronizados com escalas de graduação definidas para coleta sistemática de eventos adversos em todos os ensaios."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos graves foram monitorados por 6 meses pós-vacinação em estudos de dose inicial. O documento relata taxas de EAG: 1,4% BOOSTRIX vs 1,7% Tdap no estudo em adultos; 0,7% BOOSTRIX vs 0,9% Td no período de 31 dias no estudo em idosos; 4,2% vs 2,2% durante período de 6 meses em idosos.",
+      "level_description": "Vigilância ativa de eventos adversos graves com período de monitoramento de 6 meses em estudos pivotais."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O documento aborda especificamente a advertência sobre síndrome de Guillain-Barré, neurite braquial e observa que o IOM encontrou relação causal com toxoide tetânico. O monitoramento de EAG avaliou especificamente eventos 'de origem autoimune potencial ou de início recente e natureza crônica.' Um caso de diabetes insulino-dependente relatado 20 dias pós-vacinação.",
+      "level_description": "Monitoramento explícito de eventos autoimunes e neurológicos incluindo SGB, com advertências específicas na bula."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Gestantes estudadas no NCT02377349 (341 BOOSTRIX, 346 placebo). Idosos de 65+ anos estudados (887 BOOSTRIX, 445 Td) incluindo 299 participantes de 75+ anos. Pessoas imunocomprometidas abordadas na seção de advertências. O documento observa que a vacina não é indicada para crianças menores de 10 anos.",
+      "level_description": "Estudos dedicados em gestantes e populações idosas; pessoas imunocomprometidas abordadas nas advertências."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Análises de não inferioridade conduzidas com critérios pré-definidos. Exemplo: 'limite superior do IC bilateral de 95% para a diferença [BOOSTRIX menos Td] <=4%' para dor Grau 3. Comparações de razão GMC com 'limite inferior do IC 95% >=0,67.' Comparações de taxas de soroproteção realizadas.",
+      "level_description": "Critérios de não inferioridade pré-especificados com métodos estatísticos apropriados para desfechos de imunogenicidade."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Números de registro de ensaios clínicos fornecidos (NCT00109330, NCT00263679, NCT00346073, NCT00835237, etc.). Tabelas detalhadas com porcentagens, intervalos de confiança e tamanhos de amostra. Análises de coorte ATP (de acordo com o protocolo) claramente definidas.",
+      "level_description": "Números de registro de ensaios fornecidos; resultados estatísticos detalhados com intervalos de confiança em múltiplas tabelas."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 descreve experiência pós-comercialização com eventos adversos identificados durante uso pós-aprovação mundial. Notificação ao VAERS encorajada (1-800-822-7967). Registro de gravidez mantido (1-888-452-9622). O documento observa que são relatos voluntários de 'população de tamanho incerto.'",
+      "level_description": "Vigilância pós-comercialização ativa com notificação ao VAERS e registro de gravidez; limitações da notificação voluntária reconhecidas."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não divulga fontes de financiamento para ensaios clínicos ou potenciais conflitos de interesse de investigadores. Os estudos foram conduzidos pela GlaxoSmithKline Biologicals, que fabrica a vacina.",
+      "level_description": "Nenhuma divulgação de conflitos de interesse ou informações detalhadas de financiamento na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas de ensaios clínicos. Eventos adversos graves são relatados como porcentagens, mas mortes não são especificamente enumeradas ou comparadas entre grupos.",
+      "level_description": "Nenhum dado explícito de mortalidade por todas as causas relatado na bula."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de desenvolvimento clínico da BOOSTRIX inclui múltiplos ensaios randomizados em grupos etários com mais de 9.000 participantes no total. Os pontos fortes incluem coleta padronizada de eventos adversos, estudos estratificados por idade, monitoramento de EAG por 6 meses e imunogenicidade documentada com análises de não inferioridade. As limitações incluem uso predominante de comparadores ativos em vez de controles placebo, cegamento do observador em vez de duplo-cego completo, ausência de dados de mortalidade por todas as causas e nenhuma divulgação de conflito de interesses. A base de evidências apoia as indicações aprovadas com caracterização de segurança adequada para uma vacina de reforço."
+  }
+}

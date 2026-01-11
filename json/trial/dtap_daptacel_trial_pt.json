@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "dtap_daptacel",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Ensaio de Eficácia Sweden I (1992-1995) comparou o DAPTACEL com a vacina DT (como placebo), DTP de célula inteira contra coqueluche e outra vacina acelular contra coqueluche. N=2.587 receberam DAPTACEL, N=2.574 receberam DT. No entanto, DT não é um placebo inerte (solução salina) - contém toxoides de difteria e tétano que podem causar suas próprias reações, potencialmente mascarando eventos adversos específicos da vacina.",
+      "level_description": "Vacina DT usada como comparador em vez de placebo inerte verdadeiro (solução salina). Esta é uma limitação significativa, pois as reações associadas à DT poderiam obscurecer os sinais de segurança específicos do DAPTACEL."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Ensaio de Eficácia Sweden I é descrito como 'um ensaio randomizado, duplo-cego de eficácia da vacina contra coqueluche'. Os estudos dos EUA também referenciam duplo-cego para certos aspectos.",
+      "level_description": "Metodologia duplo-cega explicitamente declarada para o ensaio de eficácia primário, atendendo aos padrões esperados para redução de viés."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Ensaio de Eficácia Sweden I é descrito como 'randomizado'. O estudo de 4 doses dos EUA afirma que as crianças 'Com base na atribuição aleatória, a quarta dose de DAPTACEL foi administrada sozinha; concomitantemente com conjugado Hib...' No entanto, os métodos de ocultação da alocação não são explicitamente descritos.",
+      "level_description": "Randomização documentada para os ensaios principais, embora os detalhes de ocultação da alocação não sejam fornecidos."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Aproximadamente 18.000 doses administradas em 9 estudos clínicos. Ensaio de Eficácia Sweden I: N=2.587 bebês receberam DAPTACEL aos 2, 4 e 6 meses. Estudo dos EUA: 1.454 crianças receberam 4 doses. Estudos de quinta dose: 485 crianças primed com DAPTACEL e 989 primed com Pentacel. Total de 4.998 crianças receberam 3 doses, 1.725 receberam 4 doses, 485 receberam 5 doses.",
+      "level_description": "O tamanho da amostra de ~2.500 no ensaio de eficácia principal se aproxima, mas não excede o limite de 3.000 por faixa etária. Adequado para detectar eventos com frequência de 1:1.000, mas pode não detectar eventos mais raros."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'cartão de diário foi mantido por 14 dias após cada dose e ligações telefônicas de acompanhamento foram feitas 1 e 14 dias após cada injeção. Ligações telefônicas foram feitas mensalmente para monitorar a ocorrência de eventos graves e/ou hospitalizações pelos 2 meses após a última injeção.' O acompanhamento médio para eficácia foi de 2 anos. Estudo dos EUA: 'Eventos adversos graves foram monitorados durante os três estudos, por 6 meses após a última dose de DAPTACEL.' Eventos solicitados registrados para os Dias 0-7.",
+      "level_description": "Monitoramento ativo solicitado apenas 14 dias pós-dose; eventos graves monitorados por 2 meses (Sweden) a 6 meses (EUA) pós-última dose. Embora o acompanhamento de eficácia tenha sido de 2 anos, a janela de monitoramento de segurança de 6 meses é inadequada para detectar condições autoimunes ou neurológicas que podem surgir posteriormente."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os estudos incluíram bebês aos 2, 4, 6 meses; crianças pequenas aos 15-17/15-20 meses; e crianças aos 4-6 anos. Dados apresentados separadamente por número de dose (que se correlaciona com a idade) nas Tabelas 1, 2 e 3. No entanto, análises de segurança separadas e abrangentes para faixas etárias distintas (0-1, 1-5, 6-12) não são explicitamente fornecidas.",
+      "level_description": "Dados apresentados por número de dose que corresponde a diferentes idades, mas sem análise explícita separada por grupos etários pediátricos padrão (0-1, 1-5, 6-12 anos)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Contraindicações listadas: reação alérgica grave após dose anterior, encefalopatia dentro de 7 dias após vacina anterior contra coqueluche, distúrbio neurológico progressivo. Advertências mencionam crianças com histórico de convulsões, bebês prematuros (risco de apneia) e indivíduos imunocomprometidos. Demografia do estudo dos EUA: 51,7% feminino, 77,2% caucasiano, 6,3% negro, 6,5% hispânico, 0,9% asiático, 9,1% outros. Os sujeitos da quinta dose foram 'subconjuntos não aleatórios' de participantes de ensaios anteriores.",
+      "level_description": "Dados demográficos básicos fornecidos. Crianças com distúrbios neurológicos e reações alérgicas graves foram excluídas, o que limita a generalização. A seleção de coortes da quinta dose como 'subconjuntos não aleatórios' é uma limitação metodológica."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos solicitados com limites definidos: febre >=38,0C (retal), vermelhidão >=2cm, inchaço >=2cm, sensibilidade graduada por gravidade (moderada: chora quando tocado; grave: chora quando o membro é movido). Eventos sistêmicos definidos: EHH (episódio hipotônico-hiporresponsivo), choro persistente >=3 horas, convulsões dentro de 72 horas, febre >=40C. A Tabela 3 fornece definições detalhadas de graduação de gravidade para cada tipo de evento adverso.",
+      "level_description": "Definições padronizadas com limites objetivos (temperatura, medidas em cm/mm) e critérios de graduação de gravidade fornecidos. Não referencia explicitamente os critérios da Brighton Collaboration, mas usa definições consistentes."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'ligações telefônicas de acompanhamento foram feitas 1 e 14 dias após cada injeção. Ligações telefônicas foram feitas mensalmente para monitorar a ocorrência de eventos graves e/ou hospitalizações pelos 2 meses após a última injeção.' Estudo dos EUA: 'Ligações telefônicas periódicas foram feitas para perguntar sobre eventos adversos. Eventos adversos graves foram monitorados durante os três estudos, por 6 meses após a última dose.' EAGs relatados: bronquiolite (1,9%), pneumonia, meningite, sepse, coqueluche, 1 óbito (aspiração 222 dias pós-vacinação em sujeito com ependimoma).",
+      "level_description": "Monitoramento ativo via ligações telefônicas documentado, mas apenas por duração limitada (2 meses Sweden, 6 meses EUA pós-última dose). Metodologia de investigação de causalidade não descrita em detalhe."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Convulsões rastreadas: 'Nenhuma convulsão foi relatada dentro de 3 dias da vacinação com DAPTACEL. Durante todo o período do estudo, 6 convulsões foram relatadas no grupo DAPTACEL' (taxa 2,3 por 1.000). Um caso de espasmos infantis relatado. Estudo dos EUA: 5 sujeitos (0,3%) tiveram convulsões dentro de 60 dias. Advertências referenciam risco de síndrome de Guillain-Barre (SGB) com toxoide tetânico, baseado na revisão do Institute of Medicine. Encefalopatia é uma contraindicação. Nenhum monitoramento neurológico ou autoimune sistemático de longo prazo descrito.",
+      "level_description": "Convulsões e EHH monitorados ativamente a curto prazo. SGB mencionada como risco conhecido do toxoide tetânico. No entanto, nenhum exame neurológico agendado ou vigilância autoimune de longo prazo descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de Advertências aborda: bebês prematuros ('Apneia após vacinação intramuscular foi observada em alguns bebês nascidos prematuramente'), indivíduos imunocomprometidos ('a resposta imune esperada pode não ser obtida'), crianças com histórico de convulsões (recomenda antipirético). No entanto, esses grupos parecem ter sido excluídos ou não analisados separadamente nos ensaios, em vez de intencionalmente incluídos.",
+      "level_description": "Populações vulneráveis reconhecidas em advertências/precauções, mas parecem excluídas dos ensaios em vez de incluídas com análise separada. Nenhum dado sobre bebês prematuros, imunocomprometidos ou crianças com condições crônicas apresentado."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Eficácia: 84,9% (IC 95% 80,1 a 88,6) contra coqueluche definida pela OMS. Comparações estatísticas feitas: 'p<0,001: DAPTACEL versus DTP de célula inteira contra coqueluche' para múltiplos desfechos. Notas das tabelas indicam testes de significância estatística. Critérios de não inferioridade mencionados para imunogenicidade. No entanto, nenhum cálculo de poder para desfechos de segurança documentado; os ensaios parecem ter sido dimensionados para eficácia, não para segurança.",
+      "level_description": "Intervalos de confiança e valores-p fornecidos para eficácia e algumas comparações. No entanto, nenhum cálculo de poder documentado para desfechos de segurança - uma limitação fundamental comum aos ensaios de vacinas."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Ensaio de Eficácia Sweden I conduzido 'sob o patrocínio do National Institute of Allergy and Infectious Diseases.' Referências a publicações revisadas por pares e revisão do Institute of Medicine. Dados resumidos em tabelas, mas dados individuais de participantes não mencionados. Nenhuma menção de Comitê Independente de Monitoramento de Segurança de Dados (DSMB) ou disponibilidade de dados brutos.",
+      "level_description": "Ensaio patrocinado pelo governo com resultados publicados. Tabelas resumidas fornecidas. Nenhuma menção de DSMB, disponibilidade de dados brutos ou acesso a dados individuais de participantes."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 6.2 lista eventos adversos pós-comercialização 'relatados espontaneamente durante o uso pós-comercialização do DAPTACEL nos EUA e outros países.' Inclui: linfadenopatia, cianose, náusea, reações no local da injeção, celulite, reações de hipersensibilidade/anafiláticas, convulsões (febrís, grande mal, parciais), EHH, hipotonia, sonolência, síncope, gritos. Afirma: 'Como esses eventos são relatados voluntariamente de uma população de tamanho incerto, pode não ser possível estimar sua frequência de forma confiável.'",
+      "level_description": "Vigilância pós-comercialização passiva via relatos voluntários (VAERS mencionado). Reconhece a limitação de que a frequência não pode ser estimada de forma confiável. Nenhum sistema de farmacovigilância ativa com relatórios públicos periódicos mencionado."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Fabricado por Sanofi Pasteur Limited (Toronto). Ensaio de Eficácia Sweden I patrocinado pelo National Institute of Allergy and Infectious Diseases (governo). Estudos dos EUA parecem ter sido conduzidos pelo fabricante. O comparador DTP de célula inteira no Sweden I era produto da Sanofi Pasteur Inc. Nenhuma divulgação explícita de conflitos de interesse dos pesquisadores.",
+      "level_description": "O ensaio de eficácia principal teve patrocínio governamental independente (NIAID). No entanto, outros estudos parecem conduzidos pelo fabricante e nenhuma divulgação de conflitos dos pesquisadores fornecida."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'Não houve casos de infecção bacteriana invasiva ou morte.' Estudo de 4 doses dos EUA: 'Houve uma morte por aspiração 222 dias pós-vacinação em um sujeito com ependimoma' (julgada não relacionada). Declaração de que 'nenhuma morte' no ensaio Sweden, mas mortes em todos os grupos de comparação não explicitamente enumeradas para comparação.",
+      "level_description": "Mortes relatadas (0 no Sweden I, 1 não relacionada no estudo dos EUA). No entanto, mortalidade/morbidade por todas as causas não relatada sistematicamente em todos os grupos para comparação; foco em determinações 'relacionadas à vacina'."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A evidência de segurança do DAPTACEL é baseada principalmente no Ensaio de Eficácia Sweden I (1992-1995), um estudo randomizado, duplo-cego de 2.587 bebês, com dados de apoio dos EUA de aproximadamente 1.454 crianças adicionais. Os pontos fortes metodológicos principais incluem randomização, duplo-cego, definições padronizadas de eventos adversos e monitoramento ativo de curto prazo. No entanto, existem limitações significativas: vacina DT em vez de placebo salino verdadeiro foi usada como comparador (mascarando reações potenciais), o acompanhamento de segurança foi limitado a no máximo 6 meses, nenhum cálculo de poder para desfechos de segurança foi documentado, subgrupos vulneráveis foram excluídos em vez de estudados, e vigilância neurológica/autoimune de longo prazo estava ausente. A seção de pós-comercialização depende de relatos voluntários passivos que não podem estabelecer taxas de incidência. Embora o documento demonstre que o DAPTACEL tem um perfil de reatogenicidade mais favorável do que as vacinas de célula inteira contra coqueluche, as limitações do design do ensaio significam que eventos adversos raros ou tardios podem não ter sido adequadamente detectados."
+  }
+}

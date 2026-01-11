@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Adacel is NOT approved for children under 10 years of age. The document explicitly states: 'Safety and effectiveness of Adacel in persons less than 10 years of age in the U.S. have not been established.' The youngest subjects studied were 10-11 years old (1,302 participants in study NCT01311557). For the traditional pediatric population (0-9 years), no safety data exists. For adolescents 10-17 years, approximately 4,695 were studied across trials - meeting the >3,000 threshold for that specific age group, but this does not address younger children."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Maximum follow-up was 6 months in the primary trials. Study Td506: solicited reactions for 14 days, then monitoring for serious events up to 6 months via telephone contact. Study NCT01439165: solicited reactions for 7 days, unsolicited for 28 days, SAEs for 6 months. This falls significantly short of the ideal 12 months minimum or 2-3+ years needed to detect delayed autoimmune and neurological conditions. The 6-month timeframe is grossly inadequate for comprehensive long-term safety assessment."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "No true placebo (saline) control was used. All trials compared Adacel to another active vaccine - Td (Tetanus and Diphtheria Toxoids Adsorbed). Study Td506: Adacel vs DECAVAC (Td). Study NCT01439165: Adacel vs TENIVAC (Td). This design makes it impossible to determine which adverse events are caused by the vaccine versus coincidental occurrences. Both vaccines contain similar components, so comparing them obscures the true safety profile. The trials were randomized and observer-blind but the active comparator fundamentally limits safety conclusions."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active solicitation was conducted during the initial post-vaccination period: daily diary card monitoring for 14 days (study Td506) or 7 days (NCT01439165) for local and systemic reactions. Days 14-28 involved telephone interviews or clinic visits for events requiring medical contact. However, days 28 to 6 months relied on monitoring for physician/ER visits rather than proactive follow-up. SAE rates: 1.5% Adacel vs 1.4% Td in Td506. Two neuropathic SAEs within 28 days (severe migraine with facial paralysis, nerve compression). Causality investigation was not described in detail."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document acknowledges neurological risks but lacks systematic prospective monitoring. Warnings note: Guillain-Barre syndrome risk if occurred within 6 weeks of prior tetanus toxoid vaccine; Institute of Medicine found causal relation between tetanus toxoid and brachial neuritis. Post-marketing reports include GBS, brachial neuritis, facial palsy, convulsion, syncope, myelitis. However, no scheduled neurological exams or developmental assessments were described in trial protocols. Neurological events appear to have been identified reactively rather than through proactive surveillance."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Vulnerable subgroups were not intentionally included or analyzed separately. The document notes immunocompromised persons may not achieve expected immune response (section 5.5) but provides no specific safety data for this group. No data on premature infants, children with chronic conditions, or immunocompromised individuals. Since the vaccine is for ages 10+, premature infants are not relevant, but immunocompromised adolescents were not studied. Pregnancy registry data exists (N=225 exposed in retrospective study, N=1,236 in ongoing registry) with outcomes consistent with background rates."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Clinical trial registration numbers provided (NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Summary tables with percentages and confidence intervals included. References to peer-reviewed publications (Sweden I Efficacy trial, published pregnancy studies). However, no mention of independent Data Safety Monitoring Board (DSMB). Raw data and individual participant data (IPD) not mentioned as available. Manufacturer (Sanofi Pasteur) conducted the trials with no disclosed independent oversight."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Section 6.2 describes spontaneously reported adverse events from post-marketing experience in US and other countries. Adverse events listed by system: immune (anaphylaxis, hypersensitivity), nervous (GBS, brachial neuritis, facial palsy, convulsion, myelitis), cardiac (myocarditis), skin (pruritus, urticaria), musculoskeletal (myositis), and injection site reactions. VAERS reporting encouraged. However, the document acknowledges: 'Because these events are reported voluntarily from a population of uncertain size, it may not be possible to reliably estimate their frequency.' This passive system vastly underestimates true rates. No active pharmacovigilance with periodic public reports described."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "This document does NOT provide confidence that Adacel is safe for children ages 0-9 years because the vaccine was never studied in or approved for this population. For adolescents 10+ years, the safety evidence has significant limitations: (1) No true placebo control - all comparisons used another vaccine (Td), making it impossible to determine true adverse event rates; (2) Maximum 6-month follow-up is inadequate to detect delayed autoimmune or neurological conditions that may emerge months or years later; (3) No systematic neurological monitoring - serious conditions like GBS and myelitis identified primarily through passive post-marketing surveillance; (4) Vulnerable subgroups (immunocompromised adolescents) were not studied; (5) Post-marketing surveillance relies on voluntary VAERS reporting which vastly underestimates true event rates. The document demonstrates that ~7,143 individuals ages 10-64 received Adacel in clinical trials with active monitoring for 14 days and passive follow-up to 6 months, showing a safety profile similar to the Td comparator vaccine. However, parents seeking evidence of long-term safety for their child would find this evidence base incomplete, particularly given the absence of inert placebo comparisons, short follow-up duration, and reliance on passive surveillance to detect rare serious events."
+  }
+}

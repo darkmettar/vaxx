@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "menb_trumenba",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Total de 4.335 participantes receberam a formulação final de 120ug. Base de dados de segurança central de 4 estudos controlados incluiu 2.566 adolescentes recebendo Trumenba e 1.012 controles. Dos 4.282 participantes de 11-25 anos, 99,3% eram adolescentes (11-18 anos). Tamanho amostral de >3.000 é adequado para detectar eventos adversos ocorrendo em frequência de 1:1.000, atendendo o limiar para detecção razoável de segurança. No entanto, a amostra é limitada a adolescentes sem crianças <10 anos incluídas no pedido de licença."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Monitoramento de segurança estendeu-se por 6 meses após a vacinação final (terceira), com duração total do estudo de aproximadamente 12 meses desde a primeira dose. Essa duração é inadequada para detectar condições autoimunes ou neurológicas tardias que podem surgir meses a anos após a vacinação. O mínimo ideal de 12-24 meses após a dose final, com vários anos para efeitos de longo prazo, não foi atendido. Os 14 casos autoimunes/neuroinflamatórios identificados em 6 meses podem representar apenas uma fração das potenciais reações tardias."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Quatro estudos controlados usaram grupos de comparação variados: salina sozinha em alguns braços, mas a maioria das comparações envolveu vacinas ativas (HPV4, Tdap, dTaP-IPV). Estudo B1971011 teve um controle salina+HPV4, mas o principal grupo de comparação recebeu rLP2086+salina vs rLP2086+HPV4. Cegamento de observador foi usado (não verdadeiro duplo-cego), com equipe de dispensação de vacinas não cegada devido a aparências diferentes. Estudos foram randomizados com alocação computadorizada. A falta de controle placebo verdadeiro consistente (apenas salina inerte) limita a capacidade de atribuir eventos adversos especificamente a Trumenba."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicitação ativa de eventos adversos através de diários eletrônicos por 7 dias após a vacinação (reações locais e sistêmicas). Comitê Externo de Monitoramento de Dados (EDMC/DMC) forneceu supervisão contínua de segurança. EAGs coletados ativamente do Dia 1 até 6 meses após a dose final. Investigadores especificamente instruídos a perguntar sobre condições autoimunes e neuroinflamatórias em cada visita do estudo. EAs com atendimento médico, condições médicas crônicas recém-diagnosticadas e hospitalizações foram sistematicamente registrados. FDA BioResearch Monitoring realizou inspeções em 3 locais clínicos."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Protocolo de vigilância específico para condições neuroinflamatórias e autoimunes usando lista extensa de termos MedDRA. 14 casos identificados em receptores da vacina (13 autoimunes, 1 neuroinflamatório) vs 0 nos controles: paralisia de Bell (relacionada a Lyme), coreia de Sydenham, nefropatia por IgA, PTI, doença de Crohn, artrite reumatoide, distúrbios da tireoide (4 casos), doença celíaca (2 casos), exacerbação de psoríase e artrite pós-infecciosa. Amostras de soro basais foram analisadas retrospectivamente para determinar condições pré-existentes. No entanto, avaliações de desenvolvimento e exames neurológicos programados não foram realizados, e o acompanhamento de 6 meses é insuficiente para monitoramento neurológico de longo prazo."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Populações vulneráveis foram explicitamente excluídas dos estudos: crianças imunocomprometidas, aquelas com condições autoimunes, distúrbios neurológicos e histórico de convulsões (exceto febris). Bebês prematuros não estudados. Um estudo separado em bebês (B1971008) foi descontinuado após 90% dos bebês recebendo meia dose (60ug) desenvolverem febre >38C após a primeira dose. Estudos em crianças de 1-10 anos foram adiados como requisitos pós-comercialização. População foi 90,8% caucasiana com diversidade racial/étnica limitada. Nenhuma análise separada de crianças com condições crônicas ou medicações concomitantes que representam receptores de vacinas do mundo real."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "DMC independente revisou dados de segurança durante todo o programa. CBER realizou análises estatísticas independentes incluindo cálculos de taxa de condições autoimunes com intervalos de confiança. Documento de revisão clínica da FDA (este documento) disponível publicamente com narrativas de segurança detalhadas para todos os 14 casos autoimunes/neuroinflamatórios. Divulgações financeiras fornecidas mostrando que 10 de 1.036 investigadores tinham interesses financeiros. Estudos financiados pela indústria pela Pfizer/Wyeth sem fonte de financiamento independente. Dados individuais de participantes não disponíveis publicamente, mas acesso completo aos dados fornecido à FDA."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Plano pós-comercialização abrangente como condições de aprovação acelerada: estudos confirmatórios de eficácia (B1971009 para idades 10-19, B1971016 para idades 18-26), estudos pediátricos PREA (B1971017 para idades 2-10, B1971035 para idades 12-24 meses, estudo Fase 3 planejado). Compromissos pós-comercialização incluem estudo de segurança adicional B1971014 em ~10.000 participantes de 10-26 anos, estudo de vacinas concomitantes B1971015 (Tdap, MenACWY), e estudo observacional de desfechos de gravidez B1971052. Farmacovigilância de rotina através de sistemas de relato de eventos adversos (VAERS). Revisão contínua do DMC de estudos Fase 3 em andamento."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A evidência de segurança de Trumenba fornece garantia parcial para adolescentes (idades 10-25), mas lacunas significativas permanecem para confiança pediátrica mais ampla. PONTOS FORTES: Tamanho amostral adequado (>3.000 adolescentes), vigilância ativa com supervisão de DMC, monitoramento específico para condições autoimunes/neuroinflamatórias resultando em 14 casos com narrativas detalhadas, e plano abrangente de vigilância pós-comercialização. LIMITAÇÕES: (1) Acompanhamento de apenas 6 meses após a vacinação é insuficiente para detectar condições autoimunes/neurológicas tardias; (2) 14 casos autoimunes/neuroinflamatórios em receptores de Trumenba vs 0 nos controles levanta preocupação apesar de estar dentro das taxas de base; (3) Populações vulneráveis (imunocomprometidos, aqueles com condições crônicas) foram excluídas; (4) Nenhum dado em crianças <10 anos (estudos adiados); (5) Estudo em bebês descontinuado devido a taxa de febre de 90% com meia dose; (6) Maioria das comparações usou controles de vacina ativa em vez de placebo verdadeiro; (7) Financiamento pela indústria sem verificação independente. Este documento fornece confiança de que a segurança de curto prazo em adolescentes saudáveis é aceitável, mas NÃO fornece evidência adequada para segurança de longo prazo ou segurança em crianças mais jovens, bebês ou populações imunocomprometidas. Pais de adolescentes saudáveis podem ter confiança razoável de curto prazo; segurança de longo prazo e para população mais ampla permanece a ser estabelecida através de vigilância pós-comercialização."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_acthib",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "More than 7,000 infants and young children (<=2 years of age) received at least one dose of ActHIB during US clinical trials. The main safety study (P3T06) enrolled 1,454 children for doses 1-3 and followed 418 children for dose 4. Additionally, 1,064 subjects aged 12-24 months received ActHIB alone with no serious or life-threatening adverse reactions reported."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Safety follow-up was limited to 48 hours for solicited local and systemic reactions (Table 1) and 0-3 days for systemic reactions in Study P3T06 (Table 2). Serious adverse events were monitored for only 30 days following vaccination. No long-term safety follow-up data (months to years) was provided in the document."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Clinical trials compared ActHIB to other Haemophilus influenzae type b conjugate vaccines (PRP-OMP/PedvaxHIB and HbOC/HibTITER) but did not include a true placebo or unvaccinated control group. Vaccines were also administered concomitantly with DTP, OPV, and other vaccines, making it difficult to isolate ActHIB-specific safety signals."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse reactions were actively monitored at defined time points (6, 24, and 48 hours post-vaccination). However, the surveillance period was very short. SAEs were monitored within 30 days, with 50/1,455 (3.4%) experiencing SAEs after doses 1-3 and 4/418 (1.0%) after dose 4. One seizure with apnea was assessed as possibly related."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Guillain-Barre syndrome is listed as a warning/precaution if it occurred within 6 weeks of prior tetanus toxoid-containing vaccine. Convulsions are listed in postmarketing reports. One SAE of seizure with apnea was reported as possibly vaccine-related. However, systematic neurological monitoring protocols are not described in the clinical trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Immunogenicity data was collected for children with sickle cell anemia (89% achieved protective antibody levels after 2 doses) and Alaskan Native Americans (75% achieved protective levels). The document notes immunosuppressed persons may have reduced immune responses. However, detailed safety data specific to these vulnerable populations is limited."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Key supporting data is referenced as 'Data on file, Sanofi Pasteur SA' and 'Data on file, Sanofi Pasteur Inc.' which is not publicly accessible. Some clinical trial results are published in peer-reviewed literature (references 9-12). Tables provide percentage rates but limited raw numbers and no confidence intervals for safety outcomes."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 describes postmarketing surveillance with spontaneous reports of immune system disorders (anaphylaxis, urticaria, angioedema), nervous system disorders (convulsions), and general disorders (extensive limb swelling, peripheral edema, rash). VAERS reporting is enabled and contact information for reporting adverse reactions is provided (1-800-822-2463)."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ActHIB has adequate pediatric safety data from over 7,000 trial participants and established postmarketing surveillance. However, significant limitations include: very short follow-up periods (48 hours to 30 days), lack of placebo-controlled trials, concomitant administration with multiple other vaccines confounding safety assessment, limited neurological monitoring protocols, and key data held as proprietary rather than publicly accessible. The absence of long-term safety follow-up is a notable gap."
+  }
+}

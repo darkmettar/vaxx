@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One double-blind, placebo-controlled study among 914 healthy children and adolescents (n=491 vaccine, n=465 placebo) using a prior formulation (17,000 PFU). The current refrigerator-stable VARIVAX formulation was NOT tested in a placebo-controlled trial. Most clinical trials used historical controls or compared vaccinated cohorts to expected incidence rates rather than true placebo groups.",
+      "level_description": "While a placebo-controlled trial exists, it used an older formulation and a relatively small sample. The current marketed formulation has not been evaluated in a placebo-controlled setting, relying instead on comparisons to historical incidence rates."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document states 'a double-blind, placebo-controlled study among 914 healthy children and adolescents' was conducted. However, this was for an older formulation. Many other trials mentioned were open-label (e.g., NCT00432523 was 'randomized open-label').",
+      "level_description": "Double-blinding was used in one key study with an older formulation, but many subsequent trials including those with the current formulation were open-label, introducing potential bias in adverse event assessment."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple studies described randomization: '2216 children 12 months to 12 years of age with a negative history of varicella were randomized to receive either 1 dose of VARIVAX (n=1114) or 2 doses.' NCT00432523 was described as 'randomized open-label clinical trial.'",
+      "level_description": "Randomization was documented in multiple clinical trials, including the key efficacy and immunogenicity studies. Allocation concealment methods are not explicitly described."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Over 11,000 healthy children, adolescents, and adults received VARIVAX in clinical trials. For children 1-12 years: 8,824-8,913 subjects in fever/adverse event tables; 9,454 healthy children vaccinated and followed for herpes zoster; 4,240 children in early trials; 1,114 children in later 10-year trials; 2,216 children in 1-dose vs 2-dose study; 752 children in NCT00432523.",
+      "level_description": "The pediatric sample size exceeds 3,000 children substantially, with large cohorts followed for various endpoints. This is adequate for detecting common adverse events but may still miss rare events (1:10,000)."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Primary safety monitoring was 42 days post-vaccination. However, long-term efficacy studies followed children for up to 10 years. Herpes zoster follow-up: 42,556 person-years in children, 5,410 person-years in adolescents/adults. Antibody persistence tracked for 1-10 years in various studies.",
+      "level_description": "While active safety monitoring was limited to 42 days (inadequate for detecting delayed autoimmune reactions), long-term efficacy follow-up extends to 10 years. The 42-day safety window is typical for vaccine trials but misses late-onset adverse events."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Data presented separately for: Children 1-12 years (One-Dose Regimen, Two-Dose Regimen); Adolescents 13+ years and Adults (separate table with dose 1 and dose 2 data); Children 12-23 months in specific studies. NCT00432523 studied children 12-18 months specifically.",
+      "level_description": "Age groups are analyzed separately with distinct tables for children vs. adolescents/adults. However, further stratification within children (e.g., 1-2 years, 3-5 years, 6-12 years) is not consistently provided."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Contraindications specify exclusions: immunosuppression, moderate/severe febrile illness, active TB, pregnancy, severe allergic reactions. Study enrolled 'healthy children,' 'serologically confirmed to be susceptible to varicella.' Warnings mention family history of immunodeficiency as deferral criterion.",
+      "level_description": "Inclusion criteria focus on healthy, varicella-susceptible individuals. Exclusion criteria are clearly documented in contraindications. However, real-world applicability to children with underlying conditions is limited by these restrictions."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adverse events defined with objective thresholds: fever defined as >=102.0F (38.9C) oral for children, >=100.0F (37.8C) for adolescents/adults. Injection site reactions categorized (mild <=2.5cm, moderate >2.5-5.0cm, severe >5.0cm). Pain intensity defined. Diary cards used for systematic collection. Rashes characterized as measles-like, rubella-like, varicella-like.",
+      "level_description": "Standardized definitions with objective temperature thresholds and lesion measurements are used. Diary cards provided systematic data collection. However, Brighton Collaboration criteria are not explicitly mentioned."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Active follow-up conducted for 42 days after vaccination using diary cards. 'Subjects were actively followed for varicella, any varicella-like illness, or herpes zoster.' Serious adverse events reported: '0.3% and 1% in the intramuscular and subcutaneous groups.' Six subjects reported serious adverse events in one study. Febrile seizures occurred at <0.1% rate.",
+      "level_description": "Active monitoring was performed but limited to 42 days. Serious adverse events were tracked and reported, but the short follow-up window and lack of detailed causality investigation protocols described limits confidence in detecting delayed serious events."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Post-marketing section lists neurological events: encephalitis, cerebrovascular accident, transverse myelitis, Guillain-Barre syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis, meningitis, paresthesia. Clinical trials report febrile seizures at <0.1%. No specific pre-planned monitoring protocol for autoimmune/neurological conditions described in clinical trials.",
+      "level_description": "Serious neurological events are documented in post-marketing experience but were not systematically monitored in clinical trials. The 42-day follow-up is inadequate for detecting conditions like Guillain-Barre (typically 2-8 weeks post-exposure) or autoimmune disorders."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Contraindications explicitly exclude immunocompromised individuals. Section 5.2 notes ACIP has recommendations for HIV-infected individuals but does not provide trial data. Section 8.4: 'No clinical data are available on safety or efficacy of VARIVAX in children less than 12 months of age.' Premature infants, children with chronic conditions not specifically studied.",
+      "level_description": "Vulnerable subgroups (immunocompromised, premature infants, children <12 months, children with chronic conditions) were largely excluded from trials rather than intentionally studied. This significantly limits understanding of safety in these populations."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Confidence intervals provided for efficacy: '94% (95% CI, 93%, 96%)' and '90% (95% CI, 82%, 96%)'. P-values reported: 'significantly (p<0.05) greater rate' for injection-site reactions; '98% for 2 doses (p<0.001)'. Studies described as powered for efficacy, not safety. No explicit safety power calculations documented.",
+      "level_description": "Standard statistical methods used with CIs and p-values reported. However, studies were powered for efficacy endpoints, not safety outcomes. No safety power calculations are documented, meaning rare adverse events may be missed due to inadequate statistical power."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "References provided to 18 peer-reviewed publications. NCT00432523 registered as clinical trial. No mention of independent Data Safety Monitoring Board (DSMB). Raw data/individual participant data availability not mentioned. Package insert summarizes data without providing complete datasets.",
+      "level_description": "Peer-reviewed publications and clinical trial registrations provide some transparency. However, no DSMB is mentioned, raw data availability is not discussed, and complete adverse event datasets are not accessible for independent verification."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes post-marketing experience with detailed adverse event categories. VAERS reporting encouraged. Pregnancy registry maintained 1995-2013 (1,522 women enrolled, 905 with known outcomes). Reference to 'A 10-Year Review' safety profile publication (Galea 2008). Herpes zoster calculated incidence: 18.8 cases per 100,000 person-years in children.",
+      "level_description": "Post-marketing surveillance is documented with VAERS integration, a pregnancy registry, and periodic safety reviews. However, VAERS is a passive reporting system known to underestimate true adverse event rates."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Manufacturer: Merck Sharp & Dohme LLC. Clinical trials conducted at 'Research Laboratories of Merck Sharp & Dohme LLC, Rahway, NJ.' No disclosure of funding sources for individual trials, researcher financial relationships, or independent oversight. All referenced studies appear to be manufacturer-sponsored.",
+      "level_description": "The vaccine is manufactured by Merck and clinical trials were conducted by Merck researchers. No independent funding sources or conflict of interest disclosures are provided. Industry sponsorship without independent oversight raises concerns about potential bias."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not report all-cause mortality data. No deaths reported in clinical trials section. Post-marketing mentions monitoring for deaths in context of active surveillance but provides no aggregate mortality data comparing vaccine vs. placebo groups.",
+      "level_description": "All-cause mortality data are not reported. While no deaths are explicitly mentioned in clinical trials, the absence of systematic mortality reporting (deaths in vaccine vs. control groups) prevents assessment of overall mortality impact."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "VARIVAX clinical trials demonstrate adequate methodology in several areas including large pediatric sample sizes (>11,000 subjects), randomization in key studies, standardized adverse event definitions with objective thresholds, and 10-year efficacy follow-up. However, significant limitations exist: the current formulation was not tested in placebo-controlled trials, active safety monitoring was limited to 42 days (inadequate for detecting delayed autoimmune/neurological conditions), vulnerable subgroups were excluded rather than studied, studies were powered for efficacy rather than safety, no independent oversight or conflict of interest disclosures are provided, and all-cause mortality data are not reported. The trial methodology is adequate for demonstrating immunogenicity and short-term tolerability but provides limited evidence for rare, delayed, or serious adverse events, particularly in vulnerable populations."
+  }
+}

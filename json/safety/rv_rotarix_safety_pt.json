@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "rv_rotarix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Tamanho de amostra excepcional de 63.225 bebês no principal estudo de segurança (Rota-023), com 31.673 recebendo Rotarix e 31.552 recebendo placebo. 3.994 sujeitos adicionais no Rota-036. O Resumo Integrado de Segurança agrupou 36.755 sujeitos na potência de licenciamento. Esta amostra massiva excede em muito os 3.000 por grupo necessários para detectar eventos de 1:1.000, permitindo a detecção de eventos adversos raros como intussuscepção."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O acompanhamento estendeu-se por aproximadamente 2 anos até a Visita 6 no Rota-023 e até a Visita 7 (22-24 meses) no Rota-036. Isso atende ao padrão mínimo de 12 meses e fornece avaliação razoável da segurança a médio prazo. No entanto, vigilância mais longa (3-5 anos) capturaria melhor efeitos autoimunes ou de desenvolvimento de início tardio. O período de 2 anos é adequado para avaliar o risco de intussuscepção, que tipicamente ocorre dentro de semanas da vacinação."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Placebo verdadeiramente inerte usado com aparência idêntica (mesmos lotes de diluente). Randomização duplo-cega na proporção 1:1 (Rota-023) e 2:1 (Rota-036) com ocultação de alocação. Dados demográficos basais equilibrados entre os grupos. Este desenho padrão-ouro permite inferência causal válida sobre eventos adversos relacionados à vacina."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Vigilância ativa abrangente implementada: contato telefônico semanal com famílias a partir do Dia 7 pós-Dose 1, quinzenal durante períodos não-epidêmicos, retornando a semanal durante a temporada de rotavírus. Pais instruídos a contatar investigadores imediatamente para EAGs. EAGs verificados em todas as visitas planejadas. Comitê Independente de Monitoramento de Dados (CIMD) conduziu revisões não-cegas de cada EAG, caso de IS e óbito. Comitê de Desfechos Clínicos adjudicou casos de IS. 98% dos sujeitos completaram pelo menos 31 dias de acompanhamento após cada dose."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Distúrbios convulsivos rastreados através de vigilância de EAGs: 16 Rotarix vs 6 placebo para TP Convulsões inicialmente (quando 5 TPs relacionados a convulsões agrupados: 20 vs 12, p=0,219, não significativo). Revisões de casos individuais conduzidas. Doença de Kawasaki: 1 caso Rotarix aos 19 meses pós-vacinação. No entanto, nenhum cronograma sistemático de exame neurológico ou avaliações de marcos de desenvolvimento foi implementado. O monitoramento dependeu de relato de EAGs em vez de avaliações neurológicas proativas."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Populações vulneráveis foram explicitamente excluídas: bebês prematuros (peso ao nascer <2000g), crianças imunocomprometidas, aquelas com HIV, malformações GI congênitas, histórico de IS, ou em imunossupressores. O documento menciona que dados limitados sugerem segurança em bebês prematuros, mas detalhes não são fornecidos. Estudos pós-comercialização planejados para populações prematuras e imunocomprometidas. Isso limita a generalização para as populações que podem estar em maior risco."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Supervisão independente fornecida: Comitê de Monitoramento de Dados e Comitê de Desfechos Clínicos revisaram dados não-cegos. FDA/CBER conduziu verificação estatística independente com discrepâncias menores notadas. Tabelas completas de EAGs com codificação MedDRA submetidas aos reguladores. Notas do revisor do CBER confirmam que cálculos foram verificados. No entanto, não há menção de liberação pública de dados individuais de participantes ou conjuntos de dados brutos completos para análise acadêmica independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Plano robusto de pós-comercialização documentado: estudo observacional de segurança prospectivo nos EUA planejado para avaliar risco de intussuscepção com poder adequado. Entre julho de 2004 e julho de 2007, 12.309.365 doses distribuídas em 100 países. Relatórios Periódicos de Atualização de Segurança submetidos cobrindo julho de 2006 a julho de 2007. Plano de farmacovigilância aborda IS, mortalidade por pneumonia, distribuição de cepas de RV e efetividade da vacina. Note que este documento antecede a disponibilidade completa de dados pós-comercialização, representando vigilância planejada em vez de concluída."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Esta avaliação de segurança de Rotarix fornece evidência razoavelmente forte de segurança da vacina em bebês saudáveis, com várias características exemplares: uma amostra excepcionalmente grande de mais de 63.000 bebês, desenho verdadeiramente controlado por placebo e duplo-cego, vigilância ativa com supervisão independente e rastreamento abrangente de mortalidade. O estudo foi especificamente dimensionado para detectar risco de intussuscepção, e nenhum aumento estatisticamente significativo foi encontrado (6 Rotarix vs 7 placebo dentro de 31 dias). Limitações principais que impedem confiança total incluem: exclusão de subgrupos vulneráveis (prematuros, imunocomprometidos) que podem reagir diferentemente; falta de avaliações neurológicas/de desenvolvimento sistemáticas além do relato de EAGs; um acompanhamento de 2 anos que pode perder efeitos de início muito tardio; e um desequilíbrio numérico (não significativo) em óbitos (56 vs 43) e mortalidade por pneumonia (16 vs 6 agrupados, p=0,035) que justifica monitoramento contínuo. O documento demonstra boa segurança na população estudada de bebês saudáveis, mas pais de crianças com condições subjacentes devem discutir com seu profissional de saúde dado os dados limitados em grupos vulneráveis."
+  }
+}

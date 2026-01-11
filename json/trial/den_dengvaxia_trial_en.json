@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "den_dengvaxia",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The studies used 0.9% sodium chloride (saline) as placebo. Study 1 (NCT01374516) and Study 2 (NCT01373281) were placebo-controlled with saline placebo. A total of 22,924 subjects received DENGVAXIA and 10,668 received placebo (0.9% sodium chloride).",
+      "level_description": "Exceeds expected standard - uses true inert saline placebo rather than another vaccine as comparator, allowing accurate identification of adverse events attributable to the vaccine."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies were described as 'observer-blind, randomized' trials. The document states: 'In two multi-center, observer-blind, randomized (2:1), placebo-controlled trials...'",
+      "level_description": "Meets expectations - observer-blind design prevents bias in outcome assessment, though participant blinding status is less explicitly documented than observer blinding."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Subjects were randomized 2:1 to receive either DENGVAXIA or saline placebo. The studies are described as 'randomized, placebo-controlled, multicenter clinical trials.'",
+      "level_description": "Meets expectations with documented random allocation at 2:1 ratio, though specific details on allocation concealment methods are not provided in the package insert."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "A total of 22,924 subjects aged 6 through 16 years received at least one dose of DENGVAXIA across 12 clinical trials. Study 1 enrolled 20,869 subjects (ages 9-16), Study 2 enrolled 10,278 subjects (ages 6-14). The reactogenicity subset included 2,000 subjects in Study 1 and 1,310 subjects in Study 2.",
+      "level_description": "Exceeds expected standard with over 22,000 pediatric subjects - far exceeding the 3,000 per age group threshold needed for adequate safety detection."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Subjects were monitored for severe dengue from Day 0 to month 72 (6 years) after first vaccination in Studies 1, 2, 3, and 4. Study 4 (NCT01983553) was an extension study to evaluate safety for 72 months. Serious adverse events were monitored for at least 6 months after the last dose.",
+      "level_description": "Exceeds expected standard with 6-year (72 months) follow-up for severe dengue outcomes, allowing detection of long-term safety signals including delayed adverse events."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Data presented separately for ages 6-8 years and 9-14 years in Study 2, and for ages 9-16 years in Study 1. Adverse reaction tables provide separate data by age groups (6 through 8 years vs 9 through 14 years, and 9 through 16 years).",
+      "level_description": "Meets expectations with age group separation, though groupings are broader than ideal (0-1, 1-5, 6-12 breakdown not provided)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The vaccine is indicated for individuals 6-16 years with laboratory-confirmed previous dengue infection living in endemic areas. Contraindicated in immunocompromised individuals and those with severe allergic reactions. Studies enrolled subjects irrespective of previous dengue infection status for initial enrollment.",
+      "level_description": "Meets expectations - clear criteria documented with explicit discussion of population limitations (endemic areas, prior infection status)."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions recorded daily for 14 days with defined severity grades. Fever defined as ≥38.0°C (Grade 3: ≥39.0°C). Pain, erythema, swelling graded with specific thresholds (e.g., Grade 3 for swelling: ≥50mm for ages 6-11, >100mm for ages 12+). Severe dengue defined by IDMC criteria including specific clinical parameters.",
+      "level_description": "Meets expectations with objective thresholds for solicited reactions and standardized severe dengue definition by Independent Data Monitoring Committee."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Subjects monitored for serious adverse events for at least 6 months after last dose across 12 studies. SAEs within 28 days: 0.7% (168/22,924) in DENGVAXIA vs 0.9% (98/10,668) in placebo. Deaths tracked from first dose to month 72: 53 deaths (0.2%) in DENGVAXIA group, 34 deaths (0.3%) in placebo group. Related SAEs identified: asthma attack, urticaria, convulsion, acute disseminated encephalomyelitis.",
+      "level_description": "Meets expectations with active monitoring for SAEs and documented causal investigation of serious events."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One case of acute disseminated encephalomyelitis (ADEM) 7 days post Dose 1 was identified and considered related to DENGVAXIA. One convulsion on day of Dose 1 was reported. Severe dengue definition includes encephalopathy. No systematic neurological assessment protocol or predefined list of autoimmune conditions documented.",
+      "level_description": "Present but with significant limitations - specific neurological adverse events identified but no evidence of scheduled neurological exams or systematic autoimmune monitoring protocol."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Immunocompromised individuals are contraindicated and excluded. No specific mention of inclusion or separate analysis of premature infants, children with allergies, chronic conditions, or those on concurrent medications. One case of asthma crisis reported. Pregnancy registry established for inadvertent exposures.",
+      "level_description": "Present but with flaws - immunocompromised explicitly excluded rather than studied; no evidence of intentional inclusion of other vulnerable subgroups."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Vaccine efficacy calculated as 1 minus ratio of density incidence with 95% confidence intervals provided. Hazard ratios for severe dengue by serostatus presented with 95% CI. Pre-specified efficacy criterion documented (lower bound of 95% CI >25%). Modified Full Analysis Set (mFASE) defined for analysis.",
+      "level_description": "Meets expectations with confidence intervals, hazard ratios, and pre-specified analysis criteria documented."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple clinical trial registry numbers provided (NCT01374516, NCT01373281, NCT00842530, NCT01983553, and 8 others). Independent Data Monitoring Committee (IDMC) oversaw the studies. Studies conducted as peer-reviewed trials with registration numbers. Efficacy and safety data presented with sample sizes.",
+      "level_description": "Meets expectations with registered trials, IDMC oversight, and detailed data presentation, though raw individual participant data availability not mentioned."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes postmarketing experience with spontaneously reported adverse events including allergic/anaphylactic reactions and severe dengue infection (including hospitalization and death) in individuals with unknown prior dengue status. Adverse reaction reporting encouraged via VAERS (1-800-822-7967) and manufacturer pharmacovigilance department.",
+      "level_description": "Meets expectations with established passive surveillance system and identified post-marketing safety signals, though reliance on spontaneous reporting has inherent underreporting limitations."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document is a Sanofi Pasteur package insert. Studies were conducted by the manufacturer. No disclosure of independent funding or researcher conflicts of interest. Independent Data Monitoring Committee mentioned but no details on independence from sponsor.",
+      "level_description": "Present but with flaws - manufacturer-sponsored studies without explicit disclosure of potential conflicts or evidence of independent analysis."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "From first dose to month 72, 53 deaths (0.2%) reported in DENGVAXIA group vs 34 deaths (0.3%) in placebo group across 9 of 12 studies. Statement: 'None of the deaths were considered related to vaccination. Causes of death among subjects were consistent with those generally reported in children and adolescent populations.'",
+      "level_description": "Exceeds expected standard with comprehensive all-cause mortality reporting in both groups with explicit causality assessment and comparison to background rates."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "The DENGVAXIA clinical trial program demonstrates robust methodology with exemplary strengths in several areas: large pediatric sample size (over 22,000 children), true saline placebo control, extended 6-year follow-up, and comprehensive all-cause mortality reporting. The trials appropriately identified a critical safety signal - increased risk of severe dengue in seronegative individuals (HR 3.94) - leading to important labeling restrictions. However, the program has partial limitations in systematic neurological/autoimmune monitoring, vulnerable subgroup assessment (immunocompromised excluded rather than studied), and conflict of interest transparency. Overall, this represents an adequate to strong safety evaluation that, while not perfect, successfully identified a major delayed safety concern that fundamentally changed the vaccine's indication."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "den_dengvaxia",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "A total of 22,924 children aged 6-16 years received at least one dose of DENGVAXIA across 12 clinical trials. Study 1 enrolled 20,869 subjects (ages 9-16), Study 2 enrolled 10,278 subjects (ages 6-14). This far exceeds the 3,000 per age group threshold, providing excellent statistical power to detect adverse events occurring at rates of 1:1,000 or more common."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Subjects were monitored for severe dengue from Day 0 to month 72 (6 years) after first vaccination. Study 4 (NCT01983553) was specifically an extension study to evaluate safety for 72 months. This extended follow-up period enabled detection of the critical delayed safety signal (increased severe dengue in seronegative individuals), far exceeding the minimum 12-month standard."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "True saline placebo (0.9% sodium chloride) used as comparator with 2:1 randomization in observer-blind studies. A total of 10,668 subjects received placebo, enabling accurate attribution of adverse events. The saline control allows unbiased comparison of reaction rates, confirming which events are truly vaccine-related versus coincidental."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse reactions recorded daily for 14 days following each vaccination. Serious adverse events actively monitored for at least 6 months after last dose across 12 studies. Deaths and severe dengue cases tracked to month 72. Related SAEs identified and investigated (asthma attack, urticaria, convulsion, acute disseminated encephalomyelitis). However, the reactogenicity subset was limited to 2,000-1,310 subjects rather than the full cohort."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "One case of acute disseminated encephalomyelitis (ADEM) 7 days post Dose 1 identified as vaccine-related. One convulsion on day of Dose 1 reported. Severe dengue definition includes encephalopathy as a criterion. However, no evidence of scheduled developmental assessments, routine neurological examinations, or systematic protocol for detecting conditions like Guillain-Barre syndrome, seizure disorders, or developmental delays over the follow-up period."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Immunocompromised individuals are explicitly contraindicated and excluded from trials rather than studied with appropriate safeguards. No mention of intentional inclusion or separate analysis for premature infants, children with allergies, chronic conditions, or those on concurrent medications. The document identifies that children under 6 years are at increased risk regardless of serostatus, but this was discovered reactively rather than through prospective vulnerable subgroup inclusion."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Twelve clinical trial registry numbers provided (NCT01374516, NCT01373281, NCT00842530, NCT01983553, and 8 others). Independent Data Monitoring Committee (IDMC) oversaw the studies. Detailed tables with adverse event rates, confidence intervals, and hazard ratios published. However, individual participant data not mentioned as publicly available, and raw data access for independent verification is not documented."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Postmarketing section (6.2) describes spontaneously reported adverse events including allergic/anaphylactic reactions and severe dengue infection with hospitalization and death in individuals with unknown prior dengue status. Reporting encouraged via VAERS (1-800-822-7967) and Sanofi Pasteur pharmacovigilance (1-800-822-2463). Pregnancy registry established. However, this is primarily passive surveillance with acknowledged limitations in estimating true event frequency."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "The DENGVAXIA safety documentation provides reasonable confidence in the vaccine's safety profile for the approved population (seropositive individuals aged 6-16 years in endemic areas), but with important caveats. Strengths include an exceptionally large pediatric sample (22,924 children), true saline placebo control, and 6-year follow-up that successfully identified a critical delayed safety signal - seronegative children face nearly 4-fold increased risk of severe dengue after vaccination (HR 3.94). This finding led to appropriate restriction of the indication. However, the documentation falls short in systematic neurological monitoring and vulnerable subgroup assessment. Parents should feel moderately confident about safety in the approved population, but must ensure prior dengue infection is confirmed before vaccination given the serious consequences for seronegative individuals."
+  }
+}

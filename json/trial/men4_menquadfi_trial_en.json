@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "All ten clinical studies were active-controlled, comparing MenQuadfi to other meningococcal vaccines (Menveo, Menactra, or Menomune). No placebo (saline) control group was used in any study. The document explicitly states trials were 'randomized, active-controlled, multi-center clinical studies.'",
+      "level_description": "No inert placebo group was used. Active comparators (other vaccines) obscure true adverse event rates since both groups receive potentially reactogenic products."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document describes trials as 'randomized, active-controlled' but does not mention blinding status (double-blind, single-blind, or open-label). No mention of allocation concealment or blinding procedures for participants, investigators, or outcome assessors.",
+      "level_description": "Blinding methodology is not documented. Without this information, observer bias in adverse event assessment cannot be ruled out."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document states studies were 'randomized' and mentions assignment ratios (e.g., Study 1 had 2:1 MenQuadfi:Menveo ratio). However, no details on randomization method, sequence generation, or allocation concealment are provided.",
+      "level_description": "Randomization is mentioned but not adequately described. Without details on method and concealment, the quality of randomization cannot be verified."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Total of 4,273 participants <2 years received at least one dose (3,807 in 4-dose series, 466 in 2-dose series). For 4-dose series in Study 1: N=1,727 MenQuadfi; Study 2: N=2,080 MenQuadfi. Children 2-9 years: N=498 MenQuadfi (Study 4). Adolescents 10-17: N=3,196 across Studies 5 and 6.",
+      "level_description": "Pediatric sample sizes exceed 3,000 for infants in the 4-dose series, meeting the threshold for detecting 1:1,000 adverse events. Sample sizes for 2-9 year olds (N=498) are smaller and may miss rarer events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Solicited adverse reactions recorded for 7 days post-vaccination. Unsolicited adverse events collected within 30 days. SAEs and medically-attended events collected for 6 months after vaccination (except Study 10 which collected for only 1 month).",
+      "level_description": "6-month SAE follow-up is better than typical 30-42 day periods but still inadequate for detecting long-term autoimmune or neurological conditions that may emerge months to years later. No multi-year follow-up documented."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety data presented separately for: Infants 6 weeks-23 months (4-dose and 2-dose series), Children 2-9 years (Study 4), Adolescents 10-17 years (Studies 5, 6), Adults 18-55 years (Study 6), Adults 56+ years (Study 7), Older adults 59+ years (Study 10). Tables present data by dose and age strata.",
+      "level_description": "Excellent stratification by age groups with detailed separate analyses for each population, exceeding typical standards."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Limited details on inclusion/exclusion criteria. Document mentions 'healthy' participants for vaccine-naive studies. Contraindication stated: severe allergic reaction to vaccine components or previous tetanus toxoid-containing vaccine. Exclusions of children with health conditions not explicitly discussed.",
+      "level_description": "Criteria are not fully detailed in the package insert. No explicit discussion of generalizability limitations or how restrictive enrollment criteria might limit real-world applicability."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions defined with standardized grading: Fever (Any: ≥100.4F/38.0C; Grade 3: ≥103.1F/39.5C for infants, ≥102.1F/39.0C for older). Erythema/Swelling (Any: >0mm; Grade 3: ≥50mm). Tenderness/Pain graded by functional impact. Systemic reactions graded by severity (Grade 3 prevents daily activity).",
+      "level_description": "Standardized grading scales with objective thresholds are used consistently across studies, enabling comparison. However, Brighton Collaboration criteria not explicitly mentioned."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participants monitored 30 minutes post-vaccination for immediate reactions. Diary cards used daily for 7 days. SAEs collected for at least 6 months (except Study 10: 1 month). Medically-attended events (ER visits, unexpected healthcare visits) tracked. SAE rates reported: 5.3% MenQuadfi vs 3.6% Menveo in infant 4-dose series studies.",
+      "level_description": "Active solicited surveillance with diary cards and scheduled visits. SAE monitoring extends to 6 months for most studies. Medically-attended events tracked as a category."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Warnings section mentions GBS has been reported following another meningococcal conjugate vaccine. Two febrile seizures reported as SAEs possibly related to vaccination at 12-month dose with concomitant vaccines. Postmarketing reports: febrile seizure, convulsion, syncope. No systematic long-term neurological/autoimmune monitoring protocol described.",
+      "level_description": "GBS warning included and individual seizure events reported, but no predefined systematic monitoring protocol for autoimmune/neurological conditions. No scheduled developmental assessments or neurological exams described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Preterm infants included: Study 1 had 133 (7.7%) preterm infants (31 to <37 weeks gestation), Study 2 had 89 (4.3%) preterm. Document states 'no notable differences in rates and severity of adverse reactions between preterm and full-term infants.' Immunocompromised persons mentioned in warnings (may have reduced immune response).",
+      "level_description": "Preterm infants intentionally included with separate analysis noted showing no differences from full-term infants. However, immunocompromised children were not actively studied (only mentioned in warnings)."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Non-inferiority analysis described for immunogenicity (lower limit of 95% CI > -10%). 95% CIs provided for seroresponse rates and GMTs. Per-protocol and safety analysis sets defined. No mention of statistical powering for safety endpoints or power calculations for detecting rare adverse events.",
+      "level_description": "Statistical methods adequately described for immunogenicity but studies were powered for efficacy/immunogenicity, not safety. No safety-specific power calculations documented."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "ClinicalTrials.gov identifiers provided for all studies (NCT03537508, NCT03673462, NCT03691610, NCT03077438, NCT02199691, NCT02842853, NCT02842866, NCT02752906, NCT04084769, NCT04142242). Detailed tables with percentages and 95% CIs included. No mention of DSMB or availability of raw/individual participant data.",
+      "level_description": "Trial registrations and aggregate data provided, but no mention of independent Data Safety Monitoring Board (DSMB) oversight or raw data availability for independent verification."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Postmarketing Experience section exists but notes 'Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.' Reports include: anaphylaxis, hypersensitivity, febrile seizure, convulsion, syncope. VAERS reporting encouraged.",
+      "level_description": "Relies on passive reporting (VAERS) which vastly underestimates true rates. No active pharmacovigilance system with periodic public reports mentioned."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Manufactured by Sanofi Pasteur Inc. No disclosure of funding sources for clinical trials, financial ties of investigators, or conflicts of interest. All studies appear to be industry-sponsored given manufacturer production of package insert.",
+      "level_description": "No conflict of interest disclosure. Studies were conducted by the manufacturer, creating inherent potential for bias. No mention of independent funding or analysis."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No all-cause mortality data reported. Deaths are not mentioned except as part of SAE definition ('hospitalization, sequelae, deaths with causal investigation'). No table or count of total deaths in either vaccine or comparator groups.",
+      "level_description": "All-cause mortality is not reported. Without this data, it is impossible to assess whether overall deaths differed between groups regardless of perceived causality."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "MenQuadfi's clinical trial program demonstrates adequate sample sizes for infants and excellent age-stratified analysis, but has significant methodological limitations for safety assessment. The absence of placebo controls (all active-controlled), undocumented blinding status, and lack of true long-term follow-up (maximum 6 months for SAEs) limit the ability to establish a true baseline adverse event rate and detect rare long-term outcomes. Positive aspects include standardized adverse event grading, active solicited monitoring with diary cards, and intentional inclusion of preterm infants with separate analysis. However, the studies were powered for immunogenicity rather than safety, no DSMB is mentioned, all-cause mortality is not reported, and post-marketing surveillance relies on passive reporting systems. The absence of conflict of interest disclosure and independent funding raises questions about potential industry bias in a program entirely conducted by the manufacturer."
+  }
+}

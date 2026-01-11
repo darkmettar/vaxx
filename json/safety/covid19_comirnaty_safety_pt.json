@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "covid19_comirnaty",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Para crianças de 5-11 anos: 3.109 receberam COMIRNATY na Fase 2/3 controlada por placebo do Estudo 3, atendendo ao limite de >3.000 necessário para detectar eventos adversos que ocorrem com frequência de 1:1.000. Para adolescentes de 12-15 anos: 1.131 receberam COMIRNATY no Estudo 2, que é o nível mínimo aceitável, mas pode não detectar eventos mais raros. Combinado com dados pós-comercialização de milhões de doses, a amostra fornece detecção razoável de sinais de segurança, embora eventos muito raros (1:10.000+) não seriam detectados em ensaios clínicos."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O monitoramento ativo de eventos adversos solicitados durou apenas 7 dias pós-vacinação. Para crianças de 5-11 anos no Estudo 3, a mediana de acompanhamento cego controlado por placebo foi de apenas 1,9 meses (variação de 0,1 a 7,5 meses) após a dose 2. Para adolescentes de 12-15 anos, 69% tiveram pelo menos 4 meses de acompanhamento. Isso é grosseiramente inadequado para detectar efeitos autoimunes, neurológicos ou de desenvolvimento que podem levar meses ou anos para se manifestar. O documento afirma explicitamente: 'Informações ainda não estão disponíveis sobre potenciais sequelas de longo prazo de miocardite ou pericardite após administração de vacinas COVID-19 de mRNA.' Um mínimo de 12 meses com 2-3+ anos ideais é necessário para avaliar a segurança de longo prazo em crianças."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O Estudo 2 e o Estudo 3 utilizaram placebo salino verdadeiro como comparador com alocação aleatória e duplo-cegamento (Estudo 2) ou cegamento para o observador (Estudo 3). Isso permite determinação adequada de quais eventos adversos são causalmente relacionados à vacina versus coincidentes. Estudo 3: 3.109 vacina vs 1.538 placebo para idades 5-11. Estudo 2: 1.131 vacina vs 1.129 placebo para idades 12-15. O desenho controlado por placebo foi mantido para o período inicial de avaliação de segurança."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Reações adversas solicitadas (reações no local da injeção e sintomas sistêmicos) foram ativamente coletadas via diário eletrônico por apenas 7 dias após cada vacinação - muito curto para capturar reações tardias. Eventos adversos não solicitados foram monitorados até 1 mês (não graves) e 6 meses (graves), mas dependeram de relato do participante/investigador em vez de acompanhamento ativo programado. Eventos adversos graves em crianças de 5-11: 8 (0,3%) vacina vs 2 (0,1%) placebo, com declaração de que 'Nenhum evento adverso grave foi considerado relacionado à vacinação.' A falta de vigilância ativa estendida com exames médicos programados limita a detecção de eventos graves tardios."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Nenhum protocolo específico de monitoramento neurológico ou de desenvolvimento descrito para participantes pediátricos. Convulsões febris em crianças de 5-11 foram identificadas apenas através de vigilância pós-comercialização, não em ensaios clínicos. Paralisia de Bell (paralisia facial) foi rastreada em adultos (4 vacina vs 2 placebo), mas o documento afirma que 'Informações atualmente disponíveis são insuficientes para determinar relação causal.' O risco de miocardite (~8-27 por milhão de doses) foi detectado principalmente através de dados pós-comercialização, não de vigilância em ensaios. Nenhuma avaliação de desenvolvimento programada, exames neurológicos ou vigilância sistemática para condições como Síndrome de Guillain-Barre na população pediátrica."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Crianças com comorbidades que aumentam o risco de COVID-19 foram incluídas (25,7% do grupo vacina no Estudo 3). No entanto, crianças imunocomprometidas foram explicitamente excluídas dos ensaios. O documento afirma: 'Pessoas imunocomprometidas... podem ter uma resposta imune diminuída à COMIRNATY.' Nenhum prematuro estudado, nenhuma análise separada para crianças com alergias, condições autoimunes ou em medicamentos concomitantes. Os resultados podem não se generalizar para essas populações pediátricas vulneráveis."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Ensaios clínicos registrados no ClinicalTrials.gov com números de identificação fornecidos (NCT04816643 para Estudo pediátrico 3). Tabelas de segurança detalhadas incluídas com dados de frequência por grau de gravidade. No entanto, nenhuma menção de supervisão por Comitê Independente de Monitoramento de Segurança de Dados (DSMB), nenhuma disponibilidade de dados de participantes individuais para análise independente, e nenhuma divulgação de conflito de interesse. Todos os estudos foram conduzidos e analisados pelo fabricante (Pfizer/BioNTech)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A seção 6.2 documenta reações adversas pós-comercialização identificadas após uso generalizado, incluindo: miocardite/pericardite (maior risco em homens de 12-24), reações alérgicas graves/anafilaxia, convulsões febris especificamente em crianças de 5-11 anos. Fontes de dados pós-comercialização incluem bancos de dados de sinistros de seguro de saúde comercial, sistema de notificação passiva VAERS e o estudo multicêntrico MACiV para desfechos de miocardite. Taxas estimadas de miocardite fornecidas: ~8 casos por milhão (idades 6m-64a) e ~27 por milhão (homens 12-24). Orientações do CDC referenciadas para manejo de miocardite. A vigilância ativa continua, embora o sistema passivo VAERS tenha limitações conhecidas de subnotificação."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Esta bula fornece evidência PARCIAL de segurança para crianças de 5-11 anos. Os pontos fortes incluem: tamanho de amostra adequado (3.109 crianças), desenho apropriado controlado por placebo, coleta padronizada de eventos adversos e vigilância pós-comercialização robusta que identificou miocardite e convulsões febris. No entanto, limitações críticas comprometem a confiança na segurança pediátrica: (1) A duração do acompanhamento foi grosseiramente inadequada - mediana de 1,9 meses para crianças de 5-11, muito aquém dos 12+ meses necessários para detectar complicações autoimunes ou neurológicas; (2) Não existia protocolo sistemático de monitoramento neurológico/de desenvolvimento; (3) Sinais de segurança importantes como miocardite foram detectados através de vigilância pós-comercialização em vez de ensaios clínicos; (4) O documento reconhece explicitamente incerteza sobre desfechos cardíacos de longo prazo: 'Informações ainda não estão disponíveis sobre potenciais sequelas de longo prazo'; (5) Crianças imunocomprometidas e outras vulneráveis foram excluídas. Embora a vacina mostre boa tolerabilidade de curto prazo (reações comuns sendo dor no local da injeção 72,9%, fadiga 39,2%, cefaleia 28,4%, febre 6,3% em crianças de 5-11), o documento não pode fornecer confiança sobre a segurança de longo prazo em crianças devido à duração insuficiente do acompanhamento e à ausência de monitoramento de desenvolvimento."
+  }
+}

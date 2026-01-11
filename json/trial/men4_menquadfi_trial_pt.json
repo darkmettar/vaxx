@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Todos os dez estudos clínicos foram controlados por comparador ativo, comparando MenQuadfi a outras vacinas meningocócicas (Menveo, Menactra ou Menomune). Nenhum grupo controle com placebo (solução salina) foi usado em nenhum estudo. O documento afirma explicitamente que os ensaios foram 'estudos clínicos multicêntricos randomizados e controlados por comparador ativo.'",
+      "level_description": "Nenhum grupo de placebo inerte foi usado. Comparadores ativos (outras vacinas) obscurecem as verdadeiras taxas de eventos adversos, já que ambos os grupos recebem produtos potencialmente reatogênicos."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento descreve os ensaios como 'randomizados, controlados por comparador ativo', mas não menciona o status de cegamento (duplo-cego, simples-cego ou aberto). Nenhuma menção de ocultação de alocação ou procedimentos de cegamento para participantes, investigadores ou avaliadores de desfechos.",
+      "level_description": "A metodologia de cegamento não está documentada. Sem essa informação, o viés do observador na avaliação de eventos adversos não pode ser descartado."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento afirma que os estudos foram 'randomizados' e menciona proporções de alocação (ex.: Estudo 1 teve proporção 2:1 MenQuadfi:Menveo). No entanto, nenhum detalhe sobre método de randomização, geração de sequência ou ocultação de alocação é fornecido.",
+      "level_description": "A randomização é mencionada, mas não adequadamente descrita. Sem detalhes sobre método e ocultação, a qualidade da randomização não pode ser verificada."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Total de 4.273 participantes <2 anos receberam pelo menos uma dose (3.807 na série de 4 doses, 466 na série de 2 doses). Para série de 4 doses no Estudo 1: N=1.727 MenQuadfi; Estudo 2: N=2.080 MenQuadfi. Crianças de 2-9 anos: N=498 MenQuadfi (Estudo 4). Adolescentes de 10-17: N=3.196 nos Estudos 5 e 6.",
+      "level_description": "Tamanhos amostrais pediátricos excedem 3.000 para bebês na série de 4 doses, atendendo o limiar para detectar eventos adversos de 1:1.000. Tamanhos amostrais para 2-9 anos (N=498) são menores e podem não detectar eventos mais raros."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações adversas solicitadas registradas por 7 dias após a vacinação. Eventos adversos não solicitados coletados em 30 dias. EAGs e eventos com atendimento médico coletados por 6 meses após a vacinação (exceto Estudo 10 que coletou por apenas 1 mês).",
+      "level_description": "O acompanhamento de 6 meses para EAGs é melhor que os períodos típicos de 30-42 dias, mas ainda inadequado para detectar condições autoimunes ou neurológicas de longo prazo que podem surgir meses a anos depois. Nenhum acompanhamento de vários anos documentado."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados de segurança apresentados separadamente para: Bebês de 6 semanas-23 meses (séries de 4 doses e 2 doses), Crianças de 2-9 anos (Estudo 4), Adolescentes de 10-17 anos (Estudos 5, 6), Adultos de 18-55 anos (Estudo 6), Adultos 56+ anos (Estudo 7), Adultos mais velhos 59+ anos (Estudo 10). Tabelas apresentam dados por dose e estratos etários.",
+      "level_description": "Excelente estratificação por faixas etárias com análises separadas detalhadas para cada população, excedendo os padrões típicos."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Detalhes limitados sobre critérios de inclusão/exclusão. Documento menciona participantes 'saudáveis' para estudos com participantes naive à vacina. Contraindicação declarada: reação alérgica grave a componentes da vacina ou vacina anterior contendo toxoide tetânico. Exclusões de crianças com condições de saúde não discutidas explicitamente.",
+      "level_description": "Os critérios não são totalmente detalhados na bula. Nenhuma discussão explícita de limitações de generalização ou como critérios de inclusão restritivos podem limitar a aplicabilidade no mundo real."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações adversas solicitadas definidas com graduação padronizada: Febre (Qualquer: ≥100,4F/38,0C; Grau 3: ≥103,1F/39,5C para bebês, ≥102,1F/39,0C para mais velhos). Eritema/Inchaço (Qualquer: >0mm; Grau 3: ≥50mm). Sensibilidade/Dor graduadas por impacto funcional. Reações sistêmicas graduadas por gravidade (Grau 3 impede atividade diária).",
+      "level_description": "Escalas de graduação padronizadas com limiares objetivos são usadas consistentemente entre os estudos, permitindo comparação. No entanto, critérios da Brighton Collaboration não são explicitamente mencionados."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participantes monitorados por 30 minutos após a vacinação para reações imediatas. Cartões-diário usados diariamente por 7 dias. EAGs coletados por pelo menos 6 meses (exceto Estudo 10: 1 mês). Eventos com atendimento médico (visitas ao pronto-socorro, consultas médicas inesperadas) rastreados. Taxas de EAG relatadas: 5,3% MenQuadfi vs 3,6% Menveo nos estudos de série de 4 doses em bebês.",
+      "level_description": "Vigilância ativa solicitada com cartões-diário e visitas programadas. Monitoramento de EAG estende-se a 6 meses para a maioria dos estudos. Eventos com atendimento médico rastreados como categoria."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de Advertências menciona que SGB foi relatada após outra vacina conjugada meningocócica. Duas convulsões febris relatadas como EAGs possivelmente relacionadas à vacinação na dose de 12 meses com vacinas concomitantes. Relatos pós-comercialização: convulsão febril, convulsão, síncope. Nenhum protocolo sistemático de monitoramento neurológico/autoimune de longo prazo descrito.",
+      "level_description": "Alerta de SGB incluído e eventos individuais de convulsão relatados, mas sem protocolo de monitoramento sistemático predefinido para condições autoimunes/neurológicas. Sem avaliações de desenvolvimento programadas ou exames neurológicos descritos."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Bebês prematuros incluídos: Estudo 1 teve 133 (7,7%) bebês prematuros (31 a <37 semanas de gestação), Estudo 2 teve 89 (4,3%) prematuros. Documento afirma 'nenhuma diferença notável nas taxas e gravidade de reações adversas entre bebês prematuros e a termo.' Pessoas imunocomprometidas mencionadas nas advertências (podem ter resposta imune reduzida).",
+      "level_description": "Bebês prematuros intencionalmente incluídos com análise separada observando não haver diferenças em relação a bebês a termo. No entanto, crianças imunocomprometidas não foram ativamente estudadas (apenas mencionadas nas advertências)."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Análise de não inferioridade descrita para imunogenicidade (limite inferior do IC 95% > -10%). IC 95% fornecidos para taxas de sororesposta e TMGs. Conjuntos de análise por protocolo e de segurança definidos. Nenhuma menção de poder estatístico para desfechos de segurança ou cálculos de poder para detectar eventos adversos raros.",
+      "level_description": "Métodos estatísticos adequadamente descritos para imunogenicidade, mas estudos foram dimensionados para eficácia/imunogenicidade, não segurança. Nenhum cálculo de poder específico para segurança documentado."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Identificadores do ClinicalTrials.gov fornecidos para todos os estudos (NCT03537508, NCT03673462, NCT03691610, NCT03077438, NCT02199691, NCT02842853, NCT02842866, NCT02752906, NCT04084769, NCT04142242). Tabelas detalhadas com porcentagens e IC 95% incluídas. Nenhuma menção de DSMB ou disponibilidade de dados brutos/dados individuais de participantes.",
+      "level_description": "Registros de ensaios e dados agregados fornecidos, mas nenhuma menção de supervisão independente do Comitê de Monitoramento de Segurança de Dados (DSMB) ou disponibilidade de dados brutos para verificação independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de Experiência Pós-Comercialização existe, mas observa 'Como essas reações são relatadas voluntariamente de uma população de tamanho incerto, nem sempre é possível estimar de forma confiável sua frequência.' Relatos incluem: anafilaxia, hipersensibilidade, convulsão febril, convulsão, síncope. Relato ao VAERS incentivado.",
+      "level_description": "Depende de relato passivo (VAERS) que subestima vastamente as taxas reais. Nenhum sistema de farmacovigilância ativa com relatórios públicos periódicos mencionado."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Fabricado pela Sanofi Pasteur Inc. Nenhuma divulgação de fontes de financiamento para ensaios clínicos, vínculos financeiros de investigadores ou conflitos de interesse. Todos os estudos parecem ser patrocinados pela indústria, dado que o fabricante produziu a bula.",
+      "level_description": "Nenhuma divulgação de conflito de interesse. Estudos foram conduzidos pelo fabricante, criando potencial inerente de viés. Nenhuma menção de financiamento ou análise independente."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhum dado de mortalidade por todas as causas relatado. Óbitos não são mencionados exceto como parte da definição de EAG ('hospitalização, sequelas, óbitos com investigação causal'). Nenhuma tabela ou contagem de óbitos totais em grupos de vacina ou comparador.",
+      "level_description": "Mortalidade por todas as causas não é relatada. Sem esses dados, é impossível avaliar se os óbitos totais diferiram entre os grupos, independentemente da causalidade percebida."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "O programa de ensaios clínicos de MenQuadfi demonstra tamanhos amostrais adequados para bebês e excelente análise estratificada por idade, mas tem limitações metodológicas significativas para avaliação de segurança. A ausência de controles com placebo (todos controlados por comparador ativo), status de cegamento não documentado e falta de acompanhamento verdadeiramente de longo prazo (máximo de 6 meses para EAGs) limitam a capacidade de estabelecer uma verdadeira taxa basal de eventos adversos e detectar desfechos raros de longo prazo. Aspectos positivos incluem graduação padronizada de eventos adversos, monitoramento ativo solicitado com cartões-diário e inclusão intencional de bebês prematuros com análise separada. No entanto, os estudos foram dimensionados para imunogenicidade em vez de segurança, nenhum DSMB é mencionado, mortalidade por todas as causas não é relatada, e a vigilância pós-comercialização depende de sistemas de relato passivo. A ausência de divulgação de conflito de interesse e financiamento independente levanta questões sobre potencial viés da indústria em um programa inteiramente conduzido pelo fabricante."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Um estudo duplo-cego controlado por placebo entre 914 crianças e adolescentes saudáveis (n=491 vacina, n=465 placebo) usando uma formulação anterior (17.000 PFU). A formulação VARIVAX estável em refrigeração atual NÃO foi testada em um ensaio controlado por placebo. A maioria dos ensaios clínicos usou controles históricos ou comparou coortes vacinadas com taxas de incidência esperadas em vez de grupos placebo verdadeiros.",
+      "level_description": "Embora exista um ensaio controlado por placebo, ele usou uma formulação mais antiga e uma amostra relativamente pequena. A formulação comercializada atual não foi avaliada em um ambiente controlado por placebo, dependendo em vez disso de comparações com taxas de incidência históricas."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento afirma 'um estudo duplo-cego controlado por placebo entre 914 crianças e adolescentes saudáveis' foi conduzido. No entanto, isso foi para uma formulação mais antiga. Muitos outros ensaios mencionados eram abertos (por exemplo, NCT00432523 era 'randomizado aberto').",
+      "level_description": "Duplo-cegamento foi usado em um estudo chave com uma formulação mais antiga, mas muitos ensaios subsequentes incluindo aqueles com a formulação atual eram abertos, introduzindo potencial viés na avaliação de eventos adversos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos estudos descreveram randomização: '2216 crianças de 12 meses a 12 anos de idade com histórico negativo de varicela foram randomizadas para receber 1 dose de VARIVAX (n=1114) ou 2 doses.' NCT00432523 foi descrito como 'ensaio clínico randomizado aberto.'",
+      "level_description": "Randomização foi documentada em múltiplos ensaios clínicos, incluindo os principais estudos de eficácia e imunogenicidade. Métodos de ocultação de alocação não são explicitamente descritos."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Mais de 11.000 crianças, adolescentes e adultos saudáveis receberam VARIVAX em ensaios clínicos. Para crianças de 1-12 anos: 8.824-8.913 sujeitos nas tabelas de febre/eventos adversos; 9.454 crianças saudáveis vacinadas e acompanhadas para herpes zoster; 4.240 crianças em ensaios iniciais; 1.114 crianças em ensaios posteriores de 10 anos; 2.216 crianças no estudo de 1 dose vs 2 doses; 752 crianças no NCT00432523.",
+      "level_description": "O tamanho da amostra pediátrica excede substancialmente 3.000 crianças, com grandes coortes acompanhadas para vários desfechos. Isso é adequado para detectar eventos adversos comuns, mas ainda pode perder eventos raros (1:10.000)."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Monitoramento de segurança primário foi de 42 dias após a vacinação. No entanto, estudos de eficácia de longo prazo acompanharam crianças por até 10 anos. Acompanhamento de herpes zoster: 42.556 pessoas-ano em crianças, 5.410 pessoas-ano em adolescentes/adultos. Persistência de anticorpos rastreada por 1-10 anos em vários estudos.",
+      "level_description": "Embora o monitoramento de segurança ativo fosse limitado a 42 dias (inadequado para detectar reações autoimunes tardias), o acompanhamento de eficácia de longo prazo estende-se por 10 anos. A janela de segurança de 42 dias é típica para ensaios de vacinas, mas perde eventos adversos de início tardio."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Dados apresentados separadamente para: Crianças de 1-12 anos (Regime de Uma Dose, Regime de Duas Doses); Adolescentes 13+ anos e Adultos (tabela separada com dados de dose 1 e dose 2); Crianças de 12-23 meses em estudos específicos. NCT00432523 estudou crianças de 12-18 meses especificamente.",
+      "level_description": "Grupos etários são analisados separadamente com tabelas distintas para crianças vs. adolescentes/adultos. No entanto, estratificação adicional dentro de crianças (por exemplo, 1-2 anos, 3-5 anos, 6-12 anos) não é consistentemente fornecida."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Contraindicações especificam exclusões: imunossupressão, doença febril moderada/grave, TB ativa, gravidez, reações alérgicas graves. Estudo incluiu 'crianças saudáveis', 'confirmadas sorologicamente como suscetíveis à varicela.' Advertências mencionam histórico familiar de imunodeficiência como critério de adiamento.",
+      "level_description": "Critérios de inclusão focam em indivíduos saudáveis e suscetíveis à varicela. Critérios de exclusão estão claramente documentados nas contraindicações. No entanto, aplicabilidade no mundo real a crianças com condições subjacentes é limitada por essas restrições."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos definidos com limiares objetivos: febre definida como >=102,0F (38,9C) oral para crianças, >=100,0F (37,8C) para adolescentes/adultos. Reações no local da injeção categorizadas (leve <=2,5cm, moderada >2,5-5,0cm, grave >5,0cm). Intensidade da dor definida. Cartões diários usados para coleta sistemática. Erupções cutâneas caracterizadas como semelhantes a sarampo, semelhantes a rubéola, semelhantes a varicela.",
+      "level_description": "Definições padronizadas com limiares objetivos de temperatura e medições de lesões são usadas. Cartões diários forneceram coleta sistemática de dados. No entanto, critérios da Brighton Collaboration não são explicitamente mencionados."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Acompanhamento ativo conduzido por 42 dias após a vacinação usando cartões diários. 'Sujeitos foram acompanhados ativamente para varicela, qualquer doença semelhante à varicela ou herpes zoster.' Eventos adversos graves relatados: '0,3% e 1% nos grupos intramuscular e subcutâneo.' Seis sujeitos relataram eventos adversos graves em um estudo. Convulsões febris ocorreram em taxa <0,1%.",
+      "level_description": "Monitoramento ativo foi realizado, mas limitado a 42 dias. Eventos adversos graves foram rastreados e relatados, mas a curta janela de acompanhamento e falta de protocolos detalhados de investigação de causalidade descritos limita a confiança na detecção de eventos graves tardios."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção pós-comercialização lista eventos neurológicos: encefalite, acidente cerebrovascular, mielite transversa, síndrome de Guillain-Barré, paralisia de Bell, ataxia, convulsões não-febris, meningite asséptica, meningite, parestesia. Ensaios clínicos relatam convulsões febris em <0,1%. Nenhum protocolo de monitoramento pré-planejado específico para condições autoimunes/neurológicas descrito em ensaios clínicos.",
+      "level_description": "Eventos neurológicos graves são documentados na experiência pós-comercialização, mas não foram sistematicamente monitorados em ensaios clínicos. O acompanhamento de 42 dias é inadequado para detectar condições como Guillain-Barré (tipicamente 2-8 semanas pós-exposição) ou distúrbios autoimunes."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Contraindicações explicitamente excluem indivíduos imunocomprometidos. Seção 5.2 observa que ACIP tem recomendações para indivíduos infectados pelo HIV, mas não fornece dados de ensaio. Seção 8.4: 'Nenhum dado clínico está disponível sobre segurança ou eficácia de VARIVAX em crianças menores de 12 meses de idade.' Bebês prematuros, crianças com condições crônicas não especificamente estudadas.",
+      "level_description": "Subgrupos vulneráveis (imunocomprometidos, bebês prematuros, crianças <12 meses, crianças com condições crônicas) foram largamente excluídos dos ensaios em vez de intencionalmente estudados. Isso limita significativamente a compreensão da segurança nessas populações."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Intervalos de confiança fornecidos para eficácia: '94% (IC 95%, 93%, 96%)' e '90% (IC 95%, 82%, 96%)'. Valores-p relatados: 'taxa significativamente (p<0,05) maior' para reações no local da injeção; '98% para 2 doses (p<0,001)'. Estudos descritos como dimensionados para eficácia, não segurança. Nenhum cálculo de poder para segurança explicitamente documentado.",
+      "level_description": "Métodos estatísticos padrão usados com ICs e valores-p relatados. No entanto, estudos foram dimensionados para desfechos de eficácia, não de segurança. Nenhum cálculo de poder para segurança está documentado, significando que eventos adversos raros podem ser perdidos devido a poder estatístico inadequado."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Referências fornecidas para 18 publicações revisadas por pares. NCT00432523 registrado como ensaio clínico. Nenhuma menção de Comitê Independente de Monitoramento de Segurança de Dados (CIMD). Disponibilidade de dados brutos/dados individuais de participantes não mencionada. Bula resume dados sem fornecer conjuntos de dados completos.",
+      "level_description": "Publicações revisadas por pares e registros de ensaios clínicos fornecem alguma transparência. No entanto, nenhum CIMD é mencionado, disponibilidade de dados brutos não é discutida, e conjuntos de dados completos de eventos adversos não são acessíveis para verificação independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Seção 6.2 descreve experiência pós-comercialização com categorias detalhadas de eventos adversos. Relato ao VAERS encorajado. Registro de gravidez mantido 1995-2013 (1.522 mulheres inscritas, 905 com desfechos conhecidos). Referência à publicação 'Uma Revisão de 10 Anos' do perfil de segurança (Galea 2008). Incidência calculada de herpes zoster: 18,8 casos por 100.000 pessoas-ano em crianças.",
+      "level_description": "Vigilância pós-comercialização está documentada com integração ao VAERS, um registro de gravidez e revisões periódicas de segurança. No entanto, VAERS é um sistema de relato passivo conhecido por subestimar as taxas verdadeiras de eventos adversos."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Fabricante: Merck Sharp & Dohme LLC. Ensaios clínicos conduzidos nos 'Laboratórios de Pesquisa da Merck Sharp & Dohme LLC, Rahway, NJ.' Nenhuma divulgação de fontes de financiamento para ensaios individuais, relacionamentos financeiros de pesquisadores ou supervisão independente. Todos os estudos referenciados parecem ser patrocinados pelo fabricante.",
+      "level_description": "A vacina é fabricada pela Merck e os ensaios clínicos foram conduzidos por pesquisadores da Merck. Nenhuma fonte de financiamento independente ou divulgações de conflito de interesse são fornecidas. Patrocínio da indústria sem supervisão independente levanta preocupações sobre potencial viés."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas. Nenhuma morte relatada na seção de ensaios clínicos. Pós-comercialização menciona monitoramento de óbitos no contexto de vigilância ativa, mas não fornece dados agregados de mortalidade comparando grupos de vacina vs. placebo.",
+      "level_description": "Dados de mortalidade por todas as causas não são relatados. Embora nenhuma morte seja explicitamente mencionada em ensaios clínicos, a ausência de relato sistemático de mortalidade (óbitos em grupos de vacina vs. controle) impede a avaliação do impacto geral de mortalidade."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Os ensaios clínicos de VARIVAX demonstram metodologia adequada em várias áreas incluindo grandes tamanhos de amostra pediátrica (>11.000 sujeitos), randomização em estudos-chave, definições padronizadas de eventos adversos com limiares objetivos e acompanhamento de eficácia de 10 anos. No entanto, existem limitações significativas: a formulação atual não foi testada em ensaios controlados por placebo, monitoramento de segurança ativo foi limitado a 42 dias (inadequado para detectar condições autoimunes/neurológicas tardias), subgrupos vulneráveis foram excluídos em vez de estudados, estudos foram dimensionados para eficácia em vez de segurança, nenhuma supervisão independente ou divulgações de conflito de interesse são fornecidas, e dados de mortalidade por todas as causas não são relatados. A metodologia do ensaio é adequada para demonstrar imunogenicidade e tolerabilidade de curto prazo, mas fornece evidência limitada para eventos adversos raros, tardios ou graves, particularmente em populações vulneráveis."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "rv_rotateq",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Safety data from 71,725 infants in placebo-controlled trials (36,165 RotaTeq, 35,560 placebo). Detailed Safety Cohort included 11,711 infants (6,138 RotaTeq). For intussusception monitoring, Study 006 included 69,625 infants total. This exceptionally large sample size provides robust statistical power for detecting adverse events including rare outcomes."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Systematic follow-up at days 7, 14, and 42 after each dose for serious adverse events. Active intussusception surveillance continued every 6 weeks for 1 year after first dose in Study 006. Solicited adverse events recorded daily for first week post-vaccination. While 42-day follow-up is reasonable for acute events, longer-term safety follow-up beyond 1 year was limited."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "True placebo control used in all major trials with near-equal group sizes (34,837 vaccine vs 34,788 placebo in Study 006 intussusception analysis). Adverse event rates directly compared between groups with statistical analysis. Post-marketing study used concurrent DTaP controls (n=62,617) and historical controls (n=100,000). This rigorous comparative design enables meaningful safety signal detection."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Active surveillance implemented for intussusception with scheduled contacts at days 7, 14, 42 and every 6 weeks for 1 year. Vaccination Report Cards used for daily parent recording of temperature, vomiting, diarrhea during first week. Post-marketing active surveillance through PRISM program evaluated >1.2 million vaccinations. This represents one of the most comprehensive active surveillance programs for a pediatric vaccine."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Seizures systematically tracked: 33 cases in RotaTeq vs 24 in placebo within 42 days (10 febrile seizures total, 5 each group). Serious seizure events occurred in <0.1% of both groups. However, no dedicated neurological assessment protocol described, and other neurological outcomes beyond seizures were not specifically monitored. Post-marketing reports include Kawasaki disease which can have neurological manifestations."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Pre-term infants (25-36 weeks gestational age, n=2,070) studied with subset of 308 monitored for all adverse events. Infants with controlled GERD included. However, immunocompromised infants explicitly excluded with 'no safety or efficacy data available.' Contraindicated in SCID due to post-marketing reports of severe gastroenteritis and prolonged vaccine virus shedding. This represents a significant gap in safety data for vulnerable populations."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables provided for adverse events by dose, day range, and severity. Intussusception cases enumerated by day window and dose number (Tables 1, 2). Serious adverse event rates reported (2.4% vaccine vs 2.6% placebo). Mortality data transparent with causes of death specified. Racial/ethnic and gender distribution reported. Some limitations in access to individual-level data."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive post-marketing surveillance through VAERS and PRISM program. PRISM evaluated >1.2 million vaccinations (507,000 first doses) from 2004-2011 identifying temporal association with intussusception (1-1.5 excess cases per 100,000 within 21 days of first dose). Additional cohort study of 85,150 infants (2006-2009). Post-marketing adverse events documented including intussusception (including death), anaphylaxis, gastroenteritis in SCID infants, urticaria, angioedema, and Kawasaki disease."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "RotaTeq demonstrates a strong safety profile supported by exceptionally large clinical trials (>70,000 infants) with rigorous placebo-controlled design and exemplary active surveillance systems. Key strengths include the PRISM post-marketing program that quantified intussusception risk (1-1.5 excess cases per 100,000 vaccinated infants within 21 days of first dose) against a background rate of 34 per 100,000 annually. Serious adverse events were comparable between groups (2.4% vs 2.6%). All-cause mortality was balanced (25 vaccine vs 27 placebo deaths). Limitations include the exclusion of immunocompromised infants from trials, partial neurological monitoring beyond seizures, and the identification of SCID as a contraindication only through post-marketing surveillance. Pre-term infant data provide reassurance but represent a subset analysis."
+  }
+}

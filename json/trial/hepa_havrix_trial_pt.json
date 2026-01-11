@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo pivotal de eficácia utilizou um comparador ativo (Vacina contra Hepatite B ENGERIX-B) em vez de um placebo verdadeiro. 40.119 crianças foram randomizadas para receber HAVRIX 360 EL.U. ou ENGERIX-B 10 mcg. Nenhum grupo com placebo inerte foi incluído no estudo de efetividade.",
+      "level_description": "Comparador ativo utilizado em vez de controle com placebo verdadeiro; fornece alguns dados comparativos, mas não contra placebo inerte."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O estudo de efetividade pediátrico na Tailândia é descrito como um 'estudo controlado, randomizado e duplo-cego em crianças em idade escolar.' No entanto, muitos estudos de imunogenicidade foram abertos, como o Estudo HAV 210, que foi 'prospectivo, aberto e multicêntrico.'",
+      "level_description": "O estudo primário de eficácia foi duplo-cego, embora muitos estudos de imunogenicidade de apoio tenham sido abertos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O estudo pivotal de eficácia randomizou 40.119 crianças. Múltiplos estudos de apoio também utilizaram randomização: Estudo HAV 231 'randomizou' 1.241 crianças em 3 grupos; Estudo HAV 232 randomizou 468 participantes; Estudo HAV 220 randomizou 433 crianças.",
+      "level_description": "A randomização foi empregada no estudo primário de eficácia e em múltiplos ensaios clínicos de apoio."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "A segurança foi avaliada em aproximadamente 37.000 indivíduos em 61 ensaios clínicos. O estudo pivotal de eficácia pediátrica incluiu 40.119 crianças de 1 a 16 anos. Além disso, 3.152 crianças de 11 a 25 meses receberam pelo menos 1 dose em estudos de coadministração. Mais de 22.000 participantes de 1 a 18 anos foram avaliados quanto à segurança e eficácia.",
+      "level_description": "Tamanhos de amostra pediátrica excepcionalmente grandes em múltiplos grupos etários e estudos."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo de eficácia observou as crianças por 8 meses após a entrada na vigilância no dia 138. O Estudo HAV 231 conduziu acompanhamento telefônico 6 meses após a última vacinação. Estudos de imunogenicidade acompanharam os participantes por 1 mês após as doses de reforço. O documento afirma explicitamente: 'A duração da imunidade após um esquema completo de imunização com HAVRIX não foi estabelecida.'",
+      "level_description": "Acompanhamento de curto prazo (6-8 meses) na maioria dos estudos; duração da imunidade a longo prazo não estabelecida."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados clínicos estratificados por idade: 11-13 meses, 15-18 meses, 23-25 meses, 2-18 anos, 2-19 anos e adultos de 18-50 anos. O Estudo HAV 210 comparou especificamente as respostas imunes em três grupos etários pediátricos. Dosagem separada para crianças/adolescentes (720 EL.U./0,5 mL) e adultos (1440 EL.U./1 mL).",
+      "level_description": "Dados abrangentes estratificados por idade com comparações específicas de imunogenicidade entre grupos etários pediátricos."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento menciona que os participantes eram 'soronegativos para anticorpos contra hepatite A no início' em alguns estudos. As contraindicações incluem reação alérgica grave a vacina anterior contra hepatite A ou componentes, incluindo neomicina. Dados demográficos relatados (gênero, raça/etnia), mas critérios detalhados de inclusão/exclusão não especificados.",
+      "level_description": "Alguns critérios basais mencionados, mas critérios abrangentes de inclusão/exclusão não detalhados na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os eventos adversos foram categorizados por classes de sistemas de órgãos MedDRA (Distúrbios do Metabolismo/Nutrição, Distúrbios Gastrointestinais, etc.). Reações solicitadas foram registradas em cartões-diário por 4 dias (Dias 0-3). Eventos não solicitados foram registrados por 31 dias. Eventos foram graduados (ex.: sonolência Grau 3 'impediu atividades diárias normais'). Taxas de incidência categorizadas como 1-10% ou <1%.",
+      "level_description": "Classificação padronizada de eventos adversos usando MedDRA com graduação de gravidade e períodos de monitoramento especificados."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos graves relatados dentro do período de 31 dias: 0,9% (29/3.152) dos participantes de 11-25 meses. Acompanhamento telefônico aos 6 meses investigou 'eventos adversos graves, doenças crônicas de início recente e eventos clinicamente significativos.' Quatro convulsões relatadas dentro de 31 dias pós-vacinação.",
+      "level_description": "Monitoramento ativo de eventos adversos graves com período de coleta de 31 dias e acompanhamento telefônico de 6 meses."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de pós-comercialização lista eventos neurológicos: convulsão, tontura, encefalopatia, síndrome de Guillain-Barré, hipoestesia, esclerose múltipla, mielite, neuropatia, parestesia, sonolência, síncope. Quatro convulsões relatadas em ensaios clínicos (dias 2, 9, 27 e 12 pós-vacinação). No entanto, monitoramento sistemático de condições autoimunes em ensaios clínicos não foi descrito.",
+      "level_description": "Eventos neurológicos capturados em vigilância pós-comercialização; convulsões relatadas em ensaios, mas monitoramento sistemático de condições autoimunes não detalhado."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pessoas imunocomprometidas abordadas: 'podem ter resposta imune diminuída.' Doença hepática crônica estudada em 220 adultos (hepatite B, hepatite C, cirrose alcoólica, hepatite autoimune, etc.) mostrando GMTs mais baixos. Seção sobre comprometimento hepático observa resposta de anticorpos mais baixa. Dados de gravidez de 175 mulheres (exposição inadvertida). Seção geriátrica observa dados insuficientes para idade 65+.",
+      "level_description": "Várias populações vulneráveis estudadas, incluindo doença hepática crônica, imunocomprometidos observados, dados de gravidez disponíveis, embora dados geriátricos sejam limitados."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Taxa de eficácia calculada: 94% (IC 95%: 74, 98) para prevenção de hepatite A clínica. Comparações de não inferioridade de GMT realizadas entre grupos etários com critérios estabelecidos (limite inferior do IC bilateral de 95% >= 0,5). Taxas de soroconversão relatadas com intervalos de confiança de 95%. Análise de eficácia secundária: 84% (IC 95%: 60, 94).",
+      "level_description": "Métodos estatísticos apropriados, incluindo intervalos de confiança, cálculos de eficácia e análises de não inferioridade."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dados resumidos apresentados com taxas de soroconversão, GMTs e porcentagens de eventos adversos. A Tabela 1 fornece dados detalhados de reações adversas. Identificadores de estudos fornecidos (HAV 210, HAV 220, HAV 231, HAV 232). No entanto, dados individuais de pacientes, protocolos completos de estudos e dados brutos completos não estão incluídos na bula.",
+      "level_description": "Dados em nível de resumo e identificadores de estudos fornecidos; dados brutos detalhados e protocolos não incluídos neste documento."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 detalha a experiência pós-comercialização incluindo eventos raros: trombocitopenia, reações anafiláticas, síndrome de Guillain-Barré, esclerose múltipla, mielite, hepatite, vasculite, eritema multiforme. Notificação ao VAERS encorajada (1-800-822-7967). Notificação ao fabricante em 1-888-825-5249.",
+      "level_description": "Sistema de vigilância pós-comercialização implementado com mecanismos de notificação e eventos adversos raros documentados."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhuma declaração de conflito de interesses ou transparência sobre fontes de financiamento está incluída nesta bula. Fabricado pela GlaxoSmithKline Biologicals.",
+      "level_description": "Nenhuma informação sobre conflito de interesses ou declarações de financiamento fornecida na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhum dado de mortalidade por todas as causas é relatado no documento. Eventos adversos graves mencionados, mas mortes não são especificamente discutidas ou enumeradas.",
+      "level_description": "Dados de mortalidade por todas as causas não relatados ou discutidos na bula."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX demonstra metodologia de ensaio adequada com um estudo de eficácia duplo-cego randomizado em larga escala em mais de 40.000 crianças, mostrando eficácia de 94%. Os pontos fortes incluem tamanhos de amostra pediátrica exemplares (37.000+ em 61 ensaios), dados abrangentes estratificados por idade e monitoramento padronizado de eventos adversos. As limitações incluem o uso de comparador ativo em vez de placebo, curta duração de acompanhamento com imunidade de longo prazo não estabelecida, ausência de dados de mortalidade por todas as causas e nenhuma declaração de conflito de interesses. A vigilância pós-comercialização identificou eventos neurológicos raros que requerem monitoramento contínuo."
+  }
+}

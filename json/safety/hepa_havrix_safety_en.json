@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Safety evaluated in approximately 37,000 individuals across 61 clinical trials with various dose formulations. Over 22,000 subjects aged 1-18 years evaluated. Specifically, 3,152 children aged 11-25 months received at least 1 dose in coadministration studies (HAV 210 N=1,084; HAV 232 N=394; HAV 220 N=433; HAV 231 N=1,241). This represents an exceptionally large pediatric safety database across multiple age groups."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Primary safety monitoring limited to 4 days (Days 0-3) for solicited reactions and 31 days for unsolicited events. Telephone follow-up at 6 months after last vaccination in Study HAV 231 inquired about serious adverse events and new onset chronic illnesses. However, systematic long-term safety follow-up (beyond 6 months) not described. The document states duration of immunity not established, and long-term safety surveillance relies primarily on postmarketing data."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The pivotal efficacy study used ENGERIX-B (Hepatitis B vaccine) as an active comparator rather than inert placebo. Some coadministration studies included groups receiving HAVRIX alone versus with other vaccines (e.g., Study HAV 231 had HAVRIX alone, HAVRIX+MMR+Varicella, and MMR+Varicella groups). However, true placebo-controlled safety data is not presented in the prescribing information."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse reactions actively collected via parent/guardian diary cards for 4 days (Days 0-3) post-vaccination. Unsolicited events recorded for 31 days. Serious adverse events actively monitored with 0.9% (29/3,152) reporting SAEs within 31 days in children 11-25 months. Telephone follow-up at 6 months specifically inquired about serious adverse events, new onset chronic illnesses, and medically significant events. Grade 3 severity criteria defined for key symptoms."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Clinical trials reported 4 seizures within 31 days post-vaccination (at days 2, 9, 27 after dose 1 and day 12 after dose 2). Syncope can be accompanied by transient neurological signs (visual disturbance, paresthesia, tonic-clonic limb movements). Postmarketing identified: convulsion, encephalopathy, Guillain-Barre syndrome, multiple sclerosis, myelitis, neuropathy, paresthesia. However, systematic prospective neurological monitoring protocols not described in the prescribing information."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Several vulnerable populations evaluated: Immunocompromised individuals noted to have diminished immune response. Chronic liver disease studied in 220 adults across multiple etiologies (hepatitis B/C, alcoholic cirrhosis, autoimmune hepatitis, primary biliary cirrhosis) with safety data showing local injection site reactions similar to healthy subjects and no serious vaccine-attributed reactions. Pregnancy data from 175 inadvertent exposures showed rates consistent with background. Geriatric section acknowledges insufficient data for age 65+."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Summary safety data presented with specific percentages for solicited reactions (Table 1 provides detailed breakdown). Study identifiers disclosed (HAV 210, 220, 231, 232). Serious adverse event rates reported (0.9-1.0% within 31 days). However, individual patient data, complete study protocols, and comprehensive raw safety data not included. Postmarketing adverse events reported without frequency estimates due to voluntary reporting limitations."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active postmarketing surveillance system with identified rare adverse reactions including: thrombocytopenia, anaphylactic/anaphylactoid reactions, serum sickness-like syndrome, Guillain-Barre syndrome, multiple sclerosis, myelitis, encephalopathy, hepatitis, vasculitis, angioedema, erythema multiforme, congenital anomaly. Dual reporting mechanisms: VAERS (1-800-822-7967 or www.vaers.hhs.gov) and manufacturer (GlaxoSmithKline 1-888-825-5249). Document acknowledges frequency cannot be reliably estimated from voluntary reports."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX demonstrates adequate safety evidence with an exemplary pediatric sample size of over 37,000 subjects across 61 trials. Active solicited adverse event surveillance was conducted with diary cards and 6-month telephone follow-up for serious events. Common reactions include injection-site soreness (21-56%), irritability (27-44% in young children), and drowsiness (21-35%). Limitations include short primary follow-up (4-31 days), use of active comparator rather than placebo, and reliance on postmarketing surveillance for rare neurological events. Postmarketing has identified serious rare events including Guillain-Barre syndrome and other neurological conditions requiring ongoing vigilance."
+  }
+}

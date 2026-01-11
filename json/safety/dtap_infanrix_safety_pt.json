@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "dtap_infanrix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Aproximadamente 95.000 doses administradas em estudos clínicos com 29.243 bebês em estudos da série primária. O estudo de segurança alemão incluiu 22.505 bebês (66.867 doses). O ensaio de eficácia italiano incluiu 4.696 crianças recebendo INFANRIX. Esses números excedem o limite de 3.000 necessário para detectar eventos adversos que ocorrem com frequência de 1:1.000, embora eventos mais raros (1:10.000 ou menos) ainda não seriam detectados."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Reações adversas solicitadas foram coletadas por apenas 4 dias consecutivos após cada dose de vacina (dia da vacinação mais os 3 dias seguintes). Eventos adversos não solicitados foram monitorados por 28 dias no estudo alemão, com um subconjunto monitorado por 8 dias. Isso é grosseiramente inadequado para detectar condições autoimunes ou neurológicas que podem levar meses ou anos para se manifestar. O padrão mínimo de 12+ meses para monitoramento de segurança não é atendido."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Nenhum grupo placebo inerte verdadeiro (solução salina) foi usado. O ensaio de eficácia italiano comparou INFANRIX com vacina DT (Difteria-Tétano), e comparações de segurança foram feitas com vacina DTP de célula inteira. O estudo alemão de contato domiciliar comparou contatos vacinados versus não vacinados, mas não foi um ensaio clínico randomizado controlado. Usar outra vacina como comparador não pode distinguir quais eventos adversos são causados pelo componente da coqueluche versus taxas basais ou componentes DT."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Vigilância ativa via cartões de diário padronizados foi usada, mas apenas por 4 dias pós-vacinação para reações solicitadas. Os pais registraram sintomas usando formulários estruturados com escalas de graduação definidas. No entanto, a janela de monitoramento extremamente curta limita a detecção de eventos adversos graves. O estudo alemão usou cartões de relato por 28 dias complementados por 'relatos espontâneos dos pais' - uma mistura de vigilância ativa e passiva. Nenhuma investigação ativa de hospitalizações ou mortes com análise de causalidade é descrita."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Apenas convulsões (1 caso no grupo INFANRIX a 0,07/1.000 doses) e episódios hipotônicos-hiporresponsivos (0 casos) foram rastreados em ensaios clínicos. Nenhuma avaliação neurológica ou de desenvolvimento sistemática de longo prazo foi realizada. A síndrome de Guillain-Barre é mencionada apenas como advertência/precaução, não como desfecho de ensaio monitorado. Relatos pós-comercialização incluem encefalopatia, hipotonia e síncope, mas estes são de vigilância passiva. Nenhuma avaliação de desenvolvimento agendada ou exames neurológicos de acompanhamento são documentados."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A seção de Advertências reconhece riscos para bebês prematuros (apneia) e crianças com maior risco de convulsões, com recomendações para tomada de decisão clínica. No entanto, nenhum dado específico de ensaio clínico é apresentado para bebês prematuros, crianças imunocomprometidas ou crianças com alergias/condições crônicas. Esses grupos não foram intencionalmente incluídos nos ensaios com análise de segurança separada. A Seção 8.4 afirma explicitamente que a segurança em bebês menores de 6 semanas não foi estabelecida."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A bula fornece dados resumidos de múltiplos estudos incluindo taxas de reações adversas em formato tabular. Referências citam literatura publicada. No entanto, não há menção de um Comitê Independente de Monitoramento de Segurança de Dados (DSMB), nenhuma disponibilidade de dados brutos ou de participantes individuais, e nenhum mecanismo para verificação independente. Os ensaios clínicos parecem ter sido patrocinados pelo fabricante sem divulgação de supervisão independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A Seção 6.2 descreve a experiência pós-comercialização listando reações adversas incluindo encefalopatia, trombocitopenia, reação anafilática, hipotonia, síncope, apneia e SMSI. No entanto, estes são 'relatados voluntariamente de uma população de tamanho incerto', tornando 'nem sempre possível estimar sua frequência de forma confiável ou estabelecer uma relação causal com a vacinação.' O sistema depende de relatos passivos (VAERS), que é conhecido por subestimar vastamente as verdadeiras taxas de eventos adversos. Nenhum sistema de farmacovigilância ativa ou relatórios de segurança públicos periódicos são descritos."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula do INFANRIX fornece confiança limitada na segurança de longo prazo para crianças. Embora os tamanhos das amostras sejam adequados (29.243+ bebês estudados) e a vacina mostre um perfil de segurança de curto prazo melhor do que vacinas de célula inteira contra coqueluche, lacunas críticas permanecem: (1) Nenhuma comparação com placebo verdadeiro torna impossível determinar a taxa absoluta de eventos adversos causados pela vacina; (2) O monitoramento de segurança durou apenas 4 dias para a maioria dos desfechos - muito curto para detectar problemas autoimunes, neurológicos ou de desenvolvimento que surgem ao longo de meses ou anos; (3) Nenhuma avaliação neurológica ou de desenvolvimento sistemática de longo prazo foi realizada; (4) Populações vulneráveis (bebês prematuros, imunocomprometidos) não foram especificamente estudadas; (5) Vigilância pós-comercialização depende de relatos voluntários passivos que não podem estabelecer verdadeiras taxas de incidência. Um pai lendo este documento não pode estar confiante de que efeitos adversos raros, mas graves, de longo prazo foram adequadamente avaliados. O documento demonstra tolerabilidade de curto prazo em comparação com vacinas de célula inteira mais antigas, mas não fornece evidências tranquilizadoras sobre segurança ao longo de meses e anos após a vacinação."
+  }
+}

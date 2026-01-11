@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "menb_bexsero",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The BLA sought approval for ages 10-25 years, not young children (0-12). In the target age group: 3,058 subjects received at least one dose across 4 main clinical trials (V72_41: 1,097; V72_29: 2,646 per protocol; V72P10: 1,622; V102_03: 122). Additional 15,351 received vaccine in pre-licensure university campaigns. For infant data (supportive only): V72P13 studied ~2,500 infants at 2,4,6 months; V72P16 studied ~1,500 infants. The combined sample is adequate for detecting 1:1,000 events in adolescents, but the approval did not include children <10 years. Pediatric studies (6 weeks to <10 years) were deferred under PREA."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Follow-up periods varied by study: V72_41: 6 months post-last vaccination; V72_29: 12 months with assessments at 6 and 11 months post-second dose; V72P10: 12 months total; V102_03: 8 months (6 months post-last dose). Solicited adverse events were collected for only 7 days post-vaccination. Unsolicited AEs monitored for 30 days. SAEs monitored throughout study periods. The 6-12 month follow-up is insufficient to detect autoimmune or neurological conditions that may emerge months or years later. No multi-year follow-up data provided for the adolescent population."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Most main trials used another vaccine (MenACWY-CRM/Menveo) as comparator rather than true inert placebo, making it difficult to determine true adverse event rates attributable to Bexsero. V72_41: Menveo comparator (2:1 ratio). V72_29: Menveo comparator (2:2:1 ratio). V72P10: Only study with placebo control (aluminum hydroxide-saline) but only through Month 3, then no control from Month 6-12. V102_03: Saline placebo used only for Menveo group, not direct comparison. The use of active comparators obscures the true reactogenicity profile of the vaccine."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance methods were employed: 7-day diary cards completed by subjects/parents for solicited local and systemic reactions; telephone contacts on Days 3-5 and Days 63-65 to query for SAEs; scheduled study visits with physical examination; 30-minute post-vaccination observation period; Memory Aide for 8-month follow-up. SAEs actively monitored with detailed case narratives and causality assessment by investigators. MAAEs (Medically Attended Adverse Events) tracked. 35 SAEs in V72P10 and 50 SAEs in university campaigns were individually reviewed. BIMO site inspections revealed some documentation gaps (16 withdrawals due to injection site reactions not captured in CRFs)."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "No systematic scheduled neurological or developmental assessments were documented. Neurological events captured included: syncope with seizure manifestations (vasovagal, related to venipuncture, not vaccine); convulsion/epilepsy in one subject (pre-existing condition exacerbated); one case of bacterial meningitis (S. pneumoniae, unrelated to vaccine). One new-onset generalized tonic-clonic seizure in UCSB campaign (22 days post-dose, assessed as not related). Two cases of juvenile arthritis (170 and 198 days post-vaccination) were identified and reviewed - one assessed as possibly related. No predefined protocol for actively screening seizures, developmental delays, or autoimmune conditions."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Vulnerable groups were excluded from trials rather than studied: Immunocompromised individuals explicitly excluded; document notes they 'may have reduced immune responses.' Pregnant and nursing women excluded; pregnancy registry established for post-marketing only. Premature infants not specifically studied in adolescent trials. Children with chronic diseases excluded. No separate analysis of subjects with allergies, asthma, or concurrent medications. Package insert states safety not established in adults >65 or children <10 years. Pediatric studies for ages 6 weeks to <10 years were deferred. This limits confidence in safety for children who may need the vaccine most."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "FDA BLA review document (STN: 125546/0) provides detailed Clinical Study Reports. Data Safety Monitoring Committee (DMC) established for V102_03 to evaluate safety data on first 10% of subjects. FDA BIMO conducted clinical site inspections at two sites in Chile (sites #14 and #41), identifying documentation issues. Detailed adverse event tables by treatment group, dose, and severity provided. Individual SAE narratives with causality assessments included. Protocol amendments and statistical analysis plan changes documented. Raw individual participant data not publicly available. No independent replication by academic researchers documented."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Pre-licensure expanded access vaccination campaigns at Princeton University (5,520 1st doses, 5,165 2nd doses) and UCSB (9,831 1st doses, 7,707 2nd doses) under CDC-sponsored IND provided real-world surveillance data on 15,351 participants. SAE collection methods: intake screening prior to 2nd dose, electronic survey 30 days post-2nd dose, 24-hour vaccine safety hotline, university health services visits, local hospital/ER reports. Results: 23 SAEs at Princeton, 27 at UCSB. Key findings: 9 appendicitis cases (consistent with background rates), 1 anaphylaxis (expected rate per CDC), 2 rhabdomyolysis (with confounders), 1 accidental death (drowning, unrelated). Pregnancy registry established for ongoing monitoring."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "This FDA clinical review document provides limited reassurance regarding pediatric safety because: (1) the vaccine was approved for ages 10-25 years, not young children - pediatric studies for ages 6 weeks to <10 years were deferred; (2) most trials used another vaccine (Menveo) as comparator rather than true placebo, obscuring the true adverse event rate; (3) follow-up of 6-12 months is insufficient to detect long-term autoimmune or neurological effects; (4) vulnerable children (immunocompromised, chronic conditions, premature) were excluded rather than studied; and (5) no systematic protocol for neurological/developmental monitoring existed. The data shows high reactogenicity (90% injection site pain, 20-29% severe pain) and rare SAEs including 2 cases of juvenile arthritis were reviewed without establishing clear causality. The expanded access data on 15,351 university students provides additional real-world evidence but in an older population. For a parent asking 'Is this safe for my child?' - this document provides moderate confidence for healthy adolescents 10+ years but does not address safety in younger children or those with underlying conditions."
+  }
+}

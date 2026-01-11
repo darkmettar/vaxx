@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepa_vaqta",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo de Eficácia Monroe foi um ensaio de eficácia duplo-cego, controlado por placebo com 1.037 crianças e adolescentes saudáveis de 2-16 anos. Os participantes receberam VAQTA (25U) (N=519) ou placebo (diluente de alum) (N=518). O placebo era sulfato de hidroxifosfato de alumínio amorfo.",
+      "level_description": "O estudo pivotal de eficácia usou um desenho verdadeiro controlado por placebo com diluente de alum como placebo. No entanto, este era um adjuvante de alumínio em vez de placebo salino, o que limita a capacidade de detectar eventos adversos relacionados ao adjuvante."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo de Eficácia Monroe é descrito como 'um estudo randomizado, duplo-cego, controlado por placebo.' No entanto, muitos outros ensaios clínicos descritos foram estudos 'abertos'.",
+      "level_description": "O estudo pivotal de eficácia foi adequadamente duplo-cego. No entanto, múltiplos outros ensaios de segurança e imunogenicidade foram conduzidos como estudos abertos, o que pode introduzir viés de observação nas avaliações de segurança."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos estudos descrevem randomização. O Estudo de Eficácia Monroe: 'Cada criança recebeu uma dose intramuscular de VAQTA (25U) (N=519) ou placebo (diluente de alum) (N=518).' Outros estudos: 'crianças de 12 a 23 meses de idade foram randomizadas para receber uma primeira dose de VAQTA com ProQuad e Prevnar concomitantemente (N=330) ou uma primeira dose de ProQuad e vacina conjugada pneumocócica 7-valente concomitantemente.'",
+      "level_description": "A randomização foi empregada no ensaio de eficácia e em vários estudos de imunogenicidade. No entanto, métodos específicos de randomização não são detalhados no documento."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A segurança foi avaliada em 4.374 crianças de 12-23 meses de idade em cinco ensaios clínicos, e 2.615 crianças/adolescentes de 2-18 anos de idade em 11 ensaios clínicos. O Estudo de Eficácia Monroe incluiu 1.037 crianças de 2-16 anos.",
+      "level_description": "Os tamanhos de amostra para populações pediátricas são adequados para detectar eventos adversos comuns. A amostra pediátrica combinada excede 6.900 participantes, fornecendo poder estatístico razoável para detecção de sinais de segurança."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os participantes foram acompanhados por 'dias 1 a 5 pós-vacinação para febre e reações adversas locais e dias 1 a 14 para eventos adversos sistêmicos.' Eventos adversos graves foram coletados por 14, 28 ou 42 dias dependendo do protocolo. O acompanhamento de imunogenicidade a longo prazo se estendeu por 10 anos em alguns participantes.",
+      "level_description": "O acompanhamento para eventos adversos foi relativamente curto (5-42 dias dependendo do tipo de evento). Embora a imunogenicidade tenha sido rastreada por até 10 anos, o acompanhamento sistemático de segurança foi limitado a semanas em vez de meses ou anos, o que pode deixar passar eventos adversos tardios."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados separados de segurança e imunogenicidade são fornecidos para: Crianças de 12-23 meses de idade, Crianças/Adolescentes de 2-18 anos de idade e Adultos de 19 anos ou mais. Dosagens diferentes são especificadas: 25U/0,5mL para pediátricos e 50U/1mL para populações adultas.",
+      "level_description": "O documento fornece análise separada abrangente para três grupos etários distintos com dosagem apropriada para idade, taxas detalhadas de eventos adversos e dados de imunogenicidade específicos para cada população."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os estudos recrutaram 'crianças saudáveis,' 'adultos saudáveis' e 'crianças e adolescentes saudáveis susceptíveis.' As contraindicações especificam exclusão daqueles com histórico de reações alérgicas à vacina contra hepatite A ou neomicina.",
+      "level_description": "Critérios básicos de inclusão (participantes saudáveis, status soronegativo) são mencionados, mas critérios detalhados de inclusão/exclusão para ensaios clínicos não são fornecidos na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os eventos adversos foram categorizados por sistema corporal usando terminologia padronizada (ex.: 'Distúrbios Gerais e Condições do Local de Administração', 'Distúrbios do sistema nervoso', 'Distúrbios gastrointestinais'). Reações locais e sistêmicas foram sistematicamente registradas em cartões-diário.",
+      "level_description": "O documento usa terminologia padronizada do Dicionário Médico para Atividades Regulatórias (MedDRA) para classificação de eventos adversos. Eventos solicitados e não solicitados foram capturados sistematicamente."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Eventos adversos graves em crianças de 12-23 meses: '0,7% (32/4.374) dos participantes relataram um evento adverso grave após qualquer dose de VAQTA, e 0,1% (5/4.374) dos participantes relataram um evento adverso grave julgado como relacionado à vacina.' EAGs relacionados à vacina incluíram convulsão febril (0,05%), desidratação (0,02%), gastroenterite (0,02%) e celulite (0,02%).",
+      "level_description": "Eventos adversos graves foram coletados em ensaios clínicos com taxas relatadas. No entanto, o período de monitoramento foi limitado (14-42 dias), e a determinação de relação com a vacina foi feita por investigadores em vez de adjudicação independente."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Relatos pós-comercialização incluem: 'Síndrome de Guillain-Barré; ataxia cerebelar; encefalite' sob distúrbios do sistema nervoso. Ensaios clínicos não relatam especificamente monitoramento para essas condições.",
+      "level_description": "Eventos adversos neurológicos (SGB, ataxia cerebelar, encefalite) são mencionados apenas na experiência pós-comercialização, indicando que não foram sistematicamente monitorados em ensaios pré-aprovação. Nenhum protocolo específico de monitoramento autoimune é descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de indivíduos imunocomprometidos afirma que eles 'podem ter uma resposta imune diminuída à VAQTA e podem não estar protegidos contra infecção por HAV.' Dados de gravidez apenas de relatos voluntários pós-aprovação. Uso geriátrico: 68 participantes de 65+ anos vacinados em ensaios clínicos. Sem dados clínicos em bebês abaixo de 12 meses.",
+      "level_description": "Dados limitados sobre populações vulneráveis. Participantes imunocomprometidos foram estudados apenas para imunogenicidade. Dados de gravidez são de relatos pós-comercialização, não de ensaios controlados. Dados muito limitados de ensaios geriátricos."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Intervalos de confiança de 95% são fornecidos para taxas de soroconversão e GMTs ao longo do documento. A Tabela 5 observa 'Sem diferenças estatisticamente significativas entre os dois grupos.' Valores-p fornecidos para eficácia (p<0,001 para desfecho de eficácia).",
+      "level_description": "Os métodos estatísticos incluem intervalos de confiança e testes de significância. No entanto, metodologia estatística detalhada (cálculos de poder, tratamento de dados faltantes, ajustes de multiplicidade) não é fornecida na bula."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dados demográficos fornecidos (raça, distribuição por gênero). Taxas de eventos adversos e dados de imunogenicidade apresentados em tabelas. Dados individuais de pacientes não disponíveis. Informações de registro de ensaios não incluídas.",
+      "level_description": "Dados resumidos são fornecidos em tabelas com informações demográficas. No entanto, dados brutos, conjuntos de dados de análise completos e relatórios de estudos clínicos não estão disponíveis publicamente através da bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Um estudo de vigilância de segurança pós-comercialização de 60 dias foi conduzido em uma grande HMO com 42.110 indivíduos. Eventos adversos pós-comercialização relatados incluem trombocitopenia, síndrome de Guillain-Barré, ataxia cerebelar e encefalite. Informações de notificação ao VAERS são fornecidas.",
+      "level_description": "Um estudo observacional formal pós-comercialização foi conduzido com mais de 42.000 participantes. Vigilância passiva contínua através do VAERS existe. Eventos adversos graves raros foram identificados através da vigilância pós-comercialização."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhuma divulgação de conflitos de interesse para investigadores de estudos ou fontes de financiamento é fornecida na bula. O fabricante (Merck) conduziu os estudos.",
+      "level_description": "O documento não aborda conflitos de interesse. Todos os estudos parecem ser patrocinados pelo fabricante, mas nenhuma divulgação específica de COI é feita em relação a investigadores ou consultores."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo pós-comercialização menciona que 'mortes' foram pesquisadas no banco de dados de registros médicos automatizados. 'Nenhum dos eventos adversos graves identificados foi avaliado como relacionado à vacina pelo investigador.' Nenhum dado de mortalidade específico de ensaios clínicos é relatado.",
+      "level_description": "A morte foi monitorada na vigilância pós-comercialização, mas taxas de mortalidade específicas de ensaios clínicos não são relatadas na bula. Comparação de mortalidade por todas as causas entre grupos vacina e placebo não é fornecida."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de ensaios clínicos da VAQTA incluiu um estudo pivotal de eficácia bem desenhado (Monroe) com randomização, duplo-cego e controle por placebo, demonstrando 100% de eficácia. A segurança foi avaliada em mais de 10.000 participantes em múltiplos ensaios com tamanhos de amostra pediátrica adequados e análises separadas por grupo etário. As principais limitações incluem: curtos períodos de acompanhamento (5-42 dias) para eventos adversos, uso de adjuvante de alumínio como placebo em vez de solução salina, monitoramento sistemático limitado para condições autoimunes/neurológicas e dados insuficientes sobre populações vulneráveis. A vigilância pós-comercialização identificou eventos neurológicos graves raros não detectados em ensaios."
+  }
+}

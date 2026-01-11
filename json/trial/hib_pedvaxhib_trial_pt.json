@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_pedvaxhib",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O Estudo de Eficácia Protetora foi um estudo randomizado, duplo-cego, controlado por placebo em 3.486 bebês nativos americanos (Navajo). Cada bebê recebeu duas doses de placebo ou PedvaxHIB liofilizado. 22 casos de doença invasiva por Hib ocorreram no grupo placebo versus apenas 1 caso no grupo vacina, demonstrando eficácia protetora de 93% (IC 95%: 57%-98%, p=0,001).",
+      "level_description": "Controle placebo verdadeiro com comparador salino/inerte usado no estudo de eficácia pivotal."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O Estudo de Eficácia Protetora é explicitamente descrito como um 'estudo randomizado, duplo-cego, controlado por placebo' conduzido em 3.486 bebês nativos americanos (Navajo).",
+      "level_description": "O ensaio de eficácia pivotal empregou metodologia duplo-cego onde nem participantes nem investigadores conheciam a atribuição de tratamento."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O documento afirma explicitamente que PedvaxHIB foi avaliada em um 'estudo randomizado, duplo-cego, controlado por placebo.' Adicionalmente, um estudo de respondedores fracos menciona '34 crianças... foram atribuídas aleatoriamente a 2 grupos.'",
+      "level_description": "A randomização foi usada no ensaio de eficácia pivotal e em estudos comparativos."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O Estudo de Eficácia Protetora incluiu 3.486 bebês nativos americanos (Navajo) que completaram o regime primário de duas doses. Estudos adicionais: 903 bebês no estudo de comparação Líquido versus Liofilizado; 4.459 bebês Navajo saudáveis de 6-12 semanas na avaliação de segurança; 8.086 doses administradas a 5.027 bebês e crianças saudáveis em estudos clínicos iniciais.",
+      "level_description": "Tamanhos de amostra pediátrica muito grandes em múltiplos estudos, totalizando milhares de bebês e crianças."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A maioria dos indivíduos no estudo de eficácia foi inicialmente acompanhada até 15-18 meses de idade. No término do estudo, os receptores de placebo receberam oferta da vacina e todos os participantes foram então acompanhados por um período adicional de 2 anos e 9 meses. A eficácia foi de 96,6% (IC 95%: 72,2-99,9%) em crianças menores de 18 meses e 100% (IC 95%: 23,5-100%) em crianças maiores de 18 meses. Reações adversas foram monitoradas durante um período de 3 dias após vacinação.",
+      "level_description": "Acompanhamento estendido para desfechos de eficácia (quase 3 anos pós-estudo), mas acompanhamento de segurança foi limitado a 48-72 horas para a maioria dos eventos adversos."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudos avaliaram diferentes faixas etárias: bebês de 2-6 meses, vacinação inicial de 2-3 meses com acompanhamento aos 12-15 meses e 24 meses, crianças de 15-71 meses e crianças de 27-61 meses (respondedores fracos). A TABELA 2 mostra respostas de anticorpos por pontos de tempo de idade. Regimes de vacinação são especificados por faixa etária (2-10 meses, 11-14 meses, 15-71 meses).",
+      "level_description": "A estratificação por idade foi realizada em múltiplos estudos com diferentes coortes etários analisados."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento indica que os indivíduos eram 'bebês saudáveis' da 'população geral dos EUA' ou 'bebês Navajo saudáveis.' Contraindicações incluem hipersensibilidade aos componentes da vacina. O documento observa que indivíduos imunocomprometidos podem não alcançar a resposta imune esperada. Não recomendado para bebês menores de 6 semanas ou indivíduos de 6 anos ou mais.",
+      "level_description": "Critérios básicos de inclusão (bebês saudáveis) são mencionados, mas critérios detalhados de exclusão para ensaios não são fornecidos na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações adversas foram sistematicamente coletadas e relatadas por frequência (>1%). A TABELA 5 fornece relato padronizado de febre e reações locais em pontos de tempo específicos (6, 24, 48 horas) pós-vacinação. Medições específicas incluíram: febre >38,3C retal, eritema >2,5 cm de diâmetro, inchaço >2,5 cm de diâmetro. Reações mais frequentemente relatadas listadas em ordem decrescente de frequência.",
+      "level_description": "Coleta padronizada de eventos adversos com critérios e pontos de tempo definidos, embora principalmente focada em reações de curto prazo."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "No Estudo de Eficácia Protetora com 4.459 bebês Navajo, 'Nenhuma diferença foi observada no tipo e frequência de problemas de saúde graves esperados nesta população Navajo ou em experiências adversas graves relatadas.' Uma reação grave (traqueíte) foi relatada como possivelmente relacionada à vacina. Convulsões ocorreram infrequentemente em ambos os grupos vacina (9 casos) e placebo (8 casos). Os pais relataram observações durante um período de 48 horas.",
+      "level_description": "Algum monitoramento ativo através de relatos dos pais, mas duração limitada; eventos adversos graves comparados entre grupos."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Convulsões foram especificamente rastreadas: 9 ocorreram em receptores da vacina (8 também receberam DTP) versus 8 em receptores de placebo (7 também receberam DTP), e não foram relatadas como relacionadas à vacina. A síndrome de Guillain-Barré é mencionada como uma potencial reação adversa associada a outras vacinas Haemophilus b, embora 'relação de causa e efeito... não tenha sido estabelecida.' Convulsões febris são listadas sob reações adversas pós-comercialização.",
+      "level_description": "Monitoramento neurológico limitado com dados de convulsões relatados. Condições autoimunes não monitoradas sistematicamente em ensaios, mas mencionadas em pós-comercialização."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudos incluíram especificamente populações de alto risco: nativos americanos (Navajo, Apache) que têm maior incidência de doença Hib e menor resposta de anticorpos; crianças com deficiências genéticas (negros Km(1) alótipo negativos, caucasianos G2m(23) alótipo negativos); respondedores fracos a vacinas PRP não conjugadas; bebês prematuros são abordados na dosagem. Múltiplos grupos raciais/étnicos analisados separadamente (Tabelas 3 & 4).",
+      "level_description": "Avaliação extensiva de subpopulações de alto risco e vulneráveis incluindo nativos americanos, subgrupos genéticos e respondedores fracos."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eficácia protetora calculada em 93% com intervalo de confiança de 95% de 57%-98% (p=0,001, bicaudal). A diferença entre doses foi estatisticamente significativa (p=0,008, bicaudal). Eficácia no acompanhamento estendido: 96,6% (IC 95%: 72,2-99,9%) em crianças menores de 18 meses. Níveis de anticorpos relatados com títulos médios geométricos (TMG) e porcentagem atingindo níveis limiares (>0,15 mcg/mL e >1,0 mcg/mL).",
+      "level_description": "Métodos estatísticos apropriados com intervalos de confiança e valores-p relatados para principais desfechos de eficácia."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Múltiplas referências são fornecidas citando estudos publicados em revistas revisadas por pares. Dados de anticorpos apresentados em tabelas detalhadas (Tabelas 1-5). No entanto, alguns dados indicados como 'Dados em arquivo nos Merck Research Laboratories' (Referência 33), indicando que nem todos os dados são publicamente disponíveis.",
+      "level_description": "Resultados-chave publicados em revistas revisadas por pares com tabelas de suporte, mas alguns dados permanecem como dados não publicados do fabricante."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A seção de Reações Adversas Pós-Comercialização lista: linfadenopatia, raramente angioedema, convulsões febris, abscesso estéril no local da injeção. O documento instrui profissionais de saúde a relatar reações adversas graves através do VAERS (1-800-822-7967). A referência 37 cita vigilância pós-comercialização de outra vacina Hib; a referência 48 cita relatório do Instituto de Medicina sobre eventos adversos.",
+      "level_description": "Sistema de vigilância pós-comercialização em funcionamento com relato ao VAERS e reações adversas pós-comercialização documentadas."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não divulga conflitos de interesse para investigadores do estudo ou fontes de financiamento além de identificar Merck & Co., Inc. como fabricante. A referência 33 cita 'Dados em arquivo nos Merck Research Laboratories.'",
+      "level_description": "Nenhuma divulgação de conflitos de interesse ou fontes de financiamento para ensaios clínicos na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas dos ensaios clínicos. Embora o estudo de eficácia tenha acompanhado participantes por períodos estendidos, desfechos de mortalidade não são especificamente relatados. O documento menciona que a taxa de mortalidade por meningite Hib é de cerca de 5% como informação de contexto.",
+      "level_description": "Dados de mortalidade por todas as causas não relatados nas seções de ensaios clínicos da bula."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "PedvaxHIB demonstra forte evidência de ensaio clínico com um estudo de eficácia randomizado, duplo-cego, controlado por placebo bem desenhado mostrando 93% de eficácia protetora. Grandes tamanhos de amostra (3.486 no ensaio pivotal, milhares mais em estudos) e avaliação em múltiplas subpopulações vulneráveis (nativos americanos, grupos de risco genético) são pontos fortes. A metodologia do ensaio é exemplar para desfechos de eficácia. Limitações incluem acompanhamento de segurança de curto prazo (principalmente 48-72 horas), ausência de dados de mortalidade por todas as causas, transparência limitada com alguns dados permanecendo em arquivo no fabricante, e nenhuma divulgação de conflitos de interesse. A vigilância pós-comercialização está estabelecida através do VAERS."
+  }
+}

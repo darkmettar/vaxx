@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "dtap_daptacel",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The Sweden I Efficacy Trial (1992-1995) compared DAPTACEL with DT vaccine (as placebo), whole-cell pertussis DTP, and another acellular pertussis vaccine. N=2,587 received DAPTACEL, N=2,574 received DT. However, DT is not an inert placebo (saline) - it contains diphtheria and tetanus toxoids which can cause their own reactions, potentially masking vaccine-specific adverse events.",
+      "level_description": "DT vaccine used as comparator rather than true inert placebo (saline). This is a significant limitation as DT-associated reactions could obscure DAPTACEL-specific safety signals."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Sweden I Efficacy Trial is described as 'a randomized, double-blinded pertussis vaccine efficacy trial.' The US studies also reference double-blinding for certain aspects.",
+      "level_description": "Double-blind methodology explicitly stated for the primary efficacy trial, meeting expected standards for bias reduction."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Sweden I Efficacy Trial is described as 'randomized.' The US 4-dose study states children 'Based on random assignment, the fourth dose of DAPTACEL was administered either alone; concomitantly with Hib conjugate...' However, allocation concealment methods are not explicitly described.",
+      "level_description": "Randomization documented for main trials, though allocation concealment details are not provided."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Approximately 18,000 doses administered across 9 clinical studies. Sweden I Efficacy Trial: N=2,587 infants received DAPTACEL at 2, 4, and 6 months. US study: 1,454 children received 4 doses. Fifth dose studies: 485 DAPTACEL-primed and 989 Pentacel-primed children. Total of 4,998 children received 3 doses, 1,725 received 4 doses, 485 received 5 doses.",
+      "level_description": "Sample size of ~2,500 in main efficacy trial approaches but does not exceed 3,000 per age group threshold. Adequate for detecting events at 1:1,000 frequency but may miss rarer events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'diary card was kept for 14 days after each dose and follow-up telephone calls were made 1 and 14 days after each injection. Telephone calls were made monthly to monitor the occurrence of severe events and/or hospitalizations for the 2 months after the last injection.' Mean follow-up for efficacy was 2 years. US study: 'Serious adverse events were monitored during the three studies, through 6 months following the last dose of DAPTACEL.' Solicited events recorded for Days 0-7.",
+      "level_description": "Active solicited monitoring only 14 days post-dose; serious events monitored 2 months (Sweden) to 6 months (US) post-last dose. While efficacy follow-up was 2 years, safety monitoring window of 6 months is inadequate for detecting autoimmune or neurological conditions that may emerge later."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Studies included infants at 2, 4, 6 months; toddlers at 15-17/15-20 months; and children at 4-6 years. Data presented separately by dose number (which correlates with age) in Tables 1, 2, and 3. However, separate comprehensive safety analyses for distinct age bands (0-1, 1-5, 6-12) are not explicitly provided.",
+      "level_description": "Data presented by dose number which corresponds to different ages, but no explicit separate analysis by standard pediatric age groups (0-1, 1-5, 6-12 years)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Contraindications listed: severe allergic reaction after previous dose, encephalopathy within 7 days of prior pertussis vaccine, progressive neurologic disorder. Warnings mention children with history of seizures, premature infants (apnea risk), and immunocompromised individuals. US study demographics: 51.7% female, 77.2% Caucasian, 6.3% Black, 6.5% Hispanic, 0.9% Asian, 9.1% other. Fifth dose subjects were 'non-random subsets' of previous trial participants.",
+      "level_description": "Basic demographic data provided. Children with neurologic disorders and severe allergic reactions excluded, which limits generalizability. Selection of fifth dose cohorts as 'non-random subsets' is a methodological limitation."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited events with defined thresholds: fever >=38.0C (rectal), redness >=2cm, swelling >=2cm, tenderness severity graded (moderate: cries when touched; severe: cries when limb moved). Systemic events defined: HHE (hypotonic-hyporesponsive episode), persistent crying >=3 hours, seizures within 72 hours, fever >=40C. Table 3 provides detailed severity grading definitions for each adverse event type.",
+      "level_description": "Standardized definitions with objective thresholds (temperature, measurements in cm/mm) and severity grading criteria provided. Does not explicitly reference Brighton Collaboration criteria but uses consistent definitions."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'follow-up telephone calls were made 1 and 14 days after each injection. Telephone calls were made monthly to monitor the occurrence of severe events and/or hospitalizations for the 2 months after the last injection.' US study: 'Periodic telephone calls were made to inquire about adverse events. Serious adverse events were monitored during the three studies, through 6 months following the last dose.' SAEs reported: bronchiolitis (1.9%), pneumonia, meningitis, sepsis, pertussis, 1 death (aspiration 222 days post-vaccination in subject with ependymoma).",
+      "level_description": "Active monitoring via telephone calls documented, but only for limited duration (2 months Sweden, 6 months US post-last dose). Causality investigation methodology not described in detail."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Seizures tracked: 'No seizures were reported within 3 days of vaccination with DAPTACEL. Over the entire study period, 6 seizures were reported in the DAPTACEL group' (rate 2.3 per 1,000). One case of infantile spasms reported. US study: 5 subjects (0.3%) experienced seizure within 60 days. Warnings reference Guillain-Barre syndrome (GBS) risk with tetanus toxoid, based on Institute of Medicine review. Encephalopathy is a contraindication. No systematic long-term neurological or autoimmune monitoring described.",
+      "level_description": "Seizures and HHE actively monitored short-term. GBS mentioned as a known tetanus toxoid risk. However, no scheduled neurological examinations or long-term autoimmune surveillance described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Warnings section addresses: premature infants ('Apnea following intramuscular vaccination has been observed in some infants born prematurely'), immunocompromised individuals ('expected immune response may not be obtained'), children with history of seizures (recommend antipyretic). However, these groups appear to have been excluded from or not separately analyzed in trials rather than intentionally included.",
+      "level_description": "Vulnerable populations acknowledged in warnings/precautions but appear excluded from trials rather than included with separate analysis. No data on premature infants, immunocompromised, or children with chronic conditions presented."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Efficacy: 84.9% (95% CI 80.1 to 88.6) against WHO-defined pertussis. Statistical comparisons made: 'p<0.001: DAPTACEL versus whole-cell pertussis DTP' for multiple endpoints. Table notes indicate statistical significance testing. Non-inferiority criteria mentioned for immunogenicity. However, no power calculation for safety outcomes documented; trials appear powered for efficacy, not safety.",
+      "level_description": "Confidence intervals and p-values provided for efficacy and some comparisons. However, no documented power calculation for safety outcomes - a fundamental limitation common to vaccine trials."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I Efficacy Trial conducted 'under the sponsorship of the National Institute of Allergy and Infectious Diseases.' References to peer-reviewed publications and Institute of Medicine review. Summary data in tables but individual participant data not mentioned. No mention of independent Data Safety Monitoring Board (DSMB) or availability of raw data.",
+      "level_description": "Government-sponsored trial with published results. Summary tables provided. No mention of DSMB, raw data availability, or individual participant data access."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.2 lists postmarketing adverse events 'spontaneously reported during the postmarketing use of DAPTACEL in the US and other countries.' Includes: lymphadenopathy, cyanosis, nausea, injection site reactions, cellulitis, hypersensitivity/anaphylactic reactions, convulsions (febrile, grand mal, partial), HHE, hypotonia, somnolence, syncope, screaming. States: 'Because these events are reported voluntarily from a population of uncertain size, it may not be possible to reliably estimate their frequency.'",
+      "level_description": "Passive postmarketing surveillance via voluntary reporting (VAERS mentioned). Acknowledges limitation that frequency cannot be reliably estimated. No active pharmacovigilance system with periodic public reports mentioned."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Manufactured by Sanofi Pasteur Limited (Toronto). Sweden I Efficacy Trial sponsored by National Institute of Allergy and Infectious Diseases (government). US studies appear to be manufacturer-conducted. Whole-cell DTP comparator in Sweden I was Sanofi Pasteur Inc. product. No explicit conflict of interest disclosures for researchers.",
+      "level_description": "Main efficacy trial had independent government sponsorship (NIAID). However, other studies appear manufacturer-conducted and no researcher conflict disclosures provided."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Sweden I: 'There were no instances of invasive bacterial infection or death.' US 4-dose study: 'There was one death due to aspiration 222 days post-vaccination in a subject with ependymoma' (judged unrelated). Statement that 'no deaths' in Sweden trial but deaths in all comparison groups not explicitly enumerated for comparison.",
+      "level_description": "Deaths reported (0 in Sweden I, 1 unrelated in US study). However, all-cause mortality/morbidity not systematically reported across all groups for comparison; focus on 'vaccine-related' determinations."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "DAPTACEL's safety evidence is based primarily on the Sweden I Efficacy Trial (1992-1995), a randomized, double-blind study of 2,587 infants, with supporting US data from approximately 1,454 additional children. Key methodological strengths include randomization, double-blinding, standardized adverse event definitions, and active short-term monitoring. However, significant limitations exist: DT vaccine rather than true saline placebo was used as comparator (masking potential reactions), follow-up for safety was limited to 6 months maximum, no power calculations for safety outcomes were documented, vulnerable subgroups were excluded rather than studied, and long-term neurological/autoimmune surveillance was absent. The postmarketing section relies on passive voluntary reporting which cannot establish incidence rates. While the document demonstrates DAPTACEL has a more favorable reactogenicity profile than whole-cell pertussis vaccines, the trial design limitations mean rare or delayed adverse events may not have been adequately detected."
+  }
+}

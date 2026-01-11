@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_engerix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Em 36 estudos clínicos, 13.495 doses foram administradas a 5.071 indivíduos, incluindo adultos, crianças e neonatos saudáveis. Dados pediátricos específicos: 58 neonatos de alto risco em estudo de eficácia; 381 bebês recebendo esquema 0,1,2 meses; 52 bebês no esquema 0,1,6 meses; 242 crianças de 6 meses a 10 anos; 181+161 crianças/adolescentes de 5-16 anos em diferentes esquemas. Embora os números pediátricos totais sejam razoáveis, os tamanhos individuais dos estudos são modestos."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O monitoramento de segurança primário foi de apenas 4 dias pós-administração para reações adversas. No estudo de diabetes, eventos adversos graves foram monitorados por 30 dias após a última vacinação. O documento afirma 'Todos os indivíduos foram monitorados por 4 dias pós-administração.' Esta curta duração é inadequada para detectar eventos adversos tardios, condições autoimunes ou sinais de segurança a longo prazo. O estudo de eficácia neonatal teve acompanhamento de 12 meses para eficácia, mas a duração do acompanhamento de segurança não é clara."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Nenhum grupo controle placebo é documentado. O estudo de diabetes incluiu indivíduos controle pareados (258 não diabéticos versus 416 diabéticos), mas ambos os grupos receberam a vacina. O documento descreve comparações entre diferentes esquemas de dosagem e populações (por exemplo, diabéticos versus não diabéticos, diferentes faixas etárias), mas sem controle não vacinado ou placebo para comparação direta de segurança. O estudo de intercambialidade comparou com RECOMBIVAX HB (outra vacina contra Hep B), não placebo."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A vigilância ativa usou listas de verificação de sintomas preenchidas pelos indivíduos ou pais/responsáveis por 4 dias pós-administração. No estudo de diabetes, eventos adversos graves foram ativamente monitorados por até 30 dias. O documento afirma 'Usando uma lista de verificação de sintomas, as reações adversas mais frequentemente relatadas foram dor no local da injeção (22%) e fadiga (14%).' No entanto, a vigilância ativa foi limitada ao acompanhamento de curto prazo. A vigilância pós-comercialização depende de relatos voluntários ao VAERS."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dois estudos clínicos avaliaram especificamente a associação com esclerose múltipla (Seção 5.7), não encontrando associação com desenvolvimento de EM ou aumento do risco de recaída. Os eventos adversos de ensaios clínicos incluíram distúrbios do sistema nervoso (tontura, cefaleia, sonolência, formigamento) com incidência de 1-10% ou <1%. No entanto, protocolos de monitoramento neurológico sistemático não são descritos. Relatos pós-comercialização incluem eventos neurológicos graves: encefalite, encefalopatia, síndrome de Guillain-Barré, paralisia de Bell, mielite transversa, neurite óptica, convulsões, parestesia."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Múltiplas populações vulneráveis estudadas: bebês prematuros (<2000g ao nascer) com orientação de dosagem específica; pessoas imunocomprometidas (Seção 5.6 observa resposta imune diminuída); pacientes em hemodiálise (n=56, com esquema de 4 doses); adultos com diabetes tipo 2 (n=416 com taxa de EAG de 3,8% versus 1,6% em controles, nenhum EAG considerado relacionado à vacina); pacientes com hepatite C crônica (n=67); pessoas idosas acima de 60 anos com resposta de anticorpos diminuída documentada. Dados de gravidez de 58 exposições inadvertidas e registro TWINRIX (245 mulheres)."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Estatísticas resumidas fornecidas: frequências de eventos adversos por categoria (<1%, 1-10%, 22% dor no local da injeção), taxas de soroproteção, TMGs com intervalos de confiança de 95%. Taxas de EAG no estudo de diabetes (3,8% diabéticos, 1,6% controles). Oito referências publicadas citadas. No entanto, dados individuais de pacientes não disponíveis, tabelas completas de eventos adversos não incluídas, e pós-comercialização afirma 'nem sempre é possível estimar confiavelmente sua frequência ou estabelecer uma relação causal.' Nenhum dado de mortalidade fornecido."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.2 fornece relato abrangente de eventos adversos pós-comercialização organizado por classe de sistema orgânico. Relata informações de contato do VAERS (1-800-822-7967) e relato ao fabricante (1-888-825-5249). Os eventos incluem condições raras, mas graves: trombocitopenia, anafilaxia, síndrome tipo doença do soro, encefalite, síndrome de Guillain-Barré, síndrome de Stevens-Johnson, mielite transversa. Observa apropriadamente que relatos voluntários não podem estabelecer frequência ou causalidade. Longo histórico desde a aprovação em 1989."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A documentação de segurança de ENGERIX-B mostra tamanhos de amostra pediátrica adequados e boa cobertura de subgrupos vulneráveis, incluindo bebês prematuros, pacientes em hemodiálise, diabéticos e idosos. A vigilância pós-comercialização está estabelecida com catalogação detalhada de eventos adversos. No entanto, existem limitações significativas na avaliação de segurança: a duração do acompanhamento primário de apenas 4 dias pós-dose é insuficiente para detectar reações tardias; nenhum grupo de comparação placebo verdadeiro foi usado; a vigilância ativa foi de curto prazo. Os estudos de associação com EM fornecem alguns dados de segurança neurológica, mas o monitoramento neurológico sistemático não foi descrito. A vacina está em uso desde 1989, fornecendo extensos dados de segurança do mundo real através do VAERS, embora os relatos voluntários tenham limitações inerentes."
+  }
+}

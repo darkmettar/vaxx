@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_boostrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The vaccine is indicated for ages 10 and older, not younger children. For adolescents (10-18 years), 4,949 subjects were vaccinated with BOOSTRIX across clinical trials. The U.S. Adolescent Study enrolled 3,080 BOOSTRIX and 1,034 Td recipients. The German Adolescent Study included 319 subjects aged 10-12. Sample sizes are adequate for detecting common adverse events in the adolescent population."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse events were monitored for 4-15 days post-vaccination depending on the study. Unsolicited adverse events were tracked for 30-31 days. Serious adverse events were monitored for 6 months in initial-dose studies. The pregnancy study monitored SAEs from vaccination through 2 months after delivery. The SHINGRIX coadministration study monitored for up to 12 months. These durations are adequate for detecting acute and some delayed safety signals."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Most trials used active comparator vaccines rather than placebo controls. The U.S. Adolescent Study compared to Td vaccine, the Adult Study compared to another Tdap (ADACEL), and the Elderly Study compared to Td vaccine. Only the pregnancy study (NCT02377349) used a true placebo (saline) control with 341 BOOSTRIX vs 346 placebo recipients. Active comparators limit the ability to detect vaccine-attributable adverse events."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Subjects were actively monitored using standardized diary cards for solicited local reactions (pain, redness, swelling, arm circumference increase) and general adverse events (headache, fatigue, gastrointestinal symptoms, fever). Grade severity scales were employed (Grade 2 = painful when limb moved; Grade 3 = spontaneously painful and/or prevented normal activity). This systematic approach ensures comprehensive capture of common adverse events."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The document explicitly addresses neurological safety concerns. Warnings include Guillain-Barre syndrome risk within 6 weeks of tetanus toxoid vaccines, with IOM evidence supporting causal relationship. Brachial neuritis is also mentioned. Progressive or unstable neurologic disorders are contraindications. Postmarketing reports include convulsions, encephalitis, facial palsy, loss of consciousness, paresthesia, and syncope. Specific monitoring for autoimmune/neurological SAEs was conducted during 6-month follow-up."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Pregnant women were studied in a randomized placebo-controlled trial (NCT02377349) with 687 participants during third trimester. Elderly aged 65+ were studied (887 BOOSTRIX, 445 Td) including 299 subjects aged 75 and older. Immunocompromised individuals are addressed with caution that expected immune response may not be obtained. Pregnancy registry maintained for ongoing surveillance. Lactation data noted as not available."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Clinical trial registration numbers (NCT identifiers) are provided for all major studies. Detailed safety tables present percentages and 95% confidence intervals for adverse events by grade severity. ATP (according-to-protocol) cohorts are defined. Sample sizes are clearly stated. VAERS reporting is encouraged (1-800-822-7967). Postmarketing adverse events are listed by system organ class. Pregnancy exposure registry data from 2005-2022 (1,523 reports) is summarized."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 provides comprehensive postmarketing experience from worldwide use since 2005 approval. Adverse events identified include: lymphadenitis, allergic/anaphylactic reactions, myocarditis, extensive limb swelling, musculoskeletal disorders (arthralgia, back pain, myalgia), nervous system disorders (convulsions, encephalitis, facial palsy, syncope), and skin disorders (angioedema, urticaria, Henoch-Schonlein purpura). VAERS reporting encouraged. Pregnancy registry actively maintained. Limitations of voluntary reporting acknowledged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "BOOSTRIX safety profile is supported by clinical trial data from over 9,000 subjects across adolescents, adults, elderly, and pregnant women. Strengths include standardized adverse event collection with grading scales, 6-month serious adverse event monitoring, dedicated studies in vulnerable populations (pregnant women, elderly 65+), active postmarketing surveillance with VAERS and pregnancy registry, and explicit neurological safety warnings (GBS, brachial neuritis). Key limitations are the predominant use of active comparators rather than placebo controls (limiting causal attribution of adverse events), and voluntary nature of postmarketing reports. Common adverse reactions are well-characterized (injection site pain 22-78%, headache 12-43%, fatigue 13-37%). Serious neurological and autoimmune events are rare but monitored."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_acthib",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Clinical trials compared ActHIB to other Hib conjugate vaccines (PRP-OMP, HbOC) but no true placebo control group was used. The document states trials were conducted with OPV and whole-cell DTP vaccines administered concomitantly.",
+      "level_description": "No placebo-controlled trials described. Comparisons were made between different Hib conjugate vaccines without an inert placebo arm."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not mention whether the clinical trials were double-blinded or single-blinded.",
+      "level_description": "No information provided about blinding methodology in any of the clinical trials."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not explicitly describe randomization procedures for the clinical trials.",
+      "level_description": "No details provided regarding randomization methodology in the clinical studies."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "More than 7,000 infants and young children (<=2 years of age) received at least one dose during US clinical trials. Study P3T06 enrolled 1,454 children. Immunogenicity studies included 65-167 subjects per vaccine group in comparative trials.",
+      "level_description": "Large total sample size exceeding 7,000 participants, with the main safety study (P3T06) enrolling 1,454 children for doses 1-3 and 418 for dose 4."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Adverse reactions were monitored within 48 hours following immunization (Table 1) and within 0-3 days after vaccination (Table 2). Serious adverse events were monitored within 30 days following vaccination.",
+      "level_description": "Short-term follow-up of 48 hours for solicited reactions and 30 days for serious adverse events. No long-term follow-up data provided."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies separated data for children 2-6 months of age (primary series), 12-15 months, 15-20 months, and 17-24 months of age. Table 5 provides separate immunogenicity data by age group.",
+      "level_description": "Clinical data presented for distinct pediatric age groups appropriate to the vaccination schedule."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Contraindications listed include severe allergic reaction after previous dose and Guillain-Barre syndrome within 6 weeks of prior tetanus toxoid-containing vaccine. Limited information on trial-specific inclusion/exclusion criteria.",
+      "level_description": "Some criteria mentioned in contraindications section but comprehensive trial inclusion/exclusion criteria not detailed."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Tables 1 and 2 provide standardized categories for local reactions (tenderness, erythema, induration, swelling) and systemic reactions (fever, irritability, drowsiness, anorexia, vomiting, crying) with defined severity levels.",
+      "level_description": "Standardized solicited adverse event categories with defined timepoints and severity grading (moderate, severe definitions provided)."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "In Study P3T06, within 30 days following any of Doses 1-3, 50 of 1,455 (3.4%) participants experienced a serious adverse event (SAE). One SAE of seizure with apnea was possibly related.",
+      "level_description": "SAEs monitored for 30 days post-vaccination but limited description of active surveillance methodology."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Guillain-Barre syndrome is mentioned as a warning/precaution. Postmarketing reports include convulsions. One SAE of seizure with apnea was reported as possibly related to vaccination.",
+      "level_description": "GBS noted as precaution and convulsions in postmarketing, but no systematic pre-licensure monitoring for autoimmune/neurological conditions described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Immunogenicity data provided for children with sickle cell anemia and Alaskan Native Americans (who have higher disease rates and lower vaccine responses). Notes that immunosuppressed persons may not achieve expected antibody responses.",
+      "level_description": "Some vulnerable populations studied (sickle cell, Native Americans) but limited safety data specific to these groups."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Geometric Mean Concentrations (GMC) and percentage of subjects achieving >=1.0 mcg/mL anti-PRP antibody levels reported. No confidence intervals or detailed statistical methodology described.",
+      "level_description": "Basic descriptive statistics provided but no detailed statistical analysis plan or significance testing reported."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "References cite 'Data on file, Sanofi Pasteur SA' and 'Data on file, Sanofi Pasteur Inc.' for key supporting data. Published literature references provided for some studies.",
+      "level_description": "Key data referenced as proprietary 'data on file' rather than publicly accessible. Some published literature cited."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes postmarketing spontaneous reports including anaphylaxis, hypersensitivity reactions, convulsions, and limb swelling. VAERS reporting information provided.",
+      "level_description": "Postmarketing surveillance system in place with adverse events reported to manufacturer and VAERS."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not provide information about funding sources for clinical trials or potential conflicts of interest among investigators.",
+      "level_description": "No disclosure of conflicts of interest or funding sources for clinical trials."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. Only mentions 'no serious or life threatening adverse reactions' in 1,064 subjects.",
+      "level_description": "No mortality data reported from clinical trials."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ActHIB clinical trials included substantial pediatric sample sizes (>7,000 children) with standardized adverse event monitoring and age-stratified data. However, trials lacked placebo controls (comparing only to other Hib vaccines), had short follow-up periods (48 hours to 30 days), and provided limited transparency with key data held as proprietary. No information on blinding, randomization, or mortality outcomes was provided."
+  }
+}

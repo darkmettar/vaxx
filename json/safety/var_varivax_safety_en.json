@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Over 11,000 children, adolescents, and adults received VARIVAX in clinical trials. Specifically for children 1-12 years: approximately 8,824-8,913 subjects monitored for fever and adverse reactions; 9,454 healthy children followed for herpes zoster (42,556 person-years); 4,240 children in early clinical trials; 2,216 children in the 1-dose vs 2-dose randomized study. This sample size exceeds the 3,000+ threshold needed to detect adverse events occurring at 1:1,000 frequency, though events rarer than 1:10,000 may still be missed."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active safety monitoring was limited to 42 days post-vaccination in clinical trials, which is inadequate for detecting delayed autoimmune or neurological adverse events. While long-term efficacy follow-up extended to 10 years and herpes zoster incidence was tracked over 42,556 person-years in children, this was primarily for breakthrough disease and antibody persistence, not systematic safety surveillance. The 42-day window is standard industry practice but insufficient to detect conditions with delayed onset like Guillain-Barre syndrome (typically 2-8 weeks), autoimmune disorders, or developmental impacts."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A placebo-controlled, double-blind study was conducted with 914 children and adolescents (491 vaccine, 465 placebo), but this used an older formulation (17,000 PFU per dose). The current refrigerator-stable VARIVAX was NOT tested against a true placebo. Most studies compared to historical controls or expected incidence rates. The 2-dose vs 1-dose study (n=2,216) compared vaccine regimens, not vaccine vs. placebo. Without contemporary placebo comparison for the marketed formulation, attributing adverse events specifically to the vaccine versus coincidental illness is challenging."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active surveillance was conducted using diary cards for 42 days post-vaccination, with investigators reviewing cards at day 42 visits. Parents/guardians recorded local reactions for 4 days and systemic reactions for 42 days. Serious adverse events were collected, occurring at 0.3-1% rates in specific studies. However, the short duration limits detection of delayed events. Post-marketing relies on VAERS passive reporting, which significantly underestimates true adverse event rates. A pregnancy registry (1995-2013) actively followed 1,522 women with 905 known outcomes."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "No specific pre-planned neurological or developmental monitoring protocol is described in clinical trials. Febrile seizures were reported at <0.1% rate. Post-marketing section identifies serious neurological events including encephalitis, transverse myelitis, Guillain-Barre syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis, and meningitis - these were discovered through passive post-marketing surveillance, not proactive clinical trial monitoring. No scheduled neurological exams, developmental assessments, or predefined list of neurological conditions to actively monitor is documented."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Vulnerable populations were largely excluded rather than studied. Contraindications explicitly exclude immunocompromised individuals; 'disseminated varicella disease' has occurred in immunosuppressed individuals inadvertently vaccinated. No clinical data available for children <12 months of age. Premature infants are mentioned only in context of transmission risk, not safety data. Children with chronic conditions, developmental disorders, or concurrent illnesses were not specifically included or analyzed. The package insert acknowledges insufficient data for several populations (e.g., geriatric subjects)."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document references 18 peer-reviewed publications and at least one registered clinical trial (NCT00432523). Adverse event data are presented in summary tables with percentages and confidence intervals. However, no independent Data Safety Monitoring Board (DSMB) is mentioned. Raw data and individual participant data are not publicly available. Complete adverse event listings beyond percentages are not provided. All studies appear manufacturer-sponsored without independent analysis or verification opportunities."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Post-marketing surveillance is documented through multiple channels: VAERS (Vaccine Adverse Event Reporting System) reporting is encouraged with provided contact information; a pregnancy exposure registry was maintained from 1995-2013 with 1,522 women enrolled; a 10-year safety review was published (Galea 2008); herpes zoster incidence calculated at 18.8 per 100,000 person-years in children. Post-marketing identified serious adverse events including anaphylaxis, neurological conditions, aplastic anemia, and thrombocytopenia. However, VAERS is a passive system with significant underreporting, and the document acknowledges 'it is not always possible to reliably estimate their frequency or establish a causal relationship.'"
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The VARIVAX package insert provides partial reassurance about short-term safety in healthy children, supported by a large sample size (>11,000 subjects) and documented common adverse events (fever 14.7%, injection-site reactions 19.3%, varicella-like rash 3-4%). However, several critical limitations undermine confidence in comprehensive safety: (1) active safety monitoring was only 42 days, inadequate for detecting delayed autoimmune or neurological conditions; (2) the current marketed formulation was not tested against a true placebo; (3) vulnerable populations (immunocompromised, premature infants, children <12 months, those with chronic conditions) were excluded from trials rather than studied; (4) no systematic neurological/developmental monitoring protocol was employed; and (5) serious neurological events (encephalitis, Guillain-Barre, transverse myelitis) were discovered only through post-marketing passive surveillance, not proactive trial design. For a parent asking 'Is this vaccine safe for my child now and in the future?' - this document demonstrates acceptable short-term tolerability in healthy children but does not adequately address long-term safety, rare serious events, or safety in children with underlying conditions."
+  }
+}

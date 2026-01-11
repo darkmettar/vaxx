@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study B7471007: In Cohort 1 (adults >=60 years), PCV20/Saline group received saline as second dose, while comparator PCV13/PPSV23 group received active vaccines. Vaccination 1 compared PCV20 vs PCV13 (active comparator, not placebo). In Cohorts 2 and 3 (adults 18-59), comparison was PCV20 vs PCV13 with no placebo arm at all. Saline was only used for dose 2 in Cohort 1 to maintain blinding, not as a true safety control.",
+      "level_description": "No true inert placebo control for the primary vaccine dose. Active comparator (PCV13) was used, which obscures true adverse event rates attributable specifically to PCV20."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Vaccination 1 (PCV20 or PCV13) was administered in a double-blind fashion as vaccines were identical in appearance and pre-filled syringes were packaged in blinded cartons. Vaccination 2 (PPSV23 or saline) was prepared by unblinded third-party staff who did not participate in subject assessments. Serology testing was performed blinded. All other study staff and Wyeth were blinded until database lock.",
+      "level_description": "Appropriate double-blinding for first vaccination with observer-blinding for second dose. Laboratory personnel remained blinded throughout."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study B7471007: Randomized, multicenter study. Randomization ratio was 1:1 in Cohort 1 (>=60 years) and 3:1 in Cohorts 2 and 3 (younger adults). Study B7471008: Site-based randomization in 2:2:2:1 ratio for lot consistency study. Subjects were included in vaccine group as randomized in analyses.",
+      "level_description": "Documented random allocation with predefined ratios by cohort. Allocation concealment maintained through blinded packaging."
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "This BLA was for adults >=18 years only. The document explicitly states: 'The safety and effectiveness of Prevnar 20 in persons less than 18 years of age have not been established.' Pediatric studies (B7471011, B7471013, B7471014) are deferred postmarketing requirements under PREA for ages 6 weeks through 16 years.",
+      "level_description": "No pediatric data included in this submission. Vaccine approved only for adults. Pediatric studies are pending as postmarketing requirements."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Safety follow-up was 6 months after Vaccination 1 for SAEs and newly diagnosed chronic medical conditions (NDCMC). Solicited local reactions monitored 10 days post-vaccination; systemic reactions monitored 7 days post-vaccination. Unsolicited AEs collected through 1 month after each vaccination. Duration of subject participation was approximately 6 months.",
+      "level_description": "6-month follow-up is below the ideal 12+ month minimum for detecting delayed autoimmune or neurological effects. Short-term reactogenicity monitoring was adequate (7-10 days)."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study B7471007 enrolled adults into 3 age-based cohorts: Cohort 1 (>=60 years, with subgroups 60-64, 65-69, 70-79, >=80), Cohort 2 (50-59 years), Cohort 3 (18-49 years). Study B7471006 examined previously vaccinated adults >=65 years. Immunogenicity and safety analyzed separately by age cohort. OPA GMTs decreased with increasing age.",
+      "level_description": "Excellent stratification by adult age groups with separate immunogenicity and safety analyses. However, no pediatric age stratification as this was adult-only."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Documented inclusion criteria: adults >=18 years determined eligible by clinical assessment, including those with preexisting stable disease (not requiring significant therapy change in 6 weeks or hospitalization in 12 weeks). Key exclusions: previous pneumococcal vaccination, severe allergic reactions, serious chronic disorders, immunosuppressive therapy, known/suspected immunodeficiency, history of microbiologically proven invasive pneumococcal disease.",
+      "level_description": "Clear, well-defined criteria. Exclusion of immunocompromised individuals limits generalizability to real-world populations at highest risk for pneumococcal disease."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "MedDRA coding dictionary (version 22.0 for B7471007, version 22.1 for B7471008) was used. Solicited local reactions graded by severity (mild/moderate/severe) with objective thresholds: pain (interference with activity), swelling/redness (>2.0-5.0cm mild, >5.0-10.0cm moderate, >10.0cm severe). Fever graded by temperature ranges. Grade 4 defined as ER visit/hospitalization. Electronic diaries (e-diary) used for standardized daily recording.",
+      "level_description": "Exemplary use of standardized MedDRA coding, objective grading scales, and electronic diary capture with high daily transmission rates (>=85%)."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs and NDCMCs actively monitored through 6 months post-Vaccination 1. Immediate adverse reactions monitored within 30 minutes after each vaccination. Narratives provided for all subjects withdrawn due to AE/SAE. In Study B7471007 Cohort 1: 2.4% PCV20 vs 1.9% PCV13 reported SAEs within 6 months. No SAEs considered vaccine-related by investigators.",
+      "level_description": "Active SAE surveillance with detailed narratives and causality assessment. Clear distinction between solicited and unsolicited events maintained."
+    },
+    "autoimmune_neurological": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No specific monitoring protocol for autoimmune or neurological conditions such as Guillain-Barre syndrome, seizures, or encephalitis was documented. NDCMCs were captured broadly but no predefined list of neurological/autoimmune conditions to watch for. Search for 'neurological', 'autoimmune', 'Guillain', 'seizure' in document returned no relevant results.",
+      "level_description": "No evidence of specific long-term neurological or autoimmune monitoring protocols. This represents a significant gap in safety assessment methodology."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Immunocompromised individuals were explicitly excluded from all trials. Document states: 'The safety and effectiveness of Prevnar 20 have not been established in immunocompromised individuals.' Exclusion criteria included: immunosuppressive therapy, known/suspected immunodeficiency, HIV, leukemia, lymphoma, organ transplant. No premature infants or pediatric vulnerable groups studied.",
+      "level_description": "Vulnerable populations at highest risk for pneumococcal disease (immunocompromised) were systematically excluded. This is a major limitation for real-world applicability."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study powered for immunogenicity (72% power for noninferiority in OPA GMTs across 20 serotypes). Sample size: ~3,880 adults planned in B7471007. Linear regression models adjusting for age, baseline OPA titer, sex, smoking status. 2-sided 95% CIs calculated. Noninferiority margin of 0.5 for GMT ratio. Safety analyses were descriptive without hypothesis testing.",
+      "level_description": "Studies appropriately powered for immunogenicity outcomes. Safety analyses were descriptive, not powered to detect rare adverse events - a common limitation."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "This is an FDA Clinical Review document (STN 125731/0) with detailed Clinical Study Reports cited. Comprehensive tables with subject-level disposition, demographics, and outcomes provided. Analysis populations clearly defined (safety, evaluable immunogenicity, all-available). Clinical Study Report tables referenced throughout.",
+      "level_description": "Regulatory review document with substantial detail. However, individual participant data (IPD) not publicly available. No mention of independent DSMB."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Wyeth agrees to routine pharmacovigilance (monitoring unanticipated risks in surveillance systems and postmarketing adverse reaction reports). Study B7471015 is a postmarketing requirement for adults >=65 years. Three pediatric studies (B7471011, B7471013, B7471014) are PREA postmarketing requirements. Pharmacovigilance plan deemed adequate by reviewer.",
+      "level_description": "Standard passive pharmacovigilance proposed. Confirmatory effectiveness study required as condition of accelerated approval. No active surveillance system described beyond routine reporting."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Studies conducted by Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc. All investigators were non-sponsor employees (0 sponsor employees as investigators). 4 investigators had significant equity interest in sponsor. Dr. Susan Brown was counted 3 times across studies. No independent funding source; manufacturer-sponsored throughout.",
+      "level_description": "All studies manufacturer-sponsored without independent funding. Some investigators held equity in Pfizer. Full industry control over study design, conduct, and analysis."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "One death reported in Study B7471007: a 60-year-old Cohort 1 PCV20/saline recipient with history of suicide attempts, died from self-inflicted gunshot wound 48 days after Vaccination 2 (saline). Death not considered vaccine-related. Study B7471008: No deaths reported. Total deaths and SAEs reported across all groups.",
+      "level_description": "All-cause mortality reported for all groups. Single death was from documented pre-existing psychiatric condition, appropriately assessed as unrelated."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "This FDA clinical review of Prevnar 20 (PCV20) demonstrates adequate trial methodology for immunogenicity in adults >=18 years with appropriate randomization, blinding, and standardized adverse event capture. However, several significant limitations exist: (1) No true placebo control - PCV13 active comparator used, obscuring true adverse event rates; (2) No pediatric data - vaccine approved only for adults with pediatric studies deferred; (3) Immunocompromised populations explicitly excluded, limiting applicability to highest-risk groups; (4) Only 6 months follow-up, insufficient for detecting delayed autoimmune/neurological effects; (5) No specific neurological monitoring protocols; (6) Entirely manufacturer-sponsored with potential conflicts of interest. The safety profile was comparable to licensed PCV13, but the study design fundamentally cannot establish absolute safety, only relative safety compared to another vaccine."
+  }
+}

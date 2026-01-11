@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "tdap_boostrix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The main clinical trials used active comparators (Td vaccine or another Tdap vaccine) rather than true placebo controls. Only the pregnancy study (NCT02377349) used a placebo (saline) control group with 341 BOOSTRIX and 346 placebo recipients.",
+      "level_description": "Limited placebo use; most trials used active comparator vaccines (Td or Tdap) for immunogenicity and safety comparisons."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The U.S. Adolescent Study and U.S. Adult Study were 'observer-blinded' studies. The U.S. Elderly Study was also 'randomized, observer-blinded.' Revaccination studies were 'open-label.' The pregnancy study was 'randomized, controlled.'",
+      "level_description": "Most pivotal trials were observer-blinded rather than fully double-blinded; some studies were open-label."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple studies describe randomization: 'multicenter, randomized, observer-blinded, controlled study' for the U.S. Adolescent Study (NCT00109330), U.S. Adult Study (NCT00346073), U.S. Elderly Study (NCT00835237), and the pregnancy study (NCT02377349).",
+      "level_description": "Randomization was consistently employed across pivotal clinical trials."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The U.S. Adolescent Study enrolled 3,080 BOOSTRIX recipients and 1,034 Td recipients (aged 10-18 years). The German Adolescent Study enrolled 319 subjects aged 10-12 years. Total adolescent subjects vaccinated with BOOSTRIX in clinical studies: 4,949.",
+      "level_description": "Large adolescent sample sizes (over 4,900 subjects aged 10-18 years) provide adequate statistical power for this age group."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse events monitored for 4-15 days post-vaccination depending on study. Unsolicited adverse events monitored for 30-31 days. Serious adverse events monitored for 6 months post-vaccination in initial-dose studies, 31 days in revaccination and concomitant studies, up to 12 months in SHINGRIX coadministration study.",
+      "level_description": "Follow-up periods varied but serious adverse events were tracked for 6 months in pivotal initial-dose studies."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Studies were conducted separately in adolescents (10-18 years), adults (19-64 years), elderly (65+ years), and pregnant women (18-45 years). Additional revaccination studies in adults aged 20-29 years and 28-73 years. Safety and efficacy data reported separately for each age cohort.",
+      "level_description": "Comprehensive age-stratified studies with distinct populations and separate reporting of outcomes."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document states subjects 'had not received a tetanus-diphtheria booster within 5 years' and approximately 98% had received recommended DTaP series in childhood. Contraindications listed include severe allergic reaction history and encephalopathy within 7 days of prior pertussis vaccine.",
+      "level_description": "Some inclusion/exclusion criteria mentioned but full details not provided in the prescribing information."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Subjects were monitored using 'standardized diary cards' for solicited adverse events. Local reactions (pain, redness, swelling, arm circumference) and general events (headache, fatigue, GI symptoms, fever) were systematically collected with grading scales (Grade 1, 2, 3).",
+      "level_description": "Standardized diary cards with defined grading scales for systematic adverse event collection across all trials."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Serious adverse events were monitored for 6 months post-vaccination in initial-dose studies. Document reports SAE rates: 1.4% BOOSTRIX vs 1.7% Tdap in adult study; 0.7% BOOSTRIX vs 0.9% Td in 31-day period in elderly study; 4.2% vs 2.2% during 6-month period in elderly.",
+      "level_description": "Active surveillance for serious adverse events with 6-month monitoring period in pivotal studies."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Document specifically addresses Guillain-Barre syndrome warning, brachial neuritis, and notes IOM found causal relationship with tetanus toxoid. SAE monitoring specifically evaluated events 'of potential autoimmune origin or new onset and chronic in nature.' One case of insulin-dependent diabetes reported 20 days post-vaccination.",
+      "level_description": "Explicit monitoring for autoimmune and neurological events including GBS, with specific warnings in prescribing information."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pregnant women studied in NCT02377349 (341 BOOSTRIX, 346 placebo). Elderly aged 65+ studied (887 BOOSTRIX, 445 Td) including 299 subjects aged 75+. Immunocompromised persons addressed in warnings section. Document notes vaccine not indicated for children under 10 years.",
+      "level_description": "Dedicated studies in pregnant women and elderly populations; immunocompromised persons addressed in warnings."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority analyses conducted with pre-defined criteria. Example: 'upper limit of 2-sided 95% CI for the difference [BOOSTRIX minus Td] <=4%' for Grade 3 pain. GMC ratio comparisons with 'lower limit of 95% CI for GMC ratio >=0.67.' Seroprotection rate comparisons performed.",
+      "level_description": "Pre-specified non-inferiority criteria with appropriate statistical methods for immunogenicity endpoints."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Clinical trial registration numbers provided (NCT00109330, NCT00263679, NCT00346073, NCT00835237, etc.). Detailed tables with percentages, confidence intervals, and sample sizes. ATP (according-to-protocol) cohort analyses clearly defined.",
+      "level_description": "Trial registration numbers provided; detailed statistical results with confidence intervals in multiple tables."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes postmarketing experience with adverse events identified during postapproval use worldwide. VAERS reporting encouraged (1-800-822-7967). Pregnancy registry maintained (1-888-452-9622). Document notes these are voluntary reports from 'population of uncertain size.'",
+      "level_description": "Active postmarketing surveillance with VAERS reporting and pregnancy registry; limitations of voluntary reporting acknowledged."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not disclose funding sources for clinical trials or potential conflicts of interest of investigators. Studies were conducted by GlaxoSmithKline Biologicals who manufactures the vaccine.",
+      "level_description": "No disclosure of conflicts of interest or detailed funding information in the prescribing information."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. Serious adverse events are reported as percentages but deaths are not specifically enumerated or compared between groups.",
+      "level_description": "No explicit all-cause mortality data reported in the prescribing information."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "BOOSTRIX clinical development program includes multiple randomized trials across age groups with over 9,000 total subjects. Strengths include standardized adverse event collection, age-stratified studies, 6-month SAE monitoring, and documented immunogenicity with non-inferiority analyses. Limitations include predominant use of active comparators rather than placebo controls, observer-blinding rather than full double-blinding, absence of all-cause mortality data, and no conflict of interest disclosure. The evidence base supports the approved indications with adequate safety characterization for a booster vaccine."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "ppsv23_pneumovax23",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The main adult trial (50+ years) used saline containing 0.25% phenol as placebo in a randomized, double-blind, placebo-controlled crossover design. Historical South African efficacy studies used either meningococcal polysaccharide serogroup A vaccine or saline placebo as control groups. The phenol-containing saline is not a pure inert placebo but is closer to inert than an active vaccine comparator.",
+      "level_description": "Meets expectations with a saline-based placebo (though containing 0.25% phenol preservative), allowing reasonable comparison of adverse event rates"
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The main clinical trial in adults 50 years and older was described as 'randomized, double-blind, placebo-controlled crossover clinical trial.' The sequential administration study with Prevnar 13 was also 'randomized, double-blind, placebo-controlled, multicenter study.'",
+      "level_description": "Meets what would be expected; double-blinding was implemented in the primary safety trials"
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The main study states subjects were 'randomized to receive intramuscular injections of PNEUMOVAX 23 followed by placebo, or placebo followed by PNEUMOVAX 23.' The Prevnar 13 sequential study randomized 400 subjects 1:1 into two groups. However, no specific description of allocation concealment methods.",
+      "level_description": "Randomization was documented, though details on allocation concealment were not provided"
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document explicitly states 'PNEUMOVAX 23 is not approved for use in children less than 2 years of age' and 'Antibody responses to most pneumococcal capsular types are generally low or inconsistent in children less than 2 years of age.' The clinical trials described enrolled only adults 50 years and older. No pediatric safety studies in children 0-12 years are documented.",
+      "level_description": "Not documented. The package insert contains no pediatric clinical trial data for children ages 0-12 years. All clinical safety data is from adults 50+ years old."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "The main safety trial followed subjects 'for 14 days following each vaccination.' The sequential Prevnar 13 study evaluated injection site reactions 'during Days 1 through 5 postvaccination' and systemic reactions 'during Days 1 through 14 postvaccination,' with SAEs collected through Week 30. Historical efficacy studies observed attack rates '2 weeks through about 1 year after vaccination.'",
+      "level_description": "Mentioned but inadequate - 14 days is grossly insufficient to detect autoimmune, neurological, or other delayed adverse events. Week 30 SAE collection is better but still falls far short of the 6-12+ months ideal."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The adult trial separated subjects into cohorts by age (50-64 years and 65+ years). The document provides separate analysis showing injection-site adverse reaction rate was higher following revaccination (79.3%) vs initial vaccination (52.9%) in subjects 65+ years, and similar rates (79.6% vs 72.8%) in 50-64 year cohort. No pediatric age group stratification exists (0-1, 1-5, 6-12).",
+      "level_description": "Present but with significant limitations - age stratification exists only for adults (50-64 and 65+). No stratification for pediatric populations (children 2-12 years who are approved for use at increased risk)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Limited description: subjects in the geriatric trial 'had underlying chronic illness but were in stable condition; at least 1 medical condition at enrollment was reported by 86.3% of subjects who were 50 to 64 years old, and by 96.7% of subjects who were 65 to 91 years old.' Contraindications include hypersensitivity to vaccine components. Exclusion/inclusion for pediatric populations not documented.",
+      "level_description": "Present but with flaws - basic demographics are provided (age, sex, race), but detailed inclusion/exclusion criteria and generalizability limitations are not explicitly discussed"
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document distinguishes between 'Solicited Events' and 'Unsolicited Events' in Table 1. Local reactions were systematically categorized (pain/soreness/tenderness, swelling/induration, erythema) with specific measurements for swelling (0 to <2.5 cm, 2.5 to <5.1 cm, etc.). Pain severity was characterized as mild, moderate, or severe with definitions. Fever was defined as temperature 100.4F or higher.",
+      "level_description": "Meets expectations with objective thresholds defined (fever >100.4F, swelling measurements in cm, pain severity scale) and clear distinction between solicited and unsolicited events"
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Serious adverse events were reported: '10 subjects had serious adverse experiences within 14 days of vaccination: 6 who received PNEUMOVAX 23 and 4 who received placebo.' SAEs included angina pectoris, heart failure, chest pain, ulcerative colitis, depression, and headache/tremor/stiffness/sweating. One death from pancreatitis/myocardial infarction was reported. However, systematic active surveillance methodology is not described.",
+      "level_description": "Present but with significant flaws - SAEs were collected but methodology for active surveillance and causality investigation not clearly documented. The 14-day window limits detection of delayed serious events."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Post-marketing experience section lists: Paresthesia, Radiculoneuropathy, Guillain-Barre syndrome, Febrile convulsion under 'Nervous System.' However, there is no documentation of scheduled assessments or predefined monitoring protocols for these conditions in the clinical trials themselves.",
+      "level_description": "Present but flawed - autoimmune/neurological events are acknowledged in post-marketing but no systematic pre-specified monitoring protocol documented in clinical trials"
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 8.6 states immunocompromised individuals 'may have a diminished immune response.' Subjects with 'underlying chronic illness but were in stable condition' were included in the geriatric study (86.3-96.7% had at least one medical condition). However, no separate safety analysis for vulnerable subgroups is provided, and premature infants or children with special conditions were not studied.",
+      "level_description": "Present but with flaws - immunocompromised mentioned but not separately analyzed. No pediatric vulnerable subgroup data. Pregnant women and lactating mothers noted but with limited data."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "For efficacy studies, protective effectiveness is reported with 95% confidence intervals (e.g., '57% (95%CI: 45% to 66%) overall protective effectiveness,' '77% (95%CI: 51% to 89%)'). Immunogenicity analysis used 'constrained Longitudinal Data Analysis model' with GMT ratios and 95% CIs. No power calculation for safety endpoints is documented.",
+      "level_description": "Present but with limitations - confidence intervals provided for efficacy, but study was clearly not powered for safety outcomes; no safety-specific power calculations documented"
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Adverse event rates are presented in tables with specific percentages. Data from multiple studies cited (South African gold miner studies, French nursing home study, CDC retrospective cohort). However, no mention of independent DSMB, no raw data availability, and no reference to peer-reviewed publication of the primary safety data.",
+      "level_description": "Present but flawed - summary data provided in package insert, but no mention of DSMB oversight, raw data access, or independent verification mechanisms"
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 provides extensive post-marketing experience list including: cellulitis, fever >102F, decreased limb mobility, injection-site necrosis, thrombocytopenia, hemolytic anemia, Guillain-Barre syndrome, febrile convulsion, serum sickness, erythema multiforme. VAERS reporting is referenced (1-800-822-7967 or www.vaers.hhs.gov). However, this relies on passive reporting.",
+      "level_description": "Meets expectations with acknowledgment of post-marketing surveillance (VAERS referenced, manufacturer reporting line provided) and documented post-marketing findings, though primarily passive system"
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose funding sources for clinical trials, researcher conflicts of interest, or financial relationships. Merck Sharp & Dohme Corp. is identified as manufacturer. No statement regarding independent funding or financial ties of researchers.",
+      "level_description": "Not documented - no disclosure of conflicts of interest, funding sources, or financial relationships for the clinical trials"
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Deaths are mentioned: 'pancreatitis/myocardial infarction resulting in death' after PNEUMOVAX 23 and 'motor vehicle accident resulting in death' after placebo. However, total mortality numbers in each group are not systematically reported, and causality determination appears subjective.",
+      "level_description": "Present but flawed - individual deaths mentioned but all-cause mortality not systematically reported by treatment group; only deaths judged noteworthy are listed"
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "This package insert provides inadequate evidence for pediatric safety assessment because PNEUMOVAX 23 was studied exclusively in adults aged 50 years and older. The vaccine is approved for high-risk children 2 years and older, yet no pediatric clinical trial data is presented in this document. The adult trials demonstrate reasonable methodology (double-blind, randomized, placebo-controlled) but are limited by short follow-up duration (14 days primary, 30 weeks maximum), lack of power for safety outcomes, and reliance on passive post-marketing surveillance. While post-marketing data identifies serious neurological events (Guillain-Barre syndrome, febrile convulsions), no systematic long-term safety monitoring was conducted. For parents of children 0-12 years, this document fundamentally fails to demonstrate safety because no children were studied in the clinical trials described."
+  }
+}

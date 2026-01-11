@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_vaxneuvance",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "3.349 crianças receberam pelo menos uma dose de VAXNEUVANCE na série de 4 doses nos Estudos 8-11. 1.814 receberam Prevnar 13 como comparador. Somente nos EUA, 2.827 participantes receberam pelo menos uma dose e 2.409 completaram a série de 4 doses. O Estudo 12 (vacinação de resgate) incluiu 303 participantes recebendo VAXNEUVANCE de 7 meses a 17 anos. Populações especiais incluíram 142 bebês prematuros, 70 crianças com doença falciforme e 203 crianças infectadas pelo HIV. Isso representa um banco de dados substancial de segurança pediátrica em múltiplos grupos etários e categorias de risco."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Reações adversas solicitadas monitoradas por 14 dias após a vacinação usando Cartões de Registro de Vacinação. Febre especificamente monitorada por 7 dias. Eventos adversos não solicitados coletados até 14 dias. Eventos adversos graves acompanhados por 1 mês no Estudo 11, 6 meses nos Estudos 8-10 e 12 para crianças. Embora o acompanhamento de 6 meses para EAGs seja razoável, monitoramento de segurança de longo prazo (1-2+ anos) fortaleceria a avaliação do perfil de segurança, particularmente para potenciais eventos adversos tardios."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Todos os estudos usaram Prevnar 13 (outra vacina conjugada pneumocócica) como comparador ativo em vez de placebo verdadeiro. Embora isso permita comparação direta com o padrão de cuidado existente, limita a capacidade de avaliar o perfil de segurança absoluto. EAGs em crianças: 9,6% VAXNEUVANCE vs 8,9% Prevnar 13 aos 6 meses. Em adultos dentro de 30 dias: 0,4% vs 0,7%; dentro de 6 meses: 2,5% vs 2,4%. A falta de braço placebo significa que as taxas de base de eventos adversos não podem ser determinadas, e quaisquer sinais de segurança comuns a ambas as vacinas não seriam detectados."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Vigilância ativa implementada usando Cartões de Registro de Vacinação padronizados revisados pelos investigadores 15 dias após a vacinação. Reações locais solicitadas (dor, endurecimento, eritema, inchaço) e reações sistêmicas (irritabilidade, sonolência, febre, diminuição do apetite, urticária em crianças; fadiga, dor de cabeça, mialgia, artralgia em adultos) coletadas sistematicamente. Graduação de gravidade definida (leve, moderada, grave com critérios específicos). Temperatura monitorada via medição retal ou axilar em crianças. No entanto, acompanhamento ativo limitado a 14 dias para a maioria dos desfechos."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Relato limitado de eventos adversos neurológicos. Uma convulsão febril documentada em uma bebê feminina de 9 semanas um dia após receber a Dose 1 de VAXNEUVANCE com vacinas infantis concomitantes. Apneia em bebês prematuros mencionada como advertência na Seção 5.3, com recomendação de que o momento da vacinação seja baseado no estado médico individual do bebê. Nenhum monitoramento sistemático para outras condições neurológicas (por exemplo, síndrome de Guillain-Barré, encefalite, outros distúrbios convulsivos) descrito. Nenhuma vigilância específica de condições autoimunes mencionada."
+    },
+    "vulnerable_subgroups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Avaliação extensa de populações vulneráveis: (1) Bebês prematuros <37 semanas de gestação (N=142 VAXNEUVANCE, N=144 Prevnar 13) - perfil de segurança semelhante a bebês a termo e Prevnar 13; (2) Crianças com doença falciforme de 5-17 anos (N=70 vs N=34) - segurança semelhante ao Prevnar 13; (3) Crianças infectadas pelo HIV de 6-17 anos com CD4+ >=200 células/uL (N=203 vs N=204) - perfil de segurança semelhante; (4) Adultos infectados pelo HIV 18+ com CD4+ >=50 células/uL (N=152 vs N=150); (5) Receptores de TCTH alogênico 3-6 meses pós-transplante (N=139 vs N=138). Adultos com condições subjacentes estáveis (diabetes, doenças renais, cardíacas, hepáticas, pulmonares) e fatores de risco comportamentais também incluídos."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Identificadores do ClinicalTrials.gov fornecidos para todos os estudos permitindo verificação (NCT03893448, NCT03620162, NCT03692871, NCT02987972, NCT03885934, NCT03950622, NCT03950856, NCT03480763, NCT03547167, NCT02573181, NCT03615482, NCT03480802, NCT03731182, NCT03921424, NCT03565900). Tabelas detalhadas de segurança com porcentagens para reações adversas solicitadas por grau de gravidade, número da dose e grupo etário. Porcentagens de EAGs relatadas. No entanto, descrições de eventos adversos graves individuais, detalhamento por tipo de EAG e mortes não são enumerados. Dados brutos não disponíveis na bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Mecanismos padrão de vigilância pós-comercialização estabelecidos através do VAERS (Sistema de Notificação de Eventos Adversos de Vacinas) em 1-800-822-7967 ou www.vaers.hhs.gov, e relato ao fabricante para Merck em 1-877-888-4231. A seção de aconselhamento ao paciente instrui especificamente os profissionais de saúde e pacientes/responsáveis a relatar reações adversas graves. No entanto, nenhum estudo de vigilância pós-comercialização ativo ou compromissos descritos. Nenhum dado de segurança pós-comercialização incluído (vacina aprovada em 2021). Efetividade em populações especiais (bebês prematuros, doença falciforme, HIV, receptores de TCTH) explicitamente não estabelecida."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VAXNEUVANCE demonstra um perfil de segurança adequado baseado em dados substanciais de ensaios clínicos. Os pontos fortes incluem grande tamanho de amostra pediátrica (>3.300 crianças), excelente avaliação de subgrupos vulneráveis (bebês prematuros, doença falciforme, infecção por HIV, receptores de TCTH) e vigilância ativa padronizada usando instrumentos validados com graduação de gravidade. O perfil de segurança foi geralmente semelhante ao Prevnar 13 em todos os grupos etários e populações especiais. Limitações principais incluem: (1) falta de controle placebo verdadeiro impede avaliação de segurança absoluta; (2) acompanhamento relativamente curto (6 meses para a maioria dos EAGs, 14 dias para eventos solicitados); (3) monitoramento limitado de eventos neurológicos além de convulsão febril; (4) nenhum dado de mortalidade por todas as causas relatado. As reações mais comuns foram dor no local da injeção, irritabilidade, sonolência e febre em crianças - geralmente leves e resolvendo dentro de 3 dias. As taxas de EAGs foram baixas e comparáveis entre os grupos sem padrões notáveis sugerindo relação causal."
+  }
+}

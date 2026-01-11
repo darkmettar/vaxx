@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ppsv23_pneumovax23",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No pediatric clinical trial data is documented. All clinical trials described in the package insert enrolled adults 50 years of age and older (N=444 initial vaccination, N=564 revaccination in the main trial; N=400 in the Prevnar 13 sequential study). The document explicitly states the vaccine is 'not approved for use in children less than 2 years of age' due to poor immune response, but provides zero clinical safety data for children ages 2-12 years who are approved for vaccination when at increased risk for pneumococcal disease."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "The primary follow-up was only 14 days post-vaccination, with serious adverse events collected through Week 30 in one study. This is grossly inadequate to detect autoimmune conditions, neurological complications, or other delayed adverse events that may take months or years to manifest. The ideal minimum is 12 months with scheduled assessments; 14 days captures only immediate reactions. Historical efficacy studies followed participants for about 1 year but safety follow-up details from those studies are not provided."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The main adult clinical trial used a true placebo (saline containing 0.25% phenol) with double-blind randomization in a crossover design. All 1008 subjects received placebo injections for comparison. This design allows reasonable differentiation between vaccine-related and coincidental adverse events. However, no comparison group data exists for children, and the phenol in the placebo is not completely inert."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The trials distinguished between 'solicited' and 'unsolicited' events, indicating some active surveillance for predefined reactions. Serious adverse events were collected within 14 days (6 SAEs after PNEUMOVAX 23 vs 4 after placebo) and through Week 30 in the Prevnar 13 study (24 SAEs in 20 subjects, none considered vaccine-related). However, the methodology for active surveillance is not clearly described, and the short follow-up window limits detection of delayed serious events. No systematic investigation of causality for serious events is documented."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "The package insert does not document any scheduled neurological assessments, developmental evaluations, or systematic monitoring for seizures, Guillain-Barre syndrome, or other neurological conditions during clinical trials. Post-marketing surveillance has identified paresthesia, radiculoneuropathy, Guillain-Barre syndrome, and febrile convulsion, but these were detected through passive reporting after licensure, not through active clinical trial monitoring. No neurodevelopmental follow-up for any population is described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document acknowledges that immunocompromised individuals 'may have a diminished immune response' and that elderly individuals 'may not tolerate medical interventions as well as younger individuals.' In the adult trial, 86.3-96.7% of subjects had at least one underlying chronic medical condition. However, no separate safety analysis for these vulnerable groups is provided. Critically, no data exists for premature infants, immunocompromised children, children with chronic conditions, or other pediatric vulnerable subgroups. Pregnancy and lactation sections state data are insufficient."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The package insert provides adverse event rates in tabular format with specific percentages and categorization. Serious adverse events are listed individually. However, there is no mention of an independent Data Safety Monitoring Board (DSMB), no reference to peer-reviewed publication of primary safety data, no access to raw data or individual participant data for independent verification, and no indication that the complete study protocols are publicly available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 documents an extensive list of post-marketing adverse events across multiple body systems: cellulitis, fever >102F, injection-site necrosis, thrombocytopenia, hemolytic anemia, Guillain-Barre syndrome, febrile convulsion, anaphylactoid reactions, serum sickness, and erythema multiforme. VAERS reporting is referenced with contact information. The manufacturer reporting line is provided (1-877-888-4231). However, this is primarily a passive surveillance system with acknowledged limitations ('from a population of uncertain size, it is not always possible to reliably estimate their frequency')."
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "This document does not provide confidence that PNEUMOVAX 23 is safe for children. The fundamental problem is that no children were studied - all clinical trial safety data comes exclusively from adults aged 50 years and older. While the vaccine is approved for high-risk children 2 years and older based on immunogenicity considerations, the package insert contains zero pediatric safety data from clinical trials. Furthermore, even the adult studies are limited by very short follow-up (14 days primary), absence of systematic neurological monitoring, and no separate analysis of vulnerable subgroups. Post-marketing surveillance has identified serious neurological events including Guillain-Barre syndrome and febrile convulsions, but these were detected passively rather than through rigorous clinical monitoring. A parent asking whether this vaccine is safe for their child cannot find evidence in this document to answer that question, as children 0-12 years were simply not studied."
+  }
+}

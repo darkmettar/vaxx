@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hpv_gardasil9",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study V503-001 was randomized, double-blind, controlled with Gardasil (qHPV) as active comparator, not a true placebo. The document states 'qHPV-controlled' design. No saline or inert placebo was used. Historical placebo comparisons from prior Gardasil trials were used for supportive analyses only.",
+      "level_description": "Active comparator (qHPV) rather than true placebo control. This design was chosen because withholding an effective vaccine would be ethically problematic, but it limits ability to assess absolute safety profile of 9vHPV."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study described as 'randomized, double-blinded (with in-house blinding)' where in-house blinding was defined as 'blinding of the sponsor's research personnel except the statistician creating the schedule.' Pathology Panel members independently reviewed slides blinded to vaccination group and HPV status.",
+      "level_description": "Double-blind design maintained throughout efficacy assessment with appropriate blinding of investigators, participants, and pathology panel reviewers."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Part A (Phase 2b) randomized 1:1:1:1 to low-dose, mid-dose, high-dose 9vHPV or qHPV. Part B (Phase 3) randomized 1:1 to mid-dose 9vHPV or qHPV. 14,215 females randomized in efficacy study: 7,106 to 9vHPV and 7,109 to qHPV. Demographics well-balanced between groups.",
+      "level_description": "Rigorous randomization with appropriate stratification and well-balanced demographic characteristics between treatment groups across multiple studies."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study V503-002 enrolled 2,999 subjects including 1,890 girls and 644 boys ages 9-15 years. Study V503-001 enrolled 14,215 females ages 16-26 years. Total safety database included over 15,000 subjects exposed to 9vHPV across all studies.",
+      "level_description": "Large sample sizes for both pediatric (9-15 years) and adolescent/young adult populations, exceeding typical requirements for vaccine licensure."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Median follow-up in V503-001 was approximately 40 months post-Day 1. Subjects followed through at least Month 42. Safety follow-up for SAEs collected from Day 1 through 180 days post-dose 3. V503-002 followed subjects for 12 months.",
+      "level_description": "Follow-up of approximately 40 months adequate for detecting efficacy endpoints; SAE monitoring limited to 6 months post-vaccination may miss delayed adverse events."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Separate analyses conducted for: females 16-26 years (V503-001), girls 9-15 years, boys 9-15 years, and women 16-26 years (V503-002). Age subgroup analyses performed for <=20 vs >=21 years. Immunobridging between age groups explicitly conducted.",
+      "level_description": "Clear separation and analysis of different age groups with appropriate immunobridging studies to support efficacy claims across age ranges."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Detailed inclusion criteria: age-specific requirements, sexual history limits (0-4 partners), normal Pap test history, good physical health. Extensive exclusion criteria: abnormal Pap/biopsy history, immunocompromised status, autoimmune conditions, prior HPV vaccination, pregnancy, coagulation disorders, allergies to vaccine components.",
+      "level_description": "Comprehensive and well-defined inclusion/exclusion criteria appropriate for vaccine efficacy study in target population."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Vaccination Report Cards (VRC) used to collect standardized data: oral temperature for 5 days, injection-site reactions (pain, swelling, erythema) for 5 days, all adverse events for 15 days post-vaccination. SAEs collected Day 1 through 180 days post-dose 3. Events classified by MedDRA preferred terms and system organ class.",
+      "level_description": "Highly standardized adverse event collection using validated instruments with clear definitions for solicited and unsolicited events."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs collected regardless of causality from Day 1 through 6 months following last vaccination. Deaths, vaccine-related SAEs, and study procedure-related SAEs collected throughout study. VRC used for active 15-day post-vaccination monitoring. 30-minute observation after each vaccination.",
+      "level_description": "Active monitoring for serious adverse events with defined collection periods, though 6-month post-vaccination window may miss late-onset serious events."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "New medical conditions potentially indicative of autoimmune disorders tracked: 57 subjects (0.8%) in 9vHPV group, 47 (0.7%) in qHPV group. Multiple sclerosis cases: 5 in 9vHPV group, 2 in qHPV group. Thyroiditis, rheumatoid arthritis, type 1 diabetes, and other autoimmune conditions documented by preferred term.",
+      "level_description": "Systematic tracking of autoimmune and neurological conditions with detailed case narratives, though small numbers limit definitive conclusions."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Pregnancy outcomes monitored with detailed analysis of spontaneous abortions. Subjects with autoimmune conditions excluded at enrollment. No data on immunocompromised patients. PREA waiver granted for children 0-8 years. Study V503-006 evaluated subjects previously vaccinated with qHPV.",
+      "level_description": "Pregnancy outcomes and prior vaccination studied, but immunocompromised patients explicitly excluded and no data collected for this vulnerable population."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Pre-specified success criteria: efficacy LB 95% CI >25% for primary endpoint; GMT ratio LB 95% CI >0.67 for non-inferiority. Sensitivity analyses for losses-to-follow-up with imputation of cases. Per-protocol and modified intent-to-treat analyses conducted. Statistical reviewer verified primary analyses supported by submitted data.",
+      "level_description": "Rigorous statistical methodology with pre-specified endpoints, appropriate multiplicity adjustments, and comprehensive sensitivity analyses."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "FDA clinical review document provides extensive data tables, case narratives for deaths and SAEs, and detailed efficacy/safety analyses. Individual subject data referenced by allocation numbers. Some data redacted for proprietary information (marked as b)(4)). Financial disclosures provided for investigators.",
+      "level_description": "Substantial data transparency through FDA review document, though some proprietary information redacted and raw datasets not publicly available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "FDA recommends Mini-Sentinel study for autoimmunity-associated diagnoses including MS. CDC/FDA collaboration for Vaccine Safety Datalink study on spontaneous abortions. Merck to sponsor pregnancy registry. VAERS monitoring referenced from prior qHPV experience (56 million doses, 21,194 reports).",
+      "level_description": "Comprehensive post-marketing surveillance plan including multiple FDA-sponsored studies, manufacturer registry, and ongoing VAERS monitoring."
+    },
+    "conflict_of_interest": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Five investigators received Significant Payments from Merck for symposia, consulting, medical education, research, speaker fees, and advisory board participation. Financial disclosure information provided per FDA guidance. Primary endpoint case analysis showed only one case from sites with disclosed financial interests.",
+      "level_description": "Financial conflicts disclosed per regulatory requirements; some investigators received significant payments but bias mitigation measures in place through blinding."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "11 deaths reported (5 in 9vHPV, 5 in qHPV during efficacy study, 1 in 9vHPV after cutoff date). Causes: automobile accidents (2), suicide (1), leukemia (2), airplane crash (1), cerebral hemorrhage (1), gunshot trauma (1), stomach cancer (1), sudden death (1), septic shock (1). None deemed vaccine-related.",
+      "level_description": "Complete reporting of all deaths with detailed narratives, causality assessment, and balanced distribution between treatment groups."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "The Gardasil 9 clinical trial program demonstrates a well-designed pivotal efficacy study (V503-001) with robust randomization, appropriate blinding, and large sample sizes. Primary efficacy of 96.7% against HPV 31/33/45/52/58-related high-grade lesions was demonstrated. Key limitations include: use of active comparator (qHPV) rather than true placebo which limits absolute safety assessment, exclusion of immunocompromised populations, and numerical imbalances in multiple sclerosis cases (5 vs 2) and spontaneous abortions requiring post-marketing surveillance. The safety profile was generally similar to licensed qHPV with higher injection-site reactions. Comprehensive post-marketing commitments address residual safety questions."
+  }
+}

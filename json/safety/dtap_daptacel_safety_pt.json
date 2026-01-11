@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "dtap_daptacel",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Aproximadamente 18.000 doses administradas em 9 estudos clínicos. O Ensaio de Eficácia Sweden I incluiu 2.587 bebês que receberam DAPTACEL aos 2, 4 e 6 meses de idade. Estudos dos EUA adicionaram 1.454 crianças recebendo 4 doses, mais 485 (primed com DAPTACEL) e 989 (primed com Pentacel) crianças para avaliação da quinta dose. Embora se aproxime do limite de 3.000 considerado adequado para detectar eventos de 1:1.000, o tamanho da amostra permanece insuficiente para detectar eventos mais raros (1:10.000 ou mais raros). A exposição total de ~4.998 crianças recebendo pelo menos 3 doses fornece dados de segurança razoáveis, mas não abrangentes."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O monitoramento ativo solicitado foi limitado a 14 dias pós-vacinação (Sweden I) e Dias 0-7 (estudos dos EUA). Eventos adversos graves foram monitorados por apenas 2 meses após a última dose no Sweden I e 6 meses nos estudos dos EUA. Embora o acompanhamento de eficácia tenha se estendido a 2 anos, o monitoramento de segurança foi truncado. O período máximo de acompanhamento de segurança de 6 meses é grosseiramente inadequado para detectar condições autoimunes, distúrbios neurológicos ou efeitos no desenvolvimento que podem levar meses ou anos para se manifestar. O mínimo ideal de 12 meses a vários anos de monitoramento de segurança não foi atendido."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O Ensaio de Eficácia Sweden I usou a vacina DT (difteria-tétano sem coqueluche) como grupo comparador/placebo (N=2.574), não um placebo inerte verdadeiro como solução salina. A vacina DT contém adjuvante de alumínio e toxoides ativos que podem causar suas próprias reações adversas. Este design torna impossível distinguir eventos adversos específicos do DAPTACEL daqueles causados pelos componentes de difteria e tétano compartilhados entre os grupos. Embora randomização e duplo-cego tenham sido empregados, a falta de um placebo inerte verdadeiro é uma limitação fundamental que poderia mascarar a verdadeira taxa de eventos adversos da vacina."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Elementos de vigilância ativa incluíram: cartões de diário mantidos por 14 dias pós-dose, acompanhamento telefônico nos dias 1 e 14 pós-injeção, ligações telefônicas mensais por 2 meses após a última dose (Sweden I), e ligações telefônicas periódicas com monitoramento de EAGs por 6 meses (estudos dos EUA). Os pais registraram eventos locais e sistêmicos solicitados por 7-14 dias. No entanto, o período de monitoramento ativo foi curto (máximo 6 meses pós-série), nenhum exame médico regular ou revisão de prontuários foi descrito, e a metodologia de investigação de causalidade para eventos graves não foi detalhada. Sinais/sintomas de EHH foram especificamente solicitados apenas para os dias 0-1 após as três primeiras doses."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Convulsões foram rastreadas: nenhuma convulsão dentro de 3 dias da vacinação com DAPTACEL no Sweden I; 6 convulsões durante todo o período do estudo (2,3/1.000 vacinados); um caso de espasmos infantis; 5 sujeitos (0,3%) com convulsões dentro de 60 dias no estudo dos EUA. EHH (episódios hipotônicos-hiporresponsivos) foram monitorados: 1 caso após a dose 2, taxa geral de 0,047% com vacina HCPDT relacionada. Encefalopatia dentro de 7 dias é uma contraindicação. Risco de SGB reconhecido com base nos achados do Institute of Medicine para toxoide tetânico. No entanto, nenhuma avaliação de desenvolvimento agendada, exames neurológicos ou vigilância de longo prazo para condições como regressão de habilidades, transtornos do espectro autista ou outros desfechos do neurodesenvolvimento foi descrita."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Populações vulneráveis são mencionadas apenas na seção de Advertências e Precauções, não como subgrupos estudados. Bebês prematuros: risco de apneia observado, mas nenhum dado de segurança de estudos com bebês prematuros apresentado. Crianças imunocomprometidas: advertência de que 'a resposta imune esperada pode não ser obtida', mas sem dados de segurança. Crianças com histórico de convulsões: antipirético recomendado, mas este grupo parece excluído. Crianças com distúrbios neurológicos progressivos: explicitamente contraindicadas (excluídas). As coortes do estudo da quinta dose foram 'subconjuntos não aleatórios' de participantes anteriores, levantando preocupações de viés de seleção. Nenhuma inclusão intencional ou análise de segurança separada de populações pediátricas de alto risco é documentada."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O Ensaio de Eficácia Sweden I foi conduzido sob patrocínio do NIAID com resultados publicados. Tabelas resumidas fornecem porcentagens e taxas para eventos adversos comuns em múltiplos estudos. Eventos adversos selecionados são apresentados por número de dose e grau de gravidade. No entanto, não há menção de um Comitê Independente de Monitoramento de Segurança de Dados (DSMB), nenhum acesso a dados individuais de participantes ou conjuntos de dados brutos é indicado, e dados completos de eventos adversos além dos eventos selecionados/solicitados não são fornecidos. O documento referencia publicações revisadas por pares e revisões do Institute of Medicine, mas não fornece mecanismos para verificação independente dos dados primários."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A Seção 6.2 lista eventos adversos pós-comercialização relatados espontaneamente incluindo: linfadenopatia, cianose, distúrbios GI, reações no local da injeção (dor, erupção, nódulo, massa, inchaço extenso do membro), celulite/abscesso, hipersensibilidade/anafilaxia, várias erupções, convulsões (febrís, grande mal, convulsões parciais), EHH, hipotonia, sonolência, síncope e gritos. O documento reconhece explicitamente a limitação: 'Como esses eventos são relatados voluntariamente de uma população de tamanho incerto, pode não ser possível estimar sua frequência de forma confiável ou estabelecer uma relação causal.' Depende de relatos passivos do VAERS; nenhum sistema de farmacovigilância ativa ou relatórios de atualização de segurança periódicos são mencionados."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula do DAPTACEL fornece evidências de segurança moderadas, mas incompletas, para crianças. Os pontos fortes incluem um ensaio de eficácia randomizado, duplo-cego de tamanho razoável (~2.500) com definições padronizadas de eventos adversos e monitoramento ativo de curto prazo. A vacina mostra um perfil de reatogenicidade mais favorável em comparação com vacinas de célula inteira contra coqueluche. No entanto, limitações críticas prejudicam a confiança na segurança abrangente: (1) nenhum controle placebo salino verdadeiro - vacina DT foi usada, mascarando potenciais eventos adversos de componentes compartilhados; (2) acompanhamento de segurança de apenas 6 meses no máximo é inadequado para detectar condições autoimunes ou neurológicas tardias; (3) subgrupos vulneráveis (bebês prematuros, imunocomprometidos, crianças com condições crônicas) foram excluídos em vez de estudados; (4) nenhuma vigilância de desenvolvimento ou neurológica de longo prazo foi conduzida; (5) vigilância pós-comercialização depende exclusivamente de relatos voluntários passivos que subestimam vastamente as verdadeiras taxas de eventos adversos. Embora o documento demonstre tolerabilidade de curto prazo em bebês saudáveis, não fornece os dados robustos de segurança de longo prazo necessários para responder completamente se esta vacina é segura para uma criança agora e no futuro."
+  }
+}

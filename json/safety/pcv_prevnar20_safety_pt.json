@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Esta revisão clínica cobre apenas populações adultas (>=18 anos). O documento afirma explicitamente: 'A segurança e eficácia da Prevnar 20 em pessoas com menos de 18 anos de idade não foram estabelecidas.' Nenhuma criança foi estudada. Estudos pediátricos (B7471011, B7471013, B7471014) cobrindo idades de 6 semanas a 17 anos são requisitos de pós-comercialização adiados sob PREA, significando que crianças só serão estudadas após a aprovação para adultos."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O acompanhamento de segurança foi de 6 meses após a primeira vacinação para EAGs e condições médicas crônicas recém-diagnosticadas. Reações locais solicitadas foram monitoradas por apenas 10 dias, e reações sistêmicas por 7 dias pós-vacinação. O acompanhamento total de 6 meses fica aquém do mínimo ideal de 12+ meses necessário para detectar efeitos tardios. Para crianças (quando eventualmente estudadas), esta duração seria particularmente inadequada dadas as preocupações de desenvolvimento."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Nenhum controle placebo verdadeiro (salina) para a dose primária da vacina. PCV13 (outra vacina) serviu como comparador ativo. Na Coorte 1, salina foi usada apenas como segunda dose para manter o cegamento, não como controle de segurança. Este design só pode demonstrar que PCV20 é 'tão segura quanto PCV13' em vez de estabelecer segurança absoluta. As verdadeiras taxas de eventos adversos não podem ser determinadas sem uma comparação com placebo inerte. O estudo foi randomizado e duplo-cego para a primeira dose."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A vigilância ativa incluiu: monitoramento imediato dentro de 30 minutos pós-vacinação; diários eletrônicos (e-diary) para registro diário de reações locais (10 dias) e sistêmicas (7 dias) com altas taxas de transmissão (>=85% diário); coleta ativa de EAGs e condições médicas crônicas recém-diagnosticadas por 6 meses; narrativas detalhadas para todos os sujeitos retirados devido a eventos adversos. Avaliação de causalidade realizada pelos investigadores para todos os EAGs."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Nenhum protocolo específico de monitoramento neurológico ou de desenvolvimento foi documentado. Não havia lista predefinida de condições neurológicas para observar (ex., síndrome de Guillain-Barre, convulsões, encefalite). Condições médicas crônicas recém-diagnosticadas (CMCRDs) foram capturadas de forma ampla, mas buscas por 'neurológico', 'autoimune', 'Guillain' e 'convulsão' no documento não retornaram protocolos de monitoramento relevantes. Esta é uma lacuna significativa, especialmente preocupante para eventual uso pediátrico."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Populações vulneráveis foram sistematicamente excluídas em vez de estudadas. Indivíduos imunocomprometidos (aqueles em terapia imunossupressora, com HIV, leucemia, linfoma ou transplantes de órgãos) foram excluídos. O documento afirma: 'A segurança e eficácia da Prevnar 20 não foram estabelecidas em indivíduos imunocomprometidos.' Isso exclui a população com maior risco de doença pneumocócica. Nenhum bebê prematuro, criança cronicamente doente ou paciente pediátrico imunocomprometido foi estudado."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Esta Revisão Clínica da FDA (STN 125731/0) fornece dados abrangentes incluindo disposição de sujeitos, demografia, eventos adversos por gravidade, narrativas de EAG e tabelas estatísticas detalhadas. Relatórios de Estudos Clínicos são extensivamente referenciados. No entanto, dados individuais de participantes (DIP) não estão publicamente disponíveis para verificação independente, e nenhum Comitê Independente de Monitoramento de Segurança de Dados (DSMB) é mencionado. Todos os estudos foram patrocinados pelo fabricante Wyeth/Pfizer."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Farmacovigilância de rotina está planejada, consistindo em monitoramento de riscos não antecipados através de sistemas de vigilância e relatos de reações adversas pós-comercialização. O Estudo B7471015 é um requisito de pós-comercialização para verificar a eficácia clínica em adultos >=65 anos. Três estudos pediátricos são requisitos de pós-comercialização PREA. O revisor de farmacovigilância considerou o plano adequado. No entanto, isso depende principalmente de sistemas de relato passivo em vez de vigilância ativa de base populacional."
+    }
+  },
+  "overall": {
+    "rating": "absent",
+    "emoji": "❓",
+    "summary": "Este documento NÃO fornece evidências de segurança para crianças (0-12 anos). A Prevnar 20 (PCV20) foi aprovada exclusivamente para adultos >=18 anos com base nesta submissão, com a afirmação explícita de que a segurança e eficácia em pessoas com menos de 18 anos não foram estabelecidas. Estudos pediátricos são requisitos de pós-comercialização adiados, significando que crianças só serão estudadas após a aprovação para comercialização em adultos. Para a população adulta estudada, o perfil de segurança foi comparável à PCV13 licenciada, mas limitações críticas incluem: (1) Nenhum controle placebo inerte para estabelecer taxas absolutas de eventos adversos; (2) Apenas 6 meses de acompanhamento; (3) Exclusão completa de indivíduos imunocomprometidos; (4) Nenhum monitoramento neurológico/autoimune específico; (5) Pesquisa totalmente patrocinada pelo fabricante. Um pai buscando segurança sobre a segurança desta vacina em crianças não pode encontrar essa evidência neste documento - ela simplesmente ainda não existe."
+  }
+}

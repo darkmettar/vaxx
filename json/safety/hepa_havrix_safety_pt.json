@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "A segurança foi avaliada em aproximadamente 37.000 indivíduos em 61 ensaios clínicos com várias formulações de dose. Mais de 22.000 participantes de 1-18 anos foram avaliados. Especificamente, 3.152 crianças de 11-25 meses receberam pelo menos 1 dose em estudos de coadministração (HAV 210 N=1.084; HAV 232 N=394; HAV 220 N=433; HAV 231 N=1.241). Isso representa um banco de dados de segurança pediátrica excepcionalmente grande em múltiplos grupos etários."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O monitoramento primário de segurança foi limitado a 4 dias (Dias 0-3) para reações solicitadas e 31 dias para eventos não solicitados. Acompanhamento telefônico aos 6 meses após a última vacinação no Estudo HAV 231 investigou eventos adversos graves e doenças crônicas de início recente. No entanto, acompanhamento sistemático de segurança a longo prazo (além de 6 meses) não foi descrito. O documento afirma que a duração da imunidade não foi estabelecida, e a vigilância de segurança a longo prazo depende principalmente de dados pós-comercialização."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O estudo pivotal de eficácia usou ENGERIX-B (vacina contra Hepatite B) como comparador ativo em vez de placebo inerte. Alguns estudos de coadministração incluíram grupos recebendo HAVRIX sozinha versus com outras vacinas (ex.: Estudo HAV 231 teve grupos HAVRIX sozinha, HAVRIX+MMR+Varicela e MMR+Varicela). No entanto, dados de segurança controlados por placebo verdadeiro não são apresentados na bula."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Reações adversas solicitadas foram ativamente coletadas via cartões-diário dos pais/responsáveis por 4 dias (Dias 0-3) pós-vacinação. Eventos não solicitados foram registrados por 31 dias. Eventos adversos graves foram ativamente monitorados com 0,9% (29/3.152) relatando EAGs em 31 dias em crianças de 11-25 meses. Acompanhamento telefônico aos 6 meses investigou especificamente eventos adversos graves, doenças crônicas de início recente e eventos clinicamente significativos. Critérios de gravidade Grau 3 definidos para sintomas principais."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Ensaios clínicos relataram 4 convulsões dentro de 31 dias pós-vacinação (nos dias 2, 9, 27 após a dose 1 e dia 12 após a dose 2). Síncope pode ser acompanhada por sinais neurológicos transitórios (distúrbio visual, parestesia, movimentos tônico-clônicos dos membros). Pós-comercialização identificou: convulsão, encefalopatia, síndrome de Guillain-Barré, esclerose múltipla, mielite, neuropatia, parestesia. No entanto, protocolos de monitoramento neurológico prospectivo sistemático não são descritos na bula."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Várias populações vulneráveis avaliadas: Indivíduos imunocomprometidos observados como tendo resposta imune diminuída. Doença hepática crônica estudada em 220 adultos com múltiplas etiologias (hepatite B/C, cirrose alcoólica, hepatite autoimune, cirrose biliar primária) com dados de segurança mostrando reações no local da injeção similares a indivíduos saudáveis e nenhuma reação grave atribuída à vacina. Dados de gravidez de 175 exposições inadvertidas mostraram taxas consistentes com o histórico. Seção geriátrica reconhece dados insuficientes para idade 65+."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados resumidos de segurança apresentados com porcentagens específicas para reações solicitadas (Tabela 1 fornece detalhamento). Identificadores de estudos divulgados (HAV 210, 220, 231, 232). Taxas de eventos adversos graves relatadas (0,9-1,0% em 31 dias). No entanto, dados individuais de pacientes, protocolos completos de estudos e dados brutos abrangentes de segurança não estão incluídos. Eventos adversos pós-comercialização relatados sem estimativas de frequência devido às limitações de notificação voluntária."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Sistema ativo de vigilância pós-comercialização com reações adversas raras identificadas incluindo: trombocitopenia, reações anafiláticas/anafilactoides, síndrome semelhante à doença do soro, síndrome de Guillain-Barré, esclerose múltipla, mielite, encefalopatia, hepatite, vasculite, angioedema, eritema multiforme, anomalia congênita. Mecanismos duplos de notificação: VAERS (1-800-822-7967 ou www.vaers.hhs.gov) e fabricante (GlaxoSmithKline 1-888-825-5249). O documento reconhece que a frequência não pode ser estimada de forma confiável a partir de relatos voluntários."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX demonstra evidência de segurança adequada com um tamanho de amostra pediátrica exemplar de mais de 37.000 participantes em 61 ensaios. Vigilância ativa de eventos adversos solicitados foi conduzida com cartões-diário e acompanhamento telefônico de 6 meses para eventos graves. Reações comuns incluem dor no local da injeção (21-56%), irritabilidade (27-44% em crianças pequenas) e sonolência (21-35%). As limitações incluem curto acompanhamento primário (4-31 dias), uso de comparador ativo em vez de placebo e dependência de vigilância pós-comercialização para eventos neurológicos raros. A pós-comercialização identificou eventos raros graves, incluindo síndrome de Guillain-Barré e outras condições neurológicas que requerem vigilância contínua."
+  }
+}

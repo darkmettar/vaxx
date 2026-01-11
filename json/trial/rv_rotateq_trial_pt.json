@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "rv_rotateq",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "71.725 bebês foram avaliados em 3 ensaios clínicos controlados por placebo, incluindo 36.165 bebês no grupo que recebeu RotaTeq e 35.560 bebês no grupo que recebeu placebo. O documento descreve claramente o desenho controlado por placebo em múltiplos estudos fase 3 (Estudo 006, 007, 009, 029).",
+      "level_description": "Controle placebo verdadeiro usado em todos os principais ensaios com dados de comparação claros apresentados"
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo 029 é descrito como 'um estudo fase 3 randomizado, cego, controlado por placebo conduzido no Japão.' O Estudo 006 (REST) usou desenho randomizado. O documento indica desenho cego, mas não detalha explicitamente os procedimentos de duplo-cegamento para todos os estudos.",
+      "level_description": "Cegamento descrito para os principais estudos, mas detalhes procedimentais não totalmente elaborados"
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "No total, 73.086 bebês foram randomizados em 4 estudos fase 3 controlados por placebo, conduzidos em 12 países em 4 continentes. O Estudo 029 foi explicitamente descrito como 'estudo randomizado, cego, controlado por placebo.'",
+      "level_description": "Randomização em larga escala em múltiplos estudos internacionais com documentação clara"
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "71.725 bebês avaliados em ensaios clínicos (36.165 RotaTeq, 35.560 placebo). Para monitoramento de intussuscepção, o Estudo 006 incluiu 34.837 receptores da vacina e 34.788 receptores de placebo. Dados de eficácia de 7.744 bebês dos EUA, Finlândia e Japão.",
+      "level_description": "Tamanho de amostra pediátrica excepcionalmente grande excedendo 70.000 bebês em todos os estudos"
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pais/responsáveis foram contatados nos dias 7, 14 e 42 após cada dose. Para intussuscepção, os sujeitos foram monitorados nos dias 7, 14 e 42 após cada dose, e a cada 6 semanas depois por 1 ano após a primeira dose. Eficácia avaliada durante a primeira e segunda temporada de rotavírus pós-vacinação.",
+      "level_description": "Acompanhamento de 42 dias para eventos adversos, 1 ano para intussuscepção e 2 temporadas de rotavírus para eficácia"
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dados apresentados para bebês prematuros (25 a 36 semanas de idade gestacional, mediana de 34 semanas) com 2.070 bebês prematuros estudados. Vacina aprovada para bebês de 6-32 semanas de idade. Subconjunto de 308 bebês prematuros monitorados para todas as experiências adversas.",
+      "level_description": "Bebês prematuros analisados separadamente, mas sem detalhamento por outros subgrupos etários dentro da faixa de 6-32 semanas"
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Contraindicações claramente declaradas: hipersensibilidade, IDCG, histórico de intussuscepção. Exclusões para bebês imunocomprometidos, aqueles com distúrbios GI, transfusão de sangue dentro de 42 dias. Inclusão: bebês saudáveis de 6-32 semanas de idade.",
+      "level_description": "Critérios claros de inclusão/exclusão documentados com contraindicações específicas listadas"
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Coorte de Segurança Detalhada de 11.711 bebês usou Cartão de Registro de Vacinação para registrar temperatura, diarreia, vômito diariamente na primeira semana. Eventos adversos categorizados como solicitados (Tabela 4) e não solicitados. Eventos adversos graves sistematicamente relatados com categorias específicas (bronquiolite, gastroenterite, pneumonia, febre, ITU).",
+      "level_description": "Relato padronizado com cartões de registro de vacinação, categorização sistemática e tabelas detalhadas"
+    },
+    "active_monitoring_serious": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "No Estudo 006, 34.837 receptores da vacina e 34.788 receptores de placebo foram monitorados por vigilância ativa para identificar casos potenciais de intussuscepção nos dias 7, 14 e 42 após cada dose. Pais/responsáveis foram contatados nos dias 7, 14 e 42 após cada dose sobre intussuscepção e quaisquer outros eventos adversos graves.",
+      "level_description": "Vigilância ativa para intussuscepção com contatos programados e identificação sistemática de casos"
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Convulsões relatadas: 33 RotaTeq vs 24 placebo dentro de 42 dias de qualquer dose. Doença de Kawasaki relatada em 5 de 36.150 receptores da vacina e 1 de 35.536 receptores de placebo. Nenhuma condição autoimune específica rastreada sistematicamente além da doença de Kawasaki.",
+      "level_description": "Convulsões e doença de Kawasaki monitoradas; outras condições autoimunes/neurológicas não abordadas sistematicamente"
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Bebês prematuros (2.070) estudados de acordo com a idade em semanas desde o nascimento. Bebês com doença do refluxo gastroesofágico controlada incluídos. No entanto, o documento afirma explicitamente: 'Nenhum dado de segurança ou eficácia está disponível de ensaios clínicos sobre a administração de RotaTeq a bebês potencialmente imunocomprometidos.'",
+      "level_description": "Bebês prematuros incluídos; bebês imunocomprometidos explicitamente excluídos dos ensaios"
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Cálculos de risco relativo com intervalos de confiança de 95% fornecidos ao longo (por exemplo, RR 1,6 [0,4, 6,4] para intussuscepção). Estimativas de eficácia com intervalos de confiança (por exemplo, 74,0% [66,8, 79,9]). Análises per protocol e por intenção de tratar conduzidas. Significância estatística notada para eventos adversos (valor-p bilateral <0,05).",
+      "level_description": "Análise estatística abrangente com intervalos de confiança, risco relativo, múltiplas abordagens de análise"
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Tabelas detalhadas fornecidas para eventos adversos, casos de intussuscepção por intervalo de dias, eficácia por tipo de rotavírus. Distribuição racial e de gênero relatada (69% brancos, 14% hispânicos, 8% negros, etc.; 51% masculinos, 49% femininos). Dados de vigilância pós-comercialização do programa PRISM com >1,2 milhão de vacinações.",
+      "level_description": "Dados substanciais fornecidos em tabelas com detalhamentos demográficos, embora nem todos os dados brutos sejam acessíveis"
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Vigilância pós-comercialização via VAERS. O programa PRISM avaliou >1,2 milhão de vacinações com RotaTeq de 2004-2011. Estudo de coorte observacional prospectivo pós-comercialização entre 85.150 bebês de 2006-2009. Encontrou aproximadamente 1-1,5 casos excessivos de intussuscepção por 100.000 bebês vacinados dentro de 21 dias.",
+      "level_description": "Vigilância pós-comercialização extensa através de múltiplos sistemas com estimativas de risco quantificadas"
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Documento fabricado e distribuído pela Merck Sharp & Dohme Corp., uma subsidiária da Merck & Co., Inc. Nenhuma divulgação de conflitos de interesse ou fontes de financiamento para ensaios clínicos fornecida na bula.",
+      "level_description": "Nenhuma divulgação de conflito de interesse incluída no documento"
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Em todos os estudos clínicos, 52 óbitos foram relatados. Houve 25 óbitos nos receptores de RotaTeq comparados a 27 óbitos nos receptores de placebo. A causa de óbito mais comumente relatada foi síndrome da morte súbita infantil, observada em 8 receptores de RotaTeq e 9 receptores de placebo. Óbitos de bebês prematuros: 2 vacina (1 SMSI, 1 acidente de veículo motor), 2 placebo (1 SMSI, 1 desconhecido).",
+      "level_description": "Mortalidade por todas as causas relatada com detalhamento por causa de óbito e comparação entre grupos"
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "RotaTeq demonstra desenho de ensaio exemplar com estudos controlados por placebo em larga escala envolvendo mais de 70.000 bebês, randomização robusta em 12 países e excelente vigilância ativa para intussuscepção. Os ensaios apresentam análise estatística abrangente com intervalos de confiança, relato detalhado de mortalidade (52 óbitos totais com taxas comparáveis entre grupos) e vigilância pós-comercialização extensa através do PRISM e VAERS. Pontos fortes notáveis incluem coleta padronizada de eventos adversos via cartões de registro de vacinação e acompanhamento de eficácia multi-temporada. Limitações incluem ausência de divulgação de conflito de interesse, dados limitados sobre populações imunocomprometidas (explicitamente excluídas) e monitoramento parcial de condições autoimunes/neurológicas além de convulsões e doença de Kawasaki. Dados de segurança de bebês prematuros estão disponíveis, mas representam uma análise de subconjunto."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ipv_ipol",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Os estudos clínicos dos EUA incluíram mais de 700 bebês em três estudos e mais de 1.300 bebês em quatro estudos adicionais, todos com idades entre 2-18 meses. Um estudo anterior incluiu 219 bebês. Estudos internacionais incluíram mais de 3.000 bebês. Combinados, isso fornece tamanho de amostra adequado para detectar reações adversas comuns, embora possa ser insuficiente para eventos raros."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O monitoramento de segurança foi limitado a 6, 24 e 48 horas pós-imunização para a maioria dos desfechos. Choro persistente foi monitorado dentro de 72 horas. Nenhum acompanhamento de segurança de longo prazo (semanas, meses ou anos) é descrito nos dados de ensaios clínicos. A persistência de anticorpos de longo prazo foi rastreada, mas não os desfechos de segurança de longo prazo."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Nenhum grupo controle placebo foi usado. Reações adversas foram comparadas com dados históricos de DTP administrada sozinha sem IPV ou OPV. O documento afirma que reações sistêmicas 'não puderam ser atribuídas a uma vacina específica' quando IPOL foi administrada concomitantemente com DTP, e foram 'comparáveis em frequência e gravidade às relatadas para DTP administrada sozinha.' Esta metodologia de comparação é inadequada para estabelecer perfis de segurança específicos da vacina."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Vigilância ativa foi conduzida durante ensaios clínicos em pontos de tempo definidos (6, 24, 48 horas) para reações locais e sistêmicas especificadas. No entanto, a vigilância pós-aprovação depende de relatos voluntários passivos ao VAERS, que o documento reconhece pode não estimar frequência de forma confiável ou estabelecer relações causais devido à incerteza da população."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A SGB é mencionada como tendo sido temporalmente relacionada a outra vacina inativada contra poliomielite, embora nenhuma relação causal com IPOL tenha sido estabelecida. A vigilância pós-comercialização identificou convulsão, convulsão febril, parestesia, sonolência e síncope. No entanto, monitoramento neurológico sistemático durante ensaios pré-aprovação não é descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento aborda pacientes imunocomprometidos (HIV, AIDS, terapia imunossupressora), observando que podem não desenvolver respostas protetoras. A segurança em bebês abaixo de 6 semanas não está estabelecida. Estudos de gravidez não foram conduzidos. Nenhum dado de segurança específico de ensaios em bebês prematuros, embora um estudo referenciado (Adenyi-Jones) tenha examinado bebês prematuros e a termo. Desfechos de segurança específicos nessas populações não são detalhados."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Fontes de dados de segurança principais incluem dados proprietários não publicados da Sanofi Pasteur SA e Sanofi Pasteur Inc. (referências 11 e 12). A Tabela 2 fornece dados de segurança quantitativos com porcentagens e tamanhos de amostra, mas dados brutos e metodologia detalhada não são acessíveis. Eventos adversos pós-comercialização são listados sem estimativas de frequência devido às limitações dos relatos passivos."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Uma seção estruturada de vigilância pós-comercialização identifica eventos adversos de relatos voluntários incluindo: linfadenopatia, reações no local da injeção, hipersensibilidade/anafilaxia, artralgia, mialgia, convulsões e reações cutâneas. O documento referencia os requisitos de relato do VAERS sob o National Childhood Vaccine Injury Act e incentiva profissionais de saúde e pais a relatarem eventos adversos. Mortes foram relatadas em associação temporal com a administração de IPV."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "O perfil de segurança da IPOL é baseado em ensaios clínicos com tamanhos de amostra pediátrica adequados, mas com limitações metodológicas significativas. O acompanhamento de segurança foi muito curto (48-72 horas), sem controle placebo - apenas comparação com vacina DTP sozinha. Eventos graves incluindo mortes e desfechos neurológicos (convulsões, associação temporal com SGB) são reconhecidos principalmente através da vigilância pós-comercialização em vez de ensaios controlados. Fontes de dados principais permanecem como informação proprietária não publicada. Embora reações locais e sistêmicas comuns sejam bem caracterizadas, a base de evidências de segurança para eventos adversos raros e graves depende fortemente de relatos pós-comercialização passivos com limitações inerentes no estabelecimento de causalidade e frequência."
+  }
+}

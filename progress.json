@@ -1,12 +1,29 @@
 {
-  "last_updated": "2026-01-11T01:00:00Z",
+  "last_updated": "2026-01-11T13:56:34Z",
   "vaccines": {
     "hepb_recombivax": {
       "name": "Recombivax HB",
       "type": "HepB",
       "manufacturer": "Merck",
-      "description": "Hepatitis B vaccine for prevention of infection caused by all known subtypes of hepatitis B virus. Approved for all ages. 3-dose series (0.5 mL for children 0-19 years) given at 0, 1, and 6 months.",
-      "sources": ["hepb_recombivax_insert.pdf"],
+      "description": "Hepatitis B vaccine for prevention of infection caused by all known subtypes of hepatitis B virus. Approved for all ages. 3-dose series.",
+      "sources": [
+        "hepb_recombivax_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hepb_engerix": {
+      "name": "Engerix-B",
+      "type": "HepB",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Hepatitis B vaccine for prevention of infection caused by all known subtypes of hepatitis B virus.",
+      "sources": [
+        "hepb_engerix_insert.pdf"
+      ],
       "use_txt": false,
       "trial_en": "done",
       "trial_pt": "done",
@@ -18,9 +35,166 @@
       "name": "Hiberix",
       "type": "Hib",
       "manufacturer": "GlaxoSmithKline",
-      "description": "Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate) for prevention of invasive disease caused by H. influenzae type b. Approved for children 6 weeks through 4 years. 4-dose series at 2, 4, 6, and 15-18 months of age.",
-      "sources": ["hib_hiberix_insert.pdf"],
+      "description": "Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate) for prevention of invasive disease caused by H. influenzae type b.",
+      "sources": [
+        "hib_hiberix_insert.pdf",
+        "hib_hiberix_clinical.pdf"
+      ],
       "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hib_acthib": {
+      "name": "ActHIB",
+      "type": "Hib",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate) for prevention of invasive disease caused by H. influenzae type b.",
+      "sources": [
+        "hib_acthib_insert.pdf",
+        "hib_acthib_approval.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hib_pedvaxhib": {
+      "name": "PedvaxHIB",
+      "type": "Hib",
+      "manufacturer": "Merck",
+      "description": "Haemophilus b Conjugate Vaccine (Meningococcal Protein Conjugate) for prevention of invasive disease caused by H. influenzae type b.",
+      "sources": [
+        "hib_pedvaxhib_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "dtap_daptacel": {
+      "name": "Daptacel",
+      "type": "DTaP",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed for active immunization against diphtheria, tetanus, and pertussis.",
+      "sources": [
+        "dtap_daptacel_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "dtap_infanrix": {
+      "name": "Infanrix",
+      "type": "DTaP",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed for active immunization against diphtheria, tetanus, and pertussis.",
+      "sources": [
+        "dtap_infanrix_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "ipv_ipol": {
+      "name": "IPOL",
+      "type": "IPV",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Poliovirus Vaccine Inactivated for active immunization against poliovirus types 1, 2, and 3.",
+      "sources": [
+        "ipv_ipol_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "pcv_prevnar13": {
+      "name": "Prevnar 13",
+      "type": "PCV",
+      "manufacturer": "Pfizer",
+      "description": "Pneumococcal 13-valent Conjugate Vaccine for prevention of invasive disease caused by Streptococcus pneumoniae.",
+      "sources": [
+        "pcv_prevnar13_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "pcv_prevnar20": {
+      "name": "Prevnar 20",
+      "type": "PCV",
+      "manufacturer": "Pfizer",
+      "description": "Pneumococcal 20-valent Conjugate Vaccine for prevention of invasive disease caused by Streptococcus pneumoniae.",
+      "sources": [
+        "pcv_prevnar20_insert.pdf",
+        "pcv_prevnar20_clinical.pdf"
+      ],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "pcv_vaxneuvance": {
+      "name": "Vaxneuvance",
+      "type": "PCV",
+      "manufacturer": "Merck",
+      "description": "Pneumococcal 15-valent Conjugate Vaccine for prevention of invasive disease caused by Streptococcus pneumoniae.",
+      "sources": [
+        "pcv_vaxneuvance_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "rv_rotarix": {
+      "name": "Rotarix",
+      "type": "RV",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Rotavirus Vaccine, Live, Oral for prevention of rotavirus gastroenteritis.",
+      "sources": [
+        "rv_rotarix_insert.pdf",
+        "rv_rotarix_clinical.pdf"
+      ],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "rv_rotateq": {
+      "name": "RotaTeq",
+      "type": "RV",
+      "manufacturer": "Merck",
+      "description": "Rotavirus Vaccine, Live, Oral, Pentavalent for prevention of rotavirus gastroenteritis.",
+      "sources": [
+        "rv_rotateq_insert.pdf",
+        "rv_rotateq_clinical.pdf"
+      ],
+      "use_txt": false,
       "trial_en": "done",
       "trial_pt": "done",
       "safety_en": "done",
@@ -31,9 +205,226 @@
       "name": "M-M-R II",
       "type": "MMR",
       "manufacturer": "Merck",
-      "description": "Measles, Mumps, and Rubella Virus Vaccine Live (RA 27/3 strain) for prevention of measles, mumps, and rubella. Originally licensed September 1978. Source document is 1978 FDA FOIA clinical trial summary.",
-      "sources": ["mmr_mmrii_clinical.pdf"],
+      "description": "Measles, Mumps, and Rubella Virus Vaccine Live for prevention of measles, mumps, and rubella.",
+      "sources": [
+        "mmr_mmrii_clinical.pdf"
+      ],
       "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "var_varivax": {
+      "name": "Varivax",
+      "type": "VAR",
+      "manufacturer": "Merck",
+      "description": "Varicella Virus Vaccine Live for prevention of varicella (chickenpox).",
+      "sources": [
+        "var_varivax_insert.pdf",
+        "var_varivax_clinical.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hepa_havrix": {
+      "name": "Havrix",
+      "type": "HepA",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Hepatitis A Vaccine, Inactivated for prevention of disease caused by hepatitis A virus.",
+      "sources": [
+        "hepa_havrix_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hepa_vaqta": {
+      "name": "Vaqta",
+      "type": "HepA",
+      "manufacturer": "Merck",
+      "description": "Hepatitis A Vaccine, Inactivated for prevention of disease caused by hepatitis A virus.",
+      "sources": [
+        "hepa_vaqta_insert.pdf",
+        "hepa_vaqta_study.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "tdap_boostrix": {
+      "name": "Boostrix",
+      "type": "Tdap",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccine for booster immunization.",
+      "sources": [
+        "tdap_boostrix_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "tdap_adacel": {
+      "name": "Adacel",
+      "type": "Tdap",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccine for booster immunization.",
+      "sources": [
+        "tdap_adacel_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "hpv_gardasil9": {
+      "name": "Gardasil 9",
+      "type": "HPV",
+      "manufacturer": "Merck",
+      "description": "Human Papillomavirus 9-valent Vaccine, Recombinant for prevention of HPV-related diseases.",
+      "sources": [
+        "hpv_gardasil9_clinical.pdf"
+      ],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "men4_menactra": {
+      "name": "Menactra",
+      "type": "MenACWY",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Meningococcal (Groups A, C, Y and W-135) Polysaccharide Diphtheria Toxoid Conjugate Vaccine.",
+      "sources": [
+        "men4_menactra_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "men4_menveo": {
+      "name": "Menveo",
+      "type": "MenACWY",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Meningococcal (Groups A, C, Y and W-135) Oligosaccharide Diphtheria CRM197 Conjugate Vaccine.",
+      "sources": [
+        "men4_menveo_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "men4_menquadfi": {
+      "name": "MenQuadfi",
+      "type": "MenACWY",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Meningococcal (Groups A, C, Y and W) Conjugate Vaccine for prevention of invasive meningococcal disease.",
+      "sources": [
+        "men4_menquadfi_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "menb_bexsero": {
+      "name": "Bexsero",
+      "type": "MenB",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Meningococcal Group B Vaccine for prevention of invasive disease caused by Neisseria meningitidis serogroup B.",
+      "sources": [
+        "menb_bexsero_summary.pdf",
+        "menb_bexsero_clinical.pdf"
+      ],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "menb_trumenba": {
+      "name": "Trumenba",
+      "type": "MenB",
+      "manufacturer": "Pfizer",
+      "description": "Meningococcal Group B Vaccine for prevention of invasive disease caused by Neisseria meningitidis serogroup B.",
+      "sources": [
+        "menb_trumenba_summary.pdf",
+        "menb_trumenba_clinical.pdf"
+      ],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "ppsv23_pneumovax23": {
+      "name": "Pneumovax 23",
+      "type": "PPSV23",
+      "manufacturer": "Merck",
+      "description": "Pneumococcal Vaccine Polyvalent for prevention of pneumococcal disease caused by the 23 serotypes.",
+      "sources": [
+        "ppsv23_pneumovax23_fda.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "covid19_comirnaty": {
+      "name": "Comirnaty",
+      "type": "COVID-19",
+      "manufacturer": "Pfizer-BioNTech",
+      "description": "COVID-19 mRNA Vaccine for prevention of COVID-19 disease.",
+      "sources": [
+        "covid19_comirnaty_insert.pdf"
+      ],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
+    },
+    "den_dengvaxia": {
+      "name": "Dengvaxia",
+      "type": "Dengue",
+      "manufacturer": "Sanofi Pasteur",
+      "description": "Dengue Tetravalent Vaccine, Live for prevention of dengue disease.",
+      "sources": [
+        "den_dengvaxia_insert.pdf",
+        "den_dengvaxia_statistical.pdf"
+      ],
+      "use_txt": false,
       "trial_en": "done",
       "trial_pt": "done",
       "safety_en": "done",

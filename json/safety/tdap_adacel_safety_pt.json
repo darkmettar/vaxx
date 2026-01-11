@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Adacel NÃO é aprovada para crianças menores de 10 anos de idade. O documento afirma explicitamente: 'A segurança e eficácia de Adacel em pessoas menores de 10 anos de idade nos EUA não foram estabelecidas.' Os participantes mais jovens estudados tinham 10-11 anos (1.302 participantes no estudo NCT01311557). Para a população pediátrica tradicional (0-9 anos), não existem dados de segurança. Para adolescentes de 10-17 anos, aproximadamente 4.695 foram estudados nos ensaios - atendendo ao limiar de >3.000 para esse grupo etário específico, mas isso não aborda crianças mais novas."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O acompanhamento máximo foi de 6 meses nos ensaios primários. Estudo Td506: reações solicitadas por 14 dias, depois monitoramento de eventos graves por até 6 meses via contato telefônico. Estudo NCT01439165: reações solicitadas por 7 dias, não solicitadas por 28 dias, EAGs por 6 meses. Isso fica significativamente aquém do mínimo ideal de 12 meses ou 2-3+ anos necessários para detectar condições autoimunes e neurológicas tardias. O prazo de 6 meses é grosseiramente inadequado para avaliação abrangente de segurança a longo prazo."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Nenhum placebo verdadeiro (solução salina) foi usado. Todos os ensaios compararam Adacel a outra vacina ativa - Td (Toxoides de Tétano e Difteria Adsorvidos). Estudo Td506: Adacel vs DECAVAC (Td). Estudo NCT01439165: Adacel vs TENIVAC (Td). Este desenho torna impossível determinar quais eventos adversos são causados pela vacina versus ocorrências coincidentes. Ambas as vacinas contêm componentes similares, então compará-las obscurece o verdadeiro perfil de segurança. Os ensaios foram randomizados e com cegamento do observador, mas o comparador ativo limita fundamentalmente as conclusões de segurança."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicitação ativa foi conduzida durante o período inicial pós-vacinação: monitoramento diário com cartão-diário por 14 dias (estudo Td506) ou 7 dias (NCT01439165) para reações locais e sistêmicas. Dias 14-28 envolveram entrevistas telefônicas ou visitas clínicas para eventos que requeriam contato médico. No entanto, dias 28 a 6 meses dependeram de monitoramento de consultas médicas/visitas ao pronto-socorro em vez de acompanhamento proativo. Taxas de EAG: 1,5% Adacel vs 1,4% Td no Td506. Dois EAGs neuropáticos em 28 dias (enxaqueca grave com paralisia facial, compressão nervosa). Investigação de causalidade não foi descrita em detalhes."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento reconhece riscos neurológicos, mas carece de monitoramento prospectivo sistemático. As advertências observam: risco de síndrome de Guillain-Barré se ocorreu dentro de 6 semanas após vacina anterior de toxoide tetânico; Institute of Medicine encontrou relação causal entre toxoide tetânico e neurite braquial. Relatos pós-comercialização incluem SGB, neurite braquial, paralisia facial, convulsão, síncope, mielite. No entanto, exames neurológicos programados ou avaliações de desenvolvimento não foram descritos nos protocolos de ensaio. Eventos neurológicos parecem ter sido identificados reativamente em vez de através de vigilância proativa."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Subgrupos vulneráveis não foram intencionalmente incluídos ou analisados separadamente. O documento observa que pessoas imunocomprometidas podem não alcançar a resposta imune esperada (seção 5.5), mas não fornece dados de segurança específicos para este grupo. Nenhum dado sobre prematuros, crianças com condições crônicas ou indivíduos imunocomprometidos. Como a vacina é para idades de 10+, prematuros não são relevantes, mas adolescentes imunocomprometidos não foram estudados. Dados de registro de gravidez existem (N=225 expostos em estudo retrospectivo, N=1.236 em registro em andamento) com desfechos consistentes com taxas de base."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Números de registro de ensaios clínicos fornecidos (NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Tabelas resumidas com porcentagens e intervalos de confiança incluídas. Referências a publicações revisadas por pares (ensaio de eficácia Suécia I, estudos de gravidez publicados). No entanto, nenhuma menção de Comitê Independente de Monitoramento de Segurança de Dados (DSMB). Dados brutos e dados individuais de participantes (IPD) não mencionados como disponíveis. Fabricante (Sanofi Pasteur) conduziu os ensaios sem supervisão independente divulgada."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A Seção 6.2 descreve eventos adversos relatados espontaneamente da experiência pós-comercialização nos EUA e outros países. Eventos adversos listados por sistema: imunológico (anafilaxia, hipersensibilidade), nervoso (SGB, neurite braquial, paralisia facial, convulsão, mielite), cardíaco (miocardite), pele (prurido, urticária), musculoesquelético (miosite) e reações no local da injeção. Notificação ao VAERS encorajada. No entanto, o documento reconhece: 'Como esses eventos são relatados voluntariamente de uma população de tamanho incerto, pode não ser possível estimar sua frequência de forma confiável.' Este sistema passivo subestima vastamente as verdadeiras taxas. Nenhuma farmacovigilância ativa com relatórios públicos periódicos descrita."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Este documento NÃO fornece confiança de que Adacel é segura para crianças de 0-9 anos porque a vacina nunca foi estudada ou aprovada para esta população. Para adolescentes de 10+ anos, a evidência de segurança tem limitações significativas: (1) Nenhum controle placebo verdadeiro - todas as comparações usaram outra vacina (Td), impossibilitando determinar as verdadeiras taxas de eventos adversos; (2) Acompanhamento máximo de 6 meses é inadequado para detectar condições autoimunes ou neurológicas tardias que podem surgir meses ou anos depois; (3) Nenhum monitoramento neurológico sistemático - condições graves como SGB e mielite identificadas principalmente através de vigilância pós-comercialização passiva; (4) Subgrupos vulneráveis (adolescentes imunocomprometidos) não foram estudados; (5) A vigilância pós-comercialização depende de notificação voluntária ao VAERS, que subestima vastamente as verdadeiras taxas de eventos. O documento demonstra que ~7.143 indivíduos de 10-64 anos receberam Adacel em ensaios clínicos com monitoramento ativo por 14 dias e acompanhamento passivo por 6 meses, mostrando um perfil de segurança semelhante à vacina comparadora Td. No entanto, pais buscando evidência de segurança a longo prazo para seus filhos achariam esta base de evidências incompleta, particularmente dada a ausência de comparações com placebo inerte, curta duração de acompanhamento e dependência de vigilância passiva para detectar eventos graves raros."
+  }
+}

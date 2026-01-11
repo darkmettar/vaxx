@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_pedvaxhib",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Base de dados de segurança pediátrica muito grande: 4.459 bebês Navajo saudáveis de 6-12 semanas de idade no Estudo de Eficácia Protetora; 903 bebês (678 recebendo PedvaxHIB Líquido com 1.699 doses totais) no estudo comparativo de formulação; 8.086 doses de PedvaxHIB liofilizado administradas a 5.027 bebês e crianças saudáveis de 2-71 meses em estudos clínicos iniciais. Combinados, dados de segurança de milhares de bebês e crianças pequenas em múltiplos ensaios."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O acompanhamento de segurança foi primariamente limitado a períodos de curto prazo: período de 48 horas para observações relatadas pelos pais (TABELA 5), e período de 3 dias para coleta de reações adversas. O Estudo de Eficácia Protetora acompanhou indivíduos até 15-18 meses de idade inicialmente, depois por um período adicional de 2 anos e 9 meses, mas este acompanhamento estendido focou em eficácia (ocorrência de doença) em vez de monitoramento abrangente de segurança. Acompanhamento de segurança a longo prazo além das reações agudas não está documentado."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "O Estudo de Eficácia Protetora pivotal incluiu um grupo controle placebo verdadeiro entre os 4.459 bebês Navajo, permitindo comparação direta de eventos adversos entre receptores de vacina e placebo. 'Nenhuma diferença foi observada no tipo e frequência de problemas de saúde graves esperados nesta população Navajo ou em experiências adversas graves relatadas entre aqueles que receberam PedvaxHIB liofilizado e aqueles que receberam placebo.' Convulsões ocorreram em taxas similares em ambos os grupos (9 vacina versus 8 placebo)."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A vigilância ativa consistiu em observações relatadas pelos pais durante um período de 48 horas pós-vacinação com medições padronizadas (febre, reações no local da injeção às 6, 24 e 48 horas). Coleta sistemática de reações adversas durante período de 3 dias pós-vacinação. No entanto, nenhum sistema de vigilância ativa a longo prazo descrito para detectar eventos adversos tardios. O monitoramento dependeu fortemente de relatos passivos e observações dos pais em vez de exames clínicos."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Convulsões foram especificamente rastreadas no Estudo de Eficácia Protetora: 9 em receptores de vacina (8 também receberam DTP) versus 8 em receptores de placebo (7 também receberam DTP), 'não relatadas como relacionadas a PedvaxHIB liofilizado.' A síndrome de Guillain-Barré mencionada como potencial reação adversa associada a outras vacinas Hib. Relatos pós-comercialização incluem convulsões febris. No entanto, nenhum protocolo sistemático de avaliação neurológica descrito, e desfechos neurológicos não foram um desfecho primário."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A segurança foi avaliada em populações de alto risco incluindo nativos americanos (Navajo, Apache) que têm incidência de doença documentadamente mais alta. Imunogenicidade (e por extensão monitoramento de segurança) estudada em subgrupos definidos geneticamente: negros Km(1) alótipo negativos e caucasianos G2m(23) alótipo negativos que são hiporresponsivos a vacinas não conjugadas. Bebês prematuros abordados com recomendação para vacinar na mesma idade cronológica que bebês a termo. Segurança observada como similar entre grupos raciais/étnicos estudados."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados-chave de segurança apresentados na TABELA 5 com porcentagens e pontos de tempo específicos. Frequências de reações adversas relatadas (limiar >1%). Múltiplas referências a estudos publicados em revistas revisadas por pares fornecidas. No entanto, alguns dados citados como 'Dados em arquivo nos Merck Research Laboratories' (Referência 33), indicando que nem todos os dados de segurança são publicamente disponíveis. Dados de nível individual de paciente não acessíveis. Taxas detalhadas de eventos adversos além das reações mais comuns não totalmente divulgadas."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Vigilância pós-comercialização estabelecida através do VAERS (Sistema de Notificação de Eventos Adversos de Vacinas), com número de telefone específico fornecido (1-800-822-7967). Profissionais de saúde instruídos a relatar reações adversas graves. Reações adversas pós-comercialização documentadas: linfadenopatia, raramente angioedema, convulsões febris, abscesso estéril no local da injeção. Referências incluem relatório do Instituto de Medicina sobre eventos adversos (Referência 48) e vigilância pós-comercialização de vacina relacionada (Referência 37)."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "PedvaxHIB demonstra evidência de segurança adequada com uma base de dados pediátrica excepcionalmente grande (milhares de bebês em múltiplos estudos) e um grupo de comparação controlado por placebo verdadeiro no ensaio pivotal mostrando nenhuma diferença em eventos adversos graves entre grupos vacina e placebo. Limitações-chave incluem acompanhamento de segurança ativo de curto prazo (principalmente 48-72 horas), falta de protocolos sistemáticos de avaliação neurológica e transparência de dados incompleta com alguns dados permanecendo proprietários. A vigilância pós-comercialização através do VAERS está estabelecida com reações adversas pós-comercialização documentadas. O perfil de segurança parece favorável sem reações adversas graves relacionadas à vacina relatadas em ensaios clínicos, embora dados de monitoramento de segurança a longo prazo sejam limitados."
+  }
+}

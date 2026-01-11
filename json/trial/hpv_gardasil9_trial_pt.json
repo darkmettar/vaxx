@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hpv_gardasil9",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo V503-001 foi randomizado, duplo-cego, controlado com Gardasil (qHPV) como comparador ativo, não um placebo verdadeiro. O documento afirma desenho 'controlado por qHPV'. Nenhum placebo salino ou inerte foi usado. Comparações históricas de placebo de ensaios anteriores do Gardasil foram usadas apenas para análises de suporte.",
+      "level_description": "Comparador ativo (qHPV) em vez de controle placebo verdadeiro. Este desenho foi escolhido porque reter uma vacina eficaz seria eticamente problemático, mas limita a capacidade de avaliar o perfil de segurança absoluto da 9vHPV."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O estudo foi descrito como 'randomizado, duplo-cego (com cegamento interno)' onde o cegamento interno foi definido como 'cegamento do pessoal de pesquisa do patrocinador, exceto o estatístico que cria o cronograma.' Os membros do Painel de Patologia revisaram as lâminas de forma independente, cegos ao grupo de vacinação e status de HPV.",
+      "level_description": "Desenho duplo-cego mantido ao longo da avaliação de eficácia com cegamento apropriado de investigadores, participantes e revisores do painel de patologia."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Parte A (Fase 2b) randomizou 1:1:1:1 para dose baixa, dose média, dose alta de 9vHPV ou qHPV. Parte B (Fase 3) randomizou 1:1 para dose média de 9vHPV ou qHPV. 14.215 mulheres randomizadas no estudo de eficácia: 7.106 para 9vHPV e 7.109 para qHPV. Demografia bem balanceada entre os grupos.",
+      "level_description": "Randomização rigorosa com estratificação apropriada e características demográficas bem balanceadas entre os grupos de tratamento em múltiplos estudos."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O Estudo V503-002 recrutou 2.999 participantes incluindo 1.890 meninas e 644 meninos de 9-15 anos. O Estudo V503-001 recrutou 14.215 mulheres de 16-26 anos. O banco de dados total de segurança incluiu mais de 15.000 participantes expostos a 9vHPV em todos os estudos.",
+      "level_description": "Grandes tamanhos de amostra para populações pediátricas (9-15 anos) e adolescentes/adultos jovens, excedendo os requisitos típicos para licenciamento de vacinas."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O acompanhamento mediano no V503-001 foi de aproximadamente 40 meses após o Dia 1. Participantes acompanhados pelo menos até o Mês 42. Acompanhamento de segurança para EAGs coletado do Dia 1 até 180 dias após a dose 3. V503-002 acompanhou participantes por 12 meses.",
+      "level_description": "Acompanhamento de aproximadamente 40 meses adequado para detectar desfechos de eficácia; monitoramento de EAGs limitado a 6 meses pós-vacinação pode não detectar eventos adversos tardios."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Análises separadas conduzidas para: mulheres de 16-26 anos (V503-001), meninas de 9-15 anos, meninos de 9-15 anos e mulheres de 16-26 anos (V503-002). Análises de subgrupos etários realizadas para <=20 vs >=21 anos. Imunobridging entre grupos etários conduzido explicitamente.",
+      "level_description": "Separação clara e análise de diferentes grupos etários com estudos de imunobridging apropriados para apoiar alegações de eficácia em todas as faixas etárias."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Critérios de inclusão detalhados: requisitos específicos por idade, limites de histórico sexual (0-4 parceiros), histórico normal de Papanicolau, boa saúde física. Critérios de exclusão extensos: histórico anormal de Papanicolau/biópsia, status imunocomprometido, condições autoimunes, vacinação prévia contra HPV, gravidez, distúrbios de coagulação, alergias a componentes da vacina.",
+      "level_description": "Critérios de inclusão/exclusão abrangentes e bem definidos, apropriados para estudo de eficácia de vacina na população-alvo."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Cartões de Relatório de Vacinação (VRC) usados para coletar dados padronizados: temperatura oral por 5 dias, reações no local da injeção (dor, inchaço, eritema) por 5 dias, todos os eventos adversos por 15 dias pós-vacinação. EAGs coletados do Dia 1 até 180 dias após a dose 3. Eventos classificados por termos preferenciais MedDRA e classe de sistema de órgãos.",
+      "level_description": "Coleta de eventos adversos altamente padronizada usando instrumentos validados com definições claras para eventos solicitados e não solicitados."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "EAGs coletados independentemente de causalidade do Dia 1 até 6 meses após a última vacinação. Mortes, EAGs relacionados à vacina e EAGs relacionados a procedimentos do estudo coletados ao longo do estudo. VRC usado para monitoramento ativo de 15 dias pós-vacinação. Observação de 30 minutos após cada vacinação.",
+      "level_description": "Monitoramento ativo de eventos adversos graves com períodos de coleta definidos, embora a janela de 6 meses pós-vacinação possa não detectar eventos graves de início tardio."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Novas condições médicas potencialmente indicativas de distúrbios autoimunes rastreadas: 57 participantes (0,8%) no grupo 9vHPV, 47 (0,7%) no grupo qHPV. Casos de esclerose múltipla: 5 no grupo 9vHPV, 2 no grupo qHPV. Tireoidite, artrite reumatoide, diabetes tipo 1 e outras condições autoimunes documentadas por termo preferencial.",
+      "level_description": "Rastreamento sistemático de condições autoimunes e neurológicas com narrativas detalhadas de casos, embora números pequenos limitem conclusões definitivas."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Desfechos de gravidez monitorados com análise detalhada de abortos espontâneos. Participantes com condições autoimunes excluídos na inclusão. Nenhum dado sobre pacientes imunocomprometidos. Isenção PREA concedida para crianças de 0-8 anos. O Estudo V503-006 avaliou participantes previamente vacinados com qHPV.",
+      "level_description": "Desfechos de gravidez e vacinação prévia estudados, mas pacientes imunocomprometidos explicitamente excluídos e nenhum dado coletado para esta população vulnerável."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Critérios de sucesso pré-especificados: LI do IC 95% da eficácia >25% para desfecho primário; razão GMT LI do IC 95% >0,67 para não inferioridade. Análises de sensibilidade para perdas de acompanhamento com imputação de casos. Análises por protocolo e intenção de tratar modificada conduzidas. Revisor estatístico verificou que análises primárias são apoiadas pelos dados submetidos.",
+      "level_description": "Metodologia estatística rigorosa com desfechos pré-especificados, ajustes de multiplicidade apropriados e análises de sensibilidade abrangentes."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O documento de revisão clínica da FDA fornece tabelas de dados extensas, narrativas de casos para mortes e EAGs, e análises detalhadas de eficácia/segurança. Dados de participantes individuais referenciados por números de alocação. Alguns dados redigidos por informação proprietária (marcados como b)(4)). Declarações financeiras fornecidas para investigadores.",
+      "level_description": "Transparência substancial de dados através do documento de revisão da FDA, embora algumas informações proprietárias estejam redigidas e conjuntos de dados brutos não estejam disponíveis publicamente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "A FDA recomenda estudo Mini-Sentinel para diagnósticos associados a autoimunidade incluindo EM. Colaboração CDC/FDA para estudo Vaccine Safety Datalink sobre abortos espontâneos. Merck patrocinará registro de gravidez. Monitoramento VAERS referenciado da experiência prévia com qHPV (56 milhões de doses, 21.194 relatos).",
+      "level_description": "Plano abrangente de vigilância pós-comercialização incluindo múltiplos estudos patrocinados pela FDA, registro do fabricante e monitoramento VAERS contínuo."
+    },
+    "conflict_of_interest": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Cinco investigadores receberam Pagamentos Significativos da Merck por simpósios, consultoria, educação médica, pesquisa, honorários de palestrante e participação em conselhos consultivos. Informações de declaração financeira fornecidas conforme orientação da FDA. A análise de casos do desfecho primário mostrou apenas um caso de sites com interesses financeiros declarados.",
+      "level_description": "Conflitos financeiros declarados conforme requisitos regulatórios; alguns investigadores receberam pagamentos significativos, mas medidas de mitigação de viés implementadas através de cegamento."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "11 mortes relatadas (5 em 9vHPV, 5 em qHPV durante estudo de eficácia, 1 em 9vHPV após data de corte). Causas: acidentes automobilísticos (2), suicídio (1), leucemia (2), acidente de avião (1), hemorragia cerebral (1), trauma por arma de fogo (1), câncer de estômago (1), morte súbita (1), choque séptico (1). Nenhuma considerada relacionada à vacina.",
+      "level_description": "Relato completo de todas as mortes com narrativas detalhadas, avaliação de causalidade e distribuição equilibrada entre grupos de tratamento."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de ensaios clínicos da Gardasil 9 demonstra um estudo pivotal de eficácia (V503-001) bem desenhado com randomização robusta, cegamento apropriado e grandes tamanhos de amostra. Eficácia primária de 96,7% contra lesões de alto grau relacionadas ao HPV 31/33/45/52/58 foi demonstrada. As principais limitações incluem: uso de comparador ativo (qHPV) em vez de placebo verdadeiro, o que limita a avaliação de segurança absoluta, exclusão de populações imunocomprometidas e desequilíbrios numéricos em casos de esclerose múltipla (5 vs 2) e abortos espontâneos que requerem vigilância pós-comercialização. O perfil de segurança foi geralmente similar ao qHPV licenciado, com reações mais intensas no local da injeção. Compromissos abrangentes de pós-comercialização abordam questões residuais de segurança."
+  }
+}

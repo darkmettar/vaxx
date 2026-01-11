@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Clinical trials used active comparators (Td vaccine - DECAVAC or TENIVAC) rather than inert placebo. Study Td506 compared Adacel to Td vaccine in adolescents and adults. Study NCT01439165 compared second dose of Adacel to Td vaccine. No saline placebo control group was used.",
+      "level_description": "Using another vaccine as comparator obscures true adverse event rates. Without an inert placebo, it is impossible to determine which reactions are caused by the vaccine versus coincidental events."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study Td506 was described as 'observer-blind' (not double-blind). Study NCT01439165 was also 'observer-blind, active-controlled.' Study Td505 was 'randomized, double-blind.' Study NCT00347958 was 'open-label.' Mixed blinding across studies.",
+      "level_description": "Observer-blind is weaker than double-blind as it doesn't ensure participants are unaware of their treatment group. Only some studies used double-blinding."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study Td506 was a 'randomized, observer-blind, active-controlled trial.' Study NCT01439165 was 'randomized, observer-blind, active-controlled, multi-center study.' Study Td505 was 'randomized, double-blind, multi-center trial.' Enrollment was stratified by age to ensure adequate representation across the age range.",
+      "level_description": "Randomization was documented in multiple studies. Stratification by age was mentioned. However, specific allocation concealment methods were not described."
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Adacel is NOT approved for individuals less than 10 years of age. The document states: 'Safety and effectiveness of Adacel in persons less than 10 years of age in the U.S. have not been established.' The youngest subjects studied were 10-11 years old (N=1,302 in study NCT01311557). No children ages 0-9 were studied.",
+      "level_description": "No pediatric safety data exists for children under 10 years. The vaccine is explicitly not indicated for this population. This criterion cannot be evaluated for the pediatric 0-12 age group as traditionally defined."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study Td506: Solicited reactions monitored for 14 days via diary card. Days 14-28: adverse events requiring medical contact collected via telephone/clinic. Days 28 to 6 months: monitoring for physician visits, ER visits, serious illness, hospitalizations. At least 96% completed 6-month follow-up. Study NCT01439165: Solicited reactions for 7 days, unsolicited for 28 days, SAEs for 6 months.",
+      "level_description": "Maximum follow-up was 6 months, which is inadequate for detecting autoimmune or neurological conditions that may emerge months or years later. The methodology recommends minimum 6-12 months, ideally several years."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Data presented separately for adolescents 11-17 years (N=4,695 across studies) and adults 18-64 years (N=2,448). Study NCT01311557 specifically compared 10 to <11 years vs 11 to <12 years age groups. Tables show separate results for these age categories.",
+      "level_description": "Age groups were analyzed separately for adolescents and adults. However, no separation for younger pediatric age groups (0-1, 1-5, 6-9 years) since these populations were not studied."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Participants had not received tetanus or diphtheria-containing vaccines within the previous 5 years. Contraindications listed include severe allergic reaction to previous doses and encephalopathy within 7 days of prior pertussis vaccine. Demographic data: 86% Caucasian, 8% Black, 3% Hispanic, 1% Asian, 2% other.",
+      "level_description": "Basic inclusion criteria mentioned but detailed exclusion criteria not fully documented. Population skewed toward Caucasian participants (86-95%). No explicit discussion of generalizability limitations."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions defined with objective thresholds: fever >=38.0C, >=38.8C to <=39.4C, >=39.5C. Injection site swelling measured in cm (1.0-3.4 cm moderate, >=3.5 cm severe, >=5 cm severe). Pain categorized as moderate (interfered with activities) and severe (incapacitating). Diary cards used for standardized collection.",
+      "level_description": "Standardized definitions with objective thresholds were used. Categories of severity were defined. However, no mention of Brighton Collaboration criteria or MedDRA coding."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited local and systemic reactions monitored daily for 14 days using diary cards. Days 14-28: telephone interview or clinic visit for adverse events requiring medical contact. Days 28 to 6 months: monitoring for physician visits, ER visits, serious illness, hospitalizations. SAEs reported in 1.5% of Adacel vs 1.4% of Td recipients. Two neuropathic SAEs noted within 28 days.",
+      "level_description": "Active solicitation during initial period with follow-up monitoring for serious events. Clear tracking of hospitalizations and serious illness. However, relies partly on telephone contact and participant self-reporting for longer-term follow-up."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Warnings mention Guillain-Barre syndrome risk if occurred within 6 weeks of prior tetanus toxoid vaccine. Institute of Medicine found evidence for causal relation between tetanus toxoid and brachial neuritis. Two SAEs were neuropathic events within 28 days (severe migraine with facial paralysis, nerve compression). Post-marketing reports include: GBS, brachial neuritis, facial palsy, convulsion, syncope, myelitis, myocarditis.",
+      "level_description": "Neurological conditions acknowledged but no systematic long-term monitoring protocol described. Conditions identified primarily through post-marketing surveillance rather than prospective trial design."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Section 5.5 notes immunocompromised persons may not achieve expected immune response. No specific data on premature infants, immunocompromised, or children with chronic conditions. Pregnancy data available but limited (retrospective study N=225 exposed, registry data N=1,236). No intentional inclusion of vulnerable pediatric subgroups.",
+      "level_description": "Vulnerable subgroups were not intentionally included or analyzed separately. Immunocompromised persons mentioned only as a warning. Since vaccine is for ages 10+, no data on premature infants or immunocompromised children."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "95% confidence intervals provided throughout tables. Non-inferiority criteria specified (e.g., upper limit of 95% CI <10% for seroprotection rates). Pre-specified acceptable booster response rates defined. GMC ratios calculated with CIs. Statistical comparison between Adacel and comparator vaccines with specified criteria (lower limit of 95% CI on ratio >0.67).",
+      "level_description": "Statistical methods documented with confidence intervals and non-inferiority criteria. However, studies were powered for immunogenicity (efficacy), not safety outcomes. No power calculations for detecting rare safety events."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "ClinicalTrials.gov identifiers provided (NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Reference to published studies including Sweden I Efficacy trial. Data presented in package insert format with summary tables. No mention of independent DSMB or availability of individual participant data.",
+      "level_description": "Trial registrations referenced but no mention of independent Data Safety Monitoring Board. Raw data or individual participant data not mentioned as available for independent verification."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.2 describes postmarketing experience with spontaneously reported adverse events from US and other countries. Events included based on severity, frequency, or evidence for causal relationship. Lists immune, nervous system, cardiac, skin disorders. VAERS reporting mentioned. States frequency cannot be reliably estimated from voluntary reports.",
+      "level_description": "Relies on passive voluntary reporting (VAERS) which vastly underestimates true rates. Acknowledges inability to reliably estimate frequency. No active pharmacovigilance system with periodic public reports described."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Manufactured by Sanofi Pasteur Limited (Canada), distributed by Sanofi Pasteur Inc. (USA). Studies referenced include those conducted by Sanofi Pasteur. No disclosure of funding sources, financial ties of investigators, or independence of analysis.",
+      "level_description": "No conflict of interest disclosures in the package insert. Manufacturer conducted the clinical trials. No mention of independent funding or researchers without conflicts."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No deaths reported in the clinical trial sections. SAE rates mentioned (1.5% Adacel vs 1.4% Td in study Td506; 0.8% Adacel vs 0.3% Td in NCT01439165) but all-cause mortality data not explicitly provided. No breakdown of total deaths in vaccine vs control groups.",
+      "level_description": "All-cause mortality and morbidity not systematically reported. Focus on 'vaccine-related' outcomes rather than total deaths and hospitalizations across all groups."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The Adacel package insert documents clinical trials that meet some but not all criteria for robust safety evaluation. Key limitations include: (1) No true placebo control - all comparisons were to another active vaccine (Td), making it impossible to determine true vaccine-attributable adverse event rates; (2) Maximum 6-month follow-up, inadequate for detecting delayed autoimmune/neurological conditions; (3) No pediatric data for children under 10 years as the vaccine is not indicated for this population; (4) Reliance on passive post-marketing surveillance (VAERS) for rare events; (5) No conflict of interest disclosures despite manufacturer-conducted trials; (6) No all-cause mortality reporting. Strengths include randomization, standardized adverse event definitions, separate age group analyses, and active solicitation of reactions during the initial post-vaccination period. The evidence base is primarily designed to demonstrate immunogenicity non-inferiority rather than comprehensively characterize safety."
+  }
+}

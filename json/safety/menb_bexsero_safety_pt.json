@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "menb_bexsero",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O BLA buscou aprovação para idades de 10-25 anos, não crianças pequenas (0-12). Na faixa etária alvo: 3.058 participantes receberam pelo menos uma dose em 4 ensaios clínicos principais (V72_41: 1.097; V72_29: 2.646 por protocolo; V72P10: 1.622; V102_03: 122). Adicionalmente, 15.351 receberam a vacina em campanhas universitárias pré-licenciamento. Para dados de bebês (apenas de suporte): V72P13 estudou ~2.500 bebês aos 2,4,6 meses; V72P16 estudou ~1.500 bebês. A amostra combinada é adequada para detectar eventos de 1:1.000 em adolescentes, mas a aprovação não incluiu crianças <10 anos. Estudos pediátricos (6 semanas a <10 anos) foram adiados sob PREA."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os períodos de acompanhamento variaram por estudo: V72_41: 6 meses após a última vacinação; V72_29: 12 meses com avaliações aos 6 e 11 meses após a segunda dose; V72P10: 12 meses no total; V102_03: 8 meses (6 meses após a última dose). Eventos adversos solicitados foram coletados por apenas 7 dias após a vacinação. EAs não solicitados monitorados por 30 dias. EAGs monitorados durante os períodos de estudo. O acompanhamento de 6-12 meses é insuficiente para detectar condições autoimunes ou neurológicas que podem surgir meses ou anos depois. Nenhum dado de acompanhamento de vários anos fornecido para a população adolescente."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A maioria dos ensaios principais usou outra vacina (MenACWY-CRM/Menveo) como comparador em vez de placebo inerte verdadeiro, dificultando a determinação das verdadeiras taxas de eventos adversos atribuíveis a Bexsero. V72_41: comparador Menveo (proporção 2:1). V72_29: comparador Menveo (proporção 2:2:1). V72P10: Único estudo com controle placebo (hidróxido de alumínio-solução salina), mas apenas até o Mês 3, depois nenhum controle do Mês 6-12. V102_03: Placebo salino usado apenas para o grupo Menveo, não comparação direta. O uso de comparadores ativos obscurece o verdadeiro perfil de reatogenicidade da vacina."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Métodos de vigilância ativa foram empregados: cartões-diário de 7 dias preenchidos por participantes/pais para reações locais e sistêmicas solicitadas; contatos telefônicos nos Dias 3-5 e Dias 63-65 para consultar sobre EAGs; visitas de estudo programadas com exame físico; período de observação de 30 minutos após vacinação; Auxílio de Memória para acompanhamento de 8 meses. EAGs monitorados ativamente com narrativas de casos detalhadas e avaliação de causalidade pelos investigadores. EAAMs (Eventos Adversos com Atendimento Médico) rastreados. 35 EAGs em V72P10 e 50 EAGs nas campanhas universitárias foram revisados individualmente. Inspeções BIMO revelaram algumas lacunas de documentação (16 retiradas por reações no local da injeção não capturadas nos CRFs)."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Nenhuma avaliação neurológica ou de desenvolvimento programada sistemática foi documentada. Eventos neurológicos capturados incluíram: síncope com manifestações convulsivas (vasovagal, relacionada à venopunção, não à vacina); convulsão/epilepsia em um participante (condição pré-existente exacerbada); um caso de meningite bacteriana (S. pneumoniae, não relacionado à vacina). Uma nova convulsão tônico-clônica generalizada na campanha UCSB (22 dias após a dose, avaliada como não relacionada). Dois casos de artrite juvenil (170 e 198 dias após vacinação) foram identificados e revisados - um avaliado como possivelmente relacionado. Nenhum protocolo predefinido para triagem ativa de convulsões, atrasos de desenvolvimento ou condições autoimunes."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Grupos vulneráveis foram excluídos dos ensaios em vez de estudados: Indivíduos imunocomprometidos explicitamente excluídos; documento observa que eles 'podem ter respostas imunes reduzidas.' Mulheres grávidas e lactantes excluídas; registro de gravidez estabelecido apenas para pós-comercialização. Bebês prematuros não especificamente estudados nos ensaios de adolescentes. Crianças com doenças crônicas excluídas. Nenhuma análise separada de participantes com alergias, asma ou medicações concomitantes. A bula afirma que segurança não estabelecida em adultos >65 ou crianças <10 anos. Estudos pediátricos para idades de 6 semanas a <10 anos foram adiados. Isso limita a confiança na segurança para crianças que podem mais precisar da vacina."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Documento de revisão de BLA da FDA (STN: 125546/0) fornece Relatórios de Estudos Clínicos detalhados. Comitê de Monitoramento de Segurança de Dados (DMC) estabelecido para V102_03 para avaliar dados de segurança dos primeiros 10% dos participantes. FDA BIMO realizou inspeções clínicas em dois locais no Chile (locais #14 e #41), identificando problemas de documentação. Tabelas detalhadas de eventos adversos por grupo de tratamento, dose e gravidade fornecidas. Narrativas de EAG individuais com avaliações de causalidade incluídas. Emendas de protocolo e mudanças no plano de análise estatística documentadas. Dados brutos individuais de participantes não disponíveis publicamente. Nenhuma replicação independente por pesquisadores acadêmicos documentada."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Campanhas de vacinação de acesso expandido pré-licenciamento na Universidade de Princeton (5.520 1ªs doses, 5.165 2ªs doses) e UCSB (9.831 1ªs doses, 7.707 2ªs doses) sob IND patrocinado pelo CDC forneceram dados de vigilância do mundo real em 15.351 participantes. Métodos de coleta de EAG: triagem de admissão antes da 2ª dose, pesquisa eletrônica 30 dias após a 2ª dose, linha direta de segurança de vacinas 24 horas, visitas aos serviços de saúde universitários, relatórios de hospitais/pronto-socorro locais. Resultados: 23 EAGs em Princeton, 27 na UCSB. Achados principais: 9 casos de apendicite (consistentes com taxas de base), 1 anafilaxia (taxa esperada por CDC), 2 rabdomiólise (com fatores de confusão), 1 óbito acidental (afogamento, não relacionado). Registro de gravidez estabelecido para monitoramento contínuo."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Este documento de revisão clínica da FDA fornece garantia limitada sobre segurança pediátrica porque: (1) a vacina foi aprovada para idades de 10-25 anos, não crianças pequenas - estudos pediátricos para idades de 6 semanas a <10 anos foram adiados; (2) a maioria dos ensaios usou outra vacina (Menveo) como comparador em vez de placebo verdadeiro, obscurecendo a verdadeira taxa de eventos adversos; (3) acompanhamento de 6-12 meses é insuficiente para detectar efeitos autoimunes ou neurológicos de longo prazo; (4) crianças vulneráveis (imunocomprometidas, condições crônicas, prematuras) foram excluídas em vez de estudadas; e (5) nenhum protocolo sistemático para monitoramento neurológico/de desenvolvimento existia. Os dados mostram alta reatogenicidade (90% dor no local da injeção, 20-29% dor grave) e EAGs raros incluindo 2 casos de artrite juvenil foram revisados sem estabelecer causalidade clara. Os dados de acesso expandido em 15.351 estudantes universitários fornecem evidência adicional do mundo real, mas em população mais velha. Para um pai perguntando 'Isso é seguro para meu filho?' - este documento fornece confiança moderada para adolescentes saudáveis de 10+ anos, mas não aborda segurança em crianças mais jovens ou aquelas com condições subjacentes."
+  }
+}

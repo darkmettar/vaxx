@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "dtap_infanrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Approximately 95,000 doses administered in clinical studies with 29,243 infants in primary series studies. German safety study enrolled 22,505 infants (66,867 doses). Italian efficacy trial included 4,696 children receiving INFANRIX. These numbers exceed the 3,000 threshold needed to detect adverse events occurring at 1:1,000 frequency, though rarer events (1:10,000 or less) would still be missed."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Solicited adverse reactions were collected for only 4 consecutive days following each vaccine dose (day of vaccination plus next 3 days). Unsolicited adverse events monitored for 28 days in the German study, with a subset monitored for 8 days. This is grossly inadequate for detecting autoimmune or neurological conditions that may take months or years to manifest. The 12+ month minimum standard for safety monitoring is not met."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "No true inert placebo (saline) group was used. The Italian efficacy trial compared INFANRIX to DT (Diphtheria-Tetanus) vaccine, and safety comparisons were made to whole-cell DTP vaccine. The German household contact study compared vaccinated vs unvaccinated contacts but was not a randomized controlled trial. Using another vaccine as comparator cannot distinguish which adverse events are caused by the pertussis component versus baseline rates or the DT components."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active surveillance via standardized diary cards was used, but only for 4 days post-vaccination for solicited reactions. Parents recorded symptoms using structured forms with defined grading scales. However, the extremely short monitoring window limits detection of serious adverse events. The German study used report cards for 28 days supplemented by 'spontaneous reporting by parents' - a mix of active and passive surveillance. No active investigation of hospitalizations or deaths with causality analysis is described."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Only seizures (1 case in INFANRIX group at 0.07/1,000 doses) and hypotonic-hyporesponsive episodes (0 cases) were tracked in clinical trials. No systematic long-term neurological or developmental assessments were performed. Guillain-Barre syndrome is mentioned only as a warning/precaution, not as a monitored trial endpoint. Post-marketing reports include encephalopathy, hypotonia, and syncope, but these are from passive surveillance. No scheduled developmental assessments or follow-up neurological exams are documented."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The Warnings section acknowledges risks for premature infants (apnea) and children at higher risk for seizures, with recommendations for clinical decision-making. However, no specific clinical trial data is presented for premature infants, immunocompromised children, or children with allergies/chronic conditions. These groups were not intentionally included in trials with separate safety analysis. Section 8.4 explicitly states that safety in infants younger than 6 weeks has not been established."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The package insert provides summary data from multiple studies including rates of adverse reactions in tabular format. References cite published literature. However, there is no mention of an independent Data Safety Monitoring Board (DSMB), no raw data or individual participant data availability, and no mechanism for independent verification. The clinical trials appear to be manufacturer-sponsored without disclosure of independent oversight."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Section 6.2 describes post-marketing experience listing adverse reactions including encephalopathy, thrombocytopenia, anaphylactic reaction, hypotonia, syncope, apnea, and SIDS. However, these are 'reported voluntarily from a population of uncertain size' making it 'not always possible to reliably estimate their frequency or establish a causal relationship to vaccination.' The system relies on passive reporting (VAERS) which is known to vastly underestimate true adverse event rates. No active pharmacovigilance system or periodic public safety reports are described."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The INFANRIX package insert provides limited confidence in long-term safety for children. While the sample sizes are adequate (29,243+ infants studied) and the vaccine shows a better short-term safety profile than whole-cell pertussis vaccines, critical gaps remain: (1) No true placebo comparison makes it impossible to determine the absolute rate of vaccine-caused adverse events; (2) Safety monitoring lasted only 4 days for most outcomes - far too short to detect autoimmune, neurological, or developmental problems that emerge over months or years; (3) No systematic long-term neurological or developmental assessments were performed; (4) Vulnerable populations (premature infants, immunocompromised) were not specifically studied; (5) Post-marketing surveillance relies on passive voluntary reporting which cannot establish true incidence rates. A parent reading this document cannot be confident that rare but serious long-term adverse effects have been adequately evaluated. The document demonstrates short-term tolerability compared to older whole-cell vaccines, but does not provide reassuring evidence about safety over months and years following vaccination."
+  }
+}

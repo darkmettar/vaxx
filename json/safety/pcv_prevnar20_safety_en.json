@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "This clinical review covers only adult populations (>=18 years). The document explicitly states: 'The safety and effectiveness of Prevnar 20 in persons less than 18 years of age have not been established.' No children were studied. Pediatric studies (B7471011, B7471013, B7471014) covering ages 6 weeks through 17 years are deferred postmarketing requirements under PREA, meaning children will only be studied after adult approval."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Safety follow-up was 6 months after first vaccination for SAEs and newly diagnosed chronic medical conditions. Solicited local reactions were monitored for only 10 days, and systemic reactions for 7 days post-vaccination. The 6-month total follow-up falls short of the ideal 12+ month minimum needed to detect delayed effects. For children (when eventually studied), this duration would be particularly inadequate given developmental concerns."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "No true placebo (saline) control for the primary vaccine dose. PCV13 (another vaccine) served as the active comparator. In Cohort 1, saline was used only as the second dose to maintain blinding, not as a safety control. This design can only demonstrate that PCV20 is 'as safe as PCV13' rather than establishing absolute safety. True adverse event rates cannot be determined without an inert placebo comparison. The study was randomized and double-blind for the first dose."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance included: immediate monitoring within 30 minutes post-vaccination; electronic diaries (e-diary) for daily recording of local (10 days) and systemic (7 days) reactions with high transmission rates (>=85% daily); active collection of SAEs and newly diagnosed chronic medical conditions through 6 months; detailed narratives for all subjects withdrawn due to adverse events. Causality assessment performed by investigators for all SAEs."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No specific neurological or developmental monitoring protocol was documented. There was no predefined list of neurological conditions to watch for (e.g., Guillain-Barre syndrome, seizures, encephalitis). Newly diagnosed chronic medical conditions (NDCMCs) were captured broadly, but searches for 'neurological', 'autoimmune', 'Guillain', and 'seizure' in the document returned no relevant monitoring protocols. This is a significant gap, especially concerning for eventual pediatric use."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Vulnerable populations were systematically excluded rather than studied. Immunocompromised individuals (those on immunosuppressive therapy, with HIV, leukemia, lymphoma, or organ transplants) were excluded. The document states: 'The safety and effectiveness of Prevnar 20 have not been established in immunocompromised individuals.' This excludes the population at highest risk for pneumococcal disease. No premature infants, chronically ill children, or pediatric immunocompromised patients were studied."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "This FDA Clinical Review (STN 125731/0) provides comprehensive data including subject disposition, demographics, adverse events by severity, SAE narratives, and detailed statistical tables. Clinical Study Reports are extensively referenced. However, individual participant-level data (IPD) is not publicly available for independent verification, and no independent Data Safety Monitoring Board (DSMB) is mentioned. All studies were manufacturer-sponsored by Wyeth/Pfizer."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Routine pharmacovigilance is planned, consisting of monitoring for unanticipated risks through surveillance systems and postmarketing adverse reaction reports. Study B7471015 is a postmarketing requirement to verify clinical effectiveness in adults >=65 years. Three pediatric studies are PREA postmarketing requirements. The pharmacovigilance reviewer deemed the plan adequate. However, this relies primarily on passive reporting systems rather than active population-based surveillance."
+    }
+  },
+  "overall": {
+    "rating": "absent",
+    "emoji": "❓",
+    "summary": "This document provides NO safety evidence for children (0-12 years). Prevnar 20 (PCV20) was approved solely for adults >=18 years based on this submission, with the explicit statement that safety and effectiveness in persons under 18 years have not been established. Pediatric studies are deferred postmarketing requirements, meaning children will only be studied after adult market approval. For the adult population studied, the safety profile was comparable to licensed PCV13, but critical limitations include: (1) No inert placebo control to establish absolute adverse event rates; (2) Only 6 months follow-up; (3) Complete exclusion of immunocompromised individuals; (4) No specific neurological/autoimmune monitoring; (5) Entirely manufacturer-sponsored research. A parent seeking reassurance about this vaccine's safety in children cannot find that evidence in this document - it simply does not exist yet."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_vaxneuvance",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "3,349 children received at least one dose of VAXNEUVANCE in the 4-dose series across Studies 8-11. 1,814 received Prevnar 13 as comparator. In the US alone, 2,827 participants received at least one dose and 2,409 completed the 4-dose series. Study 12 (catch-up vaccination) included 303 participants receiving VAXNEUVANCE ages 7 months to 17 years. Special populations included 142 preterm infants, 70 children with sickle cell disease, and 203 HIV-infected children. This represents a substantial pediatric safety database across multiple age groups and risk categories."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse reactions monitored for 14 days post-vaccination using Vaccination Report Cards. Fever specifically monitored for 7 days. Unsolicited adverse events collected through 14 days. Serious adverse events followed for 1 month in Study 11, 6 months in Studies 8-10 and 12 for children. While the 6-month SAE follow-up is reasonable, longer-term safety monitoring (1-2+ years) would strengthen the safety profile assessment, particularly for potential delayed adverse events."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "All studies used Prevnar 13 (another pneumococcal conjugate vaccine) as active comparator rather than true placebo. While this allows head-to-head comparison with existing standard of care, it limits ability to assess absolute safety profile. SAEs in children: 9.6% VAXNEUVANCE vs 8.9% Prevnar 13 at 6 months. In adults within 30 days: 0.4% vs 0.7%; within 6 months: 2.5% vs 2.4%. The lack of placebo arm means background rates of adverse events cannot be determined, and any safety signals common to both vaccines would not be detected."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance implemented using standardized Vaccination Report Cards reviewed by investigators 15 days post-vaccination. Solicited local reactions (pain, induration, erythema, swelling) and systemic reactions (irritability, somnolence, fever, decreased appetite, urticaria in children; fatigue, headache, myalgia, arthralgia in adults) systematically collected. Severity grading defined (mild, moderate, severe with specific criteria). Temperature monitored via rectal or axillary measurement in children. However, active follow-up limited to 14 days for most outcomes."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Limited neurological adverse event reporting. One febrile seizure documented in a 9-week-old female one day after receiving VAXNEUVANCE Dose 1 with concomitant infant vaccines. Apnea in premature infants mentioned as a warning in Section 5.3, with recommendation that vaccination timing be based on individual infant's medical status. No systematic monitoring for other neurological conditions (e.g., Guillain-Barre syndrome, encephalitis, other seizure disorders) described. No specific autoimmune condition surveillance mentioned."
+    },
+    "vulnerable_subgroups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extensive vulnerable population assessment: (1) Preterm infants <37 weeks gestation (N=142 VAXNEUVANCE, N=144 Prevnar 13) - safety profile similar to term infants and Prevnar 13; (2) Children with sickle cell disease ages 5-17 (N=70 vs N=34) - similar safety to Prevnar 13; (3) HIV-infected children 6-17 years with CD4+ >=200 cells/uL (N=203 vs N=204) - similar safety profile; (4) HIV-infected adults 18+ with CD4+ >=50 cells/uL (N=152 vs N=150); (5) Allogeneic HSCT recipients 3-6 months post-transplant (N=139 vs N=138). Adults with stable underlying conditions (diabetes, renal, cardiac, liver, lung disease) and behavioral risk factors also included."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "ClinicalTrials.gov identifiers provided for all studies enabling verification (NCT03893448, NCT03620162, NCT03692871, NCT02987972, NCT03885934, NCT03950622, NCT03950856, NCT03480763, NCT03547167, NCT02573181, NCT03615482, NCT03480802, NCT03731182, NCT03921424, NCT03565900). Detailed safety tables with percentages for solicited adverse reactions by severity grade, dose number, and age group. SAE percentages reported. However, individual serious adverse event descriptions, detailed breakdown by SAE type, and deaths are not enumerated. Raw data not available in prescribing information."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Standard post-marketing surveillance mechanisms established through VAERS (Vaccine Adverse Event Reporting System) at 1-800-822-7967 or www.vaers.hhs.gov, and manufacturer reporting to Merck at 1-877-888-4231. Patient counseling section specifically instructs healthcare providers and patients/guardians to report serious adverse reactions. However, no active post-marketing surveillance studies or commitments described. No post-marketing safety data included (vaccine approved in 2021). Effectiveness in special populations (preterm infants, sickle cell disease, HIV, HSCT recipients) explicitly noted as not established."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VAXNEUVANCE demonstrates an adequate safety profile based on substantial clinical trial data. Strengths include large pediatric sample size (>3,300 children), excellent vulnerable subgroup evaluation (preterm infants, sickle cell disease, HIV infection, HSCT recipients), and standardized active surveillance using validated instruments with severity grading. The safety profile was generally similar to Prevnar 13 across all age groups and special populations. Key limitations include: (1) lack of true placebo control prevents absolute safety assessment; (2) relatively short follow-up (6 months for most SAEs, 14 days for solicited events); (3) limited neurological event monitoring beyond febrile seizure; (4) no all-cause mortality data reported. Most common reactions were injection-site pain, irritability, somnolence, and fever in children - generally mild and resolving within 3 days. SAE rates were low and comparable between groups with no notable patterns suggesting causal relationship."
+  }
+}

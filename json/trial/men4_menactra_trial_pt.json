@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menactra",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os estudos primários de segurança foram ensaios randomizados e controlados por comparador ativo, comparando Menactra com Menomune (outra vacina polissacarídica meningocócica). Para bebês de 9-12 meses, os grupos controle receberam outras vacinas infantis sem Menactra. Nenhum placebo verdadeiro (solução salina) foi utilizado em nenhum ensaio pivotal.",
+      "level_description": "Nenhum ensaio controlado por placebo foi realizado. Todas as comparações foram feitas contra comparadores ativos (vacina Menomune) ou outras vacinas infantis. Isso limita a capacidade de avaliar eventos adversos verdadeiramente atribuíveis à vacina."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo concomitante de Td em adolescentes e o estudo de Typhim Vi em adultos foram duplo-cegos. No entanto, para os estudos primários de segurança comparando Menactra com Menomune, o documento afirma: 'Como a via de administração diferia entre as duas vacinas (Menactra administrada por via intramuscular, Menomune por via subcutânea), a equipe que coletou os dados de segurança foi diferente da equipe que administrou a vacina.'",
+      "level_description": "O desenho com observador cego foi utilizado nos ensaios principais devido às diferentes vias de administração, mas não houve cegamento duplo completo. Alguns estudos de administração concomitante foram duplo-cegos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os três estudos primários de segurança foram ensaios randomizados e controlados por comparador ativo. Múltiplos estudos foram descritos como 'randomizados, grupos paralelos' ou 'ensaio clínico duplo-cego, randomizado e controlado.'",
+      "level_description": "A randomização foi empregada nos ensaios clínicos primários comparando Menactra com Menomune e nos estudos de administração concomitante de vacinas."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Crianças de 9-12 meses: 3.721 participantes receberam Menactra, com grupo controle de 997 crianças. Crianças de 2-10 anos: Menactra N=1.713 vs Menomune N=1.519. Adolescentes de 11-18 anos: Menactra N=2.270 vs Menomune N=972. Total de 10.057 receptores de Menactra com idades entre 2-55 anos.",
+      "level_description": "Os tamanhos amostrais foram substanciais em todas as faixas etárias pediátricas, com milhares de participantes em cada categoria, adequados para detectar eventos adversos comuns."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os participantes foram monitorados por 20 ou 30 minutos para reações imediatas, dependendo do estudo. Reações solicitadas foram registradas por 7 dias consecutivos. Os participantes foram monitorados por 28 dias (30 dias para bebês) para eventos adversos não solicitados e por 6 meses após a vacinação para visitas ao pronto-socorro, consultas médicas inesperadas e eventos adversos graves.",
+      "level_description": "O monitoramento ativo solicitado foi de apenas 7 dias. O acompanhamento de 6 meses foi realizado, mas via entrevista telefônica apenas para EAGs e visitas ao pronto-socorro. Essa duração pode não detectar eventos adversos tardios."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados de segurança e imunogenicidade apresentados separadamente para: 9-12 meses, 2-10 anos (com subgrupos de 2-3 anos e 4-10 anos), 11-18 anos, 18-55 anos. As Tabelas 1-4 apresentam reações adversas solicitadas por faixas etárias específicas.",
+      "level_description": "Estratificação abrangente por faixas etárias com tabelas de segurança detalhadas para cada população, permitindo avaliação de risco específica por idade."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento não lista explicitamente os critérios de inclusão/exclusão para os ensaios clínicos. As contraindicações listadas são: 'Reação alérgica grave após dose anterior de vacina contendo polissacarídeo capsular meningocócico, toxoide diftérico ou CRM197, ou a qualquer componente.'",
+      "level_description": "Critérios detalhados de inclusão/exclusão para os ensaios não são fornecidos na bula. Apenas contraindicações para uso são especificadas."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos solicitados foram sistematicamente coletados via cartões-diário com graus de gravidade definidos. Definições de graus fornecidas (ex.: Dor Grau 2: interfere nas atividades normais, Grau 3: incapacitante). Tanto reações locais (sensibilidade, eritema, inchaço, dor, vermelhidão, endurecimento) quanto sistêmicas (irritabilidade, febre, dor de cabeça, fadiga, etc.) foram padronizadas.",
+      "level_description": "Escalas padronizadas de graduação de gravidade foram utilizadas para eventos adversos solicitados com definições claras para cada nível de graduação."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Eventos adversos graves foram relatados durante um período de 6 meses após as vacinações. EAGs ocorreram em taxas de 0,6-2,5% dependendo da faixa etária. Informações sobre eventos adversos no período de 6 meses foram obtidas via entrevista telefônica roteirizada.",
+      "level_description": "EAGs foram monitorados por 6 meses, mas via entrevista telefônica em vez de acompanhamento clínico ativo. Taxas de EAG relatadas, mas sem detalhamento dos tipos de eventos no texto principal."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Alerta sobre SGB incluído com estudo de coorte retrospectivo pós-comercialização avaliando 9.578.688 indivíduos de 11-18 anos, com 1.431.906 recebendo Menactra. Dos 72 casos confirmados de SGB, nenhum recebeu Menactra nos 42 dias anteriores ao início dos sintomas. Risco atribuível estimado de 0-5 casos adicionais por 1.000.000 de vacinados em 6 semanas. Relatos pós-comercialização incluem: SGB, encefalomielite disseminada aguda, mielite transversa, paralisia facial, convulsão.",
+      "level_description": "A vigilância pós-comercialização avaliou especificamente o risco de SGB com grande estudo de coorte retrospectivo. Eventos neurológicos monitorados e relatados na seção de experiência pós-comercialização."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção sobre Imunocompetência Alterada afirma que alguns indivíduos podem ter respostas imunes reduzidas. Deficiência de complemento discutida. Registro de gravidez mencionado, mas sem estudos controlados em mulheres grávidas. Dados de lactação não disponíveis. Não aprovada para bebês menores de 9 meses ou adultos acima de 55 anos.",
+      "level_description": "Dados limitados sobre populações imunocomprometidas. Registro de gravidez existe, mas sem estudos bem controlados. Populações vulneráveis específicas (deficiência de complemento) mencionadas, mas não estudadas formalmente."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Análises de não inferioridade realizadas utilizando margem de não inferioridade de 10% e taxa de erro Tipo I unilateral de 0,025 ou 0,05. Intervalos de confiança de 95% fornecidos para proporções (método Exato de Clopper-Pearson) e TMGs (aproximação normal). Significância estatística denotada em p<0,05 usando teste Qui-Quadrado.",
+      "level_description": "Métodos estatísticos apropriados utilizados, incluindo análises de não inferioridade, intervalos de confiança e testes de significância com taxas de erro especificadas."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Tabelas detalhadas apresentando porcentagens de reações adversas por grau de gravidade. Dados de imunogenicidade com TMGs e intervalos de confiança. Número de participantes do estudo claramente declarado. Referências fornecidas para estudos publicados, incluindo CDC MMWR e estudo de SGB da Harvard Medical School.",
+      "level_description": "Dados abrangentes de segurança e imunogenicidade apresentados em tabelas com intervalos de confiança. Estudos principais referenciados. No entanto, dados brutos completos não são acessíveis na bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 Experiência Pós-Comercialização lista eventos adversos por classe de sistema de órgãos, incluindo: linfadenopatia, reações de hipersensibilidade, SGB, parestesia, síncope, convulsão, paralisia facial, EMDA, mielite transversa, mialgia, grandes reações no local da injeção. Estudo de segurança pós-comercialização sobre SGB realizado. Relato ao VAERS incentivado.",
+      "level_description": "Sistema de vigilância pós-comercialização em funcionamento com relato voluntário de eventos adversos. Grande estudo retrospectivo de SGB realizado. Múltiplos eventos graves identificados pós-comercialização."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não fornece informações sobre conflitos de interesse para investigadores de ensaios clínicos ou fontes de financiamento além da Sanofi Pasteur Inc. como fabricante.",
+      "level_description": "Nenhuma divulgação de conflitos de interesse ou relações de financiamento para investigadores de ensaios clínicos fornecida na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas dos ensaios clínicos. Menciona apenas taxas de EAG variando de 0,6% a 3,6% sem detalhamento de mortalidade.",
+      "level_description": "Mortalidade por todas as causas não foi relatada na seção de ensaios clínicos. Óbitos, se ocorreram, não foram detalhados nos dados de segurança."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Os ensaios clínicos de Menactra demonstram metodologia adequada com desenho randomizado e controlado por comparador ativo, e tamanhos amostrais substanciais em todas as faixas etárias. Limitações principais incluem ausência de controles com placebo verdadeiro (todas as comparações contra outra vacina meningocócica), monitoramento de segurança ativo relativamente curto (7 dias solicitados, 6 meses para EAGs via telefone) e ausência de dados de mortalidade. Pontos fortes incluem estratificação abrangente por idade, coleta padronizada de eventos adversos, estudo de vigilância pós-comercialização de SGB e análise estatística transparente. Os ensaios apoiam a imunogenicidade, mas o desenho com comparador ativo limita a avaliação absoluta de segurança."
+  }
+}

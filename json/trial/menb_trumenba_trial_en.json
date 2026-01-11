@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "menb_trumenba",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Controlled studies used saline as placebo in some groups (e.g., B1971011 Group 3 received saline+HPV4, Group 2 received rLP2086+saline). However, most comparisons involved active comparators (HPV4, Tdap, dTaP-IPV) rather than true inert placebo. The control groups varied by study: saline alone, saline + non-meningococcal vaccine, or non-meningococcal vaccine alone (e.g., Tdap).",
+      "level_description": "Present but flawed - While saline was used in some arms, most safety comparisons involved active vaccine comparators which can obscure true adverse event rates attributable to the MenB vaccine."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study B1971011 was 'observer-blinded' - subjects, investigators and applicant were blinded, but vaccine dispensing/administering personnel were not blinded because vaccine and saline appearance differed. Studies B1971012 and B1971010 were 'single-blinded' (subjects blinded only). Study B1971004 was open-label.",
+      "level_description": "Present but flawed - Observer-blinding was implemented in the main US study, but not full double-blinding. Personnel collecting safety information were separate from dispensing staff, but complete blinding was not achieved."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies used randomized allocation via interactive response systems. Study B1971011: randomized 2499 participants (Group 1 n=999, Group 2 n=998, Group 3 n=502) with stratification. Study B1971012: randomized in 3:3:3:2:1 ratio with stratification by age group. An independent statistical center (ISC) provided blinded subject listings to laboratory personnel.",
+      "level_description": "Meets expected standards - Documented random allocation with computerized systems and allocation concealment through independent statistical centers."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Total of 4335 subjects received final formulation (120ug). Of 4282 subjects ages 11-25 years, 99.3% were ages 11-18 years (adolescent). Core safety database from 4 controlled studies: 2566 subjects received at least 1 dose of Trumenba, 1012 in control groups. Study B1971011 alone had 1982 adolescent Trumenba recipients.",
+      "level_description": "Meets expected standards - Sample size exceeds 3,000 adolescents overall, adequate to detect events at 1:1,000 frequency, though most subjects were 11-18 years, not younger children."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Safety follow-up was 6 months after the last vaccination in most studies. The vaccination phase was Day 1 through one month after the 3rd vaccination, with follow-up extending to 6 months post-final dose. Total monitoring period approximately 12 months from first dose to study completion.",
+      "level_description": "Present but flawed - Six months post-vaccination is inadequate for detecting delayed autoimmune or neurological conditions that may emerge over years. The 12-month total duration is below the ideal minimum of several years."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Analyses stratified by age 11 to <14 years (58.1%) and 15 to <18 years (40.0%). Study B1971012 enrolled ages 11-19 with stratification by 11-14 and 14-19 years. Only 2.0% were >18 years. No children <10 years were included; studies in ages 1-10 were deferred.",
+      "level_description": "Present but flawed - Limited to two adolescent subgroups. No data for infants, toddlers, or younger children (ages 0-10). Studies in children 1-10 years were deferred as post-marketing requirements."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Exclusion criteria included: known immune system defects, immunosuppressive therapy, neuroinflammatory or autoimmune conditions (transverse myelitis, uveitis, optic neuritis, multiple sclerosis), significant neurological disorders, history of seizures (excluding febrile), previous anaphylactic reactions to vaccines. Healthy subjects only were enrolled.",
+      "level_description": "Present but flawed - Highly restrictive criteria excluding immunocompromised children, those with autoimmune conditions, and neurological disorders limits generalizability to real-world populations who may receive the vaccine."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Used MedDRA coding for adverse events. Objective grading scales defined: Injection site redness/swelling (measured in cm), pain severity by interference with activity, fever thresholds (38.0-38.4C, 38.5-38.9C, 39.0-40.0C, >40.0C). Solicited reactions recorded daily for 7 days via electronic diary.",
+      "level_description": "Meets expected standards - Standardized MedDRA coding and objective grading criteria were used consistently across studies with electronic diary capture."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Active solicitation of SAEs from Day 1 through 6 months after last vaccination. External Data Monitoring Committee (EDMC/DMC) responsible for ongoing safety monitoring. SAEs, hospitalizations, newly diagnosed chronic medical conditions (NDCMCs), and neuroinflammatory/autoimmune conditions were specifically queried by study personnel at each visit.",
+      "level_description": "Meets expected standards - Active surveillance with DMC oversight, specific prompts for autoimmune/neuroinflammatory conditions, and systematic SAE collection throughout the study period."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Specific monitoring for neuroinflammatory and autoimmune conditions with extensive MedDRA term list for case identification. 14 cases identified: 13 autoimmune (psoriasis exacerbation, celiac disease, autoimmune thyroiditis, ITP, post-infectious arthritis, Sydenham's chorea, IgA nephropathy, Crohn's disease, rheumatoid arthritis, Basedow-Graves disease, hypothyroidism x2) and 1 neuroinflammatory (Bell's palsy). Baseline serum samples were analyzed retrospectively to determine pre-existing conditions.",
+      "level_description": "Meets expected standards - Dedicated surveillance protocol for autoimmune/neuroinflammatory conditions with investigator prompts, extensive case work-ups, retrospective baseline testing, and individual case narratives."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Vulnerable populations explicitly excluded: immunocompromised, those with autoimmune conditions, neurological disorders, premature infants (not tested). Studies in infants showed 90% fever rate with 60ug dose, leading to discontinuation. Studies in children 1-10 years deferred. Population was primarily Caucasian (90.8%), limiting racial/ethnic diversity.",
+      "level_description": "Inadequate - Immunocompromised children, those with chronic conditions, and infants were excluded. Infant study showed concerning safety signals (90% fever rate). No data on vulnerable subgroups who may need the vaccine most."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Sample size calculations documented with 83.6% overall study power for primary objectives. Non-inferiority criteria specified (GMT ratio >0.67). Statistical analyses performed by independent statistical center (ISC). Sensitivity analyses conducted for missing data. 95% confidence intervals reported. Modified intent-to-treat and per-protocol populations defined.",
+      "level_description": "Meets expected standards - Proper power calculations, pre-specified hypotheses, independent statistical analysis, and sensitivity analyses were performed. Studies primarily powered for immunogenicity rather than safety."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Independent Data Safety Monitoring Board (EDMC/DMC) reviewed safety data. FDA BioResearch Monitoring inspections at 3 clinical sites. CBER statistical reviewers performed independent analyses. Financial disclosures provided (10 investigators with disclosable interests of 1036 total). FDA clinical review document publicly available.",
+      "level_description": "Meets expected standards - Independent oversight through DMC, FDA review and inspection, financial disclosure. Raw individual participant data not publicly available but FDA had full data access."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Post-marketing requirements include confirmatory studies B1971009 and B1971016 for broader strain coverage, PREA studies B1971017 and B1971035 for ages 1-10 years. Post-marketing commitments include safety study B1971014 (~10,000 additional subjects), concomitant vaccine study B1971015, and pregnancy outcomes study B1971052. Routine pharmacovigilance planned.",
+      "level_description": "Meets expected standards - Comprehensive post-marketing plan including confirmatory efficacy studies, pediatric studies, additional safety data collection, and pregnancy registry. Accelerated approval pathway ensures ongoing monitoring."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Financial disclosures: 10 of 1036 investigators had disclosable financial interests. 9 received 'significant payments of other sorts', 1 held 'significant equity interest in sponsor'. Sponsor was Wyeth Pharmaceuticals (Pfizer subsidiary). Steps to minimize bias were described. No independent funding source.",
+      "level_description": "Present but flawed - All studies were industry-funded by Pfizer/Wyeth. While financial disclosures were provided, the lack of independent funding increases risk of favorable outcome bias."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "One death reported: motor vehicle accident 38 days after 1st vaccination, deemed unrelated to vaccine. Deaths tracked throughout studies. Total SAE rates reported for all groups: 1.7% Trumenba vs 1.6% control (controlled studies). All-cause SAE rates by SOC documented.",
+      "level_description": "Meets expected standards - All-cause mortality tracked and reported. The single death was clearly unrelated to vaccination. Total SAEs reported by group without restricting to 'vaccine-related' only."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The Trumenba clinical development program demonstrates adequate methodology for immunogenicity assessment under accelerated approval, with proper randomization, standardized adverse event definitions, active safety surveillance for autoimmune/neuroinflammatory conditions, and transparent regulatory oversight. However, significant limitations exist for comprehensive pediatric safety evaluation: the use of active comparators rather than true placebos in most arms, observer-blinding rather than double-blinding, follow-up duration of only 6 months post-vaccination (inadequate for long-term autoimmune detection), exclusion of vulnerable populations (immunocompromised, children with chronic conditions), lack of data in children under 10 years (deferred), concerning safety signals in infants (90% fever rate leading to study discontinuation), and industry funding without independent verification. The 14 autoimmune/neuroinflammatory cases in vaccine recipients versus 0 in controls warrants continued surveillance, though rates were deemed within background population rates. Overall, the studies meet regulatory standards for accelerated approval but fall short of ideal safety study standards for a pediatric vaccine intended for broad population use."
+  }
+}

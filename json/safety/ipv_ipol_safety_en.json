@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ipv_ipol",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "US clinical studies enrolled more than 700 infants in three studies and over 1,300 infants in four additional studies, all aged 2-18 months. An earlier study included 219 infants. International studies included over 3,000 infants. Combined, this provides adequate sample size for detecting common adverse reactions, though may be insufficient for rare events."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Safety monitoring was limited to 6, 24, and 48 hours post-immunization for most outcomes. Persistent crying was monitored within 72 hours. No long-term safety follow-up (weeks, months, or years) is described in the clinical trial data. Long-term antibody persistence was tracked, but not long-term safety outcomes."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "No placebo control group was used. Adverse reactions were compared to historical data from DTP given alone without IPV or OPV. The document states systemic reactions 'could not be attributed to a specific vaccine' when IPOL was given concurrently with DTP, and were 'comparable in frequency and severity to that reported for DTP given alone.' This comparison methodology is inadequate for establishing vaccine-specific safety profiles."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active surveillance was conducted during clinical trials at defined timepoints (6, 24, 48 hours) for specified local and systemic reactions. However, post-approval surveillance relies on passive voluntary reporting to VAERS, which the document acknowledges may not reliably estimate frequency or establish causal relationships due to population uncertainty."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "GBS is mentioned as having been temporally related to another inactivated poliovirus vaccine, though no causal relationship with IPOL has been established. Post-marketing surveillance identified convulsion, febrile convulsion, paresthesia, somnolence, and syncope. However, systematic neurological monitoring during pre-approval trials is not described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document addresses immunocompromised patients (HIV, AIDS, immunosuppressive therapy), noting they may not develop protective responses. Safety in infants below 6 weeks is not established. Pregnancy studies have not been conducted. No specific safety data from trials in premature infants, though a referenced study (Adenyi-Jones) examined premature and term infants. Specific safety outcomes in these populations are not detailed."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Key safety data sources include unpublished proprietary data from Sanofi Pasteur SA and Sanofi Pasteur Inc. (references 11 and 12). Table 2 provides quantitative safety data with percentages and sample sizes, but raw data and detailed methodology are not accessible. Post-marketing adverse events are listed without frequency estimates due to passive reporting limitations."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A structured post-marketing surveillance section identifies adverse events from voluntary reports including: lymphadenopathy, injection site reactions, hypersensitivity/anaphylaxis, arthralgia, myalgia, convulsions, and skin reactions. The document references VAERS reporting requirements under the National Childhood Vaccine Injury Act and encourages healthcare providers and parents to report adverse events. Deaths have been reported in temporal association with IPV administration."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The IPOL safety profile is based on clinical trials with adequate pediatric sample sizes but significant methodological limitations. Safety follow-up was very short (48-72 hours), with no placebo control - only comparison to DTP vaccine alone. Serious events including deaths and neurological outcomes (convulsions, GBS temporal association) are acknowledged primarily through post-marketing surveillance rather than controlled trials. Key data sources remain unpublished proprietary information. While common local and systemic reactions are well-characterized, the safety evidence base for rare and serious adverse events relies heavily on passive post-marketing reporting with inherent limitations in establishing causality and frequency."
+  }
+}

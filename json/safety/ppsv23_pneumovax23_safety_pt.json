@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ppsv23_pneumovax23",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Nenhum dado de ensaio clínico pediátrico está documentado. Todos os ensaios clínicos descritos na bula incluíram adultos com 50 anos ou mais (N=444 vacinação inicial, N=564 revacinação no estudo principal; N=400 no estudo sequencial com Prevnar 13). O documento afirma explicitamente que a vacina 'não está aprovada para uso em crianças menores de 2 anos' devido à resposta imune inadequada, mas fornece zero dados de segurança clínica para crianças de 2-12 anos que estão aprovadas para vacinação quando em risco aumentado de doença pneumocócica."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O acompanhamento primário foi de apenas 14 dias pós-vacinação, com eventos adversos graves coletados até a semana 30 em um estudo. Isso é grosseiramente inadequado para detectar condições autoimunes, complicações neurológicas ou outros eventos adversos tardios que podem levar meses ou anos para se manifestar. O mínimo ideal é de 12 meses com avaliações programadas; 14 dias capturam apenas reações imediatas. Estudos históricos de eficácia acompanharam participantes por cerca de 1 ano, mas detalhes do acompanhamento de segurança desses estudos não são fornecidos."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O principal ensaio clínico em adultos utilizou um placebo verdadeiro (solução salina contendo 0,25% de fenol) com randomização duplo-cega em um desenho cruzado. Todos os 1008 participantes receberam injeções de placebo para comparação. Este desenho permite diferenciação razoável entre eventos adversos relacionados à vacina e coincidentes. No entanto, não existem dados de grupo de comparação para crianças, e o fenol no placebo não é completamente inerte."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os estudos distinguiram entre eventos 'solicitados' e 'não solicitados', indicando alguma vigilância ativa para reações predefinidas. Eventos adversos graves foram coletados dentro de 14 dias (6 eventos adversos graves após PNEUMOVAX 23 vs 4 após placebo) e até a semana 30 no estudo com Prevnar 13 (24 eventos adversos graves em 20 participantes, nenhum considerado relacionado à vacina). No entanto, a metodologia para vigilância ativa não está claramente descrita, e a curta janela de acompanhamento limita a detecção de eventos graves tardios. Nenhuma investigação sistemática de causalidade para eventos graves está documentada."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "A bula não documenta quaisquer avaliações neurológicas programadas, avaliações de desenvolvimento ou monitoramento sistemático para convulsões, Síndrome de Guillain-Barre ou outras condições neurológicas durante os ensaios clínicos. A vigilância pós-comercialização identificou parestesia, radiculoneuropatia, Síndrome de Guillain-Barre e convulsão febril, mas estes foram detectados através de notificação passiva após licenciamento, não através de monitoramento ativo em ensaios clínicos. Nenhum acompanhamento do neurodesenvolvimento para qualquer população está descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento reconhece que indivíduos imunocomprometidos 'podem ter uma resposta imune diminuída' e que indivíduos idosos 'podem não tolerar intervenções médicas tão bem quanto indivíduos mais jovens'. No estudo em adultos, 86,3-96,7% dos participantes tinham pelo menos uma condição médica crônica subjacente. No entanto, nenhuma análise de segurança separada para esses grupos vulneráveis é fornecida. Criticamente, não existem dados para prematuros, crianças imunocomprometidas, crianças com condições crônicas ou outros subgrupos pediátricos vulneráveis. As seções de gravidez e lactação afirmam que os dados são insuficientes."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A bula fornece taxas de eventos adversos em formato tabular com porcentagens específicas e categorização. Eventos adversos graves são listados individualmente. No entanto, não há menção de um Comitê Independente de Monitoramento de Segurança de Dados (DSMB), nenhuma referência a publicação revisada por pares dos dados primários de segurança, nenhum acesso a dados brutos ou dados de participantes individuais para verificação independente, e nenhuma indicação de que os protocolos completos do estudo estão disponíveis publicamente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A seção 6.2 documenta uma extensa lista de eventos adversos pós-comercialização em múltiplos sistemas corporais: celulite, febre >39°C, necrose no local da injeção, trombocitopenia, anemia hemolítica, Síndrome de Guillain-Barre, convulsão febril, reações anafilactoides, doença do soro e eritema multiforme. O VAERS é referenciado com informações de contato. A linha de notificação do fabricante é fornecida (1-877-888-4231). No entanto, este é principalmente um sistema de vigilância passiva com limitações reconhecidas ('de uma população de tamanho incerto, nem sempre é possível estimar sua frequência de forma confiável')."
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "Este documento não fornece confiança de que a PNEUMOVAX 23 é segura para crianças. O problema fundamental é que nenhuma criança foi estudada - todos os dados de segurança de ensaios clínicos vêm exclusivamente de adultos com 50 anos ou mais. Embora a vacina esteja aprovada para crianças de alto risco com 2 anos ou mais com base em considerações de imunogenicidade, a bula contém zero dados de segurança pediátrica de ensaios clínicos. Além disso, mesmo os estudos em adultos são limitados pelo acompanhamento muito curto (14 dias primário), ausência de monitoramento neurológico sistemático e nenhuma análise separada de subgrupos vulneráveis. A vigilância pós-comercialização identificou eventos neurológicos graves, incluindo Síndrome de Guillain-Barre e convulsões febris, mas estes foram detectados passivamente em vez de através de monitoramento clínico rigoroso. Um pai perguntando se esta vacina é segura para seu filho não consegue encontrar evidências neste documento para responder a essa pergunta, pois crianças de 0-12 anos simplesmente não foram estudadas."
+  }
+}

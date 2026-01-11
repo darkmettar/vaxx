@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_vaqta",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A segurança foi avaliada em 4.374 crianças de 12-23 meses em cinco ensaios clínicos, e 2.615 crianças/adolescentes de 2-18 anos em onze ensaios clínicos. O banco de dados combinado de segurança pediátrica excede 6.900 participantes, o que é adequado para detectar eventos adversos ocorrendo a uma taxa de aproximadamente 1 em 1.000 ou mais frequentemente. A amostra fornece poder estatístico razoável para detecção de eventos adversos comuns, mas pode não detectar eventos raros."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O monitoramento ativo de segurança foi limitado a 5 dias para reações locais e febre, e 14 dias para eventos adversos sistêmicos. Eventos adversos graves foram coletados por 14, 28 ou 42 dias dependendo do protocolo. Este curto período de acompanhamento é insuficiente para detectar eventos adversos tardios como condições autoimunes, que podem se manifestar semanas a meses após a vacinação. Os dados de segurança a longo prazo dependem principalmente da vigilância pós-comercialização."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O Estudo de Eficácia Monroe usou um desenho randomizado controlado por placebo com sulfato de hidroxifosfato de alumínio (diluente de alum) como placebo. Isso permite comparação de eventos adversos específicos da vacina, mas não controla efeitos relacionados ao adjuvante, já que ambos os grupos receberam alumínio. Outros estudos usaram comparações de vacinas concomitantes ou controles históricos, que fornecem comparações de segurança menos rigorosas."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Eventos adversos locais e sistêmicos foram ativamente solicitados via cartões-diário por 5-14 dias pós-vacinação. No entanto, o estudo observacional pós-comercialização usou vigilância passiva através de registros médicos eletrônicos em vez de acompanhamento ativo. A duração da vigilância ativa foi muito breve para capturar eventos adversos tardios, e eventos não solicitados dependiam de auto-relato dos participantes."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Ensaios clínicos não incluíram protocolos específicos para monitoramento de eventos adversos neurológicos. A vigilância pós-comercialização identificou síndrome de Guillain-Barré, ataxia cerebelar e encefalite, mas estes não foram sistematicamente rastreados em estudos pré-licenciamento. A taxa de convulsão febril de 0,05% em crianças de 12-23 meses foi relatada, mas avaliação neurológica abrangente não fez parte do desenho do ensaio."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os dados sobre indivíduos imunocomprometidos são limitados a preocupações de imunogenicidade sem estudos de segurança dedicados. Os dados de segurança na gravidez vêm apenas de relatos espontâneos pós-aprovação (30 gestações com desfechos conhecidos). Apenas 68 participantes geriátricos (65+) foram incluídos em ensaios clínicos. A segurança em bebês com menos de 12 meses não foi estabelecida. Nenhum dado específico sobre participantes com doenças crônicas ou condições alérgicas além das contraindicações gerais."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A bula fornece taxas resumidas de eventos adversos com intervalos de confiança de 95%, detalhamentos demográficos por raça e gênero, e dados tabulados para principais reações adversas. No entanto, dados em nível de paciente individual, bancos de dados de segurança completos, planos de análise estatística detalhados e relatórios de estudos clínicos não são acessíveis publicamente. Detalhes de registro de ensaios e disponibilidade de dados brutos não são abordados."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Um estudo estruturado de vigilância de segurança pós-comercialização de 60 dias foi conduzido em uma grande HMO (Kaiser) incluindo 42.110 indivíduos (13.735 crianças/adolescentes, 28.375 adultos). Vigilância passiva através do VAERS está em andamento. A experiência pós-comercialização identificou eventos graves raros (trombocitopenia, SGB, ataxia cerebelar, encefalite) não detectados em ensaios. O fabricante mantém notificação de eventos adversos em 1-877-888-4231."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O perfil de segurança da VAQTA é apoiado por dados de ensaios clínicos de mais de 10.000 participantes em múltiplos grupos etários, incluindo um estudo pivotal controlado por placebo. As reações adversas mais comuns são reações no local da injeção (dor, sensibilidade, eritema) e eventos sistêmicos (febre, cefaleia). Eventos adversos graves foram raros (0,7% em crianças de 12-23 meses) com EAGs relacionados à vacina em 0,1%. As principais limitações de segurança incluem curtos períodos de acompanhamento (5-42 dias), falta de monitoramento neurológico sistemático, dados limitados sobre populações vulneráveis e uso de adjuvante de alumínio como placebo. A vigilância pós-comercialização identificou eventos neurológicos raros (SGB, encefalite) que justificam vigilância contínua."
+  }
+}

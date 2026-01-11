@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_acthib",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Mais de 7.000 bebês e crianças pequenas (<=2 anos de idade) receberam pelo menos uma dose de ActHIB durante ensaios clínicos nos EUA. O principal estudo de segurança (P3T06) incluiu 1.454 crianças para doses 1-3 e acompanhou 418 crianças para dose 4. Adicionalmente, 1.064 indivíduos de 12-24 meses receberam ActHIB sozinha sem reações adversas graves ou com risco de vida relatadas."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O acompanhamento de segurança foi limitado a 48 horas para reações locais e sistêmicas solicitadas (Tabela 1) e 0-3 dias para reações sistêmicas no Estudo P3T06 (Tabela 2). Eventos adversos graves foram monitorados por apenas 30 dias após vacinação. Nenhum dado de acompanhamento de segurança a longo prazo (meses a anos) foi fornecido no documento."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Os ensaios clínicos compararam ActHIB a outras vacinas conjugadas Haemophilus influenzae tipo b (PRP-OMP/PedvaxHIB e HbOC/HibTITER), mas não incluíram um grupo controle placebo verdadeiro ou não vacinado. As vacinas também foram administradas concomitantemente com DTP, OPV e outras vacinas, dificultando o isolamento de sinais de segurança específicos de ActHIB."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Reações adversas solicitadas foram ativamente monitoradas em pontos de tempo definidos (6, 24 e 48 horas pós-vacinação). No entanto, o período de vigilância foi muito curto. EAGs foram monitorados dentro de 30 dias, com 50/1.455 (3,4%) experimentando EAGs após doses 1-3 e 4/418 (1,0%) após dose 4. Uma convulsão com apneia foi avaliada como possivelmente relacionada."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A síndrome de Guillain-Barré é listada como advertência/precaução se ocorreu dentro de 6 semanas de vacina prévia contendo toxoide tetânico. Convulsões são listadas em relatos pós-comercialização. Um EAG de convulsão com apneia foi relatado como possivelmente relacionado à vacina. No entanto, protocolos sistemáticos de monitoramento neurológico não são descritos nos ensaios clínicos."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados de imunogenicidade foram coletados para crianças com anemia falciforme (89% atingiram níveis protetores de anticorpos após 2 doses) e nativos americanos do Alasca (75% atingiram níveis protetores). O documento observa que pessoas imunossuprimidas podem ter respostas imunes reduzidas. No entanto, dados de segurança detalhados específicos para essas populações vulneráveis são limitados."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados de suporte chave são referenciados como 'Dados em arquivo, Sanofi Pasteur SA' e 'Dados em arquivo, Sanofi Pasteur Inc.' que não são publicamente acessíveis. Alguns resultados de ensaios clínicos são publicados em literatura revisada por pares (referências 9-12). As tabelas fornecem taxas percentuais, mas números brutos limitados e nenhum intervalo de confiança para desfechos de segurança."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.2 descreve vigilância pós-comercialização com relatos espontâneos de distúrbios do sistema imune (anafilaxia, urticária, angioedema), distúrbios do sistema nervoso (convulsões) e distúrbios gerais (inchaço extenso de membro, edema periférico, erupção cutânea). Relato ao VAERS está habilitado e informações de contato para relato de reações adversas são fornecidas (1-800-822-2463)."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ActHIB possui dados de segurança pediátrica adequados de mais de 7.000 participantes de ensaios e vigilância pós-comercialização estabelecida. No entanto, limitações significativas incluem: períodos de acompanhamento muito curtos (48 horas a 30 dias), falta de ensaios controlados por placebo, administração concomitante com múltiplas outras vacinas confundindo a avaliação de segurança, protocolos de monitoramento neurológico limitados e dados-chave mantidos como proprietários em vez de publicamente acessíveis. A ausência de acompanhamento de segurança a longo prazo é uma lacuna notável."
+  }
+}

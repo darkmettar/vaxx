@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_vaqta",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Safety was evaluated in 4,374 children aged 12-23 months across five clinical trials, and 2,615 children/adolescents aged 2-18 years in eleven clinical trials. Combined pediatric safety database exceeds 6,900 subjects, which is adequate for detecting adverse events occurring at a rate of approximately 1 in 1,000 or more frequently. The sample provides reasonable statistical power for common adverse event detection but may miss rare events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active safety monitoring was limited to 5 days for local reactions and fever, and 14 days for systemic adverse events. Serious adverse events were collected over 14, 28, or 42 days depending on the protocol. This short follow-up period is insufficient for detecting delayed adverse events such as autoimmune conditions, which may manifest weeks to months after vaccination. Long-term safety data relies primarily on post-marketing surveillance."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The Monroe Efficacy Study used a randomized placebo-controlled design with aluminum hydroxyphosphate sulfate (alum diluent) as placebo. This allows comparison of vaccine-specific adverse events but does not control for adjuvant-related effects since both groups received aluminum. Other studies used concomitant vaccine comparisons or historical controls, which provide less rigorous safety comparisons."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Local and systemic adverse events were actively solicited via diary cards for 5-14 days post-vaccination. However, the post-marketing observational study used passive surveillance through electronic medical records rather than active follow-up. Active surveillance duration was too brief to capture delayed adverse events, and unsolicited events relied on subject self-reporting."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Clinical trials did not include specific protocols for monitoring neurological adverse events. Post-marketing surveillance identified Guillain-Barre syndrome, cerebellar ataxia, and encephalitis, but these were not systematically tracked in pre-licensure studies. The febrile seizure rate of 0.05% in children 12-23 months was reported, but comprehensive neurological assessment was not part of the trial design."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Data on immunocompromised individuals is limited to immunogenicity concerns without dedicated safety studies. Pregnancy safety data comes from post-approval spontaneous reports only (30 pregnancies with known outcomes). Only 68 geriatric subjects (65+) were included in clinical trials. Safety in infants under 12 months has not been established. No specific data on subjects with chronic diseases or allergic conditions beyond general contraindications."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The prescribing information provides summary adverse event rates with 95% confidence intervals, demographic breakdowns by race and gender, and tabulated data for major adverse reactions. However, individual patient-level data, complete safety databases, detailed statistical analysis plans, and clinical study reports are not publicly accessible. Trial registration details and raw data availability are not addressed."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A structured post-marketing 60-day safety surveillance study was conducted at a large HMO (Kaiser) including 42,110 individuals (13,735 children/adolescents, 28,375 adults). Passive surveillance through VAERS is ongoing. Post-marketing experience has identified rare serious events (thrombocytopenia, GBS, cerebellar ataxia, encephalitis) not detected in trials. The manufacturer maintains adverse event reporting at 1-877-888-4231."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VAQTA's safety profile is supported by clinical trial data from over 10,000 subjects across multiple age groups, including a placebo-controlled pivotal study. The most common adverse reactions are injection-site reactions (pain, tenderness, erythema) and systemic events (fever, headache). Serious adverse events were rare (0.7% in children 12-23 months) with vaccine-related SAEs at 0.1%. Key safety limitations include short follow-up periods (5-42 days), lack of systematic neurological monitoring, limited data on vulnerable populations, and use of aluminum adjuvant as placebo. Post-marketing surveillance has identified rare neurological events (GBS, encephalitis) warranting ongoing vigilance."
+  }
+}

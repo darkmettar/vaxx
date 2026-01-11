@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hpv_gardasil9",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extensive pediatric safety database: Study V503-002 enrolled 1,890 girls and 644 boys ages 9-15 years. Study V503-005 enrolled 1,241 children ages 11-15 years. Study V503-007 enrolled 1,054 children ages 11-15 years. Total pediatric exposure across studies exceeds 3,500 subjects, providing robust safety data for the target pediatric population."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Safety follow-up periods: solicited adverse reactions collected for 15 days post-vaccination via Vaccination Report Cards. SAEs collected from Day 1 through 180 days (6 months) following last vaccination. Deaths and vaccine-related SAEs collected throughout entire study period. V503-001 median follow-up approximately 40 months for new medical conditions. Six-month SAE window adequate for acute reactions but may miss delayed autoimmune or neurological events."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active comparator design: Gardasil (qHPV) used as control rather than inert placebo. Both vaccines contain aluminum adjuvant (AAHS - 500 mcg in 9vHPV vs 225 mcg in qHPV). This design limits assessment of absolute safety profile and adjuvant-related effects. Historical placebo comparisons from prior qHPV studies used only for supportive analyses. The qHPV comparator is appropriate ethically but masks potential effects common to both vaccines."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive active surveillance system: Vaccination Report Cards for standardized collection of injection-site reactions (pain, swelling, erythema) and oral temperature for 5 days post-vaccination; all adverse events for 15 days post-vaccination. 30-minute post-vaccination observation period. SAEs actively collected regardless of causality. New medical conditions tracked throughout study. Data Safety Monitoring Board reviewed safety data."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Neurological adverse events documented: 7 cases of multiple sclerosis (5 in 9vHPV, 2 in qHPV). Detailed case narratives provided including symptom onset timing relative to vaccination. Hypoesthesia/paresthesia cases evaluated (AN 10888, AN 74925). Headache and dizziness tracked as systemic adverse reactions. MS incidence rate in 9vHPV group (20.7/100,000 person-years) on upper end of general population range. The numerical imbalance in MS cases noted as requiring post-marketing surveillance."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Limited vulnerable population data: Pregnancy outcomes actively monitored with concerning signal - spontaneous abortion rate 19.1% in 9vHPV recipients who became pregnant within 30 days of vaccination vs 9.6% outside that window and vs 8.0% in qHPV group. Immunocompromised patients excluded from all studies. No data on subjects with autoimmune conditions (exclusion criterion). Prior qHPV recipients studied in V503-006 showed similar safety profile. PREA waiver granted for ages 0-8 years."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "FDA review document provides detailed safety tables by system organ class, severity, and time since vaccination. Individual SAE narratives with allocation numbers provided. All deaths documented with causality assessment. Autoimmune conditions tabulated by preferred term. Some data redacted (marked b)(4)) for proprietary information. GCP compliance issues at two sites led to data exclusion with sensitivity analyses demonstrating minimal impact. Financial disclosures provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Robust post-marketing safety commitments: FDA-sponsored Mini-Sentinel study for autoimmunity-associated diagnoses including MS. FDA/CDC collaboration for Vaccine Safety Datalink study on spontaneous abortions. Merck to sponsor pregnancy registry to evaluate pregnancy outcomes. VAERS monitoring ongoing based on qHPV experience (56 million doses distributed, 21,194 adverse event reports, 92% non-serious). Post-marketing safety studies specifically designed to address signals identified in clinical trials."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "The Gardasil 9 safety profile is based on a large clinical database (>15,000 subjects exposed to 9vHPV) with systematic adverse event collection. Key safety findings: injection-site reactions more common with 9vHPV (90.2%) vs qHPV (84.0%); systemic reactions similar between groups. Safety signals requiring monitoring: numerical imbalance in MS cases (5 vs 2, rates 20.7 vs 8.3 per 100,000 person-years); elevated spontaneous abortion rate (19.1%) when conception occurs within 30 days of vaccination. Limitations include: active comparator design preventing true placebo comparison, exclusion of immunocompromised populations, and 6-month SAE collection window. Post-marketing surveillance adequately designed to address residual safety questions."
+  }
+}

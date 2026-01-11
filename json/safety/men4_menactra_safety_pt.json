@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menactra",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Inclusão pediátrica substancial em todas as faixas etárias: 3.721 crianças de 9-12 meses receberam Menactra com 997 controles; 1.713 crianças de 2-10 anos receberam Menactra vs 1.519 controles Menomune; 2.270 adolescentes de 11-18 anos vs 972 controles. Esses tamanhos amostrais fornecem poder adequado para detectar eventos adversos comuns (ocorrendo em >1% de frequência), mas podem ser insuficientes para eventos graves raros."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O monitoramento ativo solicitado durou apenas 7 dias após a vacinação para reações locais e sistêmicas. Eventos adversos não solicitados foram monitorados por 28-30 dias. Eventos adversos graves e visitas ao pronto-socorro foram acompanhados por 6 meses via entrevista telefônica roteirizada. Esse período de acompanhamento é limitado para detectar condições autoimunes ou neurológicas de início tardio. A janela de 6 meses para EAGs depende de relato passivo através de contato telefônico em vez de avaliação clínica ativa."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Todos os estudos primários usaram comparadores ativos em vez de controles com placebo verdadeiro. O principal comparador foi Menomune (vacina polissacarídica meningocócica) que possui seu próprio perfil de reatogenicidade. Para bebês, os controles receberam vacinas infantis de rotina sem Menactra. Esse desenho permite comparação de segurança relativa entre vacinas, mas não pode estabelecer risco absoluto atribuível à vacina em comparação com nenhuma intervenção. As taxas de EAG variaram de 0,6-1,3% para Menactra vs 0,7-1,3% para Menomune em crianças maiores e adultos."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os participantes foram monitorados por 20-30 minutos após a vacinação para reações imediatas. Cartões-diário foram usados para eventos adversos solicitados por 7 dias. No entanto, o monitoramento de EAG por 6 meses foi realizado via entrevista telefônica, não vigilância clínica ativa. Informações sobre eventos adversos não solicitados foram obtidas por entrevista telefônica ou visita clínica intermediária. A segurança pós-comercialização depende de relato voluntário ao VAERS mais um estudo de coorte retrospectivo para SGB."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O risco de SGB foi especificamente avaliado em grande estudo de coorte retrospectivo pós-comercialização com 9,6 milhões de indivíduos de 11-18 anos. Dos 72 casos confirmados de SGB, nenhum ocorreu dentro de 42 dias da vacinação com Menactra. Risco atribuível estimado de 0-5 casos por milhão de vacinados. Alerta incluído para pessoas com SGB prévio. Relatos pós-comercialização incluem SGB, encefalomielite disseminada aguda (EMDA), mielite transversa, paralisia facial, convulsão e parestesia. Convulsões monitoradas como evento adverso solicitado (0% nos ensaios clínicos)."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados de segurança limitados para populações vulneráveis. Indivíduos imunocomprometidos podem ter resposta imune reduzida, mas não há estudos de segurança dedicados. Pacientes com deficiência de complemento permanecem em risco de doença mesmo após vacinação. Registro de gravidez existe (222 relatos em 11 anos com 2 defeitos congênitos maiores e 6 abortos espontâneos entre 87 desfechos conhecidos), mas sem estudos controlados. Sem dados de segurança na lactação. Não estabelecido para bebês <9 meses ou adultos >55 anos. Um local chileno incluiu alguns participantes (22% em um estudo), mas análise de subgrupo não detalhada."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Tabelas abrangentes de eventos adversos apresentando taxas de reação por faixa etária e grau de gravidade com intervalos de confiança de 95%. Taxas de EAG relatadas por faixa etária e tipo de vacina. Eventos adversos pós-comercialização categorizados por classe de sistema de órgãos. Referências principais citadas incluindo relatório do CDC MMWR sobre SGB e estudo de SGB da Harvard Medical School. No entanto, dados completos em nível individual de ensaios não são acessíveis publicamente apenas pela bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Sistema de vigilância pós-comercialização ativo estabelecido. Grande estudo de coorte retrospectivo (9,6 milhões de indivíduos) avaliou especificamente o risco de SGB. Relato voluntário de eventos adversos através da Sanofi Pasteur (1-800-822-2463) e VAERS incentivado. Pós-comercialização identificou eventos graves adicionais não vistos nos ensaios: anafilaxia, SGB, EMDA, mielite transversa, paralisia facial, convulsão, grandes reações no local da injeção, inchaço extenso do membro. Registro de gravidez mantido desde 2005."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Menactra demonstra um perfil de segurança adequado baseado em ensaios clínicos com mais de 10.000 receptores da vacina e vigilância pós-comercialização extensiva. Eventos adversos comuns são bem caracterizados (reações no local da injeção em 30-60%, sintomas sistêmicos como dor de cabeça e fadiga em 25-40%). Limitações principais incluem: (1) ausência de ensaios controlados por placebo verdadeiro limitando a avaliação de risco absoluto; (2) curto período de monitoramento ativo de 7 dias; (3) dados limitados sobre populações imunocomprometidas e grávidas. Pontos fortes incluem: grande estudo de SGB pós-comercialização não mostrando casos confirmados dentro de 42 dias da vacinação; dados de segurança abrangentes estratificados por idade; registro de gravidez contínuo; e vigilância pós-comercialização robusta identificando eventos graves raros. O alerta de SGB reflete precaução apropriada apesar de associação confirmada limitada."
+  }
+}

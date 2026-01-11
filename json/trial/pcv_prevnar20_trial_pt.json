@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo B7471007: Na Coorte 1 (adultos >=60 anos), o grupo PCV20/Salina recebeu salina como segunda dose, enquanto o grupo comparador PCV13/PPSV23 recebeu vacinas ativas. A Vacinação 1 comparou PCV20 vs PCV13 (comparador ativo, não placebo). Nas Coortes 2 e 3 (adultos 18-59), a comparação foi PCV20 vs PCV13 sem nenhum braço placebo. Salina foi usada apenas para a dose 2 na Coorte 1 para manter o cegamento, não como controle de segurança verdadeiro.",
+      "level_description": "Nenhum controle placebo inerte verdadeiro para a dose primária da vacina. Comparador ativo (PCV13) foi usado, o que obscurece as verdadeiras taxas de eventos adversos atribuíveis especificamente à PCV20."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Vacinação 1 (PCV20 ou PCV13) foi administrada de forma duplo-cega, pois as vacinas eram idênticas em aparência e as seringas preenchidas foram embaladas em caixas cegas. A Vacinação 2 (PPSV23 ou salina) foi preparada por equipe terceirizada não cega que não participou das avaliações dos sujeitos. Os testes sorológicos foram realizados de forma cega. Toda a outra equipe do estudo e a Wyeth permaneceram cegos até o bloqueio do banco de dados.",
+      "level_description": "Duplo-cego apropriado para a primeira vacinação com cegamento do observador para a segunda dose. O pessoal de laboratório permaneceu cego durante todo o estudo."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo B7471007: Estudo randomizado, multicêntrico. A proporção de randomização foi 1:1 na Coorte 1 (>=60 anos) e 3:1 nas Coortes 2 e 3 (adultos mais jovens). Estudo B7471008: Randomização baseada no local em proporção 2:2:2:1 para estudo de consistência de lote. Os sujeitos foram incluídos no grupo de vacina conforme randomizados nas análises.",
+      "level_description": "Alocação aleatória documentada com proporções predefinidas por coorte. Ocultação da alocação mantida através de embalagem cega."
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Esta BLA foi apenas para adultos >=18 anos. O documento afirma explicitamente: 'A segurança e eficácia da Prevnar 20 em pessoas com menos de 18 anos de idade não foram estabelecidas.' Estudos pediátricos (B7471011, B7471013, B7471014) são requisitos de pós-comercialização adiados sob PREA para idades de 6 semanas a 16 anos.",
+      "level_description": "Nenhum dado pediátrico incluído nesta submissão. Vacina aprovada apenas para adultos. Estudos pediátricos estão pendentes como requisitos de pós-comercialização."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O acompanhamento de segurança foi de 6 meses após a Vacinação 1 para EAGs e condições médicas crônicas recém-diagnosticadas (CMCRD). Reações locais solicitadas monitoradas por 10 dias pós-vacinação; reações sistêmicas monitoradas por 7 dias pós-vacinação. EAs não solicitados coletados até 1 mês após cada vacinação. A duração da participação do sujeito foi de aproximadamente 6 meses.",
+      "level_description": "O acompanhamento de 6 meses está abaixo do mínimo ideal de 12+ meses para detectar efeitos autoimunes ou neurológicos tardios. O monitoramento de reatogenicidade de curto prazo foi adequado (7-10 dias)."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O Estudo B7471007 incluiu adultos em 3 coortes baseadas em idade: Coorte 1 (>=60 anos, com subgrupos 60-64, 65-69, 70-79, >=80), Coorte 2 (50-59 anos), Coorte 3 (18-49 anos). O Estudo B7471006 examinou adultos previamente vacinados >=65 anos. Imunogenicidade e segurança analisadas separadamente por coorte etária. Os TMGs de OPA diminuíram com o aumento da idade.",
+      "level_description": "Excelente estratificação por grupos etários adultos com análises de imunogenicidade e segurança separadas. No entanto, nenhuma estratificação etária pediátrica, pois este foi apenas para adultos."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Critérios de inclusão documentados: adultos >=18 anos determinados elegíveis por avaliação clínica, incluindo aqueles com doença estável preexistente (não requerendo mudança significativa de terapia em 6 semanas ou hospitalização em 12 semanas). Exclusões principais: vacinação pneumocócica prévia, reações alérgicas graves, distúrbios crônicos graves, terapia imunossupressora, imunodeficiência conhecida/suspeita, histórico de doença pneumocócica invasiva comprovada microbiologicamente.",
+      "level_description": "Critérios claros e bem definidos. A exclusão de indivíduos imunocomprometidos limita a generalização para populações do mundo real com maior risco de doença pneumocócica."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dicionário de codificação MedDRA (versão 22.0 para B7471007, versão 22.1 para B7471008) foi usado. Reações locais solicitadas graduadas por gravidade (leve/moderada/grave) com limites objetivos: dor (interferência com atividade), inchaço/vermelhidão (>2,0-5,0cm leve, >5,0-10,0cm moderado, >10,0cm grave). Febre graduada por faixas de temperatura. Grau 4 definido como visita ao PS/hospitalização. Diários eletrônicos (e-diary) usados para registro diário padronizado.",
+      "level_description": "Uso exemplar de codificação MedDRA padronizada, escalas de graduação objetivas e captura de diário eletrônico com altas taxas de transmissão diária (>=85%)."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "EAGs e CMCRDs ativamente monitorados por 6 meses pós-Vacinação 1. Reações adversas imediatas monitoradas dentro de 30 minutos após cada vacinação. Narrativas fornecidas para todos os sujeitos retirados devido a EA/EAG. No Estudo B7471007 Coorte 1: 2,4% PCV20 vs 1,9% PCV13 relataram EAGs dentro de 6 meses. Nenhum EAG considerado relacionado à vacina pelos investigadores.",
+      "level_description": "Vigilância ativa de EAG com narrativas detalhadas e avaliação de causalidade. Clara distinção entre eventos solicitados e não solicitados mantida."
+    },
+    "autoimmune_neurological": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhum protocolo de monitoramento específico para condições autoimunes ou neurológicas como síndrome de Guillain-Barre, convulsões ou encefalite foi documentado. CMCRDs foram capturadas de forma ampla, mas nenhuma lista predefinida de condições neurológicas/autoimunes para observar. Busca por 'neurológico', 'autoimune', 'Guillain', 'convulsão' no documento não retornou resultados relevantes.",
+      "level_description": "Nenhuma evidência de protocolos específicos de monitoramento neurológico ou autoimune de longo prazo. Isso representa uma lacuna significativa na metodologia de avaliação de segurança."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Indivíduos imunocomprometidos foram explicitamente excluídos de todos os ensaios. O documento afirma: 'A segurança e eficácia da Prevnar 20 não foram estabelecidas em indivíduos imunocomprometidos.' Critérios de exclusão incluíram: terapia imunossupressora, imunodeficiência conhecida/suspeita, HIV, leucemia, linfoma, transplante de órgão. Nenhum bebê prematuro ou grupo vulnerável pediátrico estudado.",
+      "level_description": "Populações vulneráveis com maior risco de doença pneumocócica (imunocomprometidos) foram sistematicamente excluídas. Esta é uma limitação importante para aplicabilidade no mundo real."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo dimensionado para imunogenicidade (72% de poder para não inferioridade em TMGs de OPA através de 20 sorotipos). Tamanho da amostra: ~3.880 adultos planejados no B7471007. Modelos de regressão linear ajustando para idade, título de OPA basal, sexo, status de tabagismo. ICs de 95% bilaterais calculados. Margem de não inferioridade de 0,5 para razão de TMG. Análises de segurança foram descritivas sem teste de hipóteses.",
+      "level_description": "Estudos apropriadamente dimensionados para desfechos de imunogenicidade. Análises de segurança foram descritivas, não dimensionadas para detectar eventos adversos raros - uma limitação comum."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Este é um documento de Revisão Clínica da FDA (STN 125731/0) com Relatórios de Estudos Clínicos detalhados citados. Tabelas abrangentes com disposição de sujeitos, demografia e desfechos fornecidas. Populações de análise claramente definidas (segurança, imunogenicidade avaliável, todos disponíveis). Tabelas de Relatórios de Estudos Clínicos referenciadas ao longo do documento.",
+      "level_description": "Documento de revisão regulatória com detalhes substanciais. No entanto, dados individuais de participantes (DIP) não estão publicamente disponíveis. Nenhuma menção de DSMB independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Wyeth concorda com farmacovigilância de rotina (monitoramento de riscos não antecipados em sistemas de vigilância e relatos de reações adversas pós-comercialização). O Estudo B7471015 é um requisito de pós-comercialização para adultos >=65 anos. Três estudos pediátricos (B7471011, B7471013, B7471014) são requisitos de pós-comercialização PREA. O plano de farmacovigilância foi considerado adequado pelo revisor.",
+      "level_description": "Farmacovigilância passiva padrão proposta. Estudo de eficácia confirmatória requerido como condição de aprovação acelerada. Nenhum sistema de vigilância ativa descrito além de relatos de rotina."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Estudos conduzidos pela Wyeth Pharmaceuticals LLC, subsidiária da Pfizer Inc. Todos os investigadores eram funcionários não-patrocinadores (0 funcionários do patrocinador como investigadores). 4 investigadores tinham participação acionária significativa no patrocinador. Dra. Susan Brown foi contada 3 vezes entre os estudos. Nenhuma fonte de financiamento independente; patrocinado pelo fabricante ao longo de todo o estudo.",
+      "level_description": "Todos os estudos patrocinados pelo fabricante sem financiamento independente. Alguns investigadores detinham participação acionária na Pfizer. Controle total da indústria sobre design, condução e análise do estudo."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Uma morte relatada no Estudo B7471007: um receptor de PCV20/salina da Coorte 1 de 60 anos com histórico de tentativas de suicídio, morreu por ferimento autoinfligido por arma de fogo 48 dias após a Vacinação 2 (salina). Morte não considerada relacionada à vacina. Estudo B7471008: Nenhuma morte relatada. Total de mortes e EAGs relatados em todos os grupos.",
+      "level_description": "Mortalidade por todas as causas relatada para todos os grupos. A única morte foi de condição psiquiátrica preexistente documentada, apropriadamente avaliada como não relacionada."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Esta revisão clínica da FDA da Prevnar 20 (PCV20) demonstra metodologia de ensaio adequada para imunogenicidade em adultos >=18 anos com randomização apropriada, cegamento e captura padronizada de eventos adversos. No entanto, existem várias limitações significativas: (1) Nenhum controle placebo verdadeiro - comparador ativo PCV13 usado, obscurecendo verdadeiras taxas de eventos adversos; (2) Nenhum dado pediátrico - vacina aprovada apenas para adultos com estudos pediátricos adiados; (3) Populações imunocomprometidas explicitamente excluídas, limitando aplicabilidade aos grupos de maior risco; (4) Apenas 6 meses de acompanhamento, insuficiente para detectar efeitos autoimunes/neurológicos tardios; (5) Nenhum protocolo específico de monitoramento neurológico; (6) Totalmente patrocinado pelo fabricante com potenciais conflitos de interesse. O perfil de segurança foi comparável à PCV13 licenciada, mas o design do estudo fundamentalmente não pode estabelecer segurança absoluta, apenas segurança relativa em comparação com outra vacina."
+  }
+}

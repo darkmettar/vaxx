@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "ipv_ipol",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não descreve nenhum ensaio controlado por placebo. Estudos clínicos compararam a vacina IPOL administrada com DTP em locais separados ou combinados, com imunogenicidade medida por taxas de soroconversão. Comparações históricas com DTP sozinha foram feitas para reações adversas, mas nenhum grupo controle placebo verdadeiro foi usado.",
+      "level_description": "Nenhum ensaio controlado por placebo é descrito na bula. Os estudos usaram designs abertos ou compararam com vacina DTP sozinha, não com um placebo inerte."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não menciona procedimentos de cegamento para nenhum dos estudos clínicos. Os estudos são descritos em termos de esquemas de vacinação e desfechos de imunogenicidade sem referência à metodologia de cegamento.",
+      "level_description": "Nenhuma menção de design de estudo duplo-cego ou simples-cego. Os ensaios clínicos parecem ter sido de natureza aberta."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento descreve múltiplos braços de estudo com diferentes esquemas de vacinação (apenas IPV vs sequencial IPV-OPV, administração subcutânea vs intramuscular, locais separados vs combinado com DTP), mas não descreve explicitamente os procedimentos de randomização.",
+      "level_description": "Embora múltiplos grupos de tratamento existissem nos ensaios, o documento não confirma explicitamente que os sujeitos foram aleatoriamente alocados a esses grupos."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Nos EUA, 219 bebês receberam três doses de IPV aprimorada. A vacina IPOL foi administrada a mais de 700 bebês entre 2 a 18 meses de idade durante três estudos clínicos dos EUA. Quatro estudos adicionais dos EUA usaram a vacina IPOL em mais de 1.300 bebês. Fora dos EUA, a vacina IPOL foi administrada a mais de 3.000 bebês com dados de imunogenicidade de 1.485 bebês.",
+      "level_description": "Os tamanhos de amostra pediátrica combinados entre os estudos excedem 2.000 bebês nos estudos dos EUA e mais de 3.000 internacionalmente, fornecendo poder estatístico adequado para avaliação de imunogenicidade."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações adversas foram monitoradas às 6, 24 e 48 horas pós-imunização. A persistência de anticorpos foi medida aos 12 meses, 18 meses e até 6 anos de idade em alguns estudos. Uma pesquisa sueca demonstrou persistência de anticorpos neutralizantes por pelo menos 10 anos.",
+      "level_description": "O acompanhamento de segurança foi limitado a 48-72 horas pós-vacinação. O acompanhamento de longo prazo focou na imunogenicidade (persistência de anticorpos) em vez de desfechos de segurança."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os estudos incluíram bebês vacinados aos 2, 4, 6 e 12-18 meses de idade. A Tabela 1 mostra resultados separados para doses administradas em diferentes idades. O documento também aborda adultos separadamente com diferentes recomendações de dosagem.",
+      "level_description": "Os dados são apresentados separadamente para diferentes pontos de idade (2, 4, 6, 12-18 meses) com resultados de imunogenicidade distintos, e as recomendações para adultos são abordadas separadamente."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento não descreve critérios específicos de inclusão/exclusão para os ensaios clínicos. Menciona contraindicações (hipersensibilidade a componentes, anafilaxia após dose anterior, doença febril aguda), mas estas são para uso clínico, não para inscrição no ensaio.",
+      "level_description": "Critérios específicos de inscrição nos ensaios não são detalhados na bula. Apenas contraindicações e precauções pós-aprovação são fornecidas."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Tabela 2 apresenta reações locais padronizadas (eritema >2,5cm, inchaço, sensibilidade) e reações sistêmicas (febre >39°C, irritabilidade, cansaço, anorexia, vômito, choro persistente) medidas em pontos de tempo específicos (6, 24, 48 horas) com taxas percentuais.",
+      "level_description": "Eventos adversos foram coletados usando categorias e definições padronizadas com pontos de tempo de medição consistentes entre as visitas do estudo."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento observa que mortes ocorreram em associação temporal após vacinação com IPV, embora nenhuma relação causal tenha sido estabelecida. SGB foi temporalmente relacionada à administração de outra vacina inativada contra poliomielite. A vigilância pós-comercialização identificou eventos graves adicionais incluindo reações anafiláticas e convulsões.",
+      "level_description": "Eventos adversos graves são mencionados, mas parecem vir principalmente da vigilância pós-comercialização passiva em vez de monitoramento ativo em ensaios clínicos."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Embora nenhuma relação causal entre a vacina IPOL e a Síndrome de Guillain-Barre (SGB) tenha sido estabelecida, a SGB foi temporalmente relacionada à administração de outra vacina inativada contra poliomielite. A experiência pós-comercialização inclui convulsão, convulsão febril e parestesia.",
+      "level_description": "A SGB é mencionada como uma potencial preocupação com IPV em geral, e alguns eventos neurológicos são listados nos dados pós-comercialização, mas o monitoramento sistemático pré-aprovação para essas condições não é descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento discute o uso em pacientes imunodeficientes, indivíduos infectados pelo HIV, bebês prematuros (referência 21 menciona bebês prematuros e a termo) e mulheres grávidas/lactantes. No entanto, dados de segurança específicos para esses subgrupos de ensaios clínicos não são apresentados. A segurança em bebês abaixo de 6 semanas de idade não foi estabelecida.",
+      "level_description": "Populações vulneráveis são abordadas nas recomendações, mas dados de segurança específicos de ensaios clínicos nesses subgrupos são limitados ou referenciados de estudos externos."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento apresenta taxas percentuais para soroconversão e eventos adversos, mas não descreve métodos estatísticos, intervalos de confiança ou testes de significância. Tamanhos de amostra (N) são fornecidos para tabelas de imunogenicidade.",
+      "level_description": "Estatísticas descritivas (porcentagens, tamanhos de amostra) são fornecidas, mas metodologia estatística detalhada e estatísticas inferenciais não são descritas."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Alguns dados não publicados são referenciados (referências 11 e 12: 'Dados não publicados disponíveis da Sanofi Pasteur SA' e 'Dados não publicados disponíveis da Sanofi Pasteur Inc.'). Resultados de estudos individuais são resumidos em tabelas, mas os dados brutos não são acessíveis.",
+      "level_description": "Fontes de dados principais são dados proprietários não publicados do fabricante. Referências publicadas são fornecidas para alguns estudos, mas nem todos os dados de apoio são publicamente disponíveis."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O documento inclui uma seção de Experiência Pós-comercialização listando eventos adversos identificados durante o uso pós-aprovação relatados ao VAERS. Descreve o sistema de relato e incentiva o relato de eventos adversos. Referência ao VAERS e ao Programa Nacional de Compensação por Lesões Vacinais está incluída.",
+      "level_description": "Um sistema estruturado de vigilância pós-comercialização é descrito com eventos adversos específicos identificados de relatos voluntários, embora limitações da vigilância passiva sejam reconhecidas."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não divulga conflitos de interesse para investigadores de ensaios clínicos ou fontes de financiamento para os estudos. Alguns dados não publicados são mencionados como disponíveis da Sanofi Pasteur, o fabricante.",
+      "level_description": "Nenhuma divulgação de conflito de interesse é fornecida na bula. O fabricante conduziu ou patrocinou os estudos sem supervisão independente divulgada."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento afirma: 'Embora nenhuma relação causal tenha sido estabelecida, mortes ocorreram em associação temporal após vacinação de bebês com IPV.' A referência 37 (Stratton et al., Eventos Adversos Associados a Vacinas Infantis) é citada.",
+      "level_description": "Mortes são reconhecidas como tendo ocorrido temporalmente após a vacinação, mas dados sistemáticos de mortalidade por todas as causas de ensaios clínicos comparando grupos vacinados versus não vacinados não são fornecidos."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula da IPOL descreve múltiplos estudos clínicos com tamanhos de amostra pediátrica adequados (mais de 2.000 bebês nos EUA, 3.000+ internacionalmente) demonstrando alta imunogenicidade. No entanto, os ensaios carecem de controles placebo, cegamento e descrições explícitas de randomização. O acompanhamento de segurança foi limitado a 48-72 horas para a maioria dos desfechos. Eventos adversos graves incluindo mortes e SGB são mencionados, mas principalmente da vigilância pós-comercialização. Fontes de dados principais incluem dados proprietários não publicados do fabricante, e nenhuma divulgação de conflito de interesse é fornecida. A aprovação foi baseada principalmente em desfechos de imunogenicidade com comparação apenas com DTP, em vez de avaliação abrangente de segurança com controles apropriados."
+  }
+}

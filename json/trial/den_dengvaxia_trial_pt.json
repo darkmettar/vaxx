@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "den_dengvaxia",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Os estudos utilizaram cloreto de sódio 0,9% (solução salina) como placebo. O Estudo 1 (NCT01374516) e o Estudo 2 (NCT01373281) foram controlados por placebo com placebo salino. Um total de 22.924 participantes receberam DENGVAXIA e 10.668 receberam placebo (cloreto de sódio 0,9%).",
+      "level_description": "Excede o padrão esperado - utiliza placebo salino verdadeiramente inerte em vez de outra vacina como comparador, permitindo identificação precisa de eventos adversos atribuíveis à vacina."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os estudos foram descritos como ensaios 'cegos para o observador, randomizados'. O documento afirma: 'Em dois ensaios multicêntricos, cegos para o observador, randomizados (2:1), controlados por placebo...'",
+      "level_description": "Atende às expectativas - o desenho cego para o observador previne viés na avaliação de desfechos, embora o status de cegamento do participante esteja menos explicitamente documentado do que o cegamento do observador."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os participantes foram randomizados 2:1 para receber DENGVAXIA ou placebo salino. Os estudos são descritos como 'ensaios clínicos randomizados, controlados por placebo, multicêntricos'.",
+      "level_description": "Atende às expectativas com alocação aleatória documentada na proporção 2:1, embora detalhes específicos sobre métodos de ocultação da alocação não sejam fornecidos na bula."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Um total de 22.924 participantes de 6 a 16 anos recebeu pelo menos uma dose de DENGVAXIA em 12 ensaios clínicos. O Estudo 1 incluiu 20.869 participantes (idades 9-16), o Estudo 2 incluiu 10.278 participantes (idades 6-14). O subgrupo de reatogenicidade incluiu 2.000 participantes no Estudo 1 e 1.310 participantes no Estudo 2.",
+      "level_description": "Excede o padrão esperado com mais de 22.000 participantes pediátricos - muito superior ao limite de 3.000 por faixa etária necessário para detecção adequada de segurança."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Os participantes foram monitorados para dengue grave do Dia 0 até o mês 72 (6 anos) após a primeira vacinação nos Estudos 1, 2, 3 e 4. O Estudo 4 (NCT01983553) foi um estudo de extensão para avaliar segurança por 72 meses. Eventos adversos graves foram monitorados por pelo menos 6 meses após a última dose.",
+      "level_description": "Excede o padrão esperado com 6 anos (72 meses) de acompanhamento para desfechos de dengue grave, permitindo detecção de sinais de segurança de longo prazo incluindo eventos adversos tardios."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os dados são apresentados separadamente para idades 6-8 anos e 9-14 anos no Estudo 2, e para idades 9-16 anos no Estudo 1. As tabelas de reações adversas fornecem dados separados por faixas etárias (6 a 8 anos vs 9 a 14 anos, e 9 a 16 anos).",
+      "level_description": "Atende às expectativas com separação por faixa etária, embora os agrupamentos sejam mais amplos do que o ideal (subdivisão 0-1, 1-5, 6-12 não fornecida)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A vacina é indicada para indivíduos de 6-16 anos com infecção prévia por dengue confirmada laboratorialmente, vivendo em áreas endêmicas. Contraindicada em indivíduos imunocomprometidos e naqueles com reações alérgicas graves. Os estudos incluíram participantes independentemente do status de infecção prévia por dengue na inscrição inicial.",
+      "level_description": "Atende às expectativas - critérios claros documentados com discussão explícita das limitações populacionais (áreas endêmicas, status de infecção prévia)."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações adversas solicitadas foram registradas diariamente por 14 dias com graus de gravidade definidos. Febre definida como ≥38,0°C (Grau 3: ≥39,0°C). Dor, eritema, inchaço graduados com limites específicos (ex.: Grau 3 para inchaço: ≥50mm para idades 6-11, >100mm para idades 12+). Dengue grave definida por critérios do IDMC incluindo parâmetros clínicos específicos.",
+      "level_description": "Atende às expectativas com limites objetivos para reações solicitadas e definição padronizada de dengue grave pelo Comitê Independente de Monitoramento de Dados."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os participantes foram monitorados para eventos adversos graves por pelo menos 6 meses após a última dose em 12 estudos. Eventos adversos graves em 28 dias: 0,7% (168/22.924) em DENGVAXIA vs 0,9% (98/10.668) em placebo. Mortes rastreadas da primeira dose até o mês 72: 53 mortes (0,2%) no grupo DENGVAXIA, 34 mortes (0,3%) no grupo placebo. Eventos adversos graves relacionados identificados: crise asmática, urticária, convulsão, encefalomielite disseminada aguda.",
+      "level_description": "Atende às expectativas com monitoramento ativo para eventos adversos graves e investigação de causalidade documentada de eventos graves."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Um caso de encefalomielite disseminada aguda (ADEM) 7 dias após a Dose 1 foi identificado e considerado relacionado à DENGVAXIA. Uma convulsão no dia da Dose 1 foi relatada. A definição de dengue grave inclui encefalopatia. Nenhum protocolo de avaliação neurológica sistemática ou lista predefinida de condições autoimunes documentada.",
+      "level_description": "Presente, mas com limitações significativas - eventos adversos neurológicos específicos identificados, mas sem evidência de exames neurológicos programados ou protocolo de monitoramento autoimune sistemático."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Indivíduos imunocomprometidos são contraindicados e excluídos. Nenhuma menção específica de inclusão ou análise separada de prematuros, crianças com alergias, condições crônicas ou aquelas em medicamentos concomitantes. Um caso de crise asmática relatado. Registro de gravidez estabelecido para exposições inadvertidas.",
+      "level_description": "Presente, mas com falhas - imunocomprometidos explicitamente excluídos em vez de estudados; sem evidência de inclusão intencional de outros subgrupos vulneráveis."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A eficácia vacinal foi calculada como 1 menos a razão de incidência de densidade com intervalos de confiança de 95% fornecidos. Razões de risco para dengue grave por sorostatus apresentadas com IC 95%. Critério de eficácia pré-especificado documentado (limite inferior do IC 95% >25%). Conjunto de Análise Completo Modificado (mFASE) definido para análise.",
+      "level_description": "Atende às expectativas com intervalos de confiança, razões de risco e critérios de análise pré-especificados documentados."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos números de registro de ensaios clínicos fornecidos (NCT01374516, NCT01373281, NCT00842530, NCT01983553 e outros 8). Comitê Independente de Monitoramento de Dados (IDMC) supervisionou os estudos. Estudos conduzidos como ensaios revisados por pares com números de registro. Dados de eficácia e segurança apresentados com tamanhos amostrais.",
+      "level_description": "Atende às expectativas com ensaios registrados, supervisão por IDMC e apresentação detalhada de dados, embora a disponibilidade de dados brutos de participantes individuais não seja mencionada."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 descreve experiência pós-comercialização com eventos adversos relatados espontaneamente incluindo reações alérgicas/anafiláticas e infecção grave por dengue (incluindo hospitalização e morte) em indivíduos com status desconhecido de dengue prévia. Relato de reações adversas incentivado via VAERS (1-800-822-7967) e departamento de farmacovigilância do fabricante.",
+      "level_description": "Atende às expectativas com sistema de vigilância passiva estabelecido e sinais de segurança pós-comercialização identificados, embora a dependência de relato espontâneo tenha limitações inerentes de subnotificação."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento é uma bula da Sanofi Pasteur. Os estudos foram conduzidos pelo fabricante. Nenhuma divulgação de financiamento independente ou conflitos de interesse dos pesquisadores. Comitê Independente de Monitoramento de Dados mencionado, mas sem detalhes sobre independência do patrocinador.",
+      "level_description": "Presente, mas com falhas - estudos patrocinados pelo fabricante sem divulgação explícita de potenciais conflitos ou evidência de análise independente."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Da primeira dose até o mês 72, 53 mortes (0,2%) relatadas no grupo DENGVAXIA vs 34 mortes (0,3%) no grupo placebo em 9 dos 12 estudos. Declaração: 'Nenhuma das mortes foi considerada relacionada à vacinação. As causas de morte entre os participantes foram consistentes com aquelas geralmente relatadas em populações de crianças e adolescentes.'",
+      "level_description": "Excede o padrão esperado com relato abrangente de mortalidade por todas as causas em ambos os grupos com avaliação explícita de causalidade e comparação com taxas de base."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de ensaios clínicos da DENGVAXIA demonstra metodologia robusta com pontos fortes exemplares em várias áreas: grande tamanho de amostra pediátrica (mais de 22.000 crianças), controle com placebo salino verdadeiro, acompanhamento estendido de 6 anos e relato abrangente de mortalidade por todas as causas. Os ensaios identificaram apropriadamente um sinal de segurança crítico - risco aumentado de dengue grave em indivíduos soronegativos (HR 3,94) - levando a importantes restrições na indicação. No entanto, o programa tem limitações parciais em monitoramento sistemático neurológico/autoimune, avaliação de subgrupos vulneráveis (imunocomprometidos excluídos em vez de estudados) e transparência sobre conflitos de interesse. No geral, isso representa uma avaliação de segurança adequada a forte que, embora não perfeita, identificou com sucesso uma preocupação de segurança tardia importante que mudou fundamentalmente a indicação da vacina."
+  }
+}

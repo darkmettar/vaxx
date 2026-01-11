@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Mais de 11.000 crianças, adolescentes e adultos receberam VARIVAX em ensaios clínicos. Especificamente para crianças de 1-12 anos: aproximadamente 8.824-8.913 sujeitos monitorados para febre e reações adversas; 9.454 crianças saudáveis acompanhadas para herpes zoster (42.556 pessoas-ano); 4.240 crianças em ensaios clínicos iniciais; 2.216 crianças no estudo randomizado de 1 dose vs 2 doses. Este tamanho de amostra excede o limiar de 3.000+ necessário para detectar eventos adversos ocorrendo na frequência de 1:1.000, embora eventos mais raros que 1:10.000 ainda possam ser perdidos."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Monitoramento de segurança ativo foi limitado a 42 dias pós-vacinação em ensaios clínicos, o que é inadequado para detectar eventos adversos autoimunes ou neurológicos tardios. Embora o acompanhamento de eficácia de longo prazo tenha se estendido por 10 anos e a incidência de herpes zoster tenha sido rastreada por 42.556 pessoas-ano em crianças, isso foi principalmente para doença de ruptura e persistência de anticorpos, não vigilância sistemática de segurança. A janela de 42 dias é prática padrão da indústria, mas insuficiente para detectar condições com início tardio como síndrome de Guillain-Barré (tipicamente 2-8 semanas), distúrbios autoimunes ou impactos no desenvolvimento."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Um estudo controlado por placebo, duplo-cego foi conduzido com 914 crianças e adolescentes (491 vacina, 465 placebo), mas isso usou uma formulação mais antiga (17.000 PFU por dose). A VARIVAX estável em refrigeração atual NÃO foi testada contra um placebo verdadeiro. A maioria dos estudos comparou com controles históricos ou taxas de incidência esperadas. O estudo de 2 doses vs 1 dose (n=2.216) comparou regimes de vacina, não vacina vs. placebo. Sem comparação contemporânea com placebo para a formulação comercializada, atribuir eventos adversos especificamente à vacina versus doença coincidente é desafiador."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Vigilância ativa foi conduzida usando cartões diários por 42 dias pós-vacinação, com investigadores revisando cartões nas visitas do dia 42. Pais/responsáveis registraram reações locais por 4 dias e reações sistêmicas por 42 dias. Eventos adversos graves foram coletados, ocorrendo em taxas de 0,3-1% em estudos específicos. No entanto, a curta duração limita a detecção de eventos tardios. Pós-comercialização depende do relato passivo do VAERS, que subestima significativamente as taxas verdadeiras de eventos adversos. Um registro de gravidez (1995-2013) acompanhou ativamente 1.522 mulheres com 905 desfechos conhecidos."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Nenhum protocolo de monitoramento neurológico ou de desenvolvimento pré-planejado específico é descrito em ensaios clínicos. Convulsões febris foram relatadas em taxa <0,1%. A seção pós-comercialização identifica eventos neurológicos graves incluindo encefalite, mielite transversa, síndrome de Guillain-Barré, paralisia de Bell, ataxia, convulsões não-febris, meningite asséptica e meningite - estas foram descobertas através de vigilância passiva pós-comercialização, não monitoramento proativo de ensaio clínico. Nenhum exame neurológico programado, avaliação de desenvolvimento ou lista predefinida de condições neurológicas para monitorar ativamente está documentada."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Populações vulneráveis foram largamente excluídas em vez de estudadas. Contraindicações explicitamente excluem indivíduos imunocomprometidos; 'doença disseminada por varicela' ocorreu em indivíduos imunossuprimidos inadvertidamente vacinados. Nenhum dado clínico disponível para crianças <12 meses de idade. Bebês prematuros são mencionados apenas no contexto de risco de transmissão, não dados de segurança. Crianças com condições crônicas, distúrbios do desenvolvimento ou doenças concomitantes não foram especificamente incluídas ou analisadas. A bula reconhece dados insuficientes para várias populações (por exemplo, sujeitos geriátricos)."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento referencia 18 publicações revisadas por pares e pelo menos um ensaio clínico registrado (NCT00432523). Dados de eventos adversos são apresentados em tabelas resumidas com porcentagens e intervalos de confiança. No entanto, nenhum Comitê Independente de Monitoramento de Segurança de Dados (CIMD) é mencionado. Dados brutos e dados individuais de participantes não estão publicamente disponíveis. Listagens completas de eventos adversos além de porcentagens não são fornecidas. Todos os estudos parecem patrocinados pelo fabricante sem oportunidades de análise ou verificação independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Vigilância pós-comercialização está documentada através de múltiplos canais: relato ao VAERS (Sistema de Notificação de Eventos Adversos de Vacinas) é encorajado com informações de contato fornecidas; um registro de exposição na gravidez foi mantido de 1995-2013 com 1.522 mulheres inscritas; uma revisão de segurança de 10 anos foi publicada (Galea 2008); incidência de herpes zoster calculada em 18,8 por 100.000 pessoas-ano em crianças. Pós-comercialização identificou eventos adversos graves incluindo anafilaxia, condições neurológicas, anemia aplástica e trombocitopenia. No entanto, VAERS é um sistema passivo com subnotificação significativa, e o documento reconhece 'nem sempre é possível estimar confiavelmente sua frequência ou estabelecer uma relação causal.'"
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula de VARIVAX fornece garantia parcial sobre segurança de curto prazo em crianças saudáveis, apoiada por um grande tamanho de amostra (>11.000 sujeitos) e eventos adversos comuns documentados (febre 14,7%, reações no local da injeção 19,3%, erupção cutânea semelhante à varicela 3-4%). No entanto, várias limitações críticas comprometem a confiança em segurança abrangente: (1) monitoramento de segurança ativo foi apenas 42 dias, inadequado para detectar condições autoimunes ou neurológicas tardias; (2) a formulação comercializada atual não foi testada contra um placebo verdadeiro; (3) populações vulneráveis (imunocomprometidos, bebês prematuros, crianças <12 meses, aquelas com condições crônicas) foram excluídas dos ensaios em vez de estudadas; (4) nenhum protocolo de monitoramento neurológico/de desenvolvimento sistemático foi empregado; e (5) eventos neurológicos graves (encefalite, Guillain-Barré, mielite transversa) foram descobertos apenas através de vigilância passiva pós-comercialização, não desenho proativo de ensaio. Para um pai perguntando 'Esta vacina é segura para meu filho agora e no futuro?' - este documento demonstra tolerabilidade aceitável de curto prazo em crianças saudáveis, mas não aborda adequadamente segurança de longo prazo, eventos graves raros ou segurança em crianças com condições subjacentes."
+  }
+}

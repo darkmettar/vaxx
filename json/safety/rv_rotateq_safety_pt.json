@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "rv_rotateq",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Dados de segurança de 71.725 bebês em ensaios controlados por placebo (36.165 RotaTeq, 35.560 placebo). A Coorte de Segurança Detalhada incluiu 11.711 bebês (6.138 RotaTeq). Para monitoramento de intussuscepção, o Estudo 006 incluiu 69.625 bebês no total. Este tamanho de amostra excepcionalmente grande fornece poder estatístico robusto para detectar eventos adversos, incluindo desfechos raros."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Acompanhamento sistemático nos dias 7, 14 e 42 após cada dose para eventos adversos graves. Vigilância ativa de intussuscepção continuou a cada 6 semanas por 1 ano após a primeira dose no Estudo 006. Eventos adversos solicitados registrados diariamente na primeira semana pós-vacinação. Embora o acompanhamento de 42 dias seja razoável para eventos agudos, o acompanhamento de segurança de longo prazo além de 1 ano foi limitado."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Controle placebo verdadeiro usado em todos os principais ensaios com tamanhos de grupo quase iguais (34.837 vacina vs 34.788 placebo na análise de intussuscepção do Estudo 006). Taxas de eventos adversos comparadas diretamente entre grupos com análise estatística. Estudo pós-comercialização usou controles contemporâneos de DTaP (n=62.617) e controles históricos (n=100.000). Este desenho comparativo rigoroso permite detecção significativa de sinais de segurança."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Vigilância ativa implementada para intussuscepção com contatos programados nos dias 7, 14, 42 e a cada 6 semanas por 1 ano. Cartões de Registro de Vacinação usados para registro diário pelos pais de temperatura, vômito, diarreia durante a primeira semana. Vigilância ativa pós-comercialização através do programa PRISM avaliou >1,2 milhão de vacinações. Isso representa um dos programas de vigilância ativa mais abrangentes para uma vacina pediátrica."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Convulsões rastreadas sistematicamente: 33 casos em RotaTeq vs 24 em placebo dentro de 42 dias (10 convulsões febris no total, 5 cada grupo). Eventos graves de convulsão ocorreram em <0,1% de ambos os grupos. No entanto, nenhum protocolo dedicado de avaliação neurológica descrito, e outros desfechos neurológicos além de convulsões não foram especificamente monitorados. Relatórios pós-comercialização incluem doença de Kawasaki que pode ter manifestações neurológicas."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Bebês prematuros (25-36 semanas de idade gestacional, n=2.070) estudados com subconjunto de 308 monitorados para todos os eventos adversos. Bebês com DRGE controlada incluídos. No entanto, bebês imunocomprometidos explicitamente excluídos com 'nenhum dado de segurança ou eficácia disponível.' Contraindicado em IDCG devido a relatórios pós-comercialização de gastroenterite grave e eliminação prolongada do vírus vacinal. Isso representa uma lacuna significativa nos dados de segurança para populações vulneráveis."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Tabelas detalhadas fornecidas para eventos adversos por dose, intervalo de dias e gravidade. Casos de intussuscepção enumerados por janela de dias e número da dose (Tabelas 1, 2). Taxas de eventos adversos graves relatadas (2,4% vacina vs 2,6% placebo). Dados de mortalidade transparentes com causas de óbito especificadas. Distribuição racial/étnica e de gênero relatada. Algumas limitações no acesso a dados de nível individual."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Vigilância pós-comercialização abrangente através do VAERS e programa PRISM. PRISM avaliou >1,2 milhão de vacinações (507.000 primeiras doses) de 2004-2011 identificando associação temporal com intussuscepção (1-1,5 casos excessivos por 100.000 dentro de 21 dias da primeira dose). Estudo de coorte adicional de 85.150 bebês (2006-2009). Eventos adversos pós-comercialização documentados incluindo intussuscepção (incluindo óbito), anafilaxia, gastroenterite em bebês com IDCG, urticária, angioedema e doença de Kawasaki."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "RotaTeq demonstra um forte perfil de segurança apoiado por ensaios clínicos excepcionalmente grandes (>70.000 bebês) com desenho rigoroso controlado por placebo e sistemas exemplares de vigilância ativa. Pontos fortes principais incluem o programa pós-comercialização PRISM que quantificou o risco de intussuscepção (1-1,5 casos excessivos por 100.000 bebês vacinados dentro de 21 dias da primeira dose) contra uma taxa de base de 34 por 100.000 anualmente. Eventos adversos graves foram comparáveis entre os grupos (2,4% vs 2,6%). Mortalidade por todas as causas foi equilibrada (25 óbitos vacina vs 27 placebo). Limitações incluem a exclusão de bebês imunocomprometidos dos ensaios, monitoramento neurológico parcial além de convulsões, e a identificação de IDCG como contraindicação apenas através de vigilância pós-comercialização. Dados de bebês prematuros fornecem tranquilização, mas representam uma análise de subconjunto."
+  }
+}

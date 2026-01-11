@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_pedvaxhib",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Very large pediatric safety database: 4,459 healthy Navajo infants 6-12 weeks of age in the Protective Efficacy Study; 903 infants (678 receiving Liquid PedvaxHIB with 1,699 total doses) in the comparative formulation study; 8,086 doses of lyophilized PedvaxHIB administered to 5,027 healthy infants and children 2-71 months in early clinical studies. Combined, safety data from thousands of infants and young children across multiple trials."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Safety follow-up was primarily limited to short-term periods: 48-hour period for parent-reported observations (TABLE 5), and 3-day period for adverse reaction collection. The Protective Efficacy Study followed subjects until 15-18 months of age initially, then for an additional 2 years 9 months, but this extended follow-up focused on efficacy (disease occurrence) rather than comprehensive safety monitoring. Long-term safety follow-up beyond acute reactions is not documented."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "The pivotal Protective Efficacy Study included a true placebo control group among the 4,459 Navajo infants, allowing direct comparison of adverse events between vaccine and placebo recipients. 'No differences were seen in the type and frequency of serious health problems expected in this Navajo population or in serious adverse experiences reported among those who received lyophilized PedvaxHIB and those who received placebo.' Seizures occurred at similar rates in both groups (9 vaccine vs. 8 placebo)."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active surveillance consisted of parent-reported observations over a 48-hour period post-vaccination with standardized measurements (fever, injection site reactions at 6, 24, and 48 hours). Systematic collection of adverse reactions during 3-day post-vaccination period. However, no active long-term surveillance system described for detecting delayed adverse events. Monitoring relied heavily on passive reporting and parent observations rather than clinical examinations."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Seizures were specifically tracked in the Protective Efficacy Study: 9 in vaccine recipients (8 also received DTP) vs. 8 in placebo recipients (7 also received DTP), 'not reported to be related to lyophilized PedvaxHIB.' Guillain-Barre syndrome mentioned as potential adverse reaction associated with other Hib vaccines. Post-marketing reports include febrile seizures. However, no systematic neurological assessment protocol described, and neurological outcomes not a primary endpoint."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Safety was evaluated in high-risk populations including Native Americans (Navajo, Apache) who have documented higher disease incidence. Immunogenicity (and by extension safety monitoring) studied in genetically-defined subgroups: Km(1) allotype negative Blacks and G2m(23) allotype negative Caucasians who are hyporesponsive to nonconjugated vaccines. Premature infants addressed with recommendation to vaccinate at same chronological age as full-term infants. Safety noted as similar across racial/ethnic groups studied."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Key safety data presented in TABLE 5 with specific percentages and timepoints. Adverse reaction frequencies reported (>1% threshold). Multiple references to published peer-reviewed studies provided. However, some data cited as 'Data on file at Merck Research Laboratories' (Reference 33), indicating not all safety data is publicly available. Individual patient-level data not accessible. Detailed adverse event rates beyond the most common reactions not fully disclosed."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Established post-marketing surveillance through VAERS (Vaccine Adverse Event Reporting System), with specific phone number provided (1-800-822-7967). Healthcare providers instructed to report serious adverse reactions. Post-marketing adverse reactions documented: lymphadenopathy, rarely angioedema, febrile seizures, sterile injection site abscess. References include Institute of Medicine report on adverse events (Reference 48) and post-marketing surveillance of related vaccine (Reference 37)."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "PedvaxHIB demonstrates adequate safety evidence with an exceptionally large pediatric database (thousands of infants across multiple studies) and a true placebo-controlled comparison group in the pivotal trial showing no difference in serious adverse events between vaccine and placebo groups. Key limitations include short-term active safety follow-up (primarily 48-72 hours), lack of systematic neurological assessment protocols, and incomplete data transparency with some data remaining proprietary. Post-marketing surveillance through VAERS is established with documented post-marketing adverse reactions. The safety profile appears favorable with no serious vaccine-related adverse reactions reported in clinical trials, though long-term safety monitoring data is limited."
+  }
+}

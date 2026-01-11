@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "rv_rotarix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Rota-023 foi um estudo duplo-cego, randomizado, controlado por placebo. A formulação do placebo correspondia à vacina (mesmos lotes de diluente DD05A003A e DD05A003C), garantindo comparação verdadeiramente inerte. O estudo Rota-036 também usou desenho idêntico controlado por placebo.",
+      "level_description": "Placebo verdadeiramente inerte usado com aparência idêntica à vacina, permitindo avaliação imparcial de eventos adversos."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Tanto Rota-023 quanto Rota-036 foram explicitamente descritos como estudos duplo-cegos. O documento afirma 'A validade dos resultados foi fortalecida pelo desenho do estudo duplo-cego, controlado por placebo e multicêntrico.' O acesso à decodificação individual do tratamento foi rigorosamente controlado até o final dos períodos de acompanhamento de eficácia.",
+      "level_description": "Duplo-cegamento rigoroso mantido ao longo do estudo com controle estrito dos códigos de tratamento, prevenindo viés de observador e de relato."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Rota-023 randomizou sujeitos 1:1 para Rotarix ou placebo, e Rota-036 usou randomização 2:1. O documento confirma que 'a randomização foi equilibrada entre os grupos' com ocultação de alocação mantida. As características demográficas foram equilibradas entre os grupos (idade mediana, proporções de gênero, etnia).",
+      "level_description": "Randomização adequada com ocultação de alocação documentada e equilíbrio verificado das características basais entre os grupos."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Rota-023: Coorte de segurança total N=63.225 (Rotarix 31.673, Placebo 31.552). Rota-036: TVC N=3.994 (Rotarix 2.646, Placebo 1.348). O Resumo Integrado de Segurança Principal agrupou 36.755 sujeitos recebendo Rotarix na potência de licenciamento.",
+      "level_description": "Tamanho de amostra excepcionalmente grande excedendo 63.000 sujeitos, muito superior ao mínimo de 3.000 necessário para detectar eventos de 1:1.000."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Rota-023: Acompanhamento até a Visita 6 (aproximadamente 2 anos). Primeiro período de eficácia mais segundo período de eficácia até a Visita 6. Intervalo mediano da Dose 1 à Visita 3 foi de 100 dias. Rota-036: Acompanhamento até a Visita 7 (duração pretendida de 22-24 meses). Óbitos rastreados até a data de fechamento de 10 de setembro de 2004.",
+      "level_description": "Acompanhamento de dois anos atende ao padrão mínimo, embora vigilância mais longa capturaria melhor condições autoimunes de início tardio."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A inscrição foi limitada a bebês de 6-24 semanas de idade na Dose 1 (Rota-023) e 6-14 semanas (Rota-036). A idade mediana na Dose 1 foi de 7 semanas, na Dose 2 foi de 15 semanas. Análises adicionais por idade na Dose 1 (estrato de 57-84 dias) foram realizadas para mortalidade.",
+      "level_description": "Faixa etária muito estreita (apenas bebês). Nenhuma análise separada para crianças pequenas ou mais velhas, pois a vacina é indicada apenas para bebês."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Inclusão: Bebês saudáveis de 6-24 semanas de idade, peso ao nascer >2000g, livres de problemas de saúde óbvios. Exclusão: Histórico de malformação GI congênita, IS, imunodeficiência/HIV, doença GI crônica, uso de imunossupressores >14 dias, imunoglobulinas/produtos sanguíneos.",
+      "level_description": "Critérios claramente documentados com exclusões apropriadas para segurança, embora exclua crianças com condições subjacentes limitando a generalização."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Eventos adversos codificados usando classificação MedDRA com Termos Preferenciais (TPs) e Classes de Sistemas de Órgãos (CSOs). Escala Vesikari de 20 pontos usada para graduação de gravidade de GE. Escala Clark de 24 pontos usada como medida exploratória. Definições de caso da Brighton Collaboration usadas para diagnóstico de IS.",
+      "level_description": "Sistemas de codificação internacionais padronizados (MedDRA, Brighton Collaboration) usados com escalas de gravidade validadas."
+    },
+    "active_monitoring_serious": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Busca ativa de casos via contato telefônico semanal a partir do Dia 7 pós-Dose 1 ao longo do estudo. Pais instruídos a contatar o investigador imediatamente para EAGs/IS. EAGs verificados em visitas e contatos planejados. Comitê Independente de Monitoramento de Dados revisou casos de EAGs/IS. Comitê de Desfechos Clínicos adjudicou casos de IS.",
+      "level_description": "Vigilância ativa robusta com contato semanal, supervisão independente do CIMD e adjudicação pelo Comitê de Desfechos Clínicos."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Convulsões rastreadas: 16 Rotarix vs 6 placebo (TP Convulsões), não significativo quando TPs relacionados a convulsões agrupados (20 vs 12, p=0,219). Doença de Kawasaki: 1 caso em receptor de Rotarix (início 19 meses pós-Dose 2). Nenhum painel autoimune específico ou protocolo de monitoramento de desenvolvimento descrito.",
+      "level_description": "Convulsões e doença de Kawasaki rastreadas através de vigilância de EAGs, mas nenhum cronograma sistemático de exame neurológico ou protocolo de triagem autoimune."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Bebês prematuros excluídos (peso ao nascer >2000g requerido). Crianças imunocomprometidas excluídas. O documento menciona 'Embora os dados fossem limitados, Rotarix pareceu ser segura quando administrada a bebês prematuros.' Análise separada planejada em estudos pós-comercialização.",
+      "level_description": "Subgrupos vulneráveis excluídos dos principais ensaios; dados limitados sobre bebês prematuros mencionados, mas não apresentados em detalhes."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Rota-023 dimensionado para 90% de poder para descartar aumento de 10 vezes no IS com 60.000 sujeitos. EV calculada com ICs de 95% e valores-p. Diferenças de risco com ICs de 90% e 95% calculadas para IS. Modelo de riscos proporcionais de Cox usado. Revisor estatístico do CBER verificou os cálculos.",
+      "level_description": "Estudo explicitamente dimensionado para desfecho primário de segurança (IS), com metodologia estatística rigorosa e verificação independente."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Comitê Independente de Monitoramento de Dados (CIMD) e Comitê de Desfechos Clínicos (CDC) revisaram os dados. Revisor do FDA/CBER verificou cálculos independentemente. Algumas discrepâncias notadas, mas menores. Relatórios de estudos submetidos à FDA com tabelas detalhadas.",
+      "level_description": "Comitês de supervisão independentes revisaram os dados; FDA conduziu verificação independente. Dados brutos disponíveis para reguladores."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo observacional de segurança pós-licenciamento planejado para avaliar risco de IS na população dos EUA. Entre julho de 2004 e julho de 2007, 12.309.365 doses distribuídas em 100 países. Relatórios Periódicos de Atualização de Segurança submetidos. Plano de farmacovigilância focado em IS, mortalidade por pneumonia, distribuição de cepas de RV.",
+      "level_description": "Plano abrangente de vigilância pós-comercialização com estudo prospectivo nos EUA, mas documento anterior à disponibilidade completa de dados pós-comercialização."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudos conduzidos pela GSK Biologicals (fabricante). Lotes de Rotarix fabricados pela GSK. Análise realizada pelo requerente com alguma verificação independente do CBER. Nenhuma divulgação explícita de financiamento ou declarações de conflito de interesse no documento revisado.",
+      "level_description": "Estudos patrocinados e conduzidos pelo fabricante; revisão regulatória independente fornecida, mas nenhuma divulgação explícita de COI documentada."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Total de 99 óbitos relatados (Rotarix 56, Placebo 43; p=0,198). Detalhamento: antes da Visita 3 (51 vs 32, p=0,051), dentro de 31 dias (22 vs 11, p=0,057). Óbitos por pneumonia analisados: 16 vs 6 quando agrupados (p=0,0345). Todos os óbitos investigados; nenhum avaliado como relacionado à vacina.",
+      "level_description": "Relato completo de mortalidade por todas as causas com análise temporal e de causa detalhada, incluindo investigação de sinal de pneumonia."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de desenvolvimento clínico de Rotarix representa uma avaliação de segurança de vacina de alta qualidade com características exemplares incluindo verdadeiro controle placebo, duplo-cegamento, tamanho de amostra massivo (>63.000 sujeitos), codificação padronizada de eventos adversos, vigilância ativa com supervisão independente e relato abrangente de mortalidade por todas as causas. O estudo foi especificamente dimensionado para detectar um aumento de 10 vezes no risco de intussuscepção. Limitações principais incluem a faixa etária estreita (apenas bebês), exclusão de subgrupos vulneráveis (prematuros, imunocomprometidos), falta de monitoramento neurológico/de desenvolvimento sistemático além da vigilância de EAGs, patrocínio do fabricante sem divulgação explícita de COI, e duração de acompanhamento de aproximadamente 2 anos que pode perder condições autoimunes de início muito tardio. Um desequilíbrio numérico não significativo em óbitos (56 vs 43) e sinal de mortalidade por pneumonia estatisticamente significativo (16 vs 6 agrupados) justificam vigilância pós-comercialização contínua. No geral, isso representa uma avaliação de segurança rigorosa que atende ou excede os padrões típicos para estudos de licenciamento de vacinas."
+  }
+}

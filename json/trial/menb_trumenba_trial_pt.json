@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "menb_trumenba",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudos controlados usaram solução salina como placebo em alguns grupos (ex.: B1971011 Grupo 3 recebeu salina+HPV4, Grupo 2 recebeu rLP2086+salina). No entanto, a maioria das comparações envolveu comparadores ativos (HPV4, Tdap, dTaP-IPV) em vez de placebo inerte verdadeiro. Os grupos controle variaram por estudo: salina sozinha, salina + vacina não-meningocócica, ou vacina não-meningocócica sozinha (ex.: Tdap).",
+      "level_description": "Presente mas com falhas - Embora salina tenha sido usada em alguns braços, a maioria das comparações de segurança envolveu comparadores de vacina ativa que podem obscurecer as verdadeiras taxas de eventos adversos atribuíveis à vacina MenB."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo B1971011 foi 'com observador cego' - participantes, investigadores e requerente foram cegos, mas a equipe de dispensação/administração da vacina não foi cegada porque a aparência da vacina e da salina diferia. Estudos B1971012 e B1971010 foram 'simples-cegos' (apenas participantes cegos). Estudo B1971004 foi aberto.",
+      "level_description": "Presente mas com falhas - Cegamento do observador foi implementado no estudo principal dos EUA, mas não duplo-cego completo. A equipe que coletou informações de segurança foi separada da equipe de dispensação, mas cegamento completo não foi alcançado."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudos usaram alocação randomizada via sistemas de resposta interativa. Estudo B1971011: randomizou 2499 participantes (Grupo 1 n=999, Grupo 2 n=998, Grupo 3 n=502) com estratificação. Estudo B1971012: randomizado em proporção 3:3:3:2:1 com estratificação por faixa etária. Um centro estatístico independente (ISC) forneceu listagens de participantes cegos para a equipe de laboratório.",
+      "level_description": "Atende aos padrões esperados - Alocação aleatória documentada com sistemas computadorizados e ocultação de alocação através de centros estatísticos independentes."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Total de 4335 participantes receberam a formulação final (120ug). Dos 4282 participantes de 11-25 anos, 99,3% tinham 11-18 anos (adolescentes). Base de dados de segurança central de 4 estudos controlados: 2566 participantes receberam pelo menos 1 dose de Trumenba, 1012 em grupos controle. Apenas o Estudo B1971011 teve 1982 receptores adolescentes de Trumenba.",
+      "level_description": "Atende aos padrões esperados - Tamanho amostral excede 3.000 adolescentes no geral, adequado para detectar eventos na frequência de 1:1.000, embora a maioria dos participantes tinha 11-18 anos, não crianças mais jovens."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Acompanhamento de segurança foi de 6 meses após a última vacinação na maioria dos estudos. A fase de vacinação foi do Dia 1 até um mês após a 3ª vacinação, com acompanhamento estendendo-se a 6 meses após a dose final. Período total de monitoramento aproximadamente 12 meses da primeira dose até a conclusão do estudo.",
+      "level_description": "Presente mas com falhas - Seis meses após a vacinação é inadequado para detectar condições autoimunes ou neurológicas tardias que podem surgir ao longo de anos. A duração total de 12 meses está abaixo do mínimo ideal de vários anos."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Análises estratificadas por idade 11 a <14 anos (58,1%) e 15 a <18 anos (40,0%). Estudo B1971012 incluiu idades 11-19 com estratificação por 11-14 e 14-19 anos. Apenas 2,0% tinham >18 anos. Nenhuma criança <10 anos foi incluída; estudos em idades 1-10 foram adiados.",
+      "level_description": "Presente mas com falhas - Limitado a dois subgrupos adolescentes. Nenhum dado para bebês, crianças pequenas ou crianças mais jovens (idades 0-10). Estudos em crianças de 1-10 anos foram adiados como requisitos pós-comercialização."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Critérios de exclusão incluíram: defeitos conhecidos do sistema imune, terapia imunossupressora, condições neuroinflamatórias ou autoimunes (mielite transversa, uveíte, neurite óptica, esclerose múltipla), distúrbios neurológicos significativos, histórico de convulsões (exceto febris), reações anafiláticas prévias a vacinas. Apenas participantes saudáveis foram incluídos.",
+      "level_description": "Presente mas com falhas - Critérios altamente restritivos excluindo crianças imunocomprometidas, aquelas com condições autoimunes e distúrbios neurológicos limitam a generalização para populações do mundo real que podem receber a vacina."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Usou codificação MedDRA para eventos adversos. Escalas de graduação objetivas definidas: Vermelhidão/inchaço no local da injeção (medido em cm), gravidade da dor por interferência na atividade, limiares de febre (38,0-38,4C, 38,5-38,9C, 39,0-40,0C, >40,0C). Reações solicitadas registradas diariamente por 7 dias via diário eletrônico.",
+      "level_description": "Atende aos padrões esperados - Codificação MedDRA padronizada e critérios de graduação objetivos foram usados consistentemente entre os estudos com captura por diário eletrônico."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicitação ativa de EAGs do Dia 1 até 6 meses após a última vacinação. Comitê Externo de Monitoramento de Dados (EDMC/DMC) responsável pelo monitoramento contínuo de segurança. EAGs, hospitalizações, condições médicas crônicas recém-diagnosticadas (NDCMCs) e condições neuroinflamatórias/autoimunes foram especificamente consultadas pela equipe do estudo em cada visita.",
+      "level_description": "Atende aos padrões esperados - Vigilância ativa com supervisão de DMC, solicitações específicas para condições autoimunes/neuroinflamatórias e coleta sistemática de EAG durante todo o período de estudo."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Monitoramento específico para condições neuroinflamatórias e autoimunes com lista extensa de termos MedDRA para identificação de casos. 14 casos identificados: 13 autoimunes (exacerbação de psoríase, doença celíaca, tireoidite autoimune, PTI, artrite pós-infecciosa, coreia de Sydenham, nefropatia por IgA, doença de Crohn, artrite reumatoide, doença de Basedow-Graves, hipotireoidismo x2) e 1 neuroinflamatório (paralisia de Bell). Amostras de soro basais foram analisadas retrospectivamente para determinar condições pré-existentes.",
+      "level_description": "Atende aos padrões esperados - Protocolo de vigilância dedicado para condições autoimunes/neuroinflamatórias com solicitações aos investigadores, investigações extensas de casos, testes basais retrospectivos e narrativas de casos individuais."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Populações vulneráveis explicitamente excluídas: imunocomprometidos, aqueles com condições autoimunes, distúrbios neurológicos, bebês prematuros (não testados). Estudos em bebês mostraram taxa de febre de 90% com dose de 60ug, levando à descontinuação. Estudos em crianças de 1-10 anos adiados. População foi predominantemente caucasiana (90,8%), limitando diversidade racial/étnica.",
+      "level_description": "Inadequado - Crianças imunocomprometidas, aquelas com condições crônicas e bebês foram excluídos. Estudo em bebês mostrou sinais de segurança preocupantes (taxa de febre de 90%). Nenhum dado sobre subgrupos vulneráveis que podem mais precisar da vacina."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Cálculos de tamanho amostral documentados com 83,6% de poder geral do estudo para objetivos primários. Critérios de não inferioridade especificados (razão de TMG >0,67). Análises estatísticas realizadas por centro estatístico independente (ISC). Análises de sensibilidade realizadas para dados faltantes. Intervalos de confiança de 95% relatados. Populações de intenção de tratar modificada e por protocolo definidas.",
+      "level_description": "Atende aos padrões esperados - Cálculos de poder adequados, hipóteses pré-especificadas, análise estatística independente e análises de sensibilidade foram realizadas. Estudos foram primariamente dimensionados para imunogenicidade em vez de segurança."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Comitê Independente de Monitoramento de Segurança de Dados (EDMC/DMC) revisou dados de segurança. Inspeções FDA BioResearch Monitoring em 3 locais clínicos. Revisores estatísticos do CBER realizaram análises independentes. Divulgações financeiras fornecidas (10 investigadores com interesses divulgáveis de 1036 no total). Documento de revisão clínica da FDA disponível publicamente.",
+      "level_description": "Atende aos padrões esperados - Supervisão independente através de DMC, revisão e inspeção da FDA, divulgação financeira. Dados brutos individuais de participantes não disponíveis publicamente, mas FDA teve acesso completo aos dados."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Requisitos pós-comercialização incluem estudos confirmatórios B1971009 e B1971016 para cobertura mais ampla de cepas, estudos PREA B1971017 e B1971035 para idades 1-10 anos. Compromissos pós-comercialização incluem estudo de segurança B1971014 (~10.000 participantes adicionais), estudo de vacinas concomitantes B1971015 e estudo de desfechos de gravidez B1971052. Farmacovigilância de rotina planejada.",
+      "level_description": "Atende aos padrões esperados - Plano pós-comercialização abrangente incluindo estudos confirmatórios de eficácia, estudos pediátricos, coleta adicional de dados de segurança e registro de gravidez. Caminho de aprovação acelerada garante monitoramento contínuo."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Divulgações financeiras: 10 de 1036 investigadores tinham interesses financeiros divulgáveis. 9 receberam 'pagamentos significativos de outros tipos', 1 detinha 'interesse patrimonial significativo no patrocinador'. Patrocinador foi Wyeth Pharmaceuticals (subsidiária da Pfizer). Medidas para minimizar viés foram descritas. Nenhuma fonte de financiamento independente.",
+      "level_description": "Presente mas com falhas - Todos os estudos foram financiados pela indústria pela Pfizer/Wyeth. Embora divulgações financeiras tenham sido fornecidas, a falta de financiamento independente aumenta o risco de viés de desfecho favorável."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Um óbito relatado: acidente automobilístico 38 dias após a 1ª vacinação, considerado não relacionado à vacina. Óbitos rastreados durante todos os estudos. Taxas totais de EAG relatadas para todos os grupos: 1,7% Trumenba vs 1,6% controle (estudos controlados). Taxas de EAG por todas as causas por SOC documentadas.",
+      "level_description": "Atende aos padrões esperados - Mortalidade por todas as causas rastreada e relatada. O único óbito foi claramente não relacionado à vacinação. EAGs totais relatados por grupo sem restringir apenas a 'relacionados à vacina'."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "O programa de desenvolvimento clínico de Trumenba demonstra metodologia adequada para avaliação de imunogenicidade sob aprovação acelerada, com randomização adequada, definições padronizadas de eventos adversos, vigilância ativa de segurança para condições autoimunes/neuroinflamatórias e supervisão regulatória transparente. No entanto, existem limitações significativas para avaliação abrangente de segurança pediátrica: uso de comparadores ativos em vez de placebos verdadeiros na maioria dos braços, cegamento de observador em vez de duplo-cego, duração de acompanhamento de apenas 6 meses após a vacinação (inadequado para detecção de autoimunidade de longo prazo), exclusão de populações vulneráveis (imunocomprometidos, crianças com condições crônicas), falta de dados em crianças menores de 10 anos (adiado), sinais de segurança preocupantes em bebês (taxa de febre de 90% levando à descontinuação do estudo), e financiamento pela indústria sem verificação independente. Os 14 casos autoimunes/neuroinflamatórios em receptores da vacina versus 0 nos controles justificam vigilância contínua, embora as taxas tenham sido consideradas dentro das taxas populacionais de base. No geral, os estudos atendem aos padrões regulatórios para aprovação acelerada, mas ficam aquém dos padrões ideais de estudo de segurança para uma vacina pediátrica destinada ao uso populacional amplo."
+  }
+}

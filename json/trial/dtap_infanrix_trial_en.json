@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "dtap_infanrix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The Italian efficacy trial was 'DT-controlled' (Diphtheria and Tetanus Toxoids), not placebo-controlled. The German household contact study compared vaccinated vs unvaccinated household contacts but was not a randomized placebo-controlled trial. No inert placebo (saline) group was used in any study.",
+      "level_description": "Using another vaccine (DT) as comparator obscures the true adverse event rate. While better than no control, this design cannot distinguish adverse events caused by the pertussis component from those caused by the DT components or baseline rates."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The Italian efficacy trial is described as 'double-blind, randomized.' However, follow-up periods from 24-33 months and 3-6 years were conducted 'partially unblinded' and 'unblinded' respectively. The German household contact study had a physician 'blinded to the vaccination status' but was not a double-blind RCT.",
+      "level_description": "Initial blinding was present for the Italian trial but was compromised in extended follow-up periods, limiting the reliability of long-term safety and efficacy data."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Italian efficacy trial is described as 'double-blind, randomized' with 4,481 infants vaccinated with INFANRIX and 1,470 DT vaccinees. The document does not describe allocation concealment methods.",
+      "level_description": "Randomization was documented for the Italian efficacy trial. However, no details on allocation concealment or randomization methodology are provided."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Approximately 95,000 doses administered in clinical studies. 29,243 infants received INFANRIX in primary series studies; 6,081 children received fourth dose; 1,764 received fifth dose. Italian efficacy trial: 4,696 INFANRIX vs 4,678 whole-cell DTP. German safety study: 22,505 infants (66,867 doses).",
+      "level_description": "Sample sizes exceed the 3,000 threshold needed to detect 1:1,000 events. The large German safety study (22,505 infants) is particularly noteworthy for safety monitoring."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Solicited adverse reactions collected for only 4 consecutive days following each vaccine dose. The Italian trial mean follow-up was 17 months beginning 30 days after third dose for efficacy. German study monitored unsolicited adverse events within 28 days following vaccination; subset monitored within 8 days. Extended Italian follow-up to 6 years was unblinded.",
+      "level_description": "Active safety monitoring was extremely short (4 days for solicited reactions, 28 days for unsolicited). This is grossly inadequate for detecting autoimmune or neurological conditions that may emerge weeks or months later. The 6-12 month minimum is not met for safety monitoring."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Studies were conducted at different dose stages (primary series at 2,4,6 months; booster at 15-20 months; fifth dose at 4-6 years). However, separate age-stratified analysis (0-1 years, 1-5 years, 6-12 years) is not presented.",
+      "level_description": "While different studies covered different dose schedules, no formal age-stratified analysis of safety outcomes is presented to account for developmental differences in immune response."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "No detailed inclusion/exclusion criteria are provided in the package insert. Demographic information is given (e.g., 69% White, 16% Hispanic, 8% Black in one U.S. study). The document notes contraindications for use but not trial enrollment criteria.",
+      "level_description": "Limited demographic data is provided but no discussion of inclusion/exclusion criteria or generalizability limitations. It is unclear what populations were excluded from trials."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Standardized diary cards were used. Objective thresholds defined: Pain graded (Grade 2: cried/protested on touch; Grade 3: cried when limb moved), Fever thresholds (100.4F, 101.3F, 102.2F, 103.1F, 104F), Redness/swelling measured in mm (>20mm, >50mm, >110mm). Large swelling reactions defined with specific criteria.",
+      "level_description": "Clear operational definitions and grading scales were used for solicited adverse events. This allows for consistent measurement and comparison across studies."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Solicited reactions collected via standardized diary cards for 4 days. Unsolicited adverse events monitored within 28 days in German study. Selected serious reactions (fever >=104F, hypotonic-hyporesponsive episodes, persistent crying >=3 hours, seizures) were reported from the Italian trial (Table 4). Report cards supplemented by 'spontaneous reporting by parents.'",
+      "level_description": "Active monitoring was limited to a very short window (4 days for solicited, 28 days for unsolicited). While serious events were tracked, the combination of short duration and partial reliance on spontaneous reporting limits detection of serious adverse events."
+    },
+    "autoimmune_neurological": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Seizures reported: 1 in INFANRIX group (0.07/1,000 doses) vs 3 in whole-cell DTP (0.22/1,000) in Italian trial. German study reported afebrile seizure (0.13/1,000), febrile seizure (0.0/1,000). Hypotonic-hyporesponsive episodes: 0 in INFANRIX vs 9 in whole-cell DTP. Post-marketing lists encephalopathy, hypotonia, syncope. No systematic long-term neurological or autoimmune monitoring described.",
+      "level_description": "Only seizures and hypotonic-hyporesponsive episodes were tracked in trials with no long-term scheduled neurological assessments. Guillain-Barre syndrome is mentioned only as a warning, not as a monitored endpoint. Autoimmune conditions were not specifically monitored."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Warnings section mentions premature infants (apnea risk) and children at higher risk for seizures. However, no specific trial data is presented for premature infants, immunocompromised children, or children with allergies/chronic conditions. Section 8.4 states safety in infants <6 weeks and children 7-16 years not established.",
+      "level_description": "While precautions for vulnerable populations are mentioned, these groups were not intentionally included in trials with separate analysis of their outcomes."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Efficacy data includes 95% confidence intervals (e.g., 84% efficacy, 95% CI: 76, 89). P-values reported for some comparisons (P <0.001 for fever, P = 0.002 for hypotonic-hyporesponsive episodes). Modified intent-to-treat cohort used. No power calculation for safety outcomes documented.",
+      "level_description": "Statistical analysis for efficacy is documented with confidence intervals and p-values. However, there is no evidence that studies were powered for safety outcomes rather than just efficacy, which is a fundamental limitation."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Results from multiple studies summarized in package insert. References cite published literature (Plotkin SA, etc.). No mention of independent Data Safety Monitoring Board (DSMB), raw data availability, or individual participant data access.",
+      "level_description": "Summary data is provided but there is no indication of independent safety oversight, raw data availability, or mechanisms for independent verification of results."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.2 lists post-marketing adverse reactions including encephalopathy, hypotonia, syncope, anaphylactic reaction, thrombocytopenia, SIDS, and others. States these are 'reported voluntarily from a population of uncertain size' so 'not always possible to reliably estimate their frequency or establish a causal relationship.' Reporting to VAERS mentioned.",
+      "level_description": "Post-marketing surveillance relies on passive voluntary reporting (VAERS), which vastly underestimates true adverse event rates. No active pharmacovigilance system or periodic safety reports are described."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document identifies GlaxoSmithKline as manufacturer and distributor. No disclosure of funding sources for clinical trials, financial ties of investigators, or independence of data analysis is provided.",
+      "level_description": "No information on conflicts of interest or funding sources for the clinical trials. The vaccine is manufactured by GSK, but there is no disclosure about whether trials were independently conducted or analyzed."
+    },
+    "all_cause_mortality": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "SIDS (Sudden Infant Death Syndrome) is listed as a post-marketing reported event. No all-cause mortality data from clinical trials is presented. No total deaths or hospitalizations reported across treatment groups.",
+      "level_description": "The document does not report all-cause mortality or total hospitalizations from clinical trials. Only vaccine-related serious events are partially reported, which can miss overall harm if causality determination is subjective."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The INFANRIX package insert documents clinical trials with substantial sample sizes (29,243 infants in primary series, 22,505 in German safety study) and demonstrates efficacy against pertussis (84% efficacy in Italian trial). However, significant methodological limitations exist for safety assessment: (1) No true placebo control - trials used DT or whole-cell DTP as comparators; (2) Extremely short active safety monitoring (4 days for solicited reactions); (3) No systematic long-term monitoring for autoimmune or neurological conditions; (4) No all-cause mortality data reported; (5) Post-marketing surveillance relies on passive reporting systems; (6) No disclosure of conflicts of interest or independent safety oversight. While the vaccine has demonstrated efficacy and shows a better short-term safety profile than whole-cell pertussis vaccines, the evidence base for long-term safety in children is limited by study design choices that prioritize efficacy over comprehensive safety assessment."
+  }
+}

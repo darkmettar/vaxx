@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_vaxneuvance",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Todos os estudos clínicos utilizaram comparador ativo (Prevnar 13) em vez de placebo. Os Estudos 8-12 em crianças e os Estudos 1-7 em adultos compararam VAXNEUVANCE ao Prevnar 13. Nenhum ensaio controlado por placebo verdadeiro foi conduzido.",
+      "level_description": "Nenhum grupo de controle com placebo foi utilizado; todos os ensaios foram comparados com uma vacina conjugada pneumocócica existente (Prevnar 13), limitando a capacidade de avaliar a verdadeira eficácia e segurança da vacina versus nenhuma intervenção."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "O documento descreve consistentemente os estudos como 'estudos clínicos duplo-cegos, controlados por comparador ativo'. O Estudo 8 foi 'um estudo multicêntrico, duplo-cego, controlado por comparador ativo'. Os Estudos 1-5 e 7 em adultos e os Estudos 8-12 em crianças foram todos duplo-cegos.",
+      "level_description": "Duplo-cegamento robusto foi implementado em todos os principais ensaios clínicos em populações pediátricas e adultas, minimizando o viés na avaliação dos resultados."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Todos os estudos foram randomizados. O Estudo 8 randomizou participantes para VAXNEUVANCE (N=860) ou Prevnar 13 (N=860). O Estudo 9 randomizou na proporção 1:1:1:1:1. O Estudo 2 foi randomizado 9:1. O Estudo 4 foi randomizado 3:1. O Estudo 12 randomizou participantes para VAXNEUVANCE (N=303) ou Prevnar 13 (N=303).",
+      "level_description": "Esquemas claros de randomização foram implementados em todos os estudos clínicos com proporções de alocação especificadas, garantindo distribuição adequada dos participantes entre os grupos de vacinação."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "3.349 participantes receberam pelo menos uma dose de VAXNEUVANCE na série de 4 doses (Estudos 8-11). 1.814 receberam Prevnar 13. Somente o Estudo 8 teve N=858 VAXNEUVANCE e N=855 Prevnar 13. Nos EUA, 2.827 participantes receberam pelo menos uma dose. O Estudo 12 teve N=303 VAXNEUVANCE em vacinação de resgate.",
+      "level_description": "Grandes amostras pediátricas excedendo 3.000 participantes para VAXNEUVANCE em múltiplos estudos fornecem poder estatístico robusto para avaliações de segurança e imunogenicidade."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O acompanhamento de segurança para eventos adversos graves foi de 1 mês no Estudo 11 e 6 meses nos Estudos 8-10 para crianças. Em adultos, o acompanhamento foi de 1 mês (Estudo 5), 2 meses (Estudo 7), 6 meses (Estudos 1, 2, 4, 6) e 12 meses (Estudo 3). Reações adversas solicitadas monitoradas por 14 dias após a vacinação.",
+      "level_description": "Os períodos de acompanhamento variaram de 1 a 12 meses dependendo do estudo, com a maioria tendo 6 meses de acompanhamento de eventos adversos graves. Reações solicitadas de curto prazo rastreadas por 14 dias."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Coortes etários distintos foram estudados: bebês de 6 semanas a 15 meses (série de 4 doses), 7-11 meses, 12-23 meses, 2-17 anos (resgate), adultos de 18-49 anos, adultos 50+ anos e adultos 65+ anos. Populações especiais incluíram bebês prematuros, crianças com doença falciforme e indivíduos infectados pelo HIV.",
+      "level_description": "Estratificação etária abrangente em múltiplas coortes pediátricas e adultas com análises separadas para diferentes estágios de desenvolvimento e grupos de risco."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A bula fornece detalhes limitados sobre os critérios de inclusão/exclusão. Os estudos incluíram 'bebês saudáveis' e 'crianças'. Estudos em adultos incluíram aqueles 'com condições médicas subjacentes estáveis' e 'fatores de risco comportamentais'. Contraindicação mencionada para reação alérgica grave a componentes da vacina.",
+      "level_description": "Descrições gerais de elegibilidade fornecidas, mas critérios detalhados de inclusão/exclusão não estão totalmente especificados no documento de prescrição."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Segurança monitorada usando Cartão de Registro de Vacinação (VRC) por até 14 dias após a vacinação. Reações solicitadas no local da injeção (dor, endurecimento, eritema, inchaço) e reações sistêmicas (irritabilidade, sonolência, febre, diminuição do apetite) foram padronizadas. Graus de gravidade definidos (leve, moderado, grave).",
+      "level_description": "Coleta padronizada de eventos adversos com categorias predefinidas, escalas de gravidade e monitoramento consistente entre estudos usando instrumentos validados."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos graves foram monitorados ativamente por até 6 meses na maioria dos estudos pediátricos e 6-12 meses em estudos com adultos. Em crianças, EAGs até 6 meses foram 9,6% (VAXNEUVANCE) vs 8,9% (Prevnar 13). Em adultos, EAGs dentro de 30 dias foram 0,4% (VAXNEUVANCE) vs 0,7% (Prevnar 13); dentro de 6 meses, 2,5% vs 2,4%.",
+      "level_description": "Monitoramento ativo de eventos adversos graves foi conduzido com períodos de acompanhamento especificados e análise comparativa entre grupos, embora a dependência de comparador ativo limite a avaliação absoluta de segurança."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Uma convulsão febril foi relatada em uma bebê feminina de 9 semanas um dia após receber a Dose 1 de VAXNEUVANCE e vacinas infantis recomendadas. Apneia em bebês prematuros é mencionada como advertência. Nenhum monitoramento ou relato específico de condições autoimunes foi descrito.",
+      "level_description": "Relato limitado de eventos neurológicos (convulsão febril mencionada). Nenhum monitoramento sistemático de condições autoimunes descrito no documento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Múltiplas populações vulneráveis estudadas: bebês prematuros (<37 semanas de gestação, N=142 VAXNEUVANCE vs N=144 Prevnar 13), crianças com doença falciforme (N=70 vs N=34), crianças infectadas pelo HIV (N=203 vs N=204), adultos infectados pelo HIV (N=152 vs N=150), receptores de transplante de células-tronco hematopoiéticas (N=139 vs N=138), adultos com condições subjacentes.",
+      "level_description": "Avaliação abrangente em populações imunocomprometidas e vulneráveis, incluindo bebês prematuros, doença falciforme, infecção por HIV e receptores de transplante com braços de estudo dedicados."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Critérios de não-inferioridade especificados: taxas de resposta de IgG >-10 pontos percentuais, razões de GMC >0,5. Métodos estatísticos incluíram método de Miettinen & Nurminen para ICs, distribuição t para razões de GMC, modelos de análise de dados longitudinais restritos (cLDA). Intervalos de confiança de 95% fornecidos ao longo do documento.",
+      "level_description": "Metodologia estatística rigorosa com margens de não-inferioridade pré-especificadas, modelos apropriados e relatório abrangente de intervalos de confiança para desfechos de imunogenicidade."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Identificadores do ClinicalTrials.gov fornecidos para todos os estudos (NCT03893448, NCT03620162, NCT03692871, NCT02987972, etc.). Tabelas detalhadas de reações adversas e dados de imunogenicidade apresentadas. GMTs, GMCs, taxas de resposta e intervalos de confiança relatados.",
+      "level_description": "Números de registro de ensaios clínicos fornecidos, dados numéricos detalhados em tabelas. Protocolos completos de estudos e dados individuais de participantes não incluídos na bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Instruções para relatar reações adversas suspeitas à Merck em 1-877-888-4231 ou ao VAERS em 1-800-822-7967 ou www.vaers.hhs.gov. A seção de aconselhamento ao paciente instrui a relatar reações adversas graves através de profissionais de saúde ao VAERS.",
+      "level_description": "Mecanismos padrão de vigilância pós-comercialização através do VAERS são referenciados. Nenhum compromisso ou resultado de estudo pós-comercialização ativo descrito no documento."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhuma divulgação de conflitos de interesse, fontes de financiamento de estudos ou relacionamentos de investigadores mencionada na bula.",
+      "level_description": "A bula não contém divulgações de conflito de interesse. Estudos conduzidos pelo fabricante (Merck), mas nenhuma declaração específica de COI fornecida."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhum dado de mortalidade por todas as causas relatado na bula. Eventos adversos graves relatados como porcentagens, mas mortes não são especificamente enumeradas ou discutidas.",
+      "level_description": "Mortalidade por todas as causas não é relatada no documento de prescrição para nenhum grupo de tratamento em qualquer estudo."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Os ensaios clínicos de VAXNEUVANCE demonstram metodologia robusta com desenho duplo-cego randomizado em grandes populações pediátricas (>3.300) e adultas (>5.600). Os estudos usaram comparador ativo (Prevnar 13) em vez de controle placebo, limitando a verdadeira avaliação de eficácia/segurança vs nenhuma intervenção. Excelente estratificação etária e avaliação de subgrupos vulneráveis incluindo bebês prematuros, doença falciforme, infecção por HIV e receptores de transplante. Monitoramento padronizado de eventos adversos com acompanhamento de 6 meses para eventos adversos graves na maioria dos estudos. Análises estatísticas bem especificadas com critérios de não-inferioridade. Lacunas principais incluem ausência de controle placebo, detalhes limitados de monitoramento autoimune/neurológico, nenhum relato de mortalidade por todas as causas e nenhuma divulgação de conflito de interesse."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hpv_gardasil9",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extenso banco de dados de segurança pediátrica: O Estudo V503-002 recrutou 1.890 meninas e 644 meninos de 9-15 anos. O Estudo V503-005 recrutou 1.241 crianças de 11-15 anos. O Estudo V503-007 recrutou 1.054 crianças de 11-15 anos. A exposição pediátrica total nos estudos excede 3.500 participantes, fornecendo dados de segurança robustos para a população pediátrica-alvo."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Períodos de acompanhamento de segurança: reações adversas solicitadas coletadas por 15 dias pós-vacinação via Cartões de Relatório de Vacinação. EAGs coletados do Dia 1 até 180 dias (6 meses) após a última vacinação. Mortes e EAGs relacionados à vacina coletados durante todo o período do estudo. V503-001 acompanhamento mediano de aproximadamente 40 meses para novas condições médicas. Janela de EAG de seis meses adequada para reações agudas, mas pode não detectar eventos autoimunes ou neurológicos tardios."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Desenho com comparador ativo: Gardasil (qHPV) usado como controle em vez de placebo inerte. Ambas as vacinas contêm adjuvante de alumínio (AAHS - 500 mcg em 9vHPV vs 225 mcg em qHPV). Este desenho limita a avaliação do perfil de segurança absoluto e efeitos relacionados ao adjuvante. Comparações históricas de placebo de estudos anteriores de qHPV usadas apenas para análises de suporte. O comparador qHPV é eticamente apropriado, mas mascara efeitos potenciais comuns a ambas as vacinas."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Sistema de vigilância ativa abrangente: Cartões de Relatório de Vacinação para coleta padronizada de reações no local da injeção (dor, inchaço, eritema) e temperatura oral por 5 dias pós-vacinação; todos os eventos adversos por 15 dias pós-vacinação. Período de observação de 30 minutos pós-vacinação. EAGs ativamente coletados independentemente de causalidade. Novas condições médicas rastreadas ao longo do estudo. Comitê de Monitoramento de Segurança de Dados revisou dados de segurança."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Eventos adversos neurológicos documentados: 7 casos de esclerose múltipla (5 em 9vHPV, 2 em qHPV). Narrativas detalhadas de casos fornecidas incluindo tempo de início dos sintomas em relação à vacinação. Casos de hipoestesia/parestesia avaliados (AN 10888, AN 74925). Cefaleia e tontura rastreadas como reações adversas sistêmicas. Taxa de incidência de EM no grupo 9vHPV (20,7/100.000 pessoas-ano) no limite superior da faixa da população geral. O desequilíbrio numérico em casos de EM observado como requerendo vigilância pós-comercialização."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Dados limitados de populações vulneráveis: Desfechos de gravidez ativamente monitorados com sinal preocupante - taxa de aborto espontâneo de 19,1% em receptoras de 9vHPV que engravidaram dentro de 30 dias da vacinação vs 9,6% fora dessa janela e vs 8,0% no grupo qHPV. Pacientes imunocomprometidos excluídos de todos os estudos. Nenhum dado sobre participantes com condições autoimunes (critério de exclusão). Receptores anteriores de qHPV estudados no V503-006 mostraram perfil de segurança similar. Isenção PREA concedida para idades de 0-8 anos."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O documento de revisão da FDA fornece tabelas detalhadas de segurança por classe de sistema de órgãos, gravidade e tempo desde a vacinação. Narrativas individuais de EAGs com números de alocação fornecidas. Todas as mortes documentadas com avaliação de causalidade. Condições autoimunes tabuladas por termo preferencial. Alguns dados redigidos (marcados b)(4)) por informação proprietária. Problemas de conformidade GCP em dois sites levaram à exclusão de dados com análises de sensibilidade demonstrando impacto mínimo. Declarações financeiras fornecidas."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Compromissos robustos de segurança pós-comercialização: Estudo Mini-Sentinel patrocinado pela FDA para diagnósticos associados a autoimunidade incluindo EM. Colaboração FDA/CDC para estudo Vaccine Safety Datalink sobre abortos espontâneos. Merck patrocinará registro de gravidez para avaliar desfechos gestacionais. Monitoramento VAERS em andamento baseado na experiência com qHPV (56 milhões de doses distribuídas, 21.194 relatos de eventos adversos, 92% não graves). Estudos de segurança pós-comercialização especificamente desenhados para abordar sinais identificados em ensaios clínicos."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O perfil de segurança da Gardasil 9 é baseado em um grande banco de dados clínico (>15.000 participantes expostos a 9vHPV) com coleta sistemática de eventos adversos. Principais achados de segurança: reações no local da injeção mais comuns com 9vHPV (90,2%) vs qHPV (84,0%); reações sistêmicas similares entre grupos. Sinais de segurança que requerem monitoramento: desequilíbrio numérico em casos de EM (5 vs 2, taxas de 20,7 vs 8,3 por 100.000 pessoas-ano); taxa elevada de aborto espontâneo (19,1%) quando a concepção ocorre dentro de 30 dias da vacinação. As limitações incluem: desenho com comparador ativo impedindo comparação verdadeira com placebo, exclusão de populações imunocomprometidas e janela de coleta de EAG de 6 meses. A vigilância pós-comercialização está adequadamente desenhada para abordar questões residuais de segurança."
+  }
+}

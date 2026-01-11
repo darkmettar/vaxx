@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "den_dengvaxia",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Um total de 22.924 crianças de 6-16 anos recebeu pelo menos uma dose de DENGVAXIA em 12 ensaios clínicos. O Estudo 1 incluiu 20.869 participantes (idades 9-16), o Estudo 2 incluiu 10.278 participantes (idades 6-14). Isso excede em muito o limite de 3.000 por faixa etária, fornecendo excelente poder estatístico para detectar eventos adversos que ocorrem em taxas de 1:1.000 ou mais frequentes."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Os participantes foram monitorados para dengue grave do Dia 0 até o mês 72 (6 anos) após a primeira vacinação. O Estudo 4 (NCT01983553) foi especificamente um estudo de extensão para avaliar segurança por 72 meses. Este período de acompanhamento estendido permitiu a detecção do sinal de segurança crítico tardio (aumento de dengue grave em indivíduos soronegativos), excedendo em muito o padrão mínimo de 12 meses."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Placebo salino verdadeiro (cloreto de sódio 0,9%) utilizado como comparador com randomização 2:1 em estudos cegos para o observador. Um total de 10.668 participantes recebeu placebo, permitindo atribuição precisa de eventos adversos. O controle salino permite comparação imparcial das taxas de reação, confirmando quais eventos são verdadeiramente relacionados à vacina versus coincidentes."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Reações adversas solicitadas foram registradas diariamente por 14 dias após cada vacinação. Eventos adversos graves foram ativamente monitorados por pelo menos 6 meses após a última dose em 12 estudos. Mortes e casos de dengue grave foram rastreados até o mês 72. Eventos adversos graves relacionados foram identificados e investigados (crise asmática, urticária, convulsão, encefalomielite disseminada aguda). No entanto, o subgrupo de reatogenicidade foi limitado a 2.000-1.310 participantes em vez da coorte completa."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Um caso de encefalomielite disseminada aguda (ADEM) 7 dias após a Dose 1 foi identificado como relacionado à vacina. Uma convulsão no dia da Dose 1 foi relatada. A definição de dengue grave inclui encefalopatia como critério. No entanto, não há evidência de avaliações de desenvolvimento programadas, exames neurológicos de rotina ou protocolo sistemático para detectar condições como Síndrome de Guillain-Barre, distúrbios convulsivos ou atrasos no desenvolvimento durante o período de acompanhamento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Indivíduos imunocomprometidos são explicitamente contraindicados e excluídos dos ensaios em vez de estudados com salvaguardas apropriadas. Nenhuma menção de inclusão intencional ou análise separada para prematuros, crianças com alergias, condições crônicas ou aquelas em medicamentos concomitantes. O documento identifica que crianças menores de 6 anos estão em risco aumentado independentemente do sorostatus, mas isso foi descoberto reativamente em vez de através de inclusão prospectiva de subgrupos vulneráveis."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Doze números de registro de ensaios clínicos fornecidos (NCT01374516, NCT01373281, NCT00842530, NCT01983553 e outros 8). Comitê Independente de Monitoramento de Dados (IDMC) supervisionou os estudos. Tabelas detalhadas com taxas de eventos adversos, intervalos de confiança e razões de risco publicadas. No entanto, dados de participantes individuais não são mencionados como publicamente disponíveis, e acesso a dados brutos para verificação independente não está documentado."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A seção pós-comercialização (6.2) descreve eventos adversos relatados espontaneamente incluindo reações alérgicas/anafiláticas e infecção grave por dengue com hospitalização e morte em indivíduos com status desconhecido de dengue prévia. Relato incentivado via VAERS (1-800-822-7967) e farmacovigilância da Sanofi Pasteur (1-800-822-2463). Registro de gravidez estabelecido. No entanto, esta é principalmente vigilância passiva com limitações reconhecidas na estimativa da frequência real dos eventos."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "A documentação de segurança da DENGVAXIA fornece confiança razoável no perfil de segurança da vacina para a população aprovada (indivíduos soropositivos de 6-16 anos em áreas endêmicas), mas com ressalvas importantes. Os pontos fortes incluem uma amostra pediátrica excepcionalmente grande (22.924 crianças), controle com placebo salino verdadeiro e acompanhamento de 6 anos que identificou com sucesso um sinal de segurança crítico tardio - crianças soronegativas enfrentam risco quase 4 vezes maior de dengue grave após vacinação (HR 3,94). Esta descoberta levou à restrição apropriada da indicação. No entanto, a documentação é deficiente em monitoramento neurológico sistemático e avaliação de subgrupos vulneráveis. Os pais devem sentir confiança moderada sobre a segurança na população aprovada, mas devem garantir que a infecção prévia por dengue seja confirmada antes da vacinação, dadas as consequências graves para indivíduos soronegativos."
+  }
+}

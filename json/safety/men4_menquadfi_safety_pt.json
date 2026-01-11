@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Um total de 4.273 crianças menores de 2 anos receberam pelo menos uma dose de MenQuadfi em três estudos em bebês: 3.807 na série de 4 doses e 466 na série de 2 doses. O maior estudo (Estudo 2) incluiu 2.080 bebês, e o Estudo 1 incluiu 1.727 bebês. Para crianças de 2-9 anos, 498 participantes receberam MenQuadfi. Esses números excedem o limiar mínimo de 1.000 e aproximam-se do ideal de 3.000+ para a população de bebês, fornecendo poder razoável para detectar eventos adversos ocorrendo em frequência de 1:1.000. No entanto, a amostra da faixa etária de 2-9 anos (N=498) está abaixo do ideal."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Reações adversas solicitadas foram monitoradas por apenas 7 dias após a vacinação usando cartões-diário. Eventos adversos não solicitados foram coletados por 30 dias. Eventos adversos graves (EAGs) foram coletados por 6 meses após a última vacinação na maioria dos estudos (Estudo 10 coletou EAGs por apenas 1 mês). Embora 6 meses seja melhor que ensaios de vacinas típicos (30-42 dias), permanece grosseiramente inadequado para detectar condições autoimunes e neurológicas que podem surgir meses a anos após a vacinação. Nenhum acompanhamento de longo prazo (1-3+ anos) foi realizado, deixando incerteza significativa sobre sinais de segurança tardios."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Todos os dez estudos clínicos usaram controles ativos (outras vacinas) em vez de placebo verdadeiro (solução salina). Comparadores incluíram: Menveo (Estudos 1-5), Menactra (Estudos 3, 6, 8) e Menomune (Estudos 7, 10). Usar outras vacinas como controles obscurece a verdadeira taxa basal de eventos adversos, já que ambos os grupos recebem produtos reatogênicos. Esse desenho torna impossível determinar qual proporção de eventos adversos ocorreria sem vacinação. O documento afirma que nenhum ensaio controlado por placebo foi realizado."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Vigilância ativa foi implementada através de múltiplos mecanismos: monitoramento de 30 minutos após a vacinação para reações imediatas, cartões-diário diários preenchidos por pais/responsáveis por 7 dias documentando reações solicitadas, visitas de acompanhamento em 1-2 meses onde cartões-diário foram revisados com investigadores, e coleta de eventos adversos com atendimento médico (visitas ao pronto-socorro, consultas médicas inesperadas) por 6 meses. Taxas de EAG foram relatadas (5,3% MenQuadfi vs 3,6% Menveo na série de 4 doses em bebês). Duas convulsões febris foram identificadas como possivelmente relacionadas à vacina. O monitoramento solicitado estruturado é adequado para avaliação de curto prazo."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A seção de Advertências inclui menção específica de Síndrome de Guillain-Barré (SGB) relatada com outra vacina conjugada meningocócica. Duas convulsões febris foram relatadas como EAGs possivelmente relacionadas a MenQuadfi (ambas ocorreram com MMR, varicela e PCV13 concomitantes aos 12 meses). Relatos pós-comercialização incluem convulsão febril, convulsão e síncope. No entanto, não houve protocolo sistemático para avaliação neurológica, nenhuma avaliação de desenvolvimento programada e nenhuma lista predefinida de condições neurológicas/autoimunes para monitorar. A bula não descreve nenhuma vigilância ativa para condições como SGB, encefalite ou regressão do desenvolvimento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Bebês prematuros foram intencionalmente incluídos: Estudo 1 incluiu 133 bebês prematuros (7,7% dos receptores de MenQuadfi, 31 a <37 semanas de gestação), e Estudo 2 incluiu 89 bebês prematuros (4,3%). O documento observa especificamente 'nenhuma diferença notável nas taxas e gravidade de reações adversas entre bebês prematuros e a termo.' No entanto, crianças imunocomprometidas não foram ativamente estudadas; a seção de Advertências apenas afirma que elas 'podem ter respostas imunes reduzidas.' Nenhum dado é apresentado para crianças com alergias, condições crônicas ou em medicações concomitantes além das vacinas infantis de rotina."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Todos os dez estudos clínicos estão registrados no ClinicalTrials.gov com identificadores fornecidos (NCT03537508, NCT03673462, NCT03691610, NCT03077438, NCT02199691, NCT02842853, NCT02842866, NCT02752906, NCT04084769, NCT04142242). Tabelas detalhadas incluem porcentagens, intervalos de confiança de 95% e detalhamentos por grau de gravidade. No entanto, não há menção de um Comitê de Monitoramento de Segurança de Dados (DSMB) independente, nenhuma indicação de que dados brutos ou dados individuais de participantes (DIP) estejam disponíveis para análise independente, e nenhuma publicação revisada por pares é referenciada na bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "A seção de Experiência Pós-Comercialização reconhece limitações significativas: 'Como essas reações são relatadas voluntariamente de uma população de tamanho incerto, nem sempre é possível estimar de forma confiável sua frequência ou estabelecer uma relação causal.' Sinais pós-comercialização identificados incluem anafilaxia, hipersensibilidade, convulsão febril, convulsão e síncope. O documento orienta profissionais de saúde a relatar ao VAERS, que é um sistema de relato passivo conhecido por capturar apenas uma fração dos eventos adversos reais. Não há menção de programas de farmacovigilância ativa, relatórios periódicos de atualização de segurança ou estudos sistemáticos pós-comercialização para detectar eventos raros em milhões de doses."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula de MenQuadfi fornece garantia parcial de segurança em crianças, com lacunas significativas que impedem conclusões confiantes sobre segurança de longo prazo. Pontos fortes incluem tamanhos amostrais pediátricos adequados para bebês (4.273 no total menores de 2 anos), bom monitoramento ativo solicitado com cartões-diário, inclusão intencional de bebês prematuros com resultados tranquilizadores não mostrando diferenças em relação a bebês a termo, e excelente relato estratificado por idade. No entanto, limitações críticas minam a confiança: (1) Nenhum controle com placebo verdadeiro - todos os estudos usaram outras vacinas como comparadores, tornando impossível determinar a verdadeira taxa de eventos adversos atribuíveis à vacina; (2) Duração de acompanhamento inadequada - máximo de 6 meses para EAGs é insuficiente para detectar condições autoimunes ou neurológicas que podem surgir anos depois; (3) Vigilância pós-comercialização passiva dependendo do VAERS subestimará vastamente eventos adversos raros. As duas convulsões febris identificadas como possivelmente relacionadas e o alerta de SGB sugerem que sinais neurológicos merecem atenção, mas nenhum protocolo de monitoramento sistemático existe. Pais podem ter confiança razoável sobre reações comuns de curto prazo, mas o documento não aborda adequadamente preocupações de segurança raras e de longo prazo."
+  }
+}

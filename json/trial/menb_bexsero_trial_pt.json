@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "menb_bexsero",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo V72_41 (Canadá/Austrália) usou MenACWY-CRM (Menveo) como comparador, não placebo verdadeiro. O Estudo V72_29 (Reino Unido) usou MenACWY-CRM como comparador. O Estudo V72P10 (Chile) usou placebo de hidróxido de alumínio-solução salina para alguns grupos apenas até o Mês 3, depois nenhum controle do Mês 6-12. O Estudo V102_03 usou placebo salino (cloreto de sódio com água) apenas para o grupo comparador Menveo. Os principais ensaios em adolescentes não tiveram controles com placebo inerte verdadeiro - usaram comparadores de vacina ativa.",
+      "level_description": "Presente, mas com falhas significativas - a maioria dos ensaios principais usou outra vacina (Menveo) como comparador em vez de placebo inerte, o que obscurece as verdadeiras taxas de eventos adversos. Apenas controle parcial com placebo no estudo chileno até o Mês 3."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo V72_41: desenho com observador cego onde a equipe do estudo que administrou as vacinas não foi cegada, mas os avaliadores foram. Estudo V72_29: desenho com observador cego. Estudo V72P10: desenho com observador cego com placebo contendo hidróxido de alumínio-solução salina para manter o cegamento. Estudo V102_03: estudo randomizado, controlado, com observador cego. Estudos usaram cartões-diário revisados por equipe cega.",
+      "level_description": "A metodologia com observador cego foi usada consistentemente nos ensaios principais, com procedimentos documentados para prevenir viés na avaliação de desfechos. No entanto, não houve duplo-cego completo, pois os administradores das vacinas não foram cegos."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudo V72_41: participantes randomizados 2:1 (rMenB+OMV: Menveo). Estudo V72_29: participantes randomizados 2:2:1 entre os grupos. Estudo V72P10: participantes randomizados 1:1:1:1:1:1:1:1 entre 8 grupos. Estudo V102_03: participantes randomizados 1:1:1:1 entre 4 grupos de tratamento. Todos os estudos usaram procedimentos documentados de alocação aleatória.",
+      "level_description": "Alocação aleatória documentada com proporções especificadas em todos os principais ensaios clínicos. Procedimentos de randomização foram definidos em protocolo."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Ensaios principais em adolescentes/adultos jovens (10-25 anos): V72_41: 1631 incluídos (1.097 receberam rMenB+OMV). V72_29: 3304 incluídos. V72P10: 1631 incluídos (1622 receberam pelo menos uma dose de rMenB+OMV). V102_03: 484 incluídos (122 no grupo rMenB+OMV). Total nos ensaios principais: 3.058 participantes receberam pelo menos uma dose. Campanhas de vacinação pré-licenciamento: 15.351 participantes em universidades dos EUA.",
+      "level_description": "Tamanho amostral combinado de 3.058 em ensaios clínicos controlados mais 15.351 em campanhas de acesso expandido fornece poder adequado para detectar eventos adversos no nível de 1:1.000. No entanto, a faixa etária de 10-25 anos não é estritamente pediátrica (0-12 anos)."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo V72_41: participantes acompanhados por 6 meses após a última vacinação. Estudo V72_29: 12 meses de acompanhamento, com participantes avaliados aos 6 meses e 11 meses após a 2ª dose. Estudo V72P10: período de estudo de 12 meses com monitoramento de EAG durante todo o período. Estudo V102_03: 8 meses de duração total (6 meses após a última dose). Eventos adversos solicitados monitorados por 7 dias após a vacinação; EAs não solicitados por 30 dias. EAGs e EAAMs coletados durante os períodos de estudo.",
+      "level_description": "O acompanhamento variou de 6-12 meses entre os estudos. Embora alguns estudos tenham tido acompanhamento de 12 meses, isso é mínimo para detectar efeitos autoimunes ou neurológicos de longo prazo. Monitoramento de EA solicitado de 7 dias é padrão, mas curto."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudos separados por idade: V72_41 incluiu 11-17 anos. V72_29 incluiu duas coortes: 11-17 anos e 18-24 anos com análise separada apresentada. V72P10 incluiu 11-17 anos. V102_03 incluiu 10-25 anos com subanálises demográficas. Estudos adicionais em bebês (V72P13, V72P16) em bebês de 2 meses avaliados separadamente. Idade média relatada: V72_41 13,8 anos; V72_29 adolescentes 14,1 anos, adultos jovens 20,6 anos; V102_03 15,0 anos.",
+      "level_description": "Inclusão e análise específicas por idade foram realizadas, com adolescentes (11-17) e adultos jovens (18-24) estudados separadamente no ensaio do Reino Unido. Diferentes estudos focaram em diferentes coortes etários."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Critérios detalhados de inclusão/exclusão documentados: participantes saudáveis, sem vacinação meningocócica prévia, sem histórico de doença meningocócica, sem doença crônica/progressiva, sem imunocomprometimento, sem reações alérgicas graves a vacinas. Excluídos: gravidez, febre >38C nos 7 dias anteriores, antibióticos nos 7 dias anteriores, hemoderivados nos 90 dias anteriores, outras vacinas em 14-28 dias. Participantes do sexo feminino exigiam métodos contraceptivos aceitáveis.",
+      "level_description": "Critérios claros e detalhados foram documentados. No entanto, critérios foram restritivos (apenas participantes saudáveis), limitando a generalização para crianças com condições de saúde subjacentes."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Sistema de codificação MedDRA usado para classificação de eventos adversos em todo o estudo. Diretrizes da Brighton Collaboration referenciadas para definição de febre (T>38,0C). Escalas de graduação de gravidade definidas: reações locais (dor: leve/moderada/grave; eritema/endurecimento por faixas de mm); reações sistêmicas (nenhuma, leve, moderada, grave com base na limitação de atividade diária). Limiares específicos de temperatura: 38,0C, 38,5C, 39,0C, 39,5C, 40,0C documentados.",
+      "level_description": "Codificação MedDRA padronizada, critérios de febre da Brighton Collaboration e escalas objetivas de graduação de gravidade foram aplicados consistentemente entre os estudos. Documentação clara dos métodos de medição."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "EAs solicitados coletados ativamente via cartões-diário por 7 dias após a vacinação. EAGs monitorados ativamente durante os períodos de estudo (6-12 meses). Protocolo incluiu: chamadas telefônicas nos Dias 3-5 e Dias 63-65 para consultar sobre EAGs; visitas programadas para avaliação de segurança; observação de 30 minutos após vacinação. Eventos Adversos com Atendimento Médico (EAAMs) rastreados. Óbitos investigados com avaliação de causalidade. 35 EAGs relatados em V72P10 com narrativas detalhadas e avaliações dos investigadores.",
+      "level_description": "Solicitação ativa de eventos adversos via cartões-diário, chamadas telefônicas e visitas programadas. EAGs monitorados com avaliação de causalidade. Distinção clara entre eventos solicitados e não solicitados documentada."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dois casos de artrite juvenil relatados em V72P10 (170 e 198 dias após a vacinação) - um avaliado como possivelmente relacionado. Um caso de tireoidite aguda em V72_29. Um caso de convulsão/epilepsia (condição pré-existente). Síncope com manifestações convulsivas (vasovagal, relacionada à venopunção). Um caso de meningite bacteriana (Streptococcus pneumoniae, não relacionado). O revisor concluiu que os dados não sugerem associação entre vacinação e condições autoimunes. Nenhum protocolo de triagem sistemático para essas condições documentado.",
+      "level_description": "Alguns eventos autoimunes/neurológicos foram capturados e analisados, mas não houve protocolo de monitoramento sistemático predefinido para essas condições específicas. Monitoramento foi reativo em vez de proativo."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Pacientes imunocomprometidos excluídos dos ensaios - a bula observa que 'respostas imunes reduzidas' podem ocorrer. Mulheres grávidas excluídas; registro de gravidez estabelecido. Estudo V72P4 incluiu 53 adultos 'em risco' (trabalhadores de laboratório). Condições pré-existentes observadas como critérios de exclusão. Documento afirma que segurança e eficácia não estabelecidas em adultos >65 anos ou crianças <10 anos. Plano de Estudo Pediátrico inclui estudos adiados para 6 semanas a <10 anos.",
+      "level_description": "Grupos vulneráveis (imunocomprometidos, grávidas, prematuros) foram excluídos dos ensaios em vez de estudados. Dados limitados sobre aplicabilidade no mundo real para crianças com condições crônicas."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Estudos dimensionados para desfechos de imunogenicidade com critérios pré-especificados (aumento de 4 vezes nos títulos de hSBA). Análises de segurança foram descritivas sem teste de hipóteses. Consistência lote-a-lote avaliada com critérios de IC 95% bilateral (intervalo 0,50-2,00). Dados faltantes: nenhuma imputação realizada. Populações por protocolo e intenção de tratar definidas. Imunogenicidade analisada usando população PP. Desequilíbrios basais observados e discutidos.",
+      "level_description": "Estudos foram adequadamente dimensionados para imunogenicidade, mas análise de segurança foi apenas descritiva - uma limitação comum. Métodos estatísticos foram apropriados para os desenhos de estudo."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Documento de revisão de BLA da FDA (STN: 125546/0) com relatórios de estudos clínicos detalhados citados. Comitê de Monitoramento de Segurança de Dados (DMC) estabelecido para V102_03 para avaliar os primeiros 10% dos participantes. Inspeções BIMO em locais revelaram alguns problemas de documentação (16 retiradas devido a reações no local da injeção não capturadas nos CRFs). Tabelas detalhadas de eventos adversos por grupo fornecidas. Narrativas de EAG individuais incluídas. Emendas de CSR e mudanças de protocolo documentadas.",
+      "level_description": "Processo de revisão da FDA com supervisão de DSMB, inspeções em locais e relato detalhado de eventos adversos. Alguns problemas de coleta de dados identificados e documentados. DIP brutos não disponíveis publicamente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Campanhas de vacinação pré-licenciamento na Universidade de Princeton e UCSB forneceram dados semelhantes a pós-comercialização em 15.351 participantes sob IND de Acesso Expandido do CDC. Vigilância de EAG por 30 dias após a 2ª dose via triagem de admissão, pesquisas eletrônicas, linhas diretas de segurança 24 horas, visitas a serviços de saúde, relatórios hospitalares. 50 EAGs relatados e analisados incluindo anafilaxia (1 caso - avaliado como taxa esperada), apendicite (9 casos), rabdomiólise (2 casos), 1 óbito (afogamento, não relacionado). Registro de gravidez estabelecido.",
+      "level_description": "Vigilância extensiva pré-licenciamento através de campanhas de vacinação universitária forneceu dados de segurança do mundo real. Registro de gravidez para monitoramento contínuo. Sistemas de relato passivo padrão (VAERS) implícitos, mas não detalhados."
+    },
+    "conflict_of_interest": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Requerente identificado como Novartis Vaccines and Diagnostics. Estudos conduzidos sob IND com contribuição regulatória do CBER. Ensaios clínicos foram patrocinados pelo fabricante. Revisor clínico da FDA (Anuja Rastogi) realizou avaliação independente. Nenhuma declaração explícita de divulgações financeiras para investigadores. Locais de estudo incluíram centros de pesquisa comerciais (ex.: Dr. Stanley Block, Dra. Wendy Daly) e instituições acadêmicas.",
+      "level_description": "Ensaios financiados pela indústria sem divulgação explícita de vínculos financeiros de investigadores. FDA forneceu revisão regulatória independente. Nenhuma replicação acadêmica independente dos resultados documentada."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "3 óbitos relatados em V72P10: (1) mulher de 17 anos - trauma cranioencefálico por acidente de carro 4 meses após vacinação, não relacionado; (2) mulher de 17 anos - overdose de paracetamol/suicídio ~31 dias após vacinação, não relacionado; (3) bebê nascido de participante vacinada - morte súbita aos 1,5 meses, não relacionado. 1 óbito na campanha UCSB: homem de 19 anos, afogamento (blackout em águas rasas), não relacionado. Todos os óbitos investigados com avaliação de causalidade. Nenhum óbito relacionado à vacina relatado.",
+      "level_description": "Mortalidade por todas as causas foi rastreada e relatada em todos os grupos. Cada óbito foi investigado com determinação de causalidade. Total de 4 óbitos em todos os estudos, nenhum atribuído à vacina."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O programa de desenvolvimento clínico de Bexsero incluiu 4 ensaios clínicos principais com 3.058 participantes de 10-25 anos, além de dados de acesso expandido em 15.351 estudantes universitários. Os ensaios empregaram randomização adequada e metodologia com observador cego com definições padronizadas de eventos adversos (MedDRA, critérios Brighton). Limitações principais incluem: uso de comparadores de vacina ativa (Menveo) em vez de placebo verdadeiro na maioria dos estudos, limitando a capacidade de determinar taxas verdadeiras de eventos adversos; duração de acompanhamento de 6-12 meses é mínima para detectar efeitos autoimunes/neurológicos de longo prazo; populações vulneráveis foram excluídas em vez de estudadas; e ensaios foram dimensionados para imunogenicidade em vez de segurança. O perfil de segurança mostrou reações comuns (dor no local da injeção 90%, dor grave 20-29%, mialgia, dor de cabeça) consistentes com outras vacinas para adolescentes. EAGs incluindo 2 casos de artrite juvenil foram revisados, mas nenhum sinal de segurança definitivo identificado. No geral, o programa atende aos padrões regulatórios para aprovação acelerada, mas tem limitações inerentes na detecção de eventos adversos raros e tardios."
+  }
+}

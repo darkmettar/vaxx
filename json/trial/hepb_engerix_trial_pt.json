@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepb_engerix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento descreve estudos clínicos, mas não menciona o uso de controles placebo. Os estudos compararam grupos vacinados, indivíduos diabéticos versus não diabéticos, ou diferentes esquemas de dosagem, mas nenhum grupo comparador placebo inerte é descrito.",
+      "level_description": "Nenhum ensaio controlado por placebo é mencionado na bula."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não menciona procedimentos de cegamento em nenhum dos ensaios clínicos descritos. Não há referência a designs de estudo duplo-cego, simples-cego ou aberto.",
+      "level_description": "Nenhuma informação sobre metodologia de cegamento é fornecida."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento descreve vários estudos clínicos, mas não menciona explicitamente procedimentos de randomização. Os estudos são descritos como ensaios clínicos sem especificação de métodos de randomização.",
+      "level_description": "Nenhuma menção explícita de randomização nas descrições dos ensaios clínicos."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Em 36 estudos clínicos, 13.495 doses foram administradas a 5.071 adultos, crianças e neonatos saudáveis. Estudos pediátricos específicos: 58 neonatos de alto risco em estudo de eficácia; 381 bebês em estudo de imunogenicidade no esquema 0,1,2 meses; 52 bebês no esquema 0,1,6 meses; 242 crianças de 6 meses a 10 anos; 181 crianças/adolescentes de 5-16 anos no esquema 0,1,6 meses; 161 no esquema 0,12,24 meses.",
+      "level_description": "Tamanhos de amostra pediátrica adequados em múltiplas faixas etárias, embora alguns estudos individuais tenham números modestos."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O monitoramento de reações adversas foi de 4 dias pós-administração. No estudo de diabetes, eventos adversos graves foram monitorados por até 30 dias após a última vacinação. O estudo de eficácia neonatal teve acompanhamento de 12 meses. O estudo em homens homossexuais teve acompanhamento de 18 meses após a conclusão da imunização.",
+      "level_description": "Acompanhamento de segurança de curto prazo (4 dias para reações adversas, 30 dias para EAGs) com acompanhamento de imunogenicidade mais longo em alguns estudos. O acompanhamento de segurança a longo prazo é limitado."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Os estudos separam claramente: neonatos, bebês, crianças (do nascimento até 10 anos, 6 meses a 10 anos, 5-10 anos), adolescentes (11-16 anos, 11-19 anos), adultos (16-65 anos, 20+ anos, 40+ anos, 60+ anos) e populações especiais (diabéticos, pacientes em hemodiálise). Diferentes esquemas de dosagem fornecidos por faixa etária.",
+      "level_description": "Estratificação abrangente por faixas etárias com dados de imunogenicidade específicos para cada uma."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os estudos incluíram indivíduos que eram 'inicialmente soronegativos para marcadores de hepatite B' e 'saudáveis'. Critérios populacionais específicos mencionados para estudo de diabetes (diabetes tipo 2 diagnosticado nos últimos 5 anos, estratificado por idade e IMC). Nenhum critério detalhado de inclusão/exclusão é fornecido.",
+      "level_description": "Critérios básicos de elegibilidade mencionados, mas critérios detalhados de inclusão/exclusão não fornecidos na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os eventos adversos foram categorizados usando lista de verificação de sintomas por classe de sistema orgânico: Distúrbios do Sistema Nervoso, Distúrbios Gerais, Infecções, Sangue/Linfático, Metabolismo, Psiquiátricos, Vasculares, Gastrointestinais, Pele, Musculoesqueléticos. Incidência relatada como porcentagens (<1%, 1-10%) para diferentes categorias de reação.",
+      "level_description": "Relato padronizado por classe de sistema orgânico com categorias de frequência, embora com detalhes limitados sobre graduação de gravidade."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "No estudo de diabetes, 'Eventos adversos graves foram monitorados por até 30 dias após a última vacinação. Eventos adversos graves (EAGs) ocorreram em 3,8% dos indivíduos diabéticos e 1,6% dos controles. Nenhum EAG foi considerado relacionado a ENGERIX-B.' O monitoramento geral foi de 4 dias pós-administração usando listas de verificação de sintomas.",
+      "level_description": "Monitoramento ativo descrito para um estudo com acompanhamento de EAGs por 30 dias; a maioria dos estudos usou monitoramento de 4 dias pós-dose."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 5.7 afirma 'Resultados de 2 estudos clínicos indicam que não há associação entre vacinação contra hepatite B e o desenvolvimento de esclerose múltipla, e que a vacinação com vacina contra hepatite B não parece aumentar o risco de curto prazo de recaída na esclerose múltipla.' A seção pós-comercialização lista eventos neurológicos: encefalite, encefalopatia, síndrome de Guillain-Barré, paralisia de Bell, mielite transversa, neurite óptica.",
+      "level_description": "Associação com EM estudada; eventos neurológicos relatados em pós-comercialização, mas não avaliados sistematicamente em ensaios pré-licenciamento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os estudos incluíram: bebês prematuros (<2000g), bebês nascidos de mães HBsAg-positivas, pessoas imunocomprometidas, pacientes em hemodiálise (n=56), adultos com diabetes tipo 2 (n=416 diabéticos, n=258 controles), pessoas com hepatite C crônica (n=67), idosos (>60 anos com resposta diminuída observada).",
+      "level_description": "Múltiplas populações vulneráveis estudadas com dados específicos, embora os tamanhos de amostra variem."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Algumas medidas estatísticas fornecidas: TMGs com intervalos de confiança de 95%, valores-p para algumas comparações (por exemplo, P=0,18, P=0,02), taxas de soroproteção como porcentagens. Eficácia protetora calculada como 95% no estudo neonatal. No entanto, metodologia estatística detalhada não descrita.",
+      "level_description": "Resultados estatísticos básicos relatados (TMG, IC, porcentagens), mas metodologia não detalhada."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Resultados resumidos fornecidos para múltiplos estudos com tamanhos de amostra, taxas de soroproteção e TMGs. Referências a 8 estudos publicados fornecidas. No entanto, dados individuais de pacientes, tabelas completas de eventos adversos e metodologia detalhada não incluídos na bula.",
+      "level_description": "Dados de nível resumido disponíveis com referências à literatura publicada; detalhes completos dos estudos não estão na bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 fornece extenso relato de eventos adversos pós-comercialização incluindo eventos raros: trombocitopenia, anafilaxia, encefalite, síndrome de Guillain-Barré, síndrome de Stevens-Johnson. Afirma 'relatados voluntariamente de uma população de tamanho incerto.' Relato ao VAERS encorajado: 'contatar GlaxoSmithKline em 1-888-825-5249 ou VAERS em 1-800-822-7967.'",
+      "level_description": "Sistema abrangente de vigilância pós-comercialização com relato ao VAERS e categorias detalhadas de eventos adversos."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não aborda conflitos de interesse, fontes de financiamento para ensaios clínicos ou divulgações de investigadores. O fabricante é GlaxoSmithKline Biologicals.",
+      "level_description": "Nenhuma divulgação de conflitos de interesse ou fontes de financiamento na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas dos ensaios clínicos. Mortes não são mencionadas nas seções de eventos adversos, nem em ensaios clínicos nem em pós-comercialização.",
+      "level_description": "Nenhum dado de mortalidade relatado na bula."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ENGERIX-B possui dados clínicos substanciais em múltiplas faixas etárias e populações com 36 estudos clínicos e mais de 5.000 indivíduos. Os pontos fortes incluem excelente estratificação por idade, inclusão de subgrupos vulneráveis, relato padronizado de eventos adversos e vigilância pós-comercialização ativa. No entanto, existem limitações metodológicas significativas: nenhum controle placebo documentado, cegamento ou randomização na bula. O acompanhamento de segurança foi principalmente de curto prazo (4 dias pós-dose). O documento carece de dados de mortalidade, divulgações de conflitos de interesse e metodologia estatística detalhada. A aprovação inicial da FDA foi em 1989, quando os padrões de design de ensaios diferiam das expectativas atuais."
+  }
+}

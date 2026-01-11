@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_prevnar13",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Dados extensos de segurança pediátrica de 13 ensaios clínicos com 4.729 bebês/crianças pequenas recebendo Prevnar 13 e 2.760 recebendo controle Prevnar. Apenas nos 3 estudos dos EUA, 1.907 sujeitos receberam Prevnar 13. Globalmente, 6.839 sujeitos receberam pelo menos 1 dose. Estudos adicionais avaliaram vacinação de recuperação em 354 crianças (7 meses-5 anos) e 592 crianças (5-17 anos). Isso representa um dos maiores bancos de dados de segurança de vacinas pediátricas."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Reações adversas solicitadas coletadas por 7 dias consecutivos após cada vacinação via diários eletrônicos. Eventos adversos não solicitados monitorados desde a primeira dose até um mês após a série infantil e um mês após a dose de reforço. Entrevista telefônica programada conduzida 6 meses após a quarta dose. Eventos adversos graves coletados durante todo o período do estudo. Embora o acompanhamento de curto prazo seja abrangente, o acompanhamento pediátrico de longo prazo além de 6 meses pós-vacinação é limitado."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os estudos pediátricos usaram comparador ativo (vacina Prevnar 7-valente) em vez de placebo verdadeiro, limitando a capacidade de detectar eventos adversos da classe vacinal. Alguns estudos foram abertos. O ensaio de eficácia em adultos (Estudo 12) usou placebo salino apropriadamente. Este design de comparador ativo para estudos pediátricos é justificado eticamente, mas limita a detecção de sinais de segurança para efeitos comuns às vacinas conjugadas pneumocócicas."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Vigilância ativa empregada usando diários eletrônicos para registro diário de reações locais e sistêmicas solicitadas por 7-14 dias pós-vacinação. Pais/responsáveis receberam treinamento na avaliação de sintomas. Visitas clínicas e entrevistas telefônicas programadas usadas para coleta de dados de acompanhamento. Eventos adversos graves ativamente coletados durante os períodos dos estudos. A metodologia representa práticas padrão de vigilância ativa."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Episódios hipotônicos-hiporresponsivos rastreados: 1 caso (0,015%) em Prevnar 13 vs 3 casos (0,071%) em Prevnar globalmente, todos ocorrendo quando administrada com vacina de célula inteira contra coqueluche. Convulsões (incluindo convulsões febrís) notadas como reações adversas, mas protocolo sistemático de exame neurológico não descrito. Apneia especificamente monitorada em bebês prematuros com advertência na bula. Relatos pós-comercialização incluem hipotonia. Nenhuma bateria de avaliação neurológica dedicada."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 8.6 fornece dados dedicados sobre populações de alto risco: bebês prematuros (<37 semanas, N=100) com respostas imunes reduzidas observadas; crianças com doença falciforme (N=95-131); receptores de transplante de células-tronco hematopoéticas; sujeitos infectados pelo HIV (N=197-257). Advertência incluída sobre risco de apneia em bebês prematuros. Adultos com condições crônicas estáveis (cardiovasculares, pulmonares, diabetes, doença hepática, alcoolismo, tabagismo) foram incluídos nos ensaios. Eficácia nessas populações não estabelecida a partir de dados limitados."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Todos os 13 estudos clínicos registrados no ClinicalTrials.gov com identificadores NCT fornecidos. Tabelas de segurança detalhadas com porcentagens, tamanhos de amostra e intervalos de confiança de 95% incluídas. Taxas de reações adversas comparadas entre grupos de vacina e controle. Detalhamentos demográficos fornecidos (raça, etnia, sexo). Mortes enumeradas com causas. No entanto, dados individuais de participantes e protocolos completos de estudos não são diretamente acessíveis a partir da bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.3 descreve a experiência pós-comercialização da vigilância passiva desde a introdução no mercado. Eventos identificados incluem: dermatite/prurido/urticária no local da vacinação, linfadenopatia, cianose, reações anafiláticas/anafilactoides incluindo choque, hipotonia, angioedema, eritema multiforme, apneia e palidez. Informações de contato para relato ao VAERS fornecidas. O documento reconhece limitações de que relatos voluntários não podem estimar frequência de forma confiável ou estabelecer causalidade. A aprovação inicial nos EUA foi em 2010, proporcionando experiência pós-comercialização substancial."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "A Prevnar 13 possui um banco de dados de segurança pediátrica robusto com mais de 4.700 bebês/crianças pequenas em ensaios clínicos e vigilância pós-comercialização extensa desde a aprovação em 2010. Reações solicitadas comuns incluem irritabilidade (>70%), sensibilidade no local da injeção (>50%), diminuição do apetite (>40%), alterações do sono (>40%) e febre (>20%). Eventos adversos graves ocorreram em 8,2% de Prevnar 13 vs 7,2% de receptores de Prevnar, principalmente infecções (bronquiolite, gastroenterite, pneumonia). Três mortes ocorreram em receptores de Prevnar 13, todas atribuídas a SMSI em taxas consistentes com o baseline. As principais limitações incluem uso de comparador ativo em vez de placebo em estudos pediátricos, acompanhamento de longo prazo limitado e falta de protocolos sistemáticos de avaliação neurológica. A vigilância pós-comercialização identificou eventos graves raros incluindo anafilaxia, hipotonia e apneia. Existe advertência especial para bebês prematuros sobre risco de apneia."
+  }
+}

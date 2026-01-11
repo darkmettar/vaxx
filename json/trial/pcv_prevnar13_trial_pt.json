@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_prevnar13",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os ensaios pediátricos usaram Prevnar (7-valente) como controle ativo, não placebo. O estudo de eficácia em adultos (Estudo 12) foi um estudo randomizado, duplo-cego, controlado por placebo com 84.496 sujeitos (42.240 Prevnar 13 vs 42.256 placebo). Alguns estudos pediátricos foram abertos.",
+      "level_description": "Controle placebo presente apenas no ensaio de eficácia em adultos; a licença pediátrica foi baseada em estudos com controle ativo e abertos comparando com a vacina Prevnar previamente licenciada."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo de eficácia em adultos (Estudo 12) foi randomizado, duplo-cego e controlado por placebo. O Estudo Pediátrico 2 foi descrito como 'randomizado, duplo-cego, com controle ativo.' Alguns estudos foram 'duplo-cego modificado' onde a equipe do local que dispensava a vacina não era cega. Vários estudos foram abertos.",
+      "level_description": "O duplo-cego foi usado em estudos principais, mas alguns ensaios usaram designs duplo-cego modificado ou abertos, reduzindo o rigor geral."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Múltiplos estudos descritos como randomizados. Estudo 2: bebês 'aleatoriamente alocados para receber Prevnar 13 ou Prevnar em proporção 1:1.' Estudo 12 (eficácia em adultos): '84.496 sujeitos receberam uma única dose de Prevnar 13 (42.240) ou placebo (42.256) em randomização 1:1.'",
+      "level_description": "Randomização foi empregada nos principais ensaios clínicos para populações pediátricas e adultas."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Segurança avaliada em 13 ensaios clínicos com 4.729 bebês e crianças pequenas recebendo pelo menos uma dose de Prevnar 13 e 2.760 recebendo controle Prevnar. Estudos dos EUA incluíram 1.907 sujeitos recebendo Prevnar 13 e 701 recebendo Prevnar. Além disso, 6.839 sujeitos globalmente receberam pelo menos 1 dose de Prevnar 13.",
+      "level_description": "Grandes tamanhos de amostra pediátrica em múltiplos ensaios fornecem dados robustos de segurança e imunogenicidade."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações adversas solicitadas registradas por 7 dias consecutivos após cada vacinação. Eventos adversos não solicitados monitorados desde a primeira dose até um mês após a série infantil e um mês após a dose de reforço. Entrevista telefônica de acompanhamento de 6 meses após a quarta dose. Eventos adversos graves coletados durante todo o período do estudo. O Estudo 12 em adultos teve acompanhamento mediano de 3,93 anos.",
+      "level_description": "Os períodos de acompanhamento variaram de 7 dias para reações solicitadas a 6 meses para eventos adversos graves em estudos pediátricos; o ensaio de eficácia em adultos teve acompanhamento de quase 4 anos."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Dados separados apresentados para: bebês de 6 semanas-11 meses, crianças pequenas de 12-15 meses, crianças de 7-11 meses, 12-23 meses, 24 meses-5 anos, 5-9 anos, 10-17 anos. Adultos estudados separadamente: 18-49 anos, 50-59 anos, 60-64 anos, 65+ anos, 70+ anos.",
+      "level_description": "Estratificação etária abrangente com análises e tabelas separadas para múltiplos grupos etários pediátricos e adultos."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Sujeitos excluídos da participação devido ao recebimento prévio de vacinas contendo toxoide diftérico nos 6 meses anteriores. Adultos com condições imunocomprometedoras ou recebendo terapia imunossupressora excluídos do estudo de eficácia. Condições médicas estáveis permitidas se sem mudança na terapia ou hospitalização por 12 semanas (6 semanas em um estudo).",
+      "level_description": "Critérios claros de inclusão/exclusão especificados, embora critérios detalhados para todos os estudos não sejam totalmente enumerados na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Reações locais solicitadas: vermelhidão, inchaço, sensibilidade graduados como Leve (0,5-2,0 cm), Moderado (2,5-7,0 cm), Grave (>7,0 cm). Febre graduada: Leve (38-39°C), Moderada (>39-40°C), Grave (>40°C). Diários eletrônicos usados para registro. Definições padronizadas aplicadas entre estudos.",
+      "level_description": "Escalas de graduação padronizadas e métodos de coleta sistemáticos com diários eletrônicos usados consistentemente entre ensaios."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Eventos adversos graves coletados durante todo o período do estudo para todos os 13 ensaios clínicos pediátricos. EAGs relatados em 8,2% dos receptores de Prevnar 13 vs 7,2% dos receptores de Prevnar. EAGs coletados por 6 meses após cada vacinação em estudos de adultos. Mortes relatadas: 3 (0,063%) em receptores pediátricos de Prevnar 13 (todas SMSI).",
+      "level_description": "Monitoramento ativo para eventos adversos graves durante todo o período dos estudos com coleta e relato sistemáticos."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Episódios hipotônicos-hiporresponsivos relatados: 1 (0,015%) em Prevnar 13 vs 3 (0,071%) em Prevnar globalmente. Relatos pós-comercialização incluem: hipotonia, convulsões (incluindo convulsões febrís), reações anafiláticas/anafilactoides. Advertência de apneia para bebês prematuros.",
+      "level_description": "Alguns eventos neurológicos (episódios hipotônicos-hiporresponsivos, convulsões) rastreados, mas nenhum protocolo sistemático de monitoramento de doenças autoimunes descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 8.6 aborda populações de alto risco: bebês prematuros (N=100 estudados), crianças com doença falciforme, receptores de transplante de células-tronco hematopoéticas, indivíduos infectados pelo HIV. Advertência de apneia especificamente para bebês prematuros. Adultos com condições subjacentes estáveis (cardiovasculares, pulmonares, diabetes, doença hepática) incluídos.",
+      "level_description": "Múltiplos subgrupos vulneráveis estudados com seções dedicadas, embora os tamanhos de amostra para alguns grupos fossem limitados."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Critérios de não inferioridade especificados: limite inferior do IC 95% para diferença >-10% para taxas de respondedores; limite inferior do IC 95% para razão de CMG >0,5. Eficácia vacinal calculada com intervalos de confiança de 95,2%. Significância estatística notada como p<0,05 sem ajuste de multiplicidade.",
+      "level_description": "Critérios estatísticos pré-especificados para desfechos de não inferioridade e eficácia com intervalos de confiança relatados, embora ajustes de multiplicidade nem sempre aplicados."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Identificadores ClinicalTrials.gov fornecidos para todos os 13 estudos (números NCT listados na Seção 15). Tabelas detalhadas com tamanhos de amostra, intervalos de confiança e porcentagens fornecidas. Resultados de estudos individuais referenciados.",
+      "level_description": "Números de registro de ensaios fornecidos e tabelas de dados detalhadas incluídas, embora relatórios completos de estudos não sejam diretamente acessíveis a partir da bula."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.3 descreve a experiência pós-comercialização com eventos adversos relatados através de vigilância passiva. Os eventos incluem: reações no local da vacinação, linfadenopatia, cianose, reações anafiláticas, hipotonia, angioedema, eritema multiforme, apneia, palidez. Relato ao VAERS encorajado.",
+      "level_description": "Sistema de vigilância pós-comercialização descrito com eventos adversos específicos identificados, embora reconheça limitações dos relatos voluntários."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhuma divulgação de conflitos de interesse, fontes de financiamento ou relacionamentos dos investigadores com o fabricante no documento de prescrição.",
+      "level_description": "Nenhuma divulgação de conflito de interesse incluída na bula."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Mortes pediátricas: 3 (0,063%) em receptores de Prevnar 13, 1 (0,036%) em receptores de Prevnar, todas devido a SMSI, taxas consistentes com o baseline. Ensaios em adultos: 12 de 5.667 (0,21%) Prevnar 13 e 4 de 1.391 (0,29%) receptores de PPSV23 morreram. Estudo 12: 3.006 mortes (7,1%) em Prevnar 13 vs 3.005 (7,1%) em placebo em ~4 anos.",
+      "level_description": "Mortalidade por todas as causas relatada para estudos pediátricos e adultos com comparações aos grupos controle não mostrando evidência de relação causal com a vacinação."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "A Prevnar 13 foi avaliada em extensos ensaios clínicos com tamanhos de amostra robustos, particularmente para populações pediátricas. O ensaio de eficácia em adultos foi um estudo bem desenhado, randomizado, duplo-cego e controlado por placebo demonstrando eficácia de 45,6% contra PAC pneumocócica por tipos vacinais. A aprovação pediátrica foi baseada principalmente na não inferioridade imunológica em relação à vacina Prevnar previamente licenciada, em vez de ensaios de eficácia diretos. Os pontos fortes incluem estratificação etária abrangente, monitoramento padronizado de eventos adversos e coleta sistemática de eventos adversos graves. As limitações incluem uso de comparador ativo em vez de placebo em estudos pediátricos, falta de divulgações de conflito de interesse e monitoramento sistemático limitado para condições autoimunes. A vigilância pós-comercialização continua a identificar eventos adversos raros."
+  }
+}

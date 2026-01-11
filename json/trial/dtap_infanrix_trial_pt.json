@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "dtap_infanrix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O ensaio de eficácia italiano foi 'controlado por DT' (Toxoides de Difteria e Tétano), não controlado por placebo. O estudo alemão de contato domiciliar comparou contatos domiciliares vacinados versus não vacinados, mas não foi um ensaio clínico randomizado controlado por placebo. Nenhum grupo placebo inerte (solução salina) foi usado em qualquer estudo.",
+      "level_description": "Usar outra vacina (DT) como comparador obscurece a verdadeira taxa de eventos adversos. Embora melhor do que nenhum controle, este design não pode distinguir eventos adversos causados pelo componente da coqueluche daqueles causados pelos componentes DT ou taxas basais."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O ensaio de eficácia italiano é descrito como 'duplo-cego, randomizado'. No entanto, os períodos de acompanhamento de 24-33 meses e 3-6 anos foram conduzidos 'parcialmente não cegados' e 'não cegados', respectivamente. O estudo alemão de contato domiciliar teve um médico 'cego para o estado de vacinação', mas não foi um ECR duplo-cego.",
+      "level_description": "O cegamento inicial estava presente para o ensaio italiano, mas foi comprometido em períodos de acompanhamento estendido, limitando a confiabilidade dos dados de segurança e eficácia de longo prazo."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O ensaio de eficácia italiano é descrito como 'duplo-cego, randomizado' com 4.481 bebês vacinados com INFANRIX e 1.470 vacinados com DT. O documento não descreve métodos de ocultação da alocação.",
+      "level_description": "A randomização foi documentada para o ensaio de eficácia italiano. No entanto, nenhum detalhe sobre ocultação da alocação ou metodologia de randomização é fornecido."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Aproximadamente 95.000 doses administradas em estudos clínicos. 29.243 bebês receberam INFANRIX em estudos da série primária; 6.081 crianças receberam a quarta dose; 1.764 receberam a quinta dose. Ensaio de eficácia italiano: 4.696 INFANRIX vs 4.678 DTP de célula inteira. Estudo de segurança alemão: 22.505 bebês (66.867 doses).",
+      "level_description": "Os tamanhos das amostras excedem o limite de 3.000 necessário para detectar eventos de 1:1.000. O grande estudo de segurança alemão (22.505 bebês) é particularmente notável para monitoramento de segurança."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Reações adversas solicitadas coletadas por apenas 4 dias consecutivos após cada dose de vacina. O ensaio italiano teve acompanhamento médio de 17 meses começando 30 dias após a terceira dose para eficácia. O estudo alemão monitorou eventos adversos não solicitados dentro de 28 dias após a vacinação; um subconjunto foi monitorado dentro de 8 dias. O acompanhamento italiano estendido até 6 anos foi não cegado.",
+      "level_description": "O monitoramento ativo de segurança foi extremamente curto (4 dias para reações solicitadas, 28 dias para não solicitadas). Isso é grosseiramente inadequado para detectar condições autoimunes ou neurológicas que podem surgir semanas ou meses depois. O mínimo de 6-12 meses não é atendido para monitoramento de segurança."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os estudos foram conduzidos em diferentes estágios de doses (série primária aos 2, 4, 6 meses; reforço aos 15-20 meses; quinta dose aos 4-6 anos). No entanto, análise separada estratificada por idade (0-1 anos, 1-5 anos, 6-12 anos) não é apresentada.",
+      "level_description": "Embora diferentes estudos tenham coberto diferentes esquemas de doses, nenhuma análise formal estratificada por idade dos desfechos de segurança é apresentada para considerar diferenças de desenvolvimento na resposta imune."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Nenhum critério detalhado de inclusão/exclusão é fornecido na bula. Informações demográficas são fornecidas (ex., 69% brancos, 16% hispânicos, 8% negros em um estudo dos EUA). O documento observa contraindicações para uso, mas não critérios de inscrição no ensaio.",
+      "level_description": "Dados demográficos limitados são fornecidos, mas sem discussão de critérios de inclusão/exclusão ou limitações de generalização. Não está claro quais populações foram excluídas dos ensaios."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Cartões de diário padronizados foram usados. Limites objetivos definidos: Dor graduada (Grau 2: chorou/protestou ao toque; Grau 3: chorou quando o membro foi movido), Limites de febre (38,0°C, 38,5°C, 39,0°C, 39,5°C, 40,0°C), Vermelhidão/inchaço medidos em mm (>20mm, >50mm, >110mm). Reações de inchaço grande definidas com critérios específicos.",
+      "level_description": "Definições operacionais claras e escalas de graduação foram usadas para eventos adversos solicitados. Isso permite medição consistente e comparação entre estudos."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações solicitadas coletadas via cartões de diário padronizados por 4 dias. Eventos adversos não solicitados monitorados dentro de 28 dias no estudo alemão. Reações graves selecionadas (febre >=40°C, episódios hipotônicos-hiporresponsivos, choro persistente >=3 horas, convulsões) foram relatadas do ensaio italiano (Tabela 4). Cartões de relato complementados por 'relatos espontâneos dos pais.'",
+      "level_description": "O monitoramento ativo foi limitado a uma janela muito curta (4 dias para solicitados, 28 dias para não solicitados). Embora eventos graves tenham sido rastreados, a combinação de curta duração e dependência parcial de relatos espontâneos limita a detecção de eventos adversos graves."
+    },
+    "autoimmune_neurological": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Convulsões relatadas: 1 no grupo INFANRIX (0,07/1.000 doses) vs 3 no DTP de célula inteira (0,22/1.000) no ensaio italiano. Estudo alemão relatou convulsão afebril (0,13/1.000), convulsão febril (0,0/1.000). Episódios hipotônicos-hiporresponsivos: 0 no INFANRIX vs 9 no DTP de célula inteira. Pós-comercialização lista encefalopatia, hipotonia, síncope. Nenhum monitoramento neurológico ou autoimune sistemático de longo prazo descrito.",
+      "level_description": "Apenas convulsões e episódios hipotônicos-hiporresponsivos foram rastreados nos ensaios sem avaliações neurológicas agendadas de longo prazo. A síndrome de Guillain-Barre é mencionada apenas como advertência, não como desfecho monitorado. Condições autoimunes não foram especificamente monitoradas."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de Advertências menciona bebês prematuros (risco de apneia) e crianças com maior risco de convulsões. No entanto, nenhum dado específico de ensaio é apresentado para bebês prematuros, crianças imunocomprometidas ou crianças com alergias/condições crônicas. A Seção 8.4 afirma que a segurança em bebês <6 semanas e crianças de 7-16 anos não foi estabelecida.",
+      "level_description": "Embora precauções para populações vulneráveis sejam mencionadas, esses grupos não foram intencionalmente incluídos nos ensaios com análise separada de seus desfechos."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dados de eficácia incluem intervalos de confiança de 95% (ex., eficácia de 84%, IC 95%: 76, 89). Valores-p relatados para algumas comparações (P <0,001 para febre, P = 0,002 para episódios hipotônicos-hiporresponsivos). Coorte de intenção de tratar modificada usada. Nenhum cálculo de poder para desfechos de segurança documentado.",
+      "level_description": "Análise estatística para eficácia é documentada com intervalos de confiança e valores-p. No entanto, não há evidência de que os estudos foram dimensionados para desfechos de segurança e não apenas para eficácia, o que é uma limitação fundamental."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Resultados de múltiplos estudos resumidos na bula. Referências citam literatura publicada (Plotkin SA, etc.). Nenhuma menção de Comitê Independente de Monitoramento de Segurança de Dados (DSMB), disponibilidade de dados brutos ou acesso a dados individuais de participantes.",
+      "level_description": "Dados resumidos são fornecidos, mas não há indicação de supervisão de segurança independente, disponibilidade de dados brutos ou mecanismos para verificação independente dos resultados."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 6.2 lista reações adversas pós-comercialização incluindo encefalopatia, hipotonia, síncope, reação anafilática, trombocitopenia, SMSI (síndrome da morte súbita infantil) e outros. Afirma que estes são 'relatados voluntariamente de uma população de tamanho incerto', então 'nem sempre é possível estimar sua frequência de forma confiável ou estabelecer uma relação causal.' Relato ao VAERS mencionado.",
+      "level_description": "A vigilância pós-comercialização depende de relatos voluntários passivos (VAERS), que subestimam vastamente as verdadeiras taxas de eventos adversos. Nenhum sistema de farmacovigilância ativa ou relatórios de segurança periódicos são descritos."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento identifica a GlaxoSmithKline como fabricante e distribuidora. Nenhuma divulgação de fontes de financiamento para ensaios clínicos, vínculos financeiros dos investigadores ou independência da análise de dados é fornecida.",
+      "level_description": "Nenhuma informação sobre conflitos de interesse ou fontes de financiamento para os ensaios clínicos. A vacina é fabricada pela GSK, mas não há divulgação sobre se os ensaios foram conduzidos ou analisados de forma independente."
+    },
+    "all_cause_mortality": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "SMSI (Síndrome da Morte Súbita Infantil) é listada como evento relatado na pós-comercialização. Nenhum dado de mortalidade por todas as causas dos ensaios clínicos é apresentado. Nenhum total de mortes ou hospitalizações relatado entre os grupos de tratamento.",
+      "level_description": "O documento não relata mortalidade por todas as causas ou hospitalizações totais dos ensaios clínicos. Apenas eventos graves relacionados à vacina são parcialmente relatados, o que pode perder danos gerais se a determinação de causalidade for subjetiva."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula do INFANRIX documenta ensaios clínicos com tamanhos de amostra substanciais (29.243 bebês na série primária, 22.505 no estudo de segurança alemão) e demonstra eficácia contra coqueluche (84% de eficácia no ensaio italiano). No entanto, existem limitações metodológicas significativas para avaliação de segurança: (1) Nenhum controle placebo verdadeiro - ensaios usaram DT ou DTP de célula inteira como comparadores; (2) Monitoramento ativo de segurança extremamente curto (4 dias para reações solicitadas); (3) Nenhum monitoramento sistemático de longo prazo para condições autoimunes ou neurológicas; (4) Nenhum dado de mortalidade por todas as causas relatado; (5) Vigilância pós-comercialização depende de sistemas de relato passivo; (6) Nenhuma divulgação de conflitos de interesse ou supervisão de segurança independente. Embora a vacina tenha demonstrado eficácia e mostre um perfil de segurança de curto prazo melhor do que vacinas de célula inteira contra coqueluche, a base de evidências para segurança de longo prazo em crianças é limitada por escolhas de design de estudo que priorizam eficácia sobre avaliação abrangente de segurança."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The pivotal efficacy study used an active comparator (ENGERIX-B Hepatitis B Vaccine) rather than a true placebo. 40,119 children were randomized to receive either HAVRIX 360 EL.U. or ENGERIX-B 10 mcg. No inert placebo group was included in the effectiveness study.",
+      "level_description": "Active comparator used instead of true placebo control; provides some comparison data but not against inert placebo."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The pediatric effectiveness study in Thailand is described as a 'double-blind, randomized controlled study in school children.' However, many immunogenicity studies were open-label, such as Study HAV 210 which was 'prospective, open-label, multicenter.'",
+      "level_description": "Primary efficacy study was double-blind, though many supporting immunogenicity studies were open-label."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The pivotal efficacy study randomized 40,119 children. Multiple supporting studies also used randomization: Study HAV 231 'randomized' 1,241 children into 3 groups; Study HAV 232 randomized 468 subjects; Study HAV 220 randomized 433 children.",
+      "level_description": "Randomization was employed in the primary efficacy study and multiple supporting clinical trials."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety evaluated in approximately 37,000 individuals across 61 clinical trials. The pivotal pediatric efficacy study included 40,119 children aged 1-16 years. Additionally, 3,152 children aged 11-25 months received at least 1 dose in coadministration studies. Over 22,000 subjects aged 1-18 years were evaluated for safety and effectiveness.",
+      "level_description": "Exceptionally large pediatric sample sizes across multiple age groups and studies."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The efficacy study observed children for 8 months after day 138 surveillance entry. Study HAV 231 conducted telephone follow-up 6 months after last vaccination. Immunogenicity studies followed subjects 1 month after booster doses. The document explicitly states: 'The duration of immunity following a complete schedule of immunization with HAVRIX has not been established.'",
+      "level_description": "Short-term follow-up (6-8 months) in most studies; long-term immunity duration not established."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Clinical data stratified by age: 11-13 months, 15-18 months, 23-25 months, 2-18 years, 2-19 years, and adults 18-50 years. Study HAV 210 specifically compared immune responses across three pediatric age groups. Separate dosing for children/adolescents (720 EL.U./0.5 mL) and adults (1440 EL.U./1 mL).",
+      "level_description": "Comprehensive age-stratified data with specific immunogenicity comparisons across pediatric age groups."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document mentions subjects were 'seronegative for hepatitis A antibodies at baseline' for some studies. Contraindications include severe allergic reaction to previous hepatitis A vaccine or components including neomycin. Demographics reported (gender, race/ethnicity) but detailed inclusion/exclusion criteria not specified.",
+      "level_description": "Some baseline criteria mentioned but comprehensive inclusion/exclusion criteria not detailed in prescribing information."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adverse events categorized by MedDRA system organ classes (Metabolism/Nutrition Disorders, Gastrointestinal Disorders, etc.). Solicited reactions recorded on diary cards for 4 days (Days 0-3). Unsolicited events recorded for 31 days. Events graded (e.g., Grade 3 drowsiness 'prevented normal daily activities'). Incidence rates categorized as 1-10% or <1%.",
+      "level_description": "Standardized adverse event classification using MedDRA with severity grading and specified monitoring periods."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Serious adverse events reported within 31-day period: 0.9% (29/3,152) of subjects aged 11-25 months. Telephone follow-up at 6 months inquired about 'serious adverse events, new onset chronic illnesses, and medically significant events.' Four seizures reported within 31 days post-vaccination.",
+      "level_description": "Active monitoring for serious adverse events with 31-day collection period and 6-month telephone follow-up."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Postmarketing section lists neurological events: convulsion, dizziness, encephalopathy, Guillain-Barre syndrome, hypoesthesia, multiple sclerosis, myelitis, neuropathy, paresthesia, somnolence, syncope. Four seizures reported in clinical trials (days 2, 9, 27, and 12 post-vaccination). However, systematic monitoring for autoimmune conditions in clinical trials not described.",
+      "level_description": "Neurological events captured in postmarketing surveillance; seizures reported in trials, but systematic autoimmune monitoring not detailed."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Immunocompromised persons addressed: 'may have a diminished immune response.' Chronic liver disease studied in 220 adults (hepatitis B, hepatitis C, alcoholic cirrhosis, autoimmune hepatitis, etc.) showing lower GMTs. Hepatic impairment section notes lower antibody response. Pregnancy data from 175 women (inadvertent exposure). Geriatric section notes insufficient data for age 65+.",
+      "level_description": "Several vulnerable populations studied including chronic liver disease, immunocompromised noted, pregnancy data available, though geriatric data limited."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Efficacy rate calculated: 94% (95% CI: 74, 98) for clinical hepatitis A prevention. GMT non-inferiority comparisons performed between age groups with stated criteria (lower limit of 2-sided 95% CI >= 0.5). Seroconversion rates reported with 95% confidence intervals. Secondary efficacy analysis: 84% (95% CI: 60, 94).",
+      "level_description": "Appropriate statistical methods including confidence intervals, efficacy calculations, and non-inferiority analyses."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Summary data presented with seroconversion rates, GMTs, and adverse event percentages. Table 1 provides detailed adverse reaction data. Study identifiers provided (HAV 210, HAV 220, HAV 231, HAV 232). However, individual patient data, full study protocols, and complete raw data not included in prescribing information.",
+      "level_description": "Summary-level data and study identifiers provided; detailed raw data and protocols not included in this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 details postmarketing experience including rare events: thrombocytopenia, anaphylactic reactions, Guillain-Barre syndrome, multiple sclerosis, myelitis, hepatitis, vasculitis, erythema multiforme. VAERS reporting encouraged (1-800-822-7967). Manufacturer reporting at 1-888-825-5249.",
+      "level_description": "Postmarketing surveillance system in place with reporting mechanisms and documented rare adverse events."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No conflict of interest disclosures or funding source transparency statements are included in this prescribing information document. Manufactured by GlaxoSmithKline Biologicals.",
+      "level_description": "No conflict of interest information or funding disclosures provided in the prescribing information."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No all-cause mortality data is reported in the document. Serious adverse events mentioned but deaths not specifically discussed or enumerated.",
+      "level_description": "All-cause mortality data not reported or discussed in the prescribing information."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX demonstrates adequate trial methodology with a large-scale double-blind randomized efficacy study in over 40,000 children showing 94% efficacy. Strengths include exemplary pediatric sample sizes (37,000+ across 61 trials), comprehensive age-stratified data, and standardized adverse event monitoring. Limitations include use of active comparator rather than placebo, short follow-up duration with unestablished long-term immunity, absence of all-cause mortality data, and no conflict of interest disclosures. Postmarketing surveillance has identified rare neurological events requiring ongoing monitoring."
+  }
+}

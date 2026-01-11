@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_acthib",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os ensaios clínicos compararam ActHIB a outras vacinas conjugadas Hib (PRP-OMP, HbOC), mas nenhum grupo controle placebo verdadeiro foi usado. O documento afirma que os ensaios foram conduzidos com vacinas OPV e DTP de células inteiras administradas concomitantemente.",
+      "level_description": "Nenhum ensaio controlado por placebo descrito. As comparações foram feitas entre diferentes vacinas conjugadas Hib sem um braço placebo inerte."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não menciona se os ensaios clínicos foram duplo-cegos ou simples-cegos.",
+      "level_description": "Nenhuma informação fornecida sobre metodologia de cegamento em qualquer um dos ensaios clínicos."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não descreve explicitamente procedimentos de randomização para os ensaios clínicos.",
+      "level_description": "Nenhum detalhe fornecido sobre metodologia de randomização nos estudos clínicos."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Mais de 7.000 bebês e crianças pequenas (<=2 anos de idade) receberam pelo menos uma dose durante ensaios clínicos nos EUA. O Estudo P3T06 incluiu 1.454 crianças. Estudos de imunogenicidade incluíram 65-167 indivíduos por grupo de vacina em ensaios comparativos.",
+      "level_description": "Grande tamanho total de amostra excedendo 7.000 participantes, com o principal estudo de segurança (P3T06) incluindo 1.454 crianças para doses 1-3 e 418 para dose 4."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações adversas foram monitoradas dentro de 48 horas após imunização (Tabela 1) e dentro de 0-3 dias após vacinação (Tabela 2). Eventos adversos graves foram monitorados dentro de 30 dias após vacinação.",
+      "level_description": "Acompanhamento de curto prazo de 48 horas para reações solicitadas e 30 dias para eventos adversos graves. Nenhum dado de acompanhamento a longo prazo fornecido."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os estudos separaram dados para crianças de 2-6 meses de idade (série primária), 12-15 meses, 15-20 meses e 17-24 meses de idade. A Tabela 5 fornece dados de imunogenicidade separados por faixa etária.",
+      "level_description": "Dados clínicos apresentados para faixas etárias pediátricas distintas apropriadas ao esquema de vacinação."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As contraindicações listadas incluem reação alérgica grave após dose anterior e síndrome de Guillain-Barré dentro de 6 semanas de vacina prévia contendo toxoide tetânico. Informação limitada sobre critérios específicos de inclusão/exclusão dos ensaios.",
+      "level_description": "Alguns critérios mencionados na seção de contraindicações, mas critérios abrangentes de inclusão/exclusão dos ensaios não detalhados."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "As Tabelas 1 e 2 fornecem categorias padronizadas para reações locais (sensibilidade, eritema, induração, inchaço) e reações sistêmicas (febre, irritabilidade, sonolência, anorexia, vômitos, choro) com níveis de gravidade definidos.",
+      "level_description": "Categorias padronizadas de eventos adversos solicitados com pontos de tempo definidos e graduação de gravidade (definições de moderado, grave fornecidas)."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "No Estudo P3T06, dentro de 30 dias após qualquer uma das Doses 1-3, 50 de 1.455 (3,4%) participantes experimentaram um evento adverso grave (EAG). Um EAG de convulsão com apneia foi possivelmente relacionado.",
+      "level_description": "EAGs monitorados por 30 dias pós-vacinação, mas descrição limitada da metodologia de vigilância ativa."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A síndrome de Guillain-Barré é mencionada como advertência/precaução. Relatos pós-comercialização incluem convulsões. Um EAG de convulsão com apneia foi relatado como possivelmente relacionado à vacinação.",
+      "level_description": "SGB observada como precaução e convulsões em pós-comercialização, mas nenhum monitoramento sistemático pré-licenciamento para condições autoimunes/neurológicas descrito."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Dados de imunogenicidade fornecidos para crianças com anemia falciforme e nativos americanos do Alasca (que têm maiores taxas de doença e menores respostas vacinais). Observa que pessoas imunossuprimidas podem não alcançar respostas de anticorpos esperadas.",
+      "level_description": "Algumas populações vulneráveis estudadas (anemia falciforme, nativos americanos), mas dados de segurança limitados específicos para esses grupos."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Concentrações médias geométricas (CMG) e porcentagem de indivíduos atingindo >=1,0 mcg/mL de anticorpos anti-PRP relatados. Nenhum intervalo de confiança ou metodologia estatística detalhada descrita.",
+      "level_description": "Estatísticas descritivas básicas fornecidas, mas nenhum plano de análise estatística detalhado ou teste de significância relatado."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Referências citam 'Dados em arquivo, Sanofi Pasteur SA' e 'Dados em arquivo, Sanofi Pasteur Inc.' para dados de suporte chave. Referências de literatura publicada fornecidas para alguns estudos.",
+      "level_description": "Dados-chave referenciados como 'dados em arquivo' proprietários em vez de publicamente acessíveis. Alguma literatura publicada citada."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 descreve relatos espontâneos pós-comercialização incluindo anafilaxia, reações de hipersensibilidade, convulsões e inchaço de membro. Informações de relato ao VAERS fornecidas.",
+      "level_description": "Sistema de vigilância pós-comercialização em funcionamento com eventos adversos relatados ao fabricante e VAERS."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não fornece informações sobre fontes de financiamento para ensaios clínicos ou potenciais conflitos de interesse entre investigadores.",
+      "level_description": "Nenhuma divulgação de conflitos de interesse ou fontes de financiamento para ensaios clínicos."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata dados de mortalidade por todas as causas dos ensaios clínicos. Apenas menciona 'nenhuma reação adversa grave ou com risco de vida' em 1.064 indivíduos.",
+      "level_description": "Nenhum dado de mortalidade relatado dos ensaios clínicos."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Os ensaios clínicos de ActHIB incluíram tamanhos de amostra pediátrica substanciais (>7.000 crianças) com monitoramento padronizado de eventos adversos e dados estratificados por idade. No entanto, os ensaios não tinham controles placebo (comparando apenas com outras vacinas Hib), tinham períodos de acompanhamento curtos (48 horas a 30 dias) e forneciam transparência limitada com dados-chave mantidos como proprietários. Nenhuma informação sobre cegamento, randomização ou desfechos de mortalidade foi fornecida."
+  }
+}

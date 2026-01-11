@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "ppsv23_pneumovax23",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O principal estudo em adultos (50+ anos) utilizou solução salina contendo 0,25% de fenol como placebo em um desenho cruzado randomizado, duplo-cego e controlado por placebo. Estudos históricos de eficácia sul-africanos usaram vacina polissacarídica meningocócica sorogrupo A ou placebo salino como grupos de controle. A solução salina contendo fenol não é um placebo inerte puro, mas está mais próxima de ser inerte do que um comparador de vacina ativa.",
+      "level_description": "Atende às expectativas com placebo à base de solução salina (embora contenha 0,25% de fenol como conservante), permitindo comparação razoável das taxas de eventos adversos"
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O principal ensaio clínico em adultos com 50 anos ou mais foi descrito como 'ensaio clínico randomizado, duplo-cego, controlado por placebo, com desenho cruzado'. O estudo de administração sequencial com Prevnar 13 também foi 'estudo multicêntrico randomizado, duplo-cego e controlado por placebo'.",
+      "level_description": "Atende ao esperado; o duplo-cegamento foi implementado nos principais estudos de segurança"
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O estudo principal afirma que os participantes foram 'randomizados para receber injeções intramusculares de PNEUMOVAX 23 seguidas de placebo, ou placebo seguido de PNEUMOVAX 23'. O estudo sequencial com Prevnar 13 randomizou 400 participantes 1:1 em dois grupos. No entanto, não há descrição específica dos métodos de ocultação da alocação.",
+      "level_description": "A randomização foi documentada, embora detalhes sobre a ocultação da alocação não tenham sido fornecidos"
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento afirma explicitamente que 'PNEUMOVAX 23 não está aprovada para uso em crianças menores de 2 anos' e que 'As respostas de anticorpos à maioria dos tipos capsulares pneumocócicos são geralmente baixas ou inconsistentes em crianças menores de 2 anos'. Os ensaios clínicos descritos incluíram apenas adultos com 50 anos ou mais. Nenhum estudo de segurança pediátrica em crianças de 0-12 anos está documentado.",
+      "level_description": "Não documentado. A bula não contém dados de ensaios clínicos pediátricos para crianças de 0 a 12 anos. Todos os dados de segurança clínica são de adultos com 50 anos ou mais."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "O principal estudo de segurança acompanhou os participantes 'por 14 dias após cada vacinação'. O estudo sequencial com Prevnar 13 avaliou reações no local da injeção 'durante os dias 1 a 5 pós-vacinação' e reações sistêmicas 'durante os dias 1 a 14 pós-vacinação', com eventos adversos graves coletados até a semana 30. Estudos históricos de eficácia observaram taxas de ataque '2 semanas até cerca de 1 ano após a vacinação'.",
+      "level_description": "Mencionado, mas inadequado - 14 dias é grosseiramente insuficiente para detectar eventos adversos autoimunes, neurológicos ou outros eventos tardios. A coleta de eventos adversos graves até a semana 30 é melhor, mas ainda fica muito aquém dos 6-12+ meses ideais."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo em adultos separou os participantes em coortes por idade (50-64 anos e 65+ anos). O documento fornece análise separada mostrando que a taxa de reações adversas no local da injeção foi maior após revacinação (79,3%) vs vacinação inicial (52,9%) em participantes com 65+ anos, e taxas semelhantes (79,6% vs 72,8%) na coorte de 50-64 anos. Não existe estratificação por faixa etária pediátrica (0-1, 1-5, 6-12).",
+      "level_description": "Presente, mas com limitações significativas - a estratificação por idade existe apenas para adultos (50-64 e 65+). Não há estratificação para populações pediátricas (crianças de 2-12 anos que estão aprovadas para uso em caso de risco aumentado)."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Descrição limitada: os participantes do estudo geriátrico 'tinham doença crônica subjacente, mas estavam em condição estável; pelo menos uma condição médica no momento da inscrição foi relatada por 86,3% dos participantes de 50 a 64 anos e por 96,7% dos participantes de 65 a 91 anos'. As contraindicações incluem hipersensibilidade aos componentes da vacina. Critérios de exclusão/inclusão para populações pediátricas não foram documentados.",
+      "level_description": "Presente, mas com falhas - dados demográficos básicos são fornecidos (idade, sexo, raça), mas critérios detalhados de inclusão/exclusão e limitações de generalização não são explicitamente discutidos"
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O documento distingue entre 'Eventos Solicitados' e 'Eventos Não Solicitados' na Tabela 1. As reações locais foram sistematicamente categorizadas (dor/sensibilidade/hipersensibilidade, inchaço/endurecimento, eritema) com medidas específicas para inchaço (0 a <2,5 cm, 2,5 a <5,1 cm, etc.). A gravidade da dor foi caracterizada como leve, moderada ou grave com definições. Febre foi definida como temperatura de 38°C ou superior.",
+      "level_description": "Atende às expectativas com limites objetivos definidos (febre >38°C, medidas de inchaço em cm, escala de gravidade da dor) e distinção clara entre eventos solicitados e não solicitados"
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Eventos adversos graves foram relatados: '10 participantes tiveram experiências adversas graves dentro de 14 dias da vacinação: 6 que receberam PNEUMOVAX 23 e 4 que receberam placebo'. Os eventos adversos graves incluíram angina pectoris, insuficiência cardíaca, dor torácica, colite ulcerativa, depressão e cefaleia/tremor/rigidez/sudorese. Uma morte por pancreatite/infarto do miocárdio foi relatada. No entanto, a metodologia de vigilância ativa sistemática não está descrita.",
+      "level_description": "Presente, mas com falhas significativas - eventos adversos graves foram coletados, mas a metodologia para vigilância ativa e investigação de causalidade não está claramente documentada. A janela de 14 dias limita a detecção de eventos graves tardios."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção de experiência pós-comercialização lista: Parestesia, Radiculoneuropatia, Síndrome de Guillain-Barre, Convulsão febril em 'Sistema Nervoso'. No entanto, não há documentação de avaliações programadas ou protocolos de monitoramento predefinidos para essas condições nos próprios ensaios clínicos.",
+      "level_description": "Presente, mas com falhas - eventos autoimunes/neurológicos são reconhecidos na pós-comercialização, mas nenhum protocolo de monitoramento sistemático pré-especificado foi documentado nos ensaios clínicos"
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A seção 8.6 afirma que indivíduos imunocomprometidos 'podem ter uma resposta imune diminuída'. Participantes com 'doença crônica subjacente, mas em condição estável' foram incluídos no estudo geriátrico (86,3-96,7% tinham pelo menos uma condição médica). No entanto, nenhuma análise de segurança separada para subgrupos vulneráveis é fornecida, e prematuros ou crianças com condições especiais não foram estudados.",
+      "level_description": "Presente, mas com falhas - imunocomprometidos mencionados, mas não analisados separadamente. Sem dados de subgrupos pediátricos vulneráveis. Gestantes e lactantes mencionadas, mas com dados limitados."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Para estudos de eficácia, a efetividade protetora é relatada com intervalos de confiança de 95% (por exemplo, '57% (IC 95%: 45% a 66%) de efetividade protetora geral', '77% (IC 95%: 51% a 89%)'). A análise de imunogenicidade utilizou 'modelo de Análise de Dados Longitudinais restrito' com razões de GMT e ICs de 95%. Nenhum cálculo de poder para desfechos de segurança está documentado.",
+      "level_description": "Presente, mas com limitações - intervalos de confiança fornecidos para eficácia, mas o estudo claramente não tinha poder estatístico para desfechos de segurança; nenhum cálculo de poder específico para segurança foi documentado"
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As taxas de eventos adversos são apresentadas em tabelas com porcentagens específicas. Dados de múltiplos estudos são citados (estudos de mineradores de ouro sul-africanos, estudo francês em casas de repouso, coorte retrospectiva do CDC). No entanto, não há menção de DSMB independente, disponibilidade de dados brutos ou referência a publicação revisada por pares dos dados primários de segurança.",
+      "level_description": "Presente, mas com falhas - dados resumidos fornecidos na bula, mas sem menção de supervisão por DSMB, acesso a dados brutos ou mecanismos de verificação independente"
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A seção 6.2 fornece extensa lista de experiência pós-comercialização incluindo: celulite, febre >39°C, diminuição da mobilidade do membro, necrose no local da injeção, trombocitopenia, anemia hemolítica, Síndrome de Guillain-Barre, convulsão febril, doença do soro, eritema multiforme. O VAERS é referenciado (1-800-822-7967 ou www.vaers.hhs.gov). No entanto, isso depende de notificação passiva.",
+      "level_description": "Atende às expectativas com reconhecimento de vigilância pós-comercialização (VAERS referenciado, linha de notificação do fabricante fornecida) e achados pós-comercialização documentados, embora seja principalmente um sistema passivo"
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não divulga fontes de financiamento para ensaios clínicos, conflitos de interesse dos pesquisadores ou relações financeiras. A Merck Sharp & Dohme Corp. é identificada como fabricante. Não há declaração sobre financiamento independente ou vínculos financeiros dos pesquisadores.",
+      "level_description": "Não documentado - nenhuma divulgação de conflitos de interesse, fontes de financiamento ou relações financeiras para os ensaios clínicos"
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Mortes são mencionadas: 'pancreatite/infarto do miocárdio resultando em morte' após PNEUMOVAX 23 e 'acidente de veículo motorizado resultando em morte' após placebo. No entanto, os números totais de mortalidade em cada grupo não são sistematicamente relatados, e a determinação de causalidade parece subjetiva.",
+      "level_description": "Presente, mas com falhas - mortes individuais mencionadas, mas a mortalidade por todas as causas não é sistematicamente relatada por grupo de tratamento; apenas mortes consideradas notáveis são listadas"
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "Esta bula fornece evidências inadequadas para avaliação de segurança pediátrica porque a PNEUMOVAX 23 foi estudada exclusivamente em adultos com 50 anos ou mais. A vacina está aprovada para crianças de alto risco com 2 anos ou mais, porém nenhum dado de ensaio clínico pediátrico é apresentado neste documento. Os estudos em adultos demonstram metodologia razoável (duplo-cego, randomizado, controlado por placebo), mas são limitados pela curta duração do acompanhamento (14 dias primário, 30 semanas máximo), falta de poder estatístico para desfechos de segurança e dependência de vigilância passiva pós-comercialização. Embora os dados pós-comercialização identifiquem eventos neurológicos graves (Síndrome de Guillain-Barre, convulsões febris), nenhum monitoramento de segurança sistemático de longo prazo foi conduzido. Para pais de crianças de 0-12 anos, este documento falha fundamentalmente em demonstrar segurança porque nenhuma criança foi estudada nos ensaios clínicos descritos."
+  }
+}

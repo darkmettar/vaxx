@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A total of 4,273 children under 2 years received at least one dose of MenQuadfi across three infant studies: 3,807 in the 4-dose series and 466 in the 2-dose series. The largest study (Study 2) enrolled 2,080 infants, and Study 1 enrolled 1,727 infants. For children 2-9 years, 498 participants received MenQuadfi. These numbers exceed the minimum threshold of 1,000 and approach the ideal of 3,000+ for the infant population, providing reasonable power to detect adverse events occurring at 1:1,000 frequency. However, the 2-9 year age group sample (N=498) is below ideal."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Solicited adverse reactions were monitored for only 7 days post-vaccination using diary cards. Unsolicited adverse events were collected for 30 days. Serious adverse events (SAEs) were collected for 6 months after the final vaccination in most studies (Study 10 collected SAEs for only 1 month). While 6 months is better than typical vaccine trials (30-42 days), it remains grossly inadequate for detecting autoimmune and neurological conditions that may emerge months to years after vaccination. No long-term follow-up (1-3+ years) was conducted, leaving significant uncertainty about delayed safety signals."
+    },
+    "comparison_group": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "All ten clinical studies used active controls (other vaccines) rather than true placebo (saline). Comparators included: Menveo (Studies 1-5), Menactra (Studies 3, 6, 8), and Menomune (Studies 7, 10). Using other vaccines as controls obscures the true baseline rate of adverse events, as both groups receive reactogenic products. This design makes it impossible to determine what proportion of adverse events would occur without vaccination. The document states no placebo-controlled trials were conducted."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance was implemented through multiple mechanisms: 30-minute post-vaccination monitoring for immediate reactions, daily diary cards completed by parents/guardians for 7 days documenting solicited reactions, follow-up visits at 1-2 months where diary cards were reviewed with investigators, and collection of medically-attended adverse events (ER visits, unexpected healthcare visits) for 6 months. SAE rates were reported (5.3% MenQuadfi vs 3.6% Menveo in 4-dose infant series). Two febrile seizures were identified as possibly vaccine-related. The structured solicited monitoring is adequate for short-term assessment."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The Warnings section includes a specific mention of Guillain-Barre Syndrome (GBS) reported with another meningococcal conjugate vaccine. Two febrile seizures were reported as SAEs possibly related to MenQuadfi (both occurred with concomitant MMR, varicella, and PCV13 at 12 months). Postmarketing reports include febrile seizure, convulsion, and syncope. However, there was no systematic protocol for neurological assessment, no scheduled developmental evaluations, and no predefined list of neurological/autoimmune conditions to monitor. The package insert does not describe any active surveillance for conditions like GBS, encephalitis, or developmental regression."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Preterm infants were intentionally included: Study 1 included 133 preterm infants (7.7% of MenQuadfi recipients, 31 to <37 weeks gestation), and Study 2 included 89 preterm infants (4.3%). The document specifically notes 'no notable differences in the rates and severity of adverse reactions between preterm and full-term infants.' However, immunocompromised children were not actively studied; the Warnings section only states they 'may have reduced immune responses.' No data is presented for children with allergies, chronic conditions, or on concurrent medications beyond routine childhood vaccines."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "All ten clinical studies are registered on ClinicalTrials.gov with identifiers provided (NCT03537508, NCT03673462, NCT03691610, NCT03077438, NCT02199691, NCT02842853, NCT02842866, NCT02752906, NCT04084769, NCT04142242). Detailed tables include percentages, 95% confidence intervals, and grade severity breakdowns. However, there is no mention of an independent Data Safety Monitoring Board (DSMB), no indication that raw data or individual participant data (IPD) are available for independent analysis, and no peer-reviewed publications are referenced in the package insert."
+    },
+    "post_marketing_surveillance": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "The Postmarketing Experience section acknowledges significant limitations: 'Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship.' Identified postmarketing signals include anaphylaxis, hypersensitivity, febrile seizure, convulsion, and syncope. The document directs healthcare providers to report to VAERS, which is a passive reporting system known to capture only a fraction of actual adverse events. There is no mention of active pharmacovigilance programs, periodic safety update reports, or systematic post-marketing studies to detect rare events in millions of doses."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The MenQuadfi package insert provides partial reassurance of safety in children, with significant gaps that prevent confident conclusions about long-term safety. Strengths include adequate pediatric sample sizes for infants (4,273 total under age 2), good active solicited monitoring with diary cards, intentional inclusion of preterm infants with reassuring results showing no differences from full-term infants, and excellent age-stratified reporting. However, critical limitations undermine confidence: (1) No true placebo control - all studies used other vaccines as comparators, making it impossible to determine the true vaccine-attributable adverse event rate; (2) Inadequate follow-up duration - maximum 6 months for SAEs is insufficient to detect autoimmune or neurological conditions that may emerge years later; (3) Passive post-marketing surveillance relying on VAERS will vastly underestimate rare adverse events. The two febrile seizures identified as possibly related and the GBS warning suggest neurological signals warrant attention, but no systematic monitoring protocol exists. Parents can have reasonable confidence about common, short-term reactions but the document does not adequately address rare, long-term safety concerns."
+  }
+}

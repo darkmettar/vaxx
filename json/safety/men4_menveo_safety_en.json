@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Exceptional pediatric safety database with 36,146 individuals 2 months through 55 years receiving at least one dose. Infants 2-23 months: 8,735 received MENVEO across 3 randomized multicenter studies (NCT00474526, NCT00806195, NCT01000311) plus 2,864 controls. Children 7-23 months: 1,985 received 2-dose series. Children 2-10 years: 3,181 received MENVEO in 4 trials. This represents one of the larger pediatric vaccine safety databases for a meningococcal conjugate vaccine."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited local and systemic adverse reactions monitored daily for 7 days following vaccination via diary cards. Medically significant adverse events and serious adverse events (SAEs) monitored for 6 months after vaccination in subjects aged 2-55 years. In infant/toddler studies, medically-attended or medically-significant adverse events collected between infant and toddler doses and during 6-month period after toddler dose. Temperature monitored for 28 days in MMRV co-administration study. While 6 months is adequate for acute and subacute safety signals, longer-term follow-up data beyond 6 months is limited."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active comparator design used throughout: MENACTRA (n=1,757 in adolescent/adult studies, n=1,255 in pediatric studies) and MENOMUNE (n=861 in pediatric, n=209 in adolescent/adult studies) served as comparators. In infant studies, control groups received routine vaccines only (DTaP, IPV, Hib, HBV, rotavirus, PCV7) without MENVEO (n=2,864). No true saline placebo groups were included. This design allows comparison to licensed products but limits ability to determine absolute attributable risk of adverse events."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active solicitation of adverse reactions using diary cards for 7 days post-vaccination with standardized severity grading. Local reactions graded by size (>50mm moderate, >100mm severe). Systemic reactions graded by functional impact. Unsolicited adverse events including medically-attended events collected. SAE rates by study period: infant series 2.7% MENVEO vs 2.2% controls, between doses 2.5% vs 2.5%, 1-month post-toddler 0.3% vs 0.3%, 6-month follow-up 1.6% vs 2.2%."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Multiple neurological conditions monitored: Guillain-Barre syndrome (GBS) warning included based on temporal association with another meningococcal conjugate vaccine. One case of acute disseminated encephalomyelitis (ADEM) reported 29 days post Dose 4 with concomitant MMR and varicella vaccines. Convulsions tracked as SAEs (febrile convulsion, tonic convulsion reported). Kawasaki Disease monitored: 3/12,049 (0.02%) MENVEO vs 0/2,877 controls. Postmarketing observational study (48,899 persons) found Bell's palsy with adjusted relative incidence 2.9 (95% CI: 1.1-7.5) in 1-84 days post-vaccination; all 8 cases resolved."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Premature infants: specific warning about apnea following intramuscular vaccination with recommendation for individualized benefit-risk assessment. Immunocompromised individuals: noted to have reduced immune responses including those on immunosuppressant therapy. Complement deficiency: warning that vaccinated persons remain at increased risk despite antibody development. Pregnancy: registry data from 2014-2017 with 82 pregnancies - miscarriage rate 12.2% (10/82) and major birth defects 3.6% (2/55 live births), consistent with background rates. No data provided for adults over 55 years."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "ClinicalTrials.gov identifiers provided for all major studies enabling independent verification. Detailed data tables with sample sizes (n values), percentages, and 95% confidence intervals. Demographic information provided by race/ethnicity and sex for study populations. Per-protocol and as-treated safety populations defined. SAE rates and types specified by study period and vaccine group. Adverse reaction definitions and severity grading criteria explicitly stated."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive postmarketing surveillance system including: 1) Large observational safety study in US HMO using electronic health records of 48,899 persons aged 11-21 years with self-controlled case series methodology identifying Bell's palsy signal. 2) Voluntary adverse event reporting with detailed categorization by organ system (blood/lymphatic, ear/labyrinth, eye, general, immune, infections, injury, investigations, musculoskeletal, nervous system, respiratory, skin disorders). 3) VAERS reporting encouraged (1-800-822-7967). 4) Manufacturer reporting available (GlaxoSmithKline 1-888-825-5249). Multiple postmarketing signals identified and characterized."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MENVEO demonstrates a robust safety profile supported by an exemplary pediatric database (36,146 subjects across multiple age groups), adequate 6-month safety follow-up, and exemplary postmarketing surveillance including a 48,899-person observational study. Active surveillance methodologies employed standardized adverse event collection with severity grading. Key neurological conditions were monitored with warnings for GBS and documented cases of ADEM, Bell's palsy (with quantified risk), and Kawasaki Disease. Vulnerable populations including premature infants, immunocompromised individuals, and pregnant women are addressed with specific guidance. The main limitation is the use of active comparators rather than true placebo controls, which is typical for licensed vaccine comparisons but limits absolute risk determination. Common adverse reactions are well-characterized: injection site reactions (24-44%), irritability (18-57%), sleepiness (14-50%), and headache (11-30%) vary by age group."
+  }
+}

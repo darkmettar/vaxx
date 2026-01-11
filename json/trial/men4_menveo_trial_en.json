@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Clinical trials used active comparators (MENACTRA, MENOMUNE) rather than placebo controls. In infant studies, control groups received routine vaccines only without MENVEO. No true placebo-controlled trials were conducted.",
+      "level_description": "Active comparator design used rather than placebo control, which is standard for licensed vaccine comparisons but limits ability to assess absolute safety profile."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The booster study (NCT02986854) was described as open-label. The one-vial presentation study (NCT03433482) was observer-blind. Most primary vaccination studies do not explicitly state blinding methodology in the prescribing information.",
+      "level_description": "Mixed blinding approaches across studies with some open-label and observer-blind designs documented."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple randomized clinical studies were conducted including NCT00474526, NCT00806195, NCT01000311 for infants, NCT00616421 for children 2-10 years, and NCT00450437 for adolescents/adults. Studies were described as randomized multicenter trials.",
+      "level_description": "Randomization was employed across clinical trials for various age groups, though specific randomization methods are not detailed."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Overall 36,146 individuals 2 months through 55 years received at least one dose. Infant studies (2-23 months): 8,735 infants received MENVEO in 3 studies plus 2,864 controls. Children 2-10 years: 3,181 received MENVEO in 4 trials. Toddler studies: 1,985 received 2 doses.",
+      "level_description": "Very large pediatric sample sizes across multiple age groups with thousands of subjects in each category."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited reactions monitored for 7 days post-vaccination. Medically significant adverse events and SAEs monitored for 6 months after vaccination in children, adolescents, and adults aged 2-55 years. Body temperature collected for 28 days in MMRV co-administration study.",
+      "level_description": "Six-month follow-up for serious adverse events is adequate for vaccine safety assessment, though longer-term follow-up data is limited."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety and immunogenicity data presented separately for: infants 2-23 months (4-dose series), children 7-23 months (2-dose series), children 2-5 years, children 6-10 years, adolescents 11-18 years, and adults 19-55 years. Different dosing schedules by age group.",
+      "level_description": "Excellent stratification by age groups with dedicated analyses for each pediatric age range."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document mentions 'healthy infants' and 'healthy adolescents' for specific studies. Contraindications include severe allergic reaction to previous dose or components. Specific detailed inclusion/exclusion criteria not provided in prescribing information.",
+      "level_description": "Basic eligibility criteria implied but detailed inclusion/exclusion criteria not provided in this document."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Standardized solicited adverse reactions with defined severity grades: local reactions (tenderness, erythema, induration with size thresholds >50mm, >100mm), systemic reactions (irritability, sleepiness, crying, eating habits, fever with temperature ranges). Diary cards used for 7-day collection.",
+      "level_description": "Comprehensive standardized adverse event collection with clear severity definitions and consistent methodology across studies."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs monitored for 6 months post-vaccination. Medically-attended adverse events tracked. Detailed SAE rates provided: 2.7% vs 2.2% during infant series, specific SAEs listed including wheezing, pneumonia, gastroenteritis, convulsions. Deaths reported and assessed for relationship to vaccination.",
+      "level_description": "Active monitoring of serious adverse events with 6-month follow-up and detailed categorization of SAE types."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "GBS warning included noting temporal relationship with another meningococcal vaccine. Acute disseminated encephalomyelitis case reported (29 days post Dose 4). Postmarketing: Bell's palsy showed increased risk (adjusted relative incidence 2.9). Convulsions monitored in trials. Kawasaki Disease tracked (3/12,049 MENVEO recipients).",
+      "level_description": "Neurological conditions monitored with specific warnings for GBS and documented cases of ADEM and Bell's palsy."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Premature infants: apnea warning with individualized vaccination decision. Immunocompromised: reduced immune response noted. Complement deficiency: increased disease risk despite vaccination. Pregnancy registry data (82 subjects). No data for adults >55 years.",
+      "level_description": "Key vulnerable populations addressed including premature infants and immunocompromised individuals with specific warnings."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority analyses performed comparing MENVEO to MENACTRA with 95% CI and -10% non-inferiority margin. Seroresponse rates, GMTs with 95% CIs provided. Per-protocol populations defined. Pre-specified criteria for immunogenicity (lower limit 95% CI >80% for serogroup A, >85% for C, W, Y).",
+      "level_description": "Appropriate statistical methods with non-inferiority design, confidence intervals, and pre-specified success criteria."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "ClinicalTrials.gov identifiers provided for all major studies (NCT numbers). Detailed tables with sample sizes, percentages, confidence intervals. Demographic breakdowns by race/ethnicity and sex. Per-protocol population numbers specified.",
+      "level_description": "Good transparency with trial registration, detailed data tables, and demographic information provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Postmarketing observational study in US HMO with 48,899 persons aged 11-21 years using electronic health records. Self-controlled case series method used. Multiple postmarketing adverse reactions identified across organ systems. VAERS reporting encouraged.",
+      "level_description": "Comprehensive postmarketing surveillance with large observational study, electronic health record analysis, and voluntary reporting system."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not contain information about conflicts of interest, funding sources for clinical trials, or investigator financial disclosures.",
+      "level_description": "No conflict of interest disclosures provided in the prescribing information."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Deaths reported: 2 deaths in MENVEO groups aged 2-23 months within 28 days (sudden death, sepsis) vs 0 in control. None assessed as vaccine-related. No deaths in one-vial presentation studies. Mortality tracked as part of SAE monitoring.",
+      "level_description": "All-cause mortality tracked and reported with causality assessment, though numbers are limited."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MENVEO clinical trials demonstrate adequate to exemplary methodology in most areas. Strengths include very large pediatric sample sizes (36,146 total subjects), excellent age group stratification, standardized adverse event collection with severity grading, and comprehensive postmarketing surveillance including a 48,899-person observational study. The 6-month safety follow-up and neurological condition monitoring (GBS, ADEM, Bell's palsy, Kawasaki Disease) are appropriate. Key limitations include the use of active comparators rather than true placebo controls, mixed blinding approaches, and absence of conflict of interest disclosures. Statistical methods employed non-inferiority designs with appropriate pre-specified criteria."
+  }
+}

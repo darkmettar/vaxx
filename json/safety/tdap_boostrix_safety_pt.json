@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_boostrix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A vacina é indicada para idades de 10 anos ou mais, não para crianças mais novas. Para adolescentes (10-18 anos), 4.949 participantes foram vacinados com BOOSTRIX em ensaios clínicos. O Estudo em Adolescentes dos EUA recrutou 3.080 BOOSTRIX e 1.034 receptores de Td. O Estudo em Adolescentes da Alemanha incluiu 319 participantes de 10-12 anos. Os tamanhos de amostra são adequados para detectar eventos adversos comuns na população adolescente."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Eventos adversos solicitados foram monitorados por 4-15 dias pós-vacinação dependendo do estudo. Eventos adversos não solicitados foram rastreados por 30-31 dias. Eventos adversos graves foram monitorados por 6 meses em estudos de dose inicial. O estudo em gestantes monitorou EAGs desde a vacinação até 2 meses após o parto. O estudo de coadministração com SHINGRIX monitorou por até 12 meses. Essas durações são adequadas para detectar sinais de segurança agudos e alguns tardios."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A maioria dos ensaios usou vacinas comparadoras ativas em vez de controles placebo. O Estudo em Adolescentes dos EUA comparou com vacina Td, o Estudo em Adultos comparou com outra Tdap (ADACEL), e o Estudo em Idosos comparou com vacina Td. Apenas o estudo em gestantes (NCT02377349) usou um controle placebo verdadeiro (solução salina) com 341 BOOSTRIX vs 346 receptoras de placebo. Comparadores ativos limitam a capacidade de detectar eventos adversos atribuíveis à vacina."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Os participantes foram ativamente monitorados usando cartões-diário padronizados para reações locais solicitadas (dor, vermelhidão, inchaço, aumento da circunferência do braço) e eventos adversos gerais (cefaleia, fadiga, sintomas gastrointestinais, febre). Escalas de gravidade foram empregadas (Grau 2 = doloroso quando o membro se movia; Grau 3 = espontaneamente doloroso e/ou impediu atividade normal). Esta abordagem sistemática garante captura abrangente de eventos adversos comuns."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O documento aborda explicitamente preocupações de segurança neurológica. As advertências incluem risco de síndrome de Guillain-Barré dentro de 6 semanas após vacinas de toxoide tetânico, com evidência do IOM apoiando relação causal. Neurite braquial também é mencionada. Distúrbios neurológicos progressivos ou instáveis são contraindicações. Relatos pós-comercialização incluem convulsões, encefalite, paralisia facial, perda de consciência, parestesia e síncope. Monitoramento específico para EAGs autoimunes/neurológicos foi conduzido durante acompanhamento de 6 meses."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Gestantes foram estudadas em um ensaio randomizado controlado por placebo (NCT02377349) com 687 participantes durante o terceiro trimestre. Idosos de 65+ anos foram estudados (887 BOOSTRIX, 445 Td) incluindo 299 participantes de 75 anos ou mais. Indivíduos imunocomprometidos são abordados com cautela de que a resposta imune esperada pode não ser obtida. Registro de gravidez mantido para vigilância contínua. Dados de lactação observados como não disponíveis."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Números de registro de ensaios clínicos (identificadores NCT) são fornecidos para todos os principais estudos. Tabelas detalhadas de segurança apresentam porcentagens e intervalos de confiança de 95% para eventos adversos por gravidade. Coortes ATP (de acordo com o protocolo) são definidas. Tamanhos de amostra são claramente declarados. Notificação ao VAERS é encorajada (1-800-822-7967). Eventos adversos pós-comercialização são listados por classe de sistema de órgãos. Dados do registro de exposição na gravidez de 2005-2022 (1.523 relatos) são resumidos."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.2 fornece experiência pós-comercialização abrangente do uso mundial desde a aprovação em 2005. Eventos adversos identificados incluem: linfadenite, reações alérgicas/anafiláticas, miocardite, inchaço extenso de membro, distúrbios musculoesqueléticos (artralgia, dor nas costas, mialgia), distúrbios do sistema nervoso (convulsões, encefalite, paralisia facial, síncope) e distúrbios da pele (angioedema, urticária, púrpura de Henoch-Schonlein). Notificação ao VAERS encorajada. Registro de gravidez mantido ativamente. Limitações da notificação voluntária reconhecidas."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "O perfil de segurança da BOOSTRIX é apoiado por dados de ensaios clínicos de mais de 9.000 participantes incluindo adolescentes, adultos, idosos e gestantes. Os pontos fortes incluem coleta padronizada de eventos adversos com escalas de graduação, monitoramento de eventos adversos graves por 6 meses, estudos dedicados em populações vulneráveis (gestantes, idosos 65+), vigilância pós-comercialização ativa com VAERS e registro de gravidez, e advertências explícitas de segurança neurológica (SGB, neurite braquial). As principais limitações são o uso predominante de comparadores ativos em vez de controles placebo (limitando atribuição causal de eventos adversos) e a natureza voluntária dos relatos pós-comercialização. Reações adversas comuns são bem caracterizadas (dor no local da injeção 22-78%, cefaleia 12-43%, fadiga 13-37%). Eventos neurológicos e autoimunes graves são raros, mas monitorados."
+  }
+}

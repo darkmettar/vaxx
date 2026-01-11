@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os ensaios clínicos usaram comparadores ativos (vacina Td - DECAVAC ou TENIVAC) em vez de placebo inerte. O Estudo Td506 comparou Adacel à vacina Td em adolescentes e adultos. O Estudo NCT01439165 comparou segunda dose de Adacel à vacina Td. Nenhum grupo controle com placebo salino foi usado.",
+      "level_description": "Usar outra vacina como comparador obscurece as verdadeiras taxas de eventos adversos. Sem placebo inerte, é impossível determinar quais reações são causadas pela vacina versus eventos coincidentes."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo Td506 foi descrito como 'com cegamento do observador' (não duplo-cego). O Estudo NCT01439165 também foi 'com cegamento do observador, controlado ativo.' O Estudo Td505 foi 'randomizado, duplo-cego.' O Estudo NCT00347958 foi 'aberto.' Cegamento misto entre estudos.",
+      "level_description": "Cegamento do observador é mais fraco que duplo-cego, pois não garante que os participantes desconheçam seu grupo de tratamento. Apenas alguns estudos usaram duplo-cego."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo Td506 foi um 'ensaio randomizado, com cegamento do observador, controlado ativo.' O Estudo NCT01439165 foi um 'estudo multicêntrico, randomizado, com cegamento do observador, controlado ativo.' O Estudo Td505 foi um 'ensaio multicêntrico, randomizado, duplo-cego.' A inclusão foi estratificada por idade para garantir representação adequada em toda a faixa etária.",
+      "level_description": "A randomização foi documentada em múltiplos estudos. A estratificação por idade foi mencionada. No entanto, métodos específicos de ocultação de alocação não foram descritos."
+    },
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Adacel NÃO é aprovada para indivíduos menores de 10 anos de idade. O documento afirma: 'A segurança e eficácia de Adacel em pessoas menores de 10 anos de idade nos EUA não foram estabelecidas.' Os participantes mais jovens estudados tinham 10-11 anos (N=1.302 no estudo NCT01311557). Nenhuma criança de 0-9 anos foi estudada.",
+      "level_description": "Não existem dados de segurança pediátrica para crianças menores de 10 anos. A vacina explicitamente não é indicada para esta população. Este critério não pode ser avaliado para o grupo etário pediátrico de 0-12 anos tradicionalmente definido."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Estudo Td506: Reações solicitadas monitoradas por 14 dias via cartão-diário. Dias 14-28: eventos adversos que requeriam contato médico coletados via telefone/clínica. Dias 28 a 6 meses: monitoramento de consultas médicas, visitas ao pronto-socorro, doenças graves, hospitalizações. Pelo menos 96% completaram o acompanhamento de 6 meses. Estudo NCT01439165: Reações solicitadas por 7 dias, não solicitadas por 28 dias, EAGs por 6 meses.",
+      "level_description": "O acompanhamento máximo foi de 6 meses, o que é inadequado para detectar condições autoimunes ou neurológicas que podem surgir meses ou anos depois. A metodologia recomenda mínimo de 6-12 meses, idealmente vários anos."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Dados apresentados separadamente para adolescentes de 11-17 anos (N=4.695 nos estudos) e adultos de 18-64 anos (N=2.448). O Estudo NCT01311557 comparou especificamente grupos etários de 10 a <11 anos vs 11 a <12 anos. Tabelas mostram resultados separados para essas categorias etárias.",
+      "level_description": "Os grupos etários foram analisados separadamente para adolescentes e adultos. No entanto, não há separação para grupos etários pediátricos mais jovens (0-1, 1-5, 6-9 anos) já que essas populações não foram estudadas."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os participantes não haviam recebido vacinas contendo tétano ou difteria nos 5 anos anteriores. As contraindicações listadas incluem reação alérgica grave a doses anteriores e encefalopatia dentro de 7 dias após vacina anterior contra coqueluche. Dados demográficos: 86% caucasianos, 8% negros, 3% hispânicos, 1% asiáticos, 2% outros.",
+      "level_description": "Critérios básicos de inclusão mencionados, mas critérios detalhados de exclusão não totalmente documentados. População enviesada para participantes caucasianos (86-95%). Nenhuma discussão explícita das limitações de generalização."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações adversas solicitadas definidas com limites objetivos: febre >=38,0C, >=38,8C a <=39,4C, >=39,5C. Inchaço no local da injeção medido em cm (1,0-3,4 cm moderado, >=3,5 cm grave, >=5 cm grave). Dor categorizada como moderada (interferiu nas atividades) e grave (incapacitante). Cartões-diário usados para coleta padronizada.",
+      "level_description": "Definições padronizadas com limites objetivos foram usadas. Categorias de gravidade foram definidas. No entanto, não há menção de critérios da Brighton Collaboration ou codificação MedDRA."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações locais e sistêmicas solicitadas monitoradas diariamente por 14 dias usando cartões-diário. Dias 14-28: entrevista telefônica ou visita clínica para eventos adversos que requeriam contato médico. Dias 28 a 6 meses: monitoramento de consultas médicas, visitas ao pronto-socorro, doenças graves, hospitalizações. EAGs relatados em 1,5% de Adacel vs 1,4% de receptores de Td. Dois EAGs neuropáticos observados em 28 dias.",
+      "level_description": "Solicitação ativa durante o período inicial com monitoramento de acompanhamento para eventos graves. Rastreamento claro de hospitalizações e doenças graves. No entanto, depende parcialmente de contato telefônico e auto-relato dos participantes para acompanhamento de longo prazo."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As advertências mencionam risco de síndrome de Guillain-Barré se ocorreu dentro de 6 semanas após vacina anterior de toxoide tetânico. O Institute of Medicine encontrou evidência de relação causal entre toxoide tetânico e neurite braquial. Dois EAGs foram eventos neuropáticos em 28 dias (enxaqueca grave com paralisia facial, compressão nervosa). Relatos pós-comercialização incluem: SGB, neurite braquial, paralisia facial, convulsão, síncope, mielite, miocardite.",
+      "level_description": "Condições neurológicas reconhecidas, mas nenhum protocolo de monitoramento sistemático de longo prazo descrito. Condições identificadas principalmente através de vigilância pós-comercialização em vez de desenho prospectivo de ensaio."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "A Seção 5.5 observa que pessoas imunocomprometidas podem não alcançar a resposta imune esperada. Nenhum dado específico sobre prematuros, imunocomprometidos ou crianças com condições crônicas. Dados de gravidez disponíveis, mas limitados (estudo retrospectivo N=225 expostos, dados de registro N=1.236). Nenhuma inclusão intencional de subgrupos pediátricos vulneráveis.",
+      "level_description": "Subgrupos vulneráveis não foram intencionalmente incluídos ou analisados separadamente. Pessoas imunocomprometidas mencionadas apenas como advertência. Como a vacina é para idades de 10+, não há dados sobre prematuros ou crianças imunocomprometidas."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Intervalos de confiança de 95% fornecidos em todas as tabelas. Critérios de não inferioridade especificados (ex.: limite superior do IC 95% <10% para taxas de soroproteção). Taxas de resposta de reforço aceitáveis pré-especificadas definidas. Razões GMC calculadas com ICs. Comparação estatística entre Adacel e vacinas comparadoras com critérios especificados (limite inferior do IC 95% na razão >0,67).",
+      "level_description": "Métodos estatísticos documentados com intervalos de confiança e critérios de não inferioridade. No entanto, os estudos foram dimensionados para imunogenicidade (eficácia), não para desfechos de segurança. Nenhum cálculo de poder para detectar eventos raros de segurança."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Identificadores ClinicalTrials.gov fornecidos (NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Referência a estudos publicados incluindo ensaio de eficácia Suécia I. Dados apresentados em formato de bula com tabelas resumidas. Nenhuma menção de DSMB independente ou disponibilidade de dados individuais de participantes.",
+      "level_description": "Registros de ensaios referenciados, mas nenhuma menção de Comitê Independente de Monitoramento de Segurança de Dados. Dados brutos ou dados individuais de participantes não mencionados como disponíveis para verificação independente."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 6.2 descreve experiência pós-comercialização com eventos adversos relatados espontaneamente dos EUA e outros países. Eventos incluídos com base na gravidade, frequência ou evidência de relação causal. Lista distúrbios imunológicos, do sistema nervoso, cardíacos e da pele. Notificação ao VAERS mencionada. Afirma que a frequência não pode ser estimada de forma confiável a partir de relatos voluntários.",
+      "level_description": "Depende de notificação voluntária passiva (VAERS) que subestima vastamente as verdadeiras taxas. Reconhece a incapacidade de estimar a frequência de forma confiável. Nenhum sistema ativo de farmacovigilância com relatórios públicos periódicos descrito."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Fabricado por Sanofi Pasteur Limited (Canadá), distribuído por Sanofi Pasteur Inc. (EUA). Estudos referenciados incluem aqueles conduzidos pela Sanofi Pasteur. Nenhuma divulgação de fontes de financiamento, vínculos financeiros de investigadores ou independência de análise.",
+      "level_description": "Nenhuma divulgação de conflitos de interesse na bula. O fabricante conduziu os ensaios clínicos. Nenhuma menção de financiamento independente ou pesquisadores sem conflitos."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhuma morte relatada nas seções de ensaios clínicos. Taxas de EAG mencionadas (1,5% Adacel vs 1,4% Td no estudo Td506; 0,8% Adacel vs 0,3% Td no NCT01439165), mas dados de mortalidade por todas as causas não fornecidos explicitamente. Nenhum detalhamento de mortes totais nos grupos vacina vs controle.",
+      "level_description": "Mortalidade por todas as causas e morbidade não relatadas sistematicamente. Foco em desfechos 'relacionados à vacina' em vez de mortes totais e hospitalizações em todos os grupos."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "A bula de Adacel documenta ensaios clínicos que atendem alguns, mas não todos os critérios para avaliação robusta de segurança. As principais limitações incluem: (1) Nenhum controle placebo verdadeiro - todas as comparações foram com outra vacina ativa (Td), impossibilitando determinar as verdadeiras taxas de eventos adversos atribuíveis à vacina; (2) Acompanhamento máximo de 6 meses, inadequado para detectar condições autoimunes/neurológicas tardias; (3) Nenhum dado pediátrico para crianças menores de 10 anos, pois a vacina não é indicada para esta população; (4) Dependência de vigilância pós-comercialização passiva (VAERS) para eventos raros; (5) Nenhuma divulgação de conflito de interesses apesar de ensaios conduzidos pelo fabricante; (6) Nenhum relato de mortalidade por todas as causas. Os pontos fortes incluem randomização, definições padronizadas de eventos adversos, análises separadas por grupo etário e solicitação ativa de reações durante o período inicial pós-vacinação. A base de evidências é principalmente projetada para demonstrar não inferioridade de imunogenicidade em vez de caracterizar a segurança de forma abrangente."
+  }
+}

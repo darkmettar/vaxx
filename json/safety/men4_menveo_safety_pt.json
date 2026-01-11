@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Base de dados de segurança pediátrica excepcional com 36.146 indivíduos de 2 meses a 55 anos recebendo pelo menos uma dose. Bebês de 2-23 meses: 8.735 receberam MENVEO em 3 estudos multicêntricos randomizados (NCT00474526, NCT00806195, NCT01000311) mais 2.864 controles. Crianças de 7-23 meses: 1.985 receberam série de 2 doses. Crianças de 2-10 anos: 3.181 receberam MENVEO em 4 ensaios. Isso representa uma das maiores bases de dados de segurança pediátrica para uma vacina conjugada meningocócica."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Reações adversas locais e sistêmicas solicitadas foram monitoradas diariamente por 7 dias após a vacinação via cartões-diário. Eventos adversos clinicamente significativos e eventos adversos graves (EAGs) foram monitorados por 6 meses após a vacinação em participantes de 2-55 anos. Em estudos de bebês/crianças pequenas, eventos adversos com atendimento médico ou clinicamente significativos foram coletados entre as doses de bebê e criança pequena e durante o período de 6 meses após a dose de criança pequena. Temperatura monitorada por 28 dias no estudo de coadministração com MMRV. Embora 6 meses seja adequado para sinais de segurança agudos e subagudos, dados de acompanhamento de longo prazo além de 6 meses são limitados."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Desenho com comparador ativo usado em todos os estudos: MENACTRA (n=1.757 em estudos de adolescentes/adultos, n=1.255 em estudos pediátricos) e MENOMUNE (n=861 em pediátricos, n=209 em estudos de adolescentes/adultos) serviram como comparadores. Em estudos de bebês, grupos controle receberam apenas vacinas de rotina (DTaP, IPV, Hib, HBV, rotavírus, PCV7) sem MENVEO (n=2.864). Nenhum grupo de placebo salino verdadeiro foi incluído. Esse desenho permite comparação com produtos licenciados, mas limita a capacidade de determinar o risco atribuível absoluto de eventos adversos."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicitação ativa de reações adversas usando cartões-diário por 7 dias após a vacinação com graduação de gravidade padronizada. Reações locais graduadas por tamanho (>50mm moderada, >100mm grave). Reações sistêmicas graduadas por impacto funcional. Eventos adversos não solicitados incluindo eventos com atendimento médico coletados. Taxas de EAG por período de estudo: série de bebês 2,7% MENVEO vs 2,2% controles, entre doses 2,5% vs 2,5%, 1 mês pós-criança pequena 0,3% vs 0,3%, acompanhamento de 6 meses 1,6% vs 2,2%."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Múltiplas condições neurológicas monitoradas: alerta de Síndrome de Guillain-Barré (SGB) incluído com base em associação temporal com outra vacina conjugada meningocócica. Um caso de encefalomielite disseminada aguda (EMDA) relatado 29 dias após Dose 4 com vacinas concomitantes MMR e varicela. Convulsões rastreadas como EAGs (convulsão febril, convulsão tônica relatadas). Doença de Kawasaki monitorada: 3/12.049 (0,02%) MENVEO vs 0/2.877 controles. Estudo observacional pós-comercialização (48.899 pessoas) encontrou paralisia de Bell com incidência relativa ajustada de 2,9 (IC 95%: 1,1-7,5) em 1-84 dias após vacinação; todos os 8 casos resolveram."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Bebês prematuros: alerta específico sobre apneia após vacinação intramuscular com recomendação de avaliação individualizada de benefício-risco. Indivíduos imunocomprometidos: observado que têm respostas imunes reduzidas, incluindo aqueles em terapia imunossupressora. Deficiência de complemento: alerta de que pessoas vacinadas permanecem em risco aumentado apesar do desenvolvimento de anticorpos. Gravidez: dados do registro de 2014-2017 com 82 gestações - taxa de aborto espontâneo 12,2% (10/82) e defeitos congênitos maiores 3,6% (2/55 nascidos vivos), consistentes com taxas de base. Sem dados fornecidos para adultos acima de 55 anos."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Identificadores do ClinicalTrials.gov fornecidos para todos os principais estudos, permitindo verificação independente. Tabelas de dados detalhadas com tamanhos amostrais (valores n), porcentagens e intervalos de confiança de 95%. Informações demográficas fornecidas por raça/etnia e sexo para populações do estudo. Populações por protocolo e de segurança conforme tratadas definidas. Taxas e tipos de EAG especificados por período de estudo e grupo de vacina. Definições de reações adversas e critérios de graduação de gravidade explicitamente declarados."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Sistema de vigilância pós-comercialização abrangente incluindo: 1) Grande estudo de segurança observacional em HMO dos EUA usando prontuários eletrônicos de saúde de 48.899 pessoas de 11-21 anos com metodologia de série de casos auto-controlados identificando sinal de paralisia de Bell. 2) Relato voluntário de eventos adversos com categorização detalhada por sistema de órgãos (sangue/linfático, ouvido/labirinto, olho, geral, imune, infecções, lesões, investigações, musculoesquelético, sistema nervoso, respiratório, distúrbios da pele). 3) Relato ao VAERS incentivado (1-800-822-7967). 4) Relato ao fabricante disponível (GlaxoSmithKline 1-888-825-5249). Múltiplos sinais pós-comercialização identificados e caracterizados."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MENVEO demonstra um perfil de segurança robusto apoiado por uma base de dados pediátrica exemplar (36.146 participantes em múltiplas faixas etárias), acompanhamento de segurança adequado de 6 meses e vigilância pós-comercialização exemplar incluindo estudo observacional com 48.899 pessoas. Metodologias de vigilância ativa empregaram coleta padronizada de eventos adversos com graduação de gravidade. Condições neurológicas principais foram monitoradas com alertas para SGB e casos documentados de EMDA, paralisia de Bell (com risco quantificado) e Doença de Kawasaki. Populações vulneráveis incluindo bebês prematuros, indivíduos imunocomprometidos e mulheres grávidas são abordadas com orientação específica. A principal limitação é o uso de comparadores ativos em vez de controles com placebo verdadeiro, o que é típico para comparações de vacinas licenciadas, mas limita a determinação de risco absoluto. Reações adversas comuns são bem caracterizadas: reações no local da injeção (24-44%), irritabilidade (18-57%), sonolência (14-50%) e dor de cabeça (11-30%) variam por faixa etária."
+  }
+}
