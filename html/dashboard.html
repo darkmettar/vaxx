@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vaccine Safety Analysis Dashboard</title>
+  <style>
+    :root {
+      --bg-primary: #0f172a;
+      --bg-secondary: #1e293b;
+      --bg-tertiary: #334155;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --accent: #3b82f6;
+      --accent-hover: #2563eb;
+      --border: #475569;
+      --success: #22c55e;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --star: #fbbf24;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    header {
+      background: var(--bg-secondary);
+      padding: 1.5rem 2rem;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .header-left h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .header-left p {
+      color: var(--text-secondary);
+      font-size: 0.875rem;
+    }
+
+    .header-left a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .header-left a:hover {
+      text-decoration: underline;
+    }
+
+    .controls {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .lang-toggle {
+      display: flex;
+      background: var(--bg-tertiary);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .lang-toggle button {
+      padding: 0.5rem 1rem;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 0.875rem;
+      transition: all 0.2s;
+    }
+
+    .lang-toggle button.active {
+      background: var(--accent);
+      color: white;
+    }
+
+    .lang-toggle button:hover:not(.active) {
+      background: var(--bg-primary);
+    }
+
+    .view-toggle {
+      display: flex;
+      background: var(--bg-tertiary);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    .view-toggle button {
+      padding: 0.5rem 1rem;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 0.875rem;
+      transition: all 0.2s;
+    }
+
+    .view-toggle button.active {
+      background: var(--accent);
+      color: white;
+    }
+
+    .view-toggle button:hover:not(.active) {
+      background: var(--bg-primary);
+    }
+
+    main {
+      padding: 1.5rem;
+      margin-top: 1rem;
+    }
+
+    .legend {
+      display: flex;
+      gap: 1.5rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      padding: 1rem;
+      background: var(--bg-secondary);
+      border-radius: 8px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+    }
+
+    .legend-emoji {
+      font-size: 1.25rem;
+    }
+
+    .explanation {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+      line-height: 1.6;
+      color: var(--text-secondary);
+    }
+
+    .explanation p {
+      margin-bottom: 0.75rem;
+    }
+
+    .explanation p:last-child {
+      margin-bottom: 0;
+    }
+
+    .explanation p strong {
+      display: block;
+      margin-bottom: 0.25rem;
+    }
+
+    .explanation strong {
+      color: var(--text-primary);
+    }
+
+    .explanation a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .explanation a:hover {
+      text-decoration: underline;
+    }
+
+    .explanation .highlight {
+      color: var(--accent);
+      font-weight: 500;
+    }
+
+    .table-container {
+      border-radius: 12px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      display: inline-block;
+    }
+
+    table {
+      border-collapse: collapse;
+      font-size: 0.875rem;
+    }
+
+    th, td {
+      padding: 0.5rem 0.35rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      background: var(--bg-tertiary);
+      font-weight: 600;
+      color: var(--text-primary);
+      position: sticky;
+      top: 0;
+    }
+
+    th.vaccine-header {
+      text-align: left;
+    }
+
+    th.criterion-header {
+      cursor: pointer;
+      transition: background 0.2s;
+      vertical-align: bottom;
+      padding: 0.5rem 0.5rem;
+    }
+
+    th.criterion-header:hover {
+      background: var(--accent);
+    }
+
+    th .criterion-name {
+      font-size: 0.65rem;
+      font-weight: 500;
+      line-height: 1.3;
+      white-space: normal;
+      display: block;
+      min-height: 4em;
+    }
+
+    th.overall-header {
+      background: var(--bg-primary);
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+
+    td.vaccine-cell {
+      text-align: left;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    td.vaccine-cell:hover {
+      background: var(--bg-tertiary);
+    }
+
+    .vaccine-name {
+      color: var(--accent);
+      display: block;
+    }
+
+    .vaccine-type {
+      color: var(--text-secondary);
+      font-size: 0.75rem;
+      font-weight: normal;
+    }
+
+    td.rating-cell {
+      cursor: pointer;
+      transition: background 0.2s;
+      font-size: 1.1rem;
+    }
+
+    td.rating-cell:hover {
+      background: var(--bg-tertiary);
+    }
+
+    td.overall-cell {
+      background: var(--bg-primary);
+      font-size: 1.1rem;
+      cursor: pointer;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+
+    td.overall-cell:hover {
+      background: var(--bg-tertiary);
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* Modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 1000;
+      justify-content: center;
+      align-items: center;
+      padding: 1rem;
+    }
+
+    .modal.active {
+      display: flex;
+    }
+
+    .modal-content {
+      background: var(--bg-secondary);
+      border-radius: 12px;
+      max-width: 600px;
+      width: 100%;
+      max-height: 80vh;
+      overflow-y: auto;
+      position: relative;
+      border: 1px solid var(--border);
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      background: var(--bg-secondary);
+    }
+
+    .modal-header h2 {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .modal-header .rating-badge {
+      font-size: 1.5rem;
+      margin-left: 0.5rem;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      font-size: 1.5rem;
+      cursor: pointer;
+      padding: 0.25rem;
+      line-height: 1;
+      transition: color 0.2s;
+    }
+
+    .close-btn:hover {
+      color: var(--text-primary);
+    }
+
+    .modal-body {
+      padding: 1.5rem;
+    }
+
+    .modal-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .modal-section:last-child {
+      margin-bottom: 0;
+    }
+
+    .modal-section h3 {
+      font-size: 0.875rem;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.5rem;
+    }
+
+    .modal-section p {
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    .rating-label {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+      font-size: 0.875rem;
+      font-weight: 500;
+    }
+
+    .rating-exemplary {
+      background: rgba(251, 191, 36, 0.2);
+      color: var(--star);
+    }
+
+    .rating-adequate {
+      background: rgba(34, 197, 94, 0.2);
+      color: var(--success);
+    }
+
+    .rating-partial {
+      background: rgba(245, 158, 11, 0.2);
+      color: var(--warning);
+    }
+
+    .rating-insufficient {
+      background: rgba(239, 68, 68, 0.2);
+      color: var(--danger);
+    }
+
+    .rating-absent {
+      background: rgba(148, 163, 184, 0.2);
+      color: var(--text-secondary);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      header {
+        padding: 1rem;
+      }
+
+      .header-content {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .controls {
+        width: 100%;
+        justify-content: space-between;
+      }
+
+      main {
+        padding: 1rem;
+      }
+
+      .legend {
+        gap: 1rem;
+      }
+
+      th.criterion-header .criterion-name {
+        font-size: 0.6rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <div class="header-left">
+        <h1 id="page-title">Vaccine Clinical Trial Analysis</h1>
+        <p id="page-subtitle">Evaluation based on <a href="#" id="methodology-link">standardized criteria</a></p>
+      </div>
+      <div class="controls">
+        <div class="view-toggle">
+          <button id="btn-trial" class="active">Trial Analysis</button>
+          <button id="btn-safety">Safety Analysis</button>
+        </div>
+        <div class="lang-toggle">
+          <button id="btn-en" class="active">English</button>
+          <button id="btn-pt">Portugues</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="explanation" id="explanation">
+      <!-- Populated by JS -->
+    </div>
+
+    <div class="legend" id="legend">
+      <!-- Populated by JS -->
+    </div>
+
+    <div class="table-container">
+      <table id="analysis-table">
+        <!-- Populated by JS -->
+      </table>
+    </div>
+  </main>
+
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modal-title">Title</h2>
+        <button class="close-btn" id="modal-close">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // State
+    let data = null;
+    let currentLang = 'en';
+    let currentView = 'trial'; // 'trial' or 'safety'
+
+    // Texts
+    const texts = {
+      en: {
+        trialTitle: 'Vaccine Clinical Trial Analysis',
+        safetyTitle: 'Vaccine Safety Analysis',
+        subtitle: 'Evaluation based on',
+        methodologyLink: 'standardized criteria',
+        vaccine: 'Vaccine',
+        overall: 'Overall',
+        whyItMatters: 'Why it matters',
+        whatIsIdeal: 'What is ideal',
+        whatDocumentStates: 'What the document states',
+        explanation: 'Explanation',
+        levelDescription: 'Level description',
+        summary: 'Summary',
+        description: 'Description',
+        manufacturer: 'Manufacturer',
+        sources: 'Sources',
+        legend: {
+          exemplary: 'Exemplary',
+          adequate: 'Adequate',
+          partial: 'Partial',
+          insufficient: 'Insufficient',
+          absent: 'No information'
+        },
+        intro: {
+          whatIsThis: 'What is this?',
+          whatIsThisText: 'This table was generated by an LLM (Large Language Model) analyzing vaccine package inserts and clinical trial documents. Each criterion is rated based on what the source document explicitly states.',
+          howToReproduce: 'How to reproduce:',
+          howToReproduceText: 'You can generate this analysis yourself on ChatGPT or Grok using the prompt:',
+          trialPrompt: 'trial_web_en.md',
+          safetyPrompt: 'safety_web_en.md',
+          sourceDocs: 'Source documents:',
+          sourceDocsText: 'Click on any vaccine name to open a popup with the link to the original PDF.'
+        }
+      },
+      pt: {
+        trialTitle: 'Analise de Ensaios Clinicos de Vacinas',
+        safetyTitle: 'Analise de Seguranca de Vacinas',
+        subtitle: 'Avaliacao baseada em',
+        methodologyLink: 'criterios padronizados',
+        vaccine: 'Vacina',
+        overall: 'Geral',
+        whyItMatters: 'Por que importa',
+        whatIsIdeal: 'O que e ideal',
+        whatDocumentStates: 'O que o documento afirma',
+        explanation: 'Explicacao',
+        levelDescription: 'Descricao do nivel',
+        summary: 'Resumo',
+        description: 'Descricao',
+        manufacturer: 'Fabricante',
+        sources: 'Fontes',
+        legend: {
+          exemplary: 'Exemplar',
+          adequate: 'Adequado',
+          partial: 'Parcial',
+          insufficient: 'Insuficiente',
+          absent: 'Sem informacao'
+        },
+        intro: {
+          whatIsThis: 'O que e isso?',
+          whatIsThisText: 'Esta tabela foi gerada por um LLM (Large Language Model) analisando bulas de vacinas e documentos de ensaios clinicos. Cada criterio e avaliado com base no que o documento fonte afirma explicitamente.',
+          howToReproduce: 'Como reproduzir:',
+          howToReproduceText: 'Voce pode gerar esta analise no ChatGPT ou no Grok usando o prompt:',
+          trialPrompt: 'trial_web_en.md',
+          safetyPrompt: 'safety_web_en.md',
+          sourceDocs: 'Documentos fonte:',
+          sourceDocsText: 'Clique no nome de qualquer vacina para abrir um popup com o link para o PDF original.'
+        }
+      }
+    };
+
+    // Emoji mapping
+    const ratingEmoji = {
+      exemplary: '⭐',
+      adequate: '✅',
+      partial: '⚠️',
+      insufficient: '🔴',
+      absent: '❓'
+    };
+
+    // Load data
+    async function loadData() {
+      try {
+        const response = await fetch('vaccines.json');
+        data = await response.json();
+        render();
+      } catch (error) {
+        console.error('Error loading data:', error);
+        document.getElementById('analysis-table').innerHTML = `
+          <tr><td style="padding: 2rem; text-align: center; color: var(--danger);">
+            Error loading data. Make sure vaccines.json exists.
+          </td></tr>
+        `;
+      }
+    }
+
+    // Get criteria list based on current view
+    function getCriteria() {
+      return currentView === 'trial' ? data.criteria_trial : data.criteria_safety;
+    }
+
+    // Get analysis data for a vaccine
+    function getAnalysis(vaccine) {
+      const key = `${currentView}_${currentLang}`;
+      return vaccine[key];
+    }
+
+    // Render explanation
+    function renderExplanation() {
+      const t = texts[currentLang].intro;
+      const promptFile = currentView === 'trial' ? t.trialPrompt : t.safetyPrompt;
+      const explanation = document.getElementById('explanation');
+      explanation.innerHTML = `
+        <p><strong>${t.whatIsThis}</strong> ${t.whatIsThisText}</p>
+        <p><strong>${t.howToReproduce}</strong> ${t.howToReproduceText} <a href="../prompts/${promptFile}" target="_blank">${promptFile}</a></p>
+        <p><strong>${t.sourceDocs}</strong> ${t.sourceDocsText}</p>
+      `;
+    }
+
+    // Render legend
+    function renderLegend() {
+      const t = texts[currentLang];
+      const legend = document.getElementById('legend');
+      legend.innerHTML = Object.entries(t.legend).map(([key, label]) => `
+        <div class="legend-item">
+          <span class="legend-emoji">${ratingEmoji[key]}</span>
+          <span>${label}</span>
+        </div>
+      `).join('');
+    }
+
+    // Render table
+    function renderTable() {
+      const t = texts[currentLang];
+      const criteria = getCriteria();
+      const criteriaKeys = Object.keys(criteria);
+
+      // Build header row
+      let headerHtml = `<tr>
+        <th class="vaccine-header">${t.vaccine}</th>`;
+
+      criteriaKeys.forEach(key => {
+        const criterion = criteria[key];
+        const name = currentLang === 'pt' ? criterion.name_pt : criterion.name;
+        headerHtml += `
+          <th class="criterion-header" data-criterion="${key}">
+            <span class="criterion-name">${name}</span>
+          </th>`;
+      });
+
+      headerHtml += `<th class="overall-header">${t.overall}</th></tr>`;
+
+      // Build data rows
+      let bodyHtml = '';
+      data.vaccines.forEach(vaccine => {
+        const analysis = getAnalysis(vaccine);
+
+        bodyHtml += `<tr>
+          <td class="vaccine-cell" data-vaccine="${vaccine.id}">
+            <span class="vaccine-name">${vaccine.name}</span>
+            <span class="vaccine-type">${vaccine.type} - ${vaccine.manufacturer}</span>
+          </td>`;
+
+        criteriaKeys.forEach(key => {
+          const criterionData = analysis.criteria[key];
+          const emoji = criterionData ? criterionData.emoji : '❓';
+          bodyHtml += `
+            <td class="rating-cell" data-vaccine="${vaccine.id}" data-criterion="${key}">
+              ${emoji}
+            </td>`;
+        });
+
+        bodyHtml += `
+          <td class="overall-cell" data-vaccine="${vaccine.id}" data-type="overall">
+            ${analysis.overall.emoji}
+          </td>
+        </tr>`;
+      });
+
+      document.getElementById('analysis-table').innerHTML = headerHtml + bodyHtml;
+      attachTableListeners();
+    }
+
+    // Attach click listeners to table
+    function attachTableListeners() {
+      // Vaccine name clicks
+      document.querySelectorAll('.vaccine-cell').forEach(cell => {
+        cell.addEventListener('click', () => {
+          const vaccineId = cell.dataset.vaccine;
+          showVaccineModal(vaccineId);
+        });
+      });
+
+      // Criterion header clicks
+      document.querySelectorAll('.criterion-header').forEach(header => {
+        header.addEventListener('click', () => {
+          const criterionId = header.dataset.criterion;
+          showCriterionModal(criterionId);
+        });
+      });
+
+      // Rating cell clicks
+      document.querySelectorAll('.rating-cell').forEach(cell => {
+        cell.addEventListener('click', () => {
+          const vaccineId = cell.dataset.vaccine;
+          const criterionId = cell.dataset.criterion;
+          showRatingModal(vaccineId, criterionId);
+        });
+      });
+
+      // Overall cell clicks
+      document.querySelectorAll('.overall-cell').forEach(cell => {
+        cell.addEventListener('click', () => {
+          const vaccineId = cell.dataset.vaccine;
+          showOverallModal(vaccineId);
+        });
+      });
+    }
+
+    // Modal functions
+    function showModal(title, emoji, content) {
+      document.getElementById('modal-title').innerHTML = title + (emoji ? ` <span class="rating-badge">${emoji}</span>` : '');
+      document.getElementById('modal-body').innerHTML = content;
+      document.getElementById('modal').classList.add('active');
+    }
+
+    function hideModal() {
+      document.getElementById('modal').classList.remove('active');
+    }
+
+    function showVaccineModal(vaccineId) {
+      const t = texts[currentLang];
+      const vaccine = data.vaccines.find(v => v.id === vaccineId);
+
+      const sourceLinks = vaccine.sources.map(src => {
+        const isPdf = src.endsWith('.pdf');
+        return `<a href="../pdfs/${src}" target="_blank" style="color: var(--accent); text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem;">
+          ${isPdf ? '📄' : '📝'} ${src}
+        </a>`;
+      }).join('<br>');
+
+      const content = `
+        <div class="modal-section">
+          <h3>${t.description}</h3>
+          <p>${vaccine.description}</p>
+        </div>
+        <div class="modal-section">
+          <h3>${t.manufacturer}</h3>
+          <p>${vaccine.manufacturer}</p>
+        </div>
+        <div class="modal-section">
+          <h3>${t.sources}</h3>
+          <p>${sourceLinks}</p>
+        </div>
+      `;
+
+      showModal(`${vaccine.name} (${vaccine.type})`, null, content);
+    }
+
+    function showCriterionModal(criterionId) {
+      const t = texts[currentLang];
+      const criteria = getCriteria();
+      const criterion = criteria[criterionId];
+
+      const name = currentLang === 'pt' ? criterion.name_pt : criterion.name;
+      const whyItMatters = currentLang === 'pt' ? criterion.why_it_matters_pt : criterion.why_it_matters;
+      const whatIsIdeal = currentLang === 'pt' ? criterion.what_is_ideal_pt : criterion.what_is_ideal;
+
+      const content = `
+        <div class="modal-section">
+          <h3>${t.whyItMatters}</h3>
+          <p>${whyItMatters}</p>
+        </div>
+        <div class="modal-section">
+          <h3>${t.whatIsIdeal}</h3>
+          <p>${whatIsIdeal}</p>
+        </div>
+      `;
+
+      showModal(name, null, content);
+    }
+
+    function showRatingModal(vaccineId, criterionId) {
+      const t = texts[currentLang];
+      const vaccine = data.vaccines.find(v => v.id === vaccineId);
+      const analysis = getAnalysis(vaccine);
+      const criterionData = analysis.criteria[criterionId];
+      const criteria = getCriteria();
+      const criterion = criteria[criterionId];
+
+      const criterionName = currentLang === 'pt' ? criterion.name_pt : criterion.name;
+
+      let content = `
+        <div class="modal-section">
+          <span class="rating-label rating-${criterionData.rating}">
+            ${criterionData.emoji} ${criterionData.rating.charAt(0).toUpperCase() + criterionData.rating.slice(1)}
+          </span>
+        </div>
+      `;
+
+      // Trial analysis has what_document_states and level_description
+      // Safety analysis has explanation
+      if (criterionData.what_document_states) {
+        content += `
+          <div class="modal-section">
+            <h3>${t.whatDocumentStates}</h3>
+            <p>${criterionData.what_document_states}</p>
+          </div>
+        `;
+      }
+
+      if (criterionData.explanation) {
+        content += `
+          <div class="modal-section">
+            <h3>${t.explanation}</h3>
+            <p>${criterionData.explanation}</p>
+          </div>
+        `;
+      }
+
+      if (criterionData.level_description) {
+        content += `
+          <div class="modal-section">
+            <h3>${t.levelDescription}</h3>
+            <p>${criterionData.level_description}</p>
+          </div>
+        `;
+      }
+
+      showModal(`${vaccine.name}: ${criterionName}`, criterionData.emoji, content);
+    }
+
+    function showOverallModal(vaccineId) {
+      const t = texts[currentLang];
+      const vaccine = data.vaccines.find(v => v.id === vaccineId);
+      const analysis = getAnalysis(vaccine);
+
+      const content = `
+        <div class="modal-section">
+          <span class="rating-label rating-${analysis.overall.rating}">
+            ${analysis.overall.emoji} ${analysis.overall.rating.charAt(0).toUpperCase() + analysis.overall.rating.slice(1)}
+          </span>
+        </div>
+        <div class="modal-section">
+          <h3>${t.summary}</h3>
+          <p>${analysis.overall.summary}</p>
+        </div>
+      `;
+
+      showModal(`${vaccine.name} - ${t.overall}`, analysis.overall.emoji, content);
+    }
+
+    // Render everything
+    function render() {
+      const t = texts[currentLang];
+
+      // Update header
+      document.getElementById('page-title').textContent =
+        currentView === 'trial' ? t.trialTitle : t.safetyTitle;
+      document.getElementById('page-subtitle').innerHTML =
+        `${t.subtitle} <a href="#" id="methodology-link">${t.methodologyLink}</a>`;
+
+      renderExplanation();
+      renderLegend();
+      renderTable();
+    }
+
+    // Event listeners
+    document.getElementById('btn-en').addEventListener('click', () => {
+      currentLang = 'en';
+      document.getElementById('btn-en').classList.add('active');
+      document.getElementById('btn-pt').classList.remove('active');
+      render();
+    });
+
+    document.getElementById('btn-pt').addEventListener('click', () => {
+      currentLang = 'pt';
+      document.getElementById('btn-pt').classList.add('active');
+      document.getElementById('btn-en').classList.remove('active');
+      render();
+    });
+
+    document.getElementById('btn-trial').addEventListener('click', () => {
+      currentView = 'trial';
+      document.getElementById('btn-trial').classList.add('active');
+      document.getElementById('btn-safety').classList.remove('active');
+      render();
+    });
+
+    document.getElementById('btn-safety').addEventListener('click', () => {
+      currentView = 'safety';
+      document.getElementById('btn-safety').classList.add('active');
+      document.getElementById('btn-trial').classList.remove('active');
+      render();
+    });
+
+    document.getElementById('modal-close').addEventListener('click', hideModal);
+    document.getElementById('modal').addEventListener('click', (e) => {
+      if (e.target === document.getElementById('modal')) {
+        hideModal();
+      }
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        hideModal();
+      }
+    });
+
+    // Initialize
+    loadData();
+  </script>
+</body>
+</html>

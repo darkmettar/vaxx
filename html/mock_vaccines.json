@@ -1,0 +1,1213 @@
+{
+  "vaccines": [
+    {
+      "id": "hepb_recombivax",
+      "name": "Recombivax HB",
+      "type": "HepB",
+      "manufacturer": "Merck",
+      "description": "Hepatitis B vaccine for infants and children. Given in 3 doses: at birth, 1-2 months, and 6-18 months.",
+      "sources": ["hepb_recombivax_insert.pdf"],
+      "trial_en": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "The study used another hepatitis B vaccine as the comparator rather than an inert placebo.",
+            "level_description": "Mentioned in the document, but inadequately or far below ideal"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Study was conducted in a double-blind manner with neither participants nor investigators knowing allocation.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Subjects were randomly assigned to treatment groups using computer-generated allocation.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "1,636 infants and children were enrolled in the clinical trials.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Subjects were followed for adverse events for 5 days after each dose.",
+            "level_description": "Mentioned in the document, but inadequately or far below ideal"
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Data presented for infants and children combined, with limited age-stratified analysis.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Clear inclusion and exclusion criteria were defined, including healthy infants born to HBsAg-negative mothers.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Adverse events were recorded but standardized definitions (e.g., Brighton criteria) were not explicitly used.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Serious adverse events were collected, but monitoring was primarily passive after the initial observation period.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "No specific protocol for long-term monitoring of autoimmune or neurological conditions was described.",
+            "level_description": "Not conducted or not documented in the document"
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Premature infants and immunocompromised children were excluded from the trials.",
+            "level_description": "Mentioned in the document, but inadequately or far below ideal"
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Statistical analysis focused on immunogenicity endpoints; safety analysis was descriptive without power calculations.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Summary data provided in package insert; individual participant data not publicly available.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Post-marketing reports are collected through VAERS and periodic safety updates are conducted.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Study was funded entirely by the manufacturer; no independent analysis mentioned.",
+            "level_description": "Mentioned in the document, but inadequately or far below ideal"
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "All-cause mortality data not reported; only vaccine-related deaths discussed.",
+            "level_description": "Not conducted or not documented in the document"
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "This vaccine's safety evidence in children is limited by small sample sizes inadequate for detecting rare events, very short follow-up periods, and lack of true placebo control. While basic trial methodology was sound, the study was not designed to detect rare or delayed adverse events."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "O estudo utilizou outra vacina contra hepatite B como comparador em vez de um placebo inerte.",
+            "level_description": "Mencionado no documento, mas inadequado ou muito abaixo do ideal"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "O estudo foi conduzido de forma duplo-cega, sem que participantes ou investigadores soubessem a alocação.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Os participantes foram randomicamente alocados aos grupos de tratamento usando alocação gerada por computador.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "1.636 bebês e crianças foram incluídos nos ensaios clínicos.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Os participantes foram acompanhados para eventos adversos por 5 dias após cada dose.",
+            "level_description": "Mencionado no documento, mas inadequado ou muito abaixo do ideal"
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Dados apresentados para bebês e crianças combinados, com análise estratificada por idade limitada.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Critérios de inclusão e exclusão claros foram definidos, incluindo bebês saudáveis nascidos de mães HBsAg-negativas.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Eventos adversos foram registrados, mas definições padronizadas (ex: critérios Brighton) não foram explicitamente usadas.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Eventos adversos graves foram coletados, mas o monitoramento foi principalmente passivo após o período inicial de observação.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Nenhum protocolo específico para monitoramento de longo prazo de condições autoimunes ou neurológicas foi descrito.",
+            "level_description": "Não realizado ou não documentado"
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Bebês prematuros e crianças imunocomprometidas foram excluídos dos ensaios.",
+            "level_description": "Mencionado no documento, mas inadequado ou muito abaixo do ideal"
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A análise estatística focou em desfechos de imunogenicidade; a análise de segurança foi descritiva sem cálculos de poder.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Dados resumidos fornecidos na bula; dados individuais dos participantes não disponíveis publicamente.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Relatórios pós-comercialização são coletados através do VAERS e atualizações periódicas de segurança são conduzidas.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "O estudo foi financiado inteiramente pelo fabricante; nenhuma análise independente mencionada.",
+            "level_description": "Mencionado no documento, mas inadequado ou muito abaixo do ideal"
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Dados de mortalidade por todas as causas não relatados; apenas mortes relacionadas à vacina discutidas.",
+            "level_description": "Não realizado ou não documentado"
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "A evidência de segurança desta vacina em crianças é limitada por amostras pequenas inadequadas para detectar eventos raros, períodos de acompanhamento muito curtos e falta de controle placebo verdadeiro. Embora a metodologia básica do ensaio tenha sido sólida, o estudo não foi desenhado para detectar eventos adversos raros ou tardios."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Only 1,636 children studied - insufficient to detect rare events at 1:1,000 rate with statistical confidence."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Follow-up limited to 5 days post-vaccination; completely inadequate for detecting autoimmune or neurological sequelae."
+          },
+          "comparison_group": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "No true placebo group; another hepatitis B vaccine was used as comparator, obscuring the true adverse event rate."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Active surveillance only during initial days; transitioned to passive reporting for serious events."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "No scheduled developmental assessments or long-term neurological follow-up described."
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Premature infants and immunocompromised children were excluded; no data on these vulnerable populations."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Summary statistics available in package insert; individual participant data not accessible for independent verification."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "VAERS reporting system mentioned with periodic safety reviews; however, passive reporting underestimates true rates."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "The safety evidence for this vaccine in children provides limited reassurance. Short follow-up, small sample size, and lack of true placebo control mean rare and delayed adverse events cannot be ruled out based on this document alone."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Apenas 1.636 crianças estudadas - insuficiente para detectar eventos raros na taxa de 1:1.000 com confiança estatística."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Acompanhamento limitado a 5 dias pós-vacinação; completamente inadequado para detectar sequelas autoimunes ou neurológicas."
+          },
+          "comparison_group": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Sem grupo placebo verdadeiro; outra vacina contra hepatite B foi usada como comparador, obscurecendo a taxa real de eventos adversos."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Vigilância ativa apenas durante os dias iniciais; transição para notificação passiva para eventos graves."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "Nenhuma avaliação de desenvolvimento programada ou acompanhamento neurológico de longo prazo descrito."
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Bebês prematuros e crianças imunocomprometidas foram excluídos; sem dados sobre essas populações vulneráveis."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Estatísticas resumidas disponíveis na bula; dados individuais dos participantes não acessíveis para verificação independente."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Sistema de notificação VAERS mencionado com revisões periódicas de segurança; no entanto, notificação passiva subestima taxas reais."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "A evidência de segurança para esta vacina em crianças fornece garantia limitada. Acompanhamento curto, tamanho amostral pequeno e falta de controle placebo verdadeiro significam que eventos adversos raros e tardios não podem ser descartados com base apenas neste documento."
+        }
+      }
+    },
+    {
+      "id": "hib_hiberix",
+      "name": "Hiberix",
+      "type": "Hib",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Haemophilus influenzae type b vaccine. Given in 4 doses: at 2, 4, 6, and 12-15 months.",
+      "sources": ["hib_hiberix_insert.pdf", "hib_hiberix_insert.txt"],
+      "trial_en": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "No placebo-controlled trials were conducted; all comparisons were against other Hib vaccines.",
+            "level_description": "Not conducted or not documented in the document"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Observer-blinded design used in comparative studies.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Randomized allocation to vaccine groups was performed.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Over 5,000 infants received Hiberix across multiple clinical trials.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Solicited adverse events monitored for 4 days; unsolicited events for 31 days post-vaccination.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Data presented separately for primary series (2-6 months) and booster dose (12-15 months).",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Clear criteria defined; healthy infants meeting age requirements were enrolled.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Solicited local and systemic events were predefined with objective measurement criteria.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Serious adverse events collected throughout the study period; causality assessment performed.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "No specific long-term monitoring protocol for autoimmune or neurological conditions described.",
+            "level_description": "Not conducted or not documented in the document"
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Premature infants were included in some studies but data not presented separately.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Non-inferiority analysis performed for immunogenicity; safety analysis was descriptive.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Results published in peer-reviewed journals; individual participant data not available.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Post-marketing surveillance data referenced; passive reporting systems in place globally.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "All studies sponsored by GSK; no independent analysis mentioned.",
+            "level_description": "Mentioned in the document, but inadequately or far below ideal"
+          },
+          "all_cause_mortality": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Deaths reported but causality assessment limited to investigator judgment.",
+            "level_description": "Present, but with significant flaws or limitations"
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "Hiberix has adequate sample sizes and reasonable methodology but lacks placebo control and long-term safety monitoring. The evidence supports short-term safety but cannot address rare or delayed adverse events."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Nenhum ensaio controlado por placebo foi conduzido; todas as comparações foram contra outras vacinas Hib.",
+            "level_description": "Não realizado ou não documentado"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Desenho com observador cego usado em estudos comparativos.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Alocação randomizada aos grupos de vacina foi realizada.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Mais de 5.000 bebês receberam Hiberix em múltiplos ensaios clínicos.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Eventos adversos solicitados monitorados por 4 dias; eventos não solicitados por 31 dias pós-vacinação.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Dados apresentados separadamente para série primária (2-6 meses) e dose de reforço (12-15 meses).",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Critérios claros definidos; bebês saudáveis que atendiam aos requisitos de idade foram incluídos.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Eventos locais e sistêmicos solicitados foram predefinidos com critérios de medição objetivos.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Eventos adversos graves coletados durante todo o período do estudo; avaliação de causalidade realizada.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Nenhum protocolo específico de monitoramento de longo prazo para condições autoimunes ou neurológicas descrito.",
+            "level_description": "Não realizado ou não documentado"
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Bebês prematuros foram incluídos em alguns estudos, mas dados não apresentados separadamente.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Análise de não-inferioridade realizada para imunogenicidade; análise de segurança foi descritiva.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Resultados publicados em periódicos revisados por pares; dados individuais dos participantes não disponíveis.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Dados de vigilância pós-comercialização referenciados; sistemas de notificação passiva em vigor globalmente.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Todos os estudos patrocinados pela GSK; nenhuma análise independente mencionada.",
+            "level_description": "Mencionado no documento, mas inadequado ou muito abaixo do ideal"
+          },
+          "all_cause_mortality": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Mortes relatadas, mas avaliação de causalidade limitada ao julgamento do investigador.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "Hiberix tem tamanhos de amostra adequados e metodologia razoável, mas carece de controle placebo e monitoramento de segurança de longo prazo. A evidência apoia segurança de curto prazo, mas não pode abordar eventos adversos raros ou tardios."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Over 5,000 infants studied across clinical trials; adequate for detecting events at 1:500 frequency."
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Only 31 days of follow-up for unsolicited events; insufficient to detect delayed autoimmune or neurological reactions."
+          },
+          "comparison_group": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "No placebo control; only compared against other Hib vaccines, making it impossible to determine true background rate of adverse events."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Active solicitation of predefined events for 4 days; passive reporting thereafter."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "No developmental assessments or scheduled neurological evaluations described in the study protocol."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Some premature infants included but results not stratified; immunocompromised children excluded."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Published in peer-reviewed journals but individual participant data not available for independent analysis."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Global pharmacovigilance program in place with periodic safety updates; however reliance on passive reporting."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "Hiberix demonstrates reasonable short-term safety in healthy infants with adequate sample sizes. However, the lack of placebo control and limited follow-up duration mean long-term safety and rare events remain uncertain."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Mais de 5.000 bebês estudados em ensaios clínicos; adequado para detectar eventos na frequência de 1:500."
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Apenas 31 dias de acompanhamento para eventos não solicitados; insuficiente para detectar reações autoimunes ou neurológicas tardias."
+          },
+          "comparison_group": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "Sem controle placebo; apenas comparado contra outras vacinas Hib, impossibilitando determinar a taxa real de eventos adversos."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Solicitação ativa de eventos predefinidos por 4 dias; notificação passiva posteriormente."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "Nenhuma avaliação de desenvolvimento ou avaliações neurológicas programadas descritas no protocolo do estudo."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Alguns bebês prematuros incluídos, mas resultados não estratificados; crianças imunocomprometidas excluídas."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Publicado em periódicos revisados por pares, mas dados individuais dos participantes não disponíveis para análise independente."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Programa global de farmacovigilância em vigor com atualizações periódicas de segurança; no entanto, dependência de notificação passiva."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "Hiberix demonstra segurança razoável de curto prazo em bebês saudáveis com tamanhos de amostra adequados. No entanto, a falta de controle placebo e duração limitada de acompanhamento significam que a segurança de longo prazo e eventos raros permanecem incertos."
+        }
+      }
+    },
+    {
+      "id": "mmr_mmrii",
+      "name": "M-M-R II",
+      "type": "MMR",
+      "manufacturer": "Merck",
+      "description": "Measles, Mumps, and Rubella vaccine. Given in 2 doses: at 12-15 months and 4-6 years.",
+      "sources": ["mmr_mmrii_clinical.pdf", "mmr_mmrii_clinical.txt"],
+      "trial_en": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Original licensure trials included true saline placebo control groups for safety comparison.",
+            "level_description": "Exceeds the expected standard for the time period and study type"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Double-blind methodology employed in pivotal trials.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Randomized allocation performed with documented methods.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "pediatric_sample_size": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Over 14,000 children studied in pre-licensure clinical trials.",
+            "level_description": "Exceeds the expected standard for the time period and study type"
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Active follow-up for 42 days; some studies extended to 6 months.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Data presented for 12-15 month age group and school-age children separately.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Well-defined criteria; children with egg allergies and immunodeficiency excluded.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Predefined solicited events with temperature thresholds and rash classifications.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "active_monitoring_serious": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Active surveillance for febrile seizures and other serious events with causality assessment.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Some monitoring for encephalitis and seizures; limited long-term neurological follow-up.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Immunocompromised children excluded from trials; limited data on this population.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "statistical_analysis": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Appropriate statistical methods for safety analysis including relative risk calculations.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Extensive publication record; multiple independent studies corroborate findings.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          },
+          "post_marketing_surveillance": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Decades of post-marketing surveillance data available; VSD and VAERS data analyzed.",
+            "level_description": "Exceeds the expected standard for the time period and study type"
+          },
+          "conflict_of_interest": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Initial studies manufacturer-funded; subsequent independent studies conducted.",
+            "level_description": "Present, but with significant flaws or limitations"
+          },
+          "all_cause_mortality": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "All-cause mortality tracked in clinical trials and post-marketing surveillance.",
+            "level_description": "Meets what would be expected in a robust safety study"
+          }
+        },
+        "overall": {
+          "rating": "adequate",
+          "emoji": "✅",
+          "summary": "M-M-R II has one of the most robust safety evidence bases among pediatric vaccines, with large sample sizes, placebo-controlled trials, and decades of post-marketing data. Some limitations remain in long-term autoimmune monitoring and vulnerable subgroup data."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Ensaios originais de licenciamento incluíram grupos de controle placebo salino verdadeiro para comparação de segurança.",
+            "level_description": "Excede o padrão esperado para o período e tipo de estudo"
+          },
+          "double_blind": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Metodologia duplo-cega empregada nos ensaios pivotais.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Alocação randomizada realizada com métodos documentados.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "pediatric_sample_size": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Mais de 14.000 crianças estudadas em ensaios clínicos pré-licenciamento.",
+            "level_description": "Excede o padrão esperado para o período e tipo de estudo"
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Acompanhamento ativo por 42 dias; alguns estudos estendidos para 6 meses.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Dados apresentados para grupo etário de 12-15 meses e crianças em idade escolar separadamente.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Critérios bem definidos; crianças com alergia a ovo e imunodeficiência excluídas.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Eventos solicitados predefinidos com limiares de temperatura e classificações de erupções cutâneas.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "active_monitoring_serious": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Vigilância ativa para convulsões febris e outros eventos graves com avaliação de causalidade.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Algum monitoramento para encefalite e convulsões; acompanhamento neurológico de longo prazo limitado.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Crianças imunocomprometidas excluídas dos ensaios; dados limitados sobre esta população.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "statistical_analysis": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Métodos estatísticos apropriados para análise de segurança incluindo cálculos de risco relativo.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Extenso histórico de publicações; múltiplos estudos independentes corroboram os achados.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          },
+          "post_marketing_surveillance": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "what_document_states": "Décadas de dados de vigilância pós-comercialização disponíveis; dados do VSD e VAERS analisados.",
+            "level_description": "Excede o padrão esperado para o período e tipo de estudo"
+          },
+          "conflict_of_interest": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Estudos iniciais financiados pelo fabricante; estudos independentes subsequentes conduzidos.",
+            "level_description": "Presente, mas com falhas ou limitações significativas"
+          },
+          "all_cause_mortality": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Mortalidade por todas as causas rastreada em ensaios clínicos e vigilância pós-comercialização.",
+            "level_description": "Atende ao esperado em um estudo de segurança robusto"
+          }
+        },
+        "overall": {
+          "rating": "adequate",
+          "emoji": "✅",
+          "summary": "M-M-R II tem uma das bases de evidência de segurança mais robustas entre as vacinas pediátricas, com grandes tamanhos de amostra, ensaios controlados por placebo e décadas de dados pós-comercialização. Algumas limitações permanecem no monitoramento autoimune de longo prazo e dados de subgrupos vulneráveis."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "Over 14,000 children in clinical trials plus millions in post-marketing surveillance; excellent statistical power."
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "42-day active follow-up in trials; however, extensive post-marketing surveillance provides years of data."
+          },
+          "comparison_group": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "Original trials used true saline placebo; rare among pediatric vaccines."
+          },
+          "active_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Active solicitation of adverse events with specific attention to febrile seizures and rash."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Monitoring for encephalitis and seizures present; long-term developmental assessments limited."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Immunocompromised children excluded from trials; contraindicated in this population."
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Decades of published research from multiple independent research groups; extensive peer review."
+          },
+          "post_marketing_surveillance": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "One of the most extensively monitored vaccines; VSD analyses, VAERS, and international databases provide robust safety data."
+          }
+        },
+        "overall": {
+          "rating": "adequate",
+          "emoji": "✅",
+          "summary": "M-M-R II has strong safety evidence from well-designed clinical trials and decades of real-world use. The availability of placebo-controlled data and extensive post-marketing surveillance provides considerable confidence in its pediatric safety profile."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "Mais de 14.000 crianças em ensaios clínicos mais milhões em vigilância pós-comercialização; excelente poder estatístico."
+          },
+          "follow_up_duration": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "42 dias de acompanhamento ativo nos ensaios; no entanto, extensa vigilância pós-comercialização fornece anos de dados."
+          },
+          "comparison_group": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "Ensaios originais usaram placebo salino verdadeiro; raro entre vacinas pediátricas."
+          },
+          "active_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Solicitação ativa de eventos adversos com atenção específica a convulsões febris e erupções cutâneas."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Monitoramento para encefalite e convulsões presente; avaliações de desenvolvimento de longo prazo limitadas."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Crianças imunocomprometidas excluídas dos ensaios; contraindicada nesta população."
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Décadas de pesquisa publicada por múltiplos grupos de pesquisa independentes; extensa revisão por pares."
+          },
+          "post_marketing_surveillance": {
+            "rating": "exemplary",
+            "emoji": "⭐",
+            "explanation": "Uma das vacinas mais extensamente monitoradas; análises do VSD, VAERS e bases de dados internacionais fornecem dados de segurança robustos."
+          }
+        },
+        "overall": {
+          "rating": "adequate",
+          "emoji": "✅",
+          "summary": "M-M-R II tem forte evidência de segurança de ensaios clínicos bem desenhados e décadas de uso no mundo real. A disponibilidade de dados controlados por placebo e extensa vigilância pós-comercialização fornece considerável confiança em seu perfil de segurança pediátrica."
+        }
+      }
+    }
+  ],
+  "criteria_trial": {
+    "placebo_control": {
+      "id": "placebo_control",
+      "name": "Placebo control group",
+      "name_pt": "Grupo controle com placebo",
+      "why_it_matters": "Allows identification of which reactions are caused by the vaccine vs. coincidental events",
+      "why_it_matters_pt": "Permite identificar quais reações são causadas pela vacina vs. eventos coincidentes",
+      "what_is_ideal": "Inert placebo (saline). Using another vaccine as comparator obscures true adverse event rates",
+      "what_is_ideal_pt": "Placebo inerte (solução salina). Usar outra vacina como comparador obscurece as taxas reais de eventos adversos"
+    },
+    "double_blind": {
+      "id": "double_blind",
+      "name": "Double-blind study",
+      "name_pt": "Estudo duplo-cego",
+      "why_it_matters": "Prevents bias in observation and symptom reporting",
+      "why_it_matters_pt": "Previne viés na observação e relato de sintomas",
+      "what_is_ideal": "Neither participants nor researchers know who received vaccine/placebo",
+      "what_is_ideal_pt": "Nem participantes nem pesquisadores sabem quem recebeu vacina/placebo"
+    },
+    "randomization": {
+      "id": "randomization",
+      "name": "Randomization",
+      "name_pt": "Randomização",
+      "why_it_matters": "Ensures differences in outcomes are due to the vaccine, not pre-existing characteristics",
+      "why_it_matters_pt": "Garante que diferenças nos resultados são devido à vacina, não características pré-existentes",
+      "what_is_ideal": "Documented random allocation with allocation concealment",
+      "what_is_ideal_pt": "Alocação aleatória documentada com ocultação da alocação"
+    },
+    "pediatric_sample_size": {
+      "id": "pediatric_sample_size",
+      "name": "Pediatric sample size",
+      "name_pt": "Tamanho da amostra pediátrica",
+      "why_it_matters": "Small samples cannot detect rare reactions. Detecting 1:1,000 events requires ~3,000 participants",
+      "why_it_matters_pt": "Amostras pequenas não podem detectar reações raras. Detectar eventos 1:1.000 requer ~3.000 participantes",
+      "what_is_ideal": ">3,000 children per age group for adequate safety detection",
+      "what_is_ideal_pt": ">3.000 crianças por grupo etário para detecção adequada de segurança"
+    },
+    "follow_up_duration": {
+      "id": "follow_up_duration",
+      "name": "Follow-up duration",
+      "name_pt": "Duração do acompanhamento",
+      "why_it_matters": "Autoimmune/neurological reactions may emerge weeks or months later",
+      "why_it_matters_pt": "Reações autoimunes/neurológicas podem surgir semanas ou meses depois",
+      "what_is_ideal": "Minimum 6-12 months; ideal: several years with scheduled assessments",
+      "what_is_ideal_pt": "Mínimo 6-12 meses; ideal: vários anos com avaliações programadas"
+    },
+    "separate_age_groups": {
+      "id": "separate_age_groups",
+      "name": "Separate age groups",
+      "name_pt": "Grupos etários separados",
+      "why_it_matters": "Infants, toddlers, and older children have different immune systems",
+      "why_it_matters_pt": "Bebês, crianças pequenas e crianças mais velhas têm sistemas imunológicos diferentes",
+      "what_is_ideal": "Separate analysis: 0-1 years, 1-5 years, 6-12 years",
+      "what_is_ideal_pt": "Análise separada: 0-1 ano, 1-5 anos, 6-12 anos"
+    },
+    "inclusion_exclusion_criteria": {
+      "id": "inclusion_exclusion_criteria",
+      "name": "Inclusion/exclusion criteria",
+      "name_pt": "Critérios de inclusão/exclusão",
+      "why_it_matters": "Allows understanding of who the results apply to",
+      "why_it_matters_pt": "Permite entender a quem os resultados se aplicam",
+      "what_is_ideal": "Balanced criteria that include representative population",
+      "what_is_ideal_pt": "Critérios equilibrados que incluem população representativa"
+    },
+    "standardized_adverse_events": {
+      "id": "standardized_adverse_events",
+      "name": "Standardized definition of adverse events",
+      "name_pt": "Definição padronizada de eventos adversos",
+      "why_it_matters": "Enables comparison across studies and prevents under/over-reporting",
+      "why_it_matters_pt": "Permite comparação entre estudos e previne sub/super-notificação",
+      "what_is_ideal": "Brighton Collaboration criteria or MedDRA coding",
+      "what_is_ideal_pt": "Critérios Brighton Collaboration ou codificação MedDRA"
+    },
+    "active_monitoring_serious": {
+      "id": "active_monitoring_serious",
+      "name": "Active monitoring of serious adverse events",
+      "name_pt": "Monitoramento ativo de eventos adversos graves",
+      "why_it_matters": "Passive/unsolicited reporting vastly underestimates serious events",
+      "why_it_matters_pt": "Notificação passiva/não solicitada subestima muito os eventos graves",
+      "what_is_ideal": "Active solicited surveillance for hospitalization, sequelae, deaths",
+      "what_is_ideal_pt": "Vigilância ativa solicitada para hospitalização, sequelas, mortes"
+    },
+    "autoimmune_neurological": {
+      "id": "autoimmune_neurological",
+      "name": "Assessment of autoimmune/neurological reactions",
+      "name_pt": "Avaliação de reações autoimunes/neurológicas",
+      "why_it_matters": "Conditions like Guillain-Barré, seizures, myocarditis are rare but serious",
+      "why_it_matters_pt": "Condições como Guillain-Barré, convulsões, miocardite são raras mas graves",
+      "what_is_ideal": "Specific long-term monitoring with scheduled exams",
+      "what_is_ideal_pt": "Monitoramento específico de longo prazo com exames programados"
+    },
+    "vulnerable_subgroups": {
+      "id": "vulnerable_subgroups",
+      "name": "Vulnerable subgroups",
+      "name_pt": "Subgrupos vulneráveis",
+      "why_it_matters": "Premature, immunocompromised children may react differently",
+      "why_it_matters_pt": "Crianças prematuras, imunocomprometidas podem reagir diferentemente",
+      "what_is_ideal": "Intentional inclusion and separate analysis of these groups",
+      "what_is_ideal_pt": "Inclusão intencional e análise separada desses grupos"
+    },
+    "statistical_analysis": {
+      "id": "statistical_analysis",
+      "name": "Robust statistical analysis",
+      "name_pt": "Análise estatística robusta",
+      "why_it_matters": "Most vaccine trials are powered for efficacy, not safety",
+      "why_it_matters_pt": "A maioria dos ensaios de vacinas tem poder para eficácia, não segurança",
+      "what_is_ideal": "Study powered for safety outcomes; confidence intervals documented",
+      "what_is_ideal_pt": "Estudo com poder para desfechos de segurança; intervalos de confiança documentados"
+    },
+    "data_transparency": {
+      "id": "data_transparency",
+      "name": "Data transparency",
+      "name_pt": "Transparência dos dados",
+      "why_it_matters": "Allows independent verification by other researchers",
+      "why_it_matters_pt": "Permite verificação independente por outros pesquisadores",
+      "what_is_ideal": "Independent DSMB; raw data available; peer-reviewed publication",
+      "what_is_ideal_pt": "DSMB independente; dados brutos disponíveis; publicação revisada por pares"
+    },
+    "post_marketing_surveillance": {
+      "id": "post_marketing_surveillance",
+      "name": "Post-marketing surveillance",
+      "name_pt": "Vigilância pós-comercialização",
+      "why_it_matters": "Detects rare reactions that only appear in millions of doses",
+      "why_it_matters_pt": "Detecta reações raras que só aparecem em milhões de doses",
+      "what_is_ideal": "Active pharmacovigilance system with periodic public reports",
+      "what_is_ideal_pt": "Sistema ativo de farmacovigilância com relatórios públicos periódicos"
+    },
+    "conflict_of_interest": {
+      "id": "conflict_of_interest",
+      "name": "Conflict of interest / funding source",
+      "name_pt": "Conflito de interesse / fonte de financiamento",
+      "why_it_matters": "Industry-funded studies are more likely to report favorable outcomes",
+      "why_it_matters_pt": "Estudos financiados pela indústria tendem a relatar resultados favoráveis",
+      "what_is_ideal": "Independent funding or full disclosure of all financial ties",
+      "what_is_ideal_pt": "Financiamento independente ou divulgação completa de todos os vínculos financeiros"
+    },
+    "all_cause_mortality": {
+      "id": "all_cause_mortality",
+      "name": "All-cause mortality and morbidity",
+      "name_pt": "Mortalidade e morbidade por todas as causas",
+      "why_it_matters": "Focusing only on vaccine-related outcomes can miss overall harm",
+      "why_it_matters_pt": "Focar apenas em resultados relacionados à vacina pode perder danos gerais",
+      "what_is_ideal": "Report total deaths and hospitalizations in all groups",
+      "what_is_ideal_pt": "Relatar total de mortes e hospitalizações em todos os grupos"
+    }
+  },
+  "criteria_safety": {
+    "pediatric_sample_size": {
+      "id": "pediatric_sample_size",
+      "name": "Pediatric sample size",
+      "name_pt": "Tamanho da amostra pediátrica",
+      "why_it_matters": "Small samples cannot detect rare events (1 in 1,000, 1 in 10,000)",
+      "why_it_matters_pt": "Amostras pequenas não podem detectar eventos raros (1 em 1.000, 1 em 10.000)",
+      "what_is_ideal": ">3,000 children per age group",
+      "what_is_ideal_pt": ">3.000 crianças por grupo etário"
+    },
+    "follow_up_duration": {
+      "id": "follow_up_duration",
+      "name": "Follow-up duration",
+      "name_pt": "Duração do acompanhamento",
+      "why_it_matters": "Autoimmune and neurological problems may take months or years to appear",
+      "why_it_matters_pt": "Problemas autoimunes e neurológicos podem levar meses ou anos para aparecer",
+      "what_is_ideal": "Minimum 12 months; 2-3+ years to assess long-term effects",
+      "what_is_ideal_pt": "Mínimo 12 meses; 2-3+ anos para avaliar efeitos de longo prazo"
+    },
+    "comparison_group": {
+      "id": "comparison_group",
+      "name": "Comparison group",
+      "name_pt": "Grupo de comparação",
+      "why_it_matters": "Need a group that did not receive the vaccine for comparison",
+      "why_it_matters_pt": "Precisa de um grupo que não recebeu a vacina para comparação",
+      "what_is_ideal": "True placebo (saline solution), with randomization and double-blind",
+      "what_is_ideal_pt": "Placebo verdadeiro (solução salina), com randomização e duplo-cego"
+    },
+    "active_surveillance": {
+      "id": "active_surveillance",
+      "name": "Active surveillance for serious events",
+      "name_pt": "Vigilância ativa para eventos graves",
+      "why_it_matters": "Passive reporting vastly underestimates serious events",
+      "why_it_matters_pt": "Notificação passiva subestima muito eventos graves",
+      "what_is_ideal": "Regular contact with families, review of medical records, causality analysis",
+      "what_is_ideal_pt": "Contato regular com famílias, revisão de prontuários, análise de causalidade"
+    },
+    "neurological_monitoring": {
+      "id": "neurological_monitoring",
+      "name": "Neurological/developmental monitoring",
+      "name_pt": "Monitoramento neurológico/desenvolvimento",
+      "why_it_matters": "Check if children developed normally months and years later",
+      "why_it_matters_pt": "Verificar se as crianças se desenvolveram normalmente meses e anos depois",
+      "what_is_ideal": "Scheduled developmental assessments, follow-up neurological exams",
+      "what_is_ideal_pt": "Avaliações de desenvolvimento programadas, exames neurológicos de acompanhamento"
+    },
+    "vulnerable_subgroups": {
+      "id": "vulnerable_subgroups",
+      "name": "Vulnerable subgroups",
+      "name_pt": "Subgrupos vulneráveis",
+      "why_it_matters": "Premature and immunosuppressed children may react differently",
+      "why_it_matters_pt": "Crianças prematuras e imunossuprimidas podem reagir diferentemente",
+      "what_is_ideal": "These groups intentionally included with results presented separately",
+      "what_is_ideal_pt": "Esses grupos intencionalmente incluídos com resultados apresentados separadamente"
+    },
+    "data_transparency": {
+      "id": "data_transparency",
+      "name": "Data transparency",
+      "name_pt": "Transparência dos dados",
+      "why_it_matters": "Is it possible to verify the complete study data?",
+      "why_it_matters_pt": "É possível verificar os dados completos do estudo?",
+      "what_is_ideal": "Peer-reviewed publication with complete adverse event data",
+      "what_is_ideal_pt": "Publicação revisada por pares com dados completos de eventos adversos"
+    },
+    "post_marketing_surveillance": {
+      "id": "post_marketing_surveillance",
+      "name": "Post-marketing surveillance",
+      "name_pt": "Vigilância pós-comercialização",
+      "why_it_matters": "What was discovered after millions of children received it?",
+      "why_it_matters_pt": "O que foi descoberto após milhões de crianças receberem?",
+      "what_is_ideal": "Active pharmacovigilance system with periodic public reports",
+      "what_is_ideal_pt": "Sistema ativo de farmacovigilância com relatórios públicos periódicos"
+    }
+  },
+  "metadata": {
+    "generated_at": "2025-01-10T12:00:00Z",
+    "vaccines_count": 3,
+    "verification_status": "mock_data"
+  }
+}
