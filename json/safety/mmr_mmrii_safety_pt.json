@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O documento relata um total de 834 crianças vacinadas em múltiplos estudos (442, 443, 459, 467, 473, 484, 511, 513). Embora isso represente um esforço substancial para a época, está muito abaixo do padrão moderno de >3.000 crianças por faixa etária necessário para detectar eventos adversos raros (1 em 1.000 ou 1 em 10.000). O tamanho amostral de 834 pode detectar de forma confiável apenas eventos que ocorrem com frequência aproximada de 1 em 100-300. As crianças tinham entre 10 meses e 15 anos de idade (idades médias tipicamente de 1,4-4,3 anos), sem divisão por faixa etária suficiente para análise de segurança por subgrupo."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O acompanhamento foi limitado a 6 semanas (42 dias) pós-vacinação em todos os estudos. O protocolo declara explicitamente: 'Cada criança será acompanhada clinicamente por 42 dias após a vacinação.' Os pais foram orientados a 'medir a temperatura diariamente e registrar todos os sintomas que ocorrerem durante as seis semanas seguintes.' Este período é grosseiramente inadequado para detectar condições autoimunes, sequelas neurológicas ou efeitos no desenvolvimento que podem se manifestar meses ou anos após a vacinação. O mínimo ideal é de 12 meses, sendo preferível 2-3+ anos para avaliação de segurança a longo prazo."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O Estudo 459 incluiu um grupo placebo planejado de 50 crianças, comparando reações em crianças recebendo vacinas M-M-R vs. vacinas de componentes individuais vs. placebo. No entanto, a maioria dos estudos (442, 443, 467, 473, 511, 513) comparou diferentes formulações de vacina (cepas de rubéola HPV-77 vs RA 27/3) em vez de usar um controle placebo de solução salina verdadeiro. A comparação foi principalmente entre vacinas ativas, não vacina vs. nenhuma vacina. O grupo placebo no Estudo 459 foi limitado a 50 crianças, o que é estatisticamente insuficiente para detecção de sinais de segurança."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A metodologia de vigilância variou por estudo. Nos estudos dos Drs. Weibel, Lerman, Gershon e McCollum, 'as observações eram registradas diariamente pela mãe' usando cartões de reação preenchidos pelos pais e termômetros. Os pais foram orientados a contatar os médicos para 'reações significativas ou incômodas.' Nos estudos do Dr. Villarejos (Nicarágua/Costa Rica), as observações eram feitas por 'pessoal médico ou paramédico' com médicos notificados de 'doenças significativas.' O protocolo exigia relato de 'qualquer reação séria ou alarmante, incluindo morte por qualquer causa' à Merck. No entanto, não há evidência de exames médicos sistemáticos, contato proativo, revisão de prontuários médicos ou investigação de hospitalização/morte com análise formal de causalidade."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "O documento não contém evidência de monitoramento neurológico ou do desenvolvimento sistemático. A palavra 'neurologia' aparece apenas como nome de departamento na Universidade de Nebraska. Não há avaliações de desenvolvimento programadas, exames neurológicos ou vigilância para condições como convulsões, encefalite, síndrome de Guillain-Barré ou regressão do desenvolvimento documentados. As queixas clínicas rastreadas foram limitadas a febre, erupção cutânea, irritabilidade, mal-estar, doença respiratória alta, otite, sintomas gastrointestinais e artralgia. Não há menção de protocolos de exame neurológico ou acompanhamento de marcos do desenvolvimento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "O documento EXCLUI explicitamente populações vulneráveis em vez de incluí-las. Os protocolos afirmam que crianças 'com leucemia ou outros distúrbios imunológicos e pessoas recebendo drogas imunossupressoras não devem ser vacinadas.' Não há documentação de inclusão intencional de bebês prematuros, crianças imunocomprometidas ou crianças com condições crônicas. Nenhuma análise de segurança separada para qualquer subgrupo de população especial é apresentada. A população do estudo consistiu inteiramente de crianças saudáveis da 'população aberta' sem condições especiais documentadas."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento fornece tabelas resumidas de respostas de anticorpos (taxas de soroconversão, títulos médios geométricos) e queixas clínicas agregadas por grupo de vacina e período de tempo. Dados sorológicos individuais de nível de caso são apresentados em algumas tabelas. Dados de temperatura e sintomas são apresentados como porcentagens. No entanto, registros individuais completos de pacientes, dados brutos de eventos adversos e narrativas de casos não estão incluídos nesta liberação FOIA. O documento observa que 'registros detalhados de base estão arquivados na Pesquisa de Vírus e Biologia Celular, Instituto Merck' e 'estão disponíveis para revisão a qualquer momento,' mas estes não faziam parte da submissão. Algumas partes foram retidas sob a Isenção 4 da FOIA (segredos comerciais) e Isenção 6 (privacidade)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "Este é um documento de ensaio clínico pré-licenciamento de 1978. Não há menção de planos de vigilância pós-comercialização, sistemas de farmacovigilância, VAERS (que só foi estabelecido em 1990) ou monitoramento de segurança contínuo após o licenciamento. O documento não contém discussão sobre como a segurança seria monitorada uma vez que a vacina estivesse em uso generalizado, nenhuma menção de revisões periódicas de segurança e nenhuma referência a mecanismos para detectar eventos adversos raros que podem aparecer apenas com milhões de doses administradas."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "Este documento FOIA da FDA de 1978 fornece evidência de segurança limitada para o licenciamento da vacina M-M-R II. Embora os ensaios clínicos tenham demonstrado imunogenicidade com taxas de soroconversão de 95-99% em todos os componentes, a avaliação de segurança tem limitações significativas: apenas 834 crianças foram estudadas (insuficiente para detectar eventos raros), o acompanhamento foi limitado a 42 dias (inadequado para detectar efeitos autoimunes ou neurológicos tardios), a maioria dos estudos não tinha controles placebo verdadeiros (comparando formulações de vacinas em vez disso), não houve monitoramento neurológico sistemático, populações vulneráveis foram explicitamente excluídas e nenhuma vigilância pós-comercialização foi planejada. A metodologia de vigilância passiva dependia fortemente de cartões diários preenchidos pelos pais documentando temperatura e sintomas, sem protocolo para revisão de prontuários médicos ou avaliação estruturada de causalidade. O documento mostra que a vacina produziu reações esperadas (febre, erupção cutânea, irritabilidade) em taxas consideradas aceitáveis para a época, mas não pode fornecer confiança em relação a eventos adversos sérios raros ou segurança a longo prazo em crianças."
+  }
+}

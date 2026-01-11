@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T00:30:00Z",
+  "last_updated": "2026-01-11T01:00:00Z",
   "vaccines": {
     "hepb_recombivax": {
       "name": "Recombivax HB",
@@ -9,10 +9,10 @@
       "sources": ["hepb_recombivax_insert.pdf"],
       "use_txt": false,
       "trial_en": "done",
-      "trial_pt": "pending",
+      "trial_pt": "done",
       "safety_en": "done",
-      "safety_pt": "pending",
-      "verified": false
+      "safety_pt": "done",
+      "verified": true
     },
     "hib_hiberix": {
       "name": "Hiberix",
@@ -22,10 +22,10 @@
       "sources": ["hib_hiberix_insert.pdf"],
       "use_txt": true,
       "trial_en": "done",
-      "trial_pt": "pending",
+      "trial_pt": "done",
       "safety_en": "done",
-      "safety_pt": "pending",
-      "verified": false
+      "safety_pt": "done",
+      "verified": true
     },
     "mmr_mmrii": {
       "name": "M-M-R II",
@@ -34,11 +34,11 @@
       "description": "Measles, Mumps, and Rubella Virus Vaccine Live (RA 27/3 strain) for prevention of measles, mumps, and rubella. Originally licensed September 1978. Source document is 1978 FDA FOIA clinical trial summary.",
       "sources": ["mmr_mmrii_clinical.pdf"],
       "use_txt": true,
-      "trial_en": "analyzing",
-      "trial_pt": "pending",
-      "safety_en": "analyzing",
-      "safety_pt": "pending",
-      "verified": false
+      "trial_en": "done",
+      "trial_pt": "done",
+      "safety_en": "done",
+      "safety_pt": "done",
+      "verified": true
     }
   },
   "errors": []

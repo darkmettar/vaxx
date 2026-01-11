@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_recombivax",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Os dados de ensaios clínicos pediátricos são limitados. Apenas 147 bebês e crianças saudáveis (até 10 anos de idade) receberam 434 doses em três estudos clínicos. Para adolescentes, a comparação entre o regime de duas doses versus três doses incluiu 255 e 121 participantes, respectivamente. Embora a segurança tenha sido estabelecida em todos os grupos etários pediátricos, os tamanhos das amostras são relativamente pequenos para detectar eventos adversos raros em uma vacina aprovada desde 1986 e administrada a milhões de crianças."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "O acompanhamento foi extremamente limitado. Nos estudos pediátricos, os participantes foram monitorados por apenas 5 dias após cada dose. Nos estudos com adultos, o monitoramento foi igualmente limitado a 5 dias após cada dose. Para neonatos com exposição periparto, o acompanhamento estendeu-se até 9 meses, mas isso foi principalmente para avaliar a eficácia (prevenção de infecção crônica) em vez de monitoramento abrangente de segurança. Nenhum dado de acompanhamento de segurança a longo prazo é apresentado nas informações de prescrição."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento faz referência a 'controles históricos' para comparações de eficácia em neonatos (controles históricos não tratados e aqueles que receberam apenas HBIG). O estudo comparativo de duas doses versus três doses em adolescentes foi randomizado e aberto. No entanto, o documento não descreve ensaios controlados por placebo ou comparações de segurança verdadeiramente randomizadas para os estudos clínicos primários. A metodologia de comparação para avaliação de segurança não está bem documentada."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os ensaios clínicos utilizaram monitoramento ativo por 5 dias após cada dose, registrando reações no local da injeção e reações sistêmicas adversas. No entanto, a curta duração limita a capacidade de detectar eventos adversos de início tardio. O documento menciona que as reações adversas foram 'monitoradas', mas não detalha a metodologia de vigilância (por exemplo, diários, ligações de acompanhamento, visitas clínicas). A vigilância pós-comercialização depende de relatos voluntários ao VAERS em vez de vigilância ativa."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Os ensaios clínicos registraram alguns sintomas neurológicos, incluindo vertigem/tontura e parestesia com incidência <1%. Os relatos pós-comercialização incluem eventos neurológicos graves: síndrome de Guillain-Barré, esclerose múltipla e sua exacerbação, mielite transversa, convulsões, convulsões febris, neuropatia periférica (incluindo paralisia de Bell), radiculopatia, encefalite, neurite óptica e fraqueza muscular. No entanto, nenhum protocolo sistemático de monitoramento neurológico é descrito nos ensaios pré-licenciamento."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O documento aborda várias populações vulneráveis: bebês prematuros (advertência sobre risco de apneia), bebês com peso <2000g (recomendações de adiamento da vacinação), pacientes em diálise/pré-diálise (formulação e dosagem separadas), gestantes (dados pós-aprovação de 26 gestações em estudos clínicos e 105 relatos pós-aprovação mostrando resultados dentro das taxas basais) e idosos (resposta diminuída de anticorpos observada em >60 anos). Pacientes com hepatite C crônica e populações imunocomprometidas também são discutidos em relação à imunogenicidade."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "O documento fornece taxas agregadas de reações adversas (por exemplo, 17% de reações no local da injeção, 15% de reações sistêmicas em adultos; 0,2% e 10,4% em crianças) e lista eventos adversos por categoria de incidência (>1% vs <1%). No entanto, desenhos detalhados dos estudos, análises estatísticas, intervalos de confiança e tabelas de dados brutos não estão incluídos. Os protocolos individuais dos estudos não são descritos. O documento reconhece que os eventos pós-comercialização não podem estabelecer causalidade devido a relatos voluntários de tamanhos populacionais incertos."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.2 fornece uma lista abrangente de eventos adversos pós-comercialização organizados por classe de sistema de órgãos, incluindo eventos graves como anafilaxia, doenças autoimunes (LES, vasculite, poliarterite nodosa), distúrbios neurológicos e reações cutâneas (síndrome de Stevens-Johnson). O documento faz referência ao sistema de notificação VAERS com informações de contato. Os dados de gravidez pós-aprovação abrangem 1986-2018 com 105 gestações acompanhadas. No entanto, o documento observa a incapacidade de estabelecer causalidade ou estimativas de frequência confiáveis a partir de relatos voluntários."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "RECOMBIVAX HB, aprovada em 1986, possui documentação de segurança pré-licenciamento limitada pelos padrões modernos. Os ensaios pediátricos incluíram apenas 147 crianças com períodos de acompanhamento de apenas 5 dias, o que é insuficiente para detectar eventos adversos raros ou tardios. O documento carece de dados de ensaios controlados por placebo e metodologias detalhadas dos estudos. No entanto, existem alguns pontos fortes: subgrupos vulneráveis (bebês prematuros, pacientes em diálise, gestantes) são razoavelmente abordados, e a vigilância pós-comercialização acumulou décadas de dados identificando eventos graves, porém raros, incluindo condições neurológicas e autoimunes. O perfil geral de segurança depende fortemente da experiência pós-comercialização em vez de evidências pré-licenciamento robustas, refletindo os padrões regulatórios da década de 1980 em vez dos requisitos atuais."
+  }
+}

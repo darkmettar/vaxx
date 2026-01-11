@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_hiberix",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "O Estudo 1 comparou HIBERIX (n=2.963) com comparadores ativos: PRP-T de Controle (Sanofi Pasteur SA) (n=520) e DTaP-IPV/Hib (Sanofi Pasteur Ltd.) (n=520). Nenhum grupo placebo inerte foi utilizado.",
+      "level_description": "Os ensaios clínicos utilizaram comparadores de vacinas ativas em vez de controles com placebo salino. Todos os grupos de comparação receberam outras vacinas contendo Hib, tornando impossível avaliar o verdadeiro perfil de segurança do HIBERIX em relação a uma linha de base não vacinada."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo 1 é descrito como 'ensaio clínico randomizado e controlado', mas o cegamento não é explicitamente mencionado. O Estudo 2 é descrito como 'estudo multicêntrico aberto'.",
+      "level_description": "O principal Estudo 1 nos EUA parece ser randomizado, mas a metodologia de cegamento não está documentada. O Estudo 2 e os 7 estudos adicionais foram explicitamente abertos, significando que os investigadores e participantes sabiam qual vacina estava sendo administrada."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo 1 é descrito como 'um ensaio clínico randomizado e controlado conduzido nos EUA' com crianças randomizadas para receber HIBERIX (n=2.963), PRP-T de Controle (n=520) ou DTaP-IPV/Hib (n=520).",
+      "level_description": "A randomização é explicitamente declarada para o principal ensaio dos EUA (Estudo 1). No entanto, a metodologia de randomização, ocultação da alocação e detalhes de estratificação não são fornecidos."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "O Estudo 1 incluiu 2.963 crianças recebendo HIBERIX para a série primária e 2.336 para a dose de reforço. Sete estudos adicionais incluíram 1.008 crianças recebendo HIBERIX como reforço. O Estudo 2 incluiu 371 crianças.",
+      "level_description": "O tamanho total da amostra pediátrica entre os estudos foi substancial (mais de 4.000 crianças recebendo HIBERIX). O principal ensaio dos EUA teve quase 3.000 participantes no braço HIBERIX, o que é adequado para detectar reações adversas comuns."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Reações adversas solicitadas foram coletadas 'dentro de 4 dias da vacinação'. Reações adversas graves nos 7 estudos adicionais foram relatadas 'no período de 31 dias após a imunização de reforço'.",
+      "level_description": "O acompanhamento ativo para reações solicitadas foi extremamente curto, de apenas 4 dias pós-vacinação. O monitoramento de eventos adversos graves se estendeu a 31 dias em alguns estudos, mas nenhum acompanhamento de segurança a longo prazo (meses a anos) está documentado para efeitos adversos crônicos ou tardios."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A série primária foi administrada aos 2, 4 e 6 meses. O reforço foi administrado entre 15-18 meses. Em 7 estudos adicionais, '172 (17,1%) participantes tinham entre 11 e 14 meses, 642 (63,7%) participantes tinham entre 15 e 18 meses, e 194 (19,2%) participantes tinham entre 19 e 25 meses'.",
+      "level_description": "A distribuição etária está documentada para os estudos de reforço, mas análises de segurança separadas por subgrupo etário não são apresentadas. Os resultados são agregados entre os grupos etários em vez de estratificados para comparação."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento menciona contraindicações (reação alérgica grave após vacina Hib ou toxoide tetânico anterior) e advertências (síndrome de Guillain-Barré dentro de 6 semanas, bebês prematuros, crianças imunossuprimidas), mas não detalha os critérios específicos de inclusão/exclusão dos ensaios.",
+      "level_description": "Embora contraindicações e precauções sejam listadas para uso clínico, os critérios reais de elegibilidade dos ensaios clínicos (critérios específicos de inclusão/exclusão usados para triagem de participantes) não estão documentados na bula."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Reações solicitadas foram sistematicamente coletadas com graduação padronizada: dor Grau 3 'chorou quando o membro foi movido/espontaneamente doloroso', irritabilidade Grau 3 'choro que não podia ser consolado/impedia atividade normal', febre Grau 3 '>103,1F (>39,5C) retal'.",
+      "level_description": "Os ensaios utilizaram definições padronizadas e escalas de graduação para eventos adversos solicitados, com definições claras de Grau 3 fornecidas para reações locais e sistêmicas. Diários ou ferramentas de coleta padronizadas parecem ter sido utilizados."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Reações adversas graves foram relatadas: 'Um de 2.963 participantes... experimentou uma reação adversa grave... convulsão no Dia 14 após a Dose 1.' 'Um de 2.336 participantes... experimentou... nova convulsão febril no Dia 1 após a Dose 4.' Nos 7 estudos adicionais, '2 de 1.008 participantes relataram uma reação adversa grave... no período de 31 dias após a imunização de reforço'.",
+      "level_description": "Eventos adversos graves foram capturados durante os ensaios com associações temporais observadas. No entanto, a metodologia para monitoramento ativo (frequência de contato, métodos de verificação) não é descrita. A janela de monitoramento de 31 dias é relativamente curta para detectar reações graves tardias."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A síndrome de Guillain-Barré é mencionada como advertência se ocorreu dentro de 6 semanas de vacina contendo tétano anterior. Relatos pós-comercialização incluem 'Convulsões (com ou sem febre), episódio hipotônico-hiporresponsivo (ou seja, início súbito de hipotonia, hiporresponsividade e palidez ou cianose)'.",
+      "level_description": "Eventos neurológicos são abordados nas seções de advertências e pós-comercialização, mas a avaliação proativa de desfechos autoimunes ou neurológicos nos ensaios clínicos não está documentada. A precaução sobre Guillain-Barré refere-se ao histórico anterior, não ao monitoramento do ensaio."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Advertências observam: 'A segurança e eficácia do HIBERIX em crianças imunossuprimidas não foram avaliadas.' 'Apneia após vacinação intramuscular foi observada em alguns bebês nascidos prematuramente'.",
+      "level_description": "Populações vulneráveis, como crianças imunocomprometidas e bebês prematuros, explicitamente não foram estudadas. O documento reconhece essas lacunas, mas não fornece dados de segurança para esses subgrupos de alto risco dos ensaios clínicos."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Análises de não inferioridade foram realizadas: 'HIBERIX foi não inferior ao PRP-T de Controle para a porcentagem de participantes atingindo anti-PRP >=0,15 mcg/mL (limite inferior do IC 95% na diferença de HIBERIX menos PRP-T de Controle >= limite predefinido de -5%)'.",
+      "level_description": "A metodologia estatística para comparações de não inferioridade de imunogenicidade está documentada com intervalos de confiança e margens de não inferioridade predefinidas. No entanto, planos de análise estatística detalhados para desfechos de segurança não são apresentados."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo 1 é identificado pelo número de registro de ensaio clínico NCT01000974. As taxas de reações adversas são apresentadas em tabelas detalhadas. No entanto, os 7 estudos adicionais não são identificados por número de registro.",
+      "level_description": "Alguma transparência é fornecida através do número de registro NCT para o Estudo 1 e tabelas detalhadas de eventos adversos. No entanto, disponibilidade completa de dados, acesso a dados brutos ou protocolos completos de estudo não são abordados. Vários estudos de apoio carecem de identificação de registro."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 documenta a experiência pós-comercialização incluindo: 'Inchaço extenso do membro vacinado, induração no local da injeção', 'Reações alérgicas (incluindo reações anafiláticas e anafilactoides), angioedema', 'Convulsões (com ou sem febre), episódio hipotônico-hiporresponsivo' e 'Apneia'.",
+      "level_description": "Uma seção dedicada à vigilância pós-comercialização documenta reações adversas adicionais identificadas após a aprovação. O relatório VAERS é referenciado. No entanto, estimativas de frequência não podem ser feitas a partir de relatos voluntários, conforme reconhecido no documento."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento identifica o fabricante como GlaxoSmithKline Biologicals, mas não divulga conflitos de interesse dos investigadores, fontes de financiamento para análises independentes ou relacionamentos entre os investigadores do ensaio e o patrocinador.",
+      "level_description": "Nenhuma informação é fornecida sobre conflitos de interesse para investigadores do estudo, comitês de supervisão independentes ou relacionamentos financeiros. O fabricante conduziu os ensaios, mas a transparência sobre potencial viés não é abordada."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento não relata nenhuma morte ou dados de mortalidade por todas as causas dos ensaios clínicos.",
+      "level_description": "A mortalidade por todas as causas não é abordada na bula. Embora eventos adversos graves específicos sejam mencionados (convulsões, convulsões febris), não há relato sistemático de mortes ou comparações de mortalidade entre os grupos de tratamento."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "O programa clínico do Hiberix incluiu um ensaio controlado randomizado de tamanho razoável (Estudo 1, n=2.963 para HIBERIX) com coleta padronizada de eventos adversos e metodologia estatística documentada para imunogenicidade. No entanto, limitações significativas incluem: (1) uso de comparadores de vacinas ativas em vez de controles com placebo verdadeiro, (2) período de acompanhamento muito curto de apenas 4 dias para reações solicitadas e 31 dias para eventos graves, (3) desenho aberto em vários estudos de apoio, (4) ausência de dados sobre populações vulneráveis como bebês imunocomprometidos ou prematuros, (5) ausência de relato de mortalidade por todas as causas, e (6) ausência de divulgações de conflitos de interesse. A seção de vigilância pós-comercialização fornece sinais de segurança adicionais, mas não pode estabelecer causalidade ou frequência. No geral, a base de evidências atende aos padrões regulatórios mínimos, mas possui lacunas significativas para uma avaliação abrangente de segurança."
+  }
+}

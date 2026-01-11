@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "The document reports a total of 834 children vaccinated across multiple studies (442, 443, 459, 467, 473, 484, 511, 513). While this represents a substantial effort for the era, it is far below the modern standard of >3,000 children per age group needed to detect rare adverse events (1 in 1,000 or 1 in 10,000). The sample size of 834 can only reliably detect events occurring at a frequency of approximately 1 in 100-300. Children ranged from 10 months to 15 years of age (mean ages typically 1.4-4.3 years), with no breakdown by age group sufficient for subgroup safety analysis."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Follow-up was limited to 6 weeks (42 days) post-vaccination across all studies. The protocol explicitly states: 'Each child will be followed clinically for 42 days following vaccination.' Parents were asked to 'take daily temperatures and record all symptoms which occur during the following six weeks.' This timeframe is grossly inadequate to detect autoimmune conditions, neurological sequelae, or developmental effects that may manifest months or years after vaccination. The ideal minimum is 12 months, with 2-3+ years preferred for long-term safety assessment."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Study 459 included a planned placebo group of 50 children, comparing reactions in children receiving M-M-R vaccines vs. individual component vaccines vs. placebo. However, most studies (442, 443, 467, 473, 511, 513) compared different vaccine formulations (HPV-77 vs RA 27/3 rubella strains) rather than using a true saline placebo control. The comparison was primarily between active vaccines, not vaccine vs. no vaccine. The placebo group in Study 459 was limited to 50 children, which is statistically underpowered for safety signal detection."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Surveillance methodology varied by study. In studies by Drs. Weibel, Lerman, Gershon, and McCollum, 'observations were recorded daily by the mother' using parent-completed reaction cards and thermometers. Parents were asked to contact physicians for 'significant or bothersome reactions.' In Dr. Villarejos' studies (Nicaragua/Costa Rica), observations were made by 'medical or paramedical personnel' with physicians notified of 'significant illness.' The protocol required reporting of 'any serious or alarming reaction, including death due to any cause' to Merck. However, there is no evidence of systematic medical examinations, proactive outreach, medical record review, or hospitalization/death investigation with formal causality analysis."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "The document contains no evidence of systematic neurological or developmental monitoring. The word 'neurology' appears only as a department name at University of Nebraska. No scheduled developmental assessments, neurological examinations, or surveillance for conditions such as seizures, encephalitis, Guillain-Barre syndrome, or developmental regression are documented. Clinical complaints tracked were limited to fever, rash, irritability, malaise, upper respiratory illness, otitis, gastrointestinal symptoms, and arthralgia. There is no mention of neurological examination protocols or developmental milestone tracking."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "The document explicitly EXCLUDES vulnerable populations rather than including them. The protocols state that children 'with leukemia or other immunologic disorders and persons receiving immunosuppressive drugs should not be vaccinated.' There is no documentation of intentional inclusion of premature infants, immunocompromised children, or children with chronic conditions. No separate safety analysis for any special population subgroup is presented. The study population consisted entirely of healthy children from the 'open population' without documented special conditions."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document provides summary tables of antibody responses (seroconversion rates, geometric mean titers) and clinical complaints aggregated by vaccine group and time period. Individual case-level serological data is presented in some tables. Temperature and symptom data are presented as percentages. However, complete individual patient records, raw adverse event data, and case narratives are not included in this FOIA release. The document notes that 'detailed background records are on file in Virus and Cell Biology Research, Merck Institute' and 'are available for review at any time,' but these were not part of the submission. Some portions were withheld under FOIA Exemption 4 (trade secrets) and Exemption 6 (privacy)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "This is a pre-licensure clinical trial document from 1978. There is no mention of post-marketing surveillance plans, pharmacovigilance systems, VAERS (which was not established until 1990), or ongoing safety monitoring after licensure. The document contains no discussion of how safety would be monitored once the vaccine was in widespread use, no mention of periodic safety reviews, and no reference to mechanisms for detecting rare adverse events that might only appear with millions of doses administered."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "This 1978 FDA FOIA document provides limited safety evidence for M-M-R II vaccine licensure. While the clinical trials demonstrated immunogenicity with seroconversion rates of 95-99% across components, the safety evaluation has significant limitations: only 834 children were studied (insufficient to detect rare events), follow-up was limited to 42 days (inadequate for detecting delayed autoimmune or neurological effects), most studies lacked true placebo controls (comparing vaccine formulations instead), there was no systematic neurological monitoring, vulnerable populations were explicitly excluded, and no post-marketing surveillance was planned. The passive surveillance methodology relied heavily on parent-completed daily cards documenting temperature and symptoms, with no protocol for medical record review or structured causality assessment. The document shows the vaccine produced expected reactions (fever, rash, irritability) at rates considered acceptable for the era, but cannot provide confidence regarding rare serious adverse events or long-term safety in children."
+  }
+}

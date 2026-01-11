@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_hiberix",
+  "analysis_type": "safety",
+  "language": "pt",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O Estudo 1 incluiu uma população pediátrica substancial: 2.963 crianças receberam HIBERIX para a série primária (aos 2, 4 e 6 meses), e 2.336 receberam a dose de reforço aos 15-18 meses. Os grupos controle incluíram 520 crianças cada para o Controle PRP-T e DTaP-IPV/Hib. Sete estudos adicionais contribuíram com 1.008 crianças que receberam HIBERIX como dose de reforço. A distribuição demográfica mostra 51,2% masculino, 61% brancos, 8% asiáticos, 9% negros e 22% outros grupos raciais/étnicos. A população total em todos os ensaios é de aproximadamente 4.000+ crianças, o que é adequado para detectar reações adversas comuns."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "As reações adversas solicitadas foram coletadas apenas dentro de 4 dias após a vacinação (dia da vacinação e os 3 dias seguintes). Reações adversas graves foram monitoradas por 31 dias após a imunização nos 7 estudos adicionais. Não há evidência de acompanhamento de segurança a longo prazo estendendo-se por meses ou anos após a vacinação. Esta janela curta de acompanhamento é insuficiente para detectar eventos adversos tardios ou sinais de segurança a longo prazo."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "O Estudo 1 foi um ensaio clínico randomizado e controlado comparando HIBERIX contra dois comparadores ativos: uma Vacina Conjugada Haemophilus b monovalente licenciada nos EUA (Controle PRP-T da Sanofi Pasteur SA) com n=520, e uma vacina combinada DTaP-IPV/Hib licenciada nos EUA (Sanofi Pasteur Ltd.) com n=520. Embora use controles ativos em vez de placebo, permite comparação direta dos perfis de segurança contra vacinas estabelecidas. No entanto, deve-se notar que sete estudos adicionais não incluíram um grupo comparador recebendo uma Vacina Conjugada Haemophilus b licenciada nos EUA."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Os ensaios empregaram solicitação ativa de reações adversas. Reações locais solicitadas (dor, vermelhidão, inchaço) e reações adversas gerais (irritabilidade, sonolência, febre, perda de apetite, agitação, inquietação) foram sistematicamente coletadas dentro de 4 dias após a vacinação. A bula inclui tabelas detalhadas (Tabelas 1, 2 e 3) com porcentagens específicas para cada reação adversa por dose e gravidade. Reações Grau 3 (graves) foram especificamente rastreadas. Isso demonstra metodologia de vigilância ativa estruturada, embora limitada a uma janela de 4 dias."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Preocupações de segurança neurológica são abordadas, mas de forma incompleta. A Síndrome de Guillain-Barré (SGB) é mencionada como advertência, observando que se a SGB ocorreu dentro de 6 semanas de uma vacina prévia contendo toxoide tetânico, a decisão de administrar HIBERIX deve ser baseada na análise de risco-benefício. Síncope com sinais neurológicos transitórios (distúrbio visual, parestesia, movimentos tônico-clônicos dos membros) está documentada. Reações adversas graves incluíram 1 convulsão no Dia 14 após a Dose 1 (1/2.963) e 1 nova crise febril no Dia 1 após a Dose 4 (1/2.336). Relatos pós-comercialização incluem convulsões (com ou sem febre) e episódios hipotônico-hiporresponsivos. No entanto, não há protocolo sistemático de avaliação neurológica ou acompanhamento neurológico a longo prazo descrito nos ensaios clínicos."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Algumas populações vulneráveis são abordadas, mas com limitações. Bebês prematuros: Uma advertência observa que apneia após vacinação intramuscular foi observada em alguns bebês nascidos prematuramente, aconselhando avaliação individual de risco-benefício. Crianças imunocomprometidas: A bula afirma que segurança e eficácia em crianças imunossuprimidas não foram avaliadas, reconhecendo essa lacuna. A faixa etária pediátrica é especificamente definida (6 semanas a 4 anos). No entanto, o documento declara explicitamente que segurança e eficácia não foram estabelecidas em crianças menores de 6 semanas ou com idade entre 5-16 anos. Nenhum dado específico é fornecido para crianças com doenças crônicas ou outras condições de alto risco."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A bula fornece dados de segurança transparentes substanciais: tabelas detalhadas mostrando porcentagens de reações adversas por número de dose e grau de gravidade; discriminação dos tamanhos de amostra para cada braço do estudo; informações demográficas (sexo, raça/etnia); identificador específico do ensaio NCT (NCT01000974) para o Estudo 1; definições claras de escalas de graduação (por exemplo, dor Grau 3 definida como 'chorou quando o membro foi movido/dor espontânea'); e limites de temperatura para definições de febre. Localizações geográficas dos estudos adicionais (Europa, Canadá, América Latina, Alemanha) são divulgadas. No entanto, dados brutos e intervalos de confiança para reações adversas não são fornecidos."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A Seção 6.2 documenta experiência pós-comercialização com reações adversas específicas identificadas após a aprovação, incluindo: inchaço extenso do membro vacinado, endurecimento no local da injeção, reações alérgicas (incluindo reações anafiláticas/anafilactoides), angioedema, convulsões (com ou sem febre), episódios hipotônico-hiporresponsivos, sonolência, síncope, respostas vasovagais, apneia, erupção cutânea e urticária. A bula observa apropriadamente que o relato voluntário torna impossível estimar confiavelmente a frequência ou estabelecer relações causais. Informações de relato ao VAERS são fornecidas (1-800-822-7967). Contato do fabricante para relatos está incluído (GlaxoSmithKline em 1-888-825-5249)."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "HIBERIX demonstra documentação de segurança adequada em várias áreas: tamanho de amostra pediátrica substancial (~4.000+ crianças), comparação controlada randomizada contra vacinas licenciadas, solicitação ativa de reações adversas com graduação detalhada de gravidade, transparência razoável de dados com identificadores de ensaios publicados e vigilância pós-comercialização estabelecida. No entanto, existem limitações significativas: a duração do acompanhamento é criticamente curta (apenas 4 dias para reações solicitadas, 31 dias para eventos graves), sem monitoramento de segurança a longo prazo. O monitoramento neurológico capturou alguns eventos graves (convulsões, crises febris), mas carece de protocolos sistemáticos de avaliação neurológica. Populações vulneráveis como crianças imunocomprometidas explicitamente carecem de dados de segurança. No geral, o perfil de segurança está razoavelmente documentado para reações comuns de curto prazo, mas é insuficiente para detectar eventos adversos tardios ou raros."
+  }
+}

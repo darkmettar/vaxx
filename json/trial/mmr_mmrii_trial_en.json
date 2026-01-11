@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "The main licensure studies (442, 443, 467, 511, 513) compared M-M-R (RA 27/3) against other active vaccines: measles-rubella vaccine, rubella-only vaccine, or M-M-R with HPV-77 rubella strain. Study 459 protocol mentions a placebo group of 50 children in the study design, but this was only 9% of the total 550 planned subjects, with remaining children receiving various active vaccine formulations.",
+      "level_description": "The clinical studies supporting M-M-R II licensure primarily compared different vaccine formulations (RA 27/3 vs HPV-77 rubella strains, combined vs single-component vaccines) rather than using true inert placebo controls. While Study 459 mentions a small placebo group (50/550), the overall safety assessment was based on active comparators, making it impossible to determine the true baseline rate of adverse events attributable to the vaccine versus coincidental events."
+    },
+    "double_blind": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "The document does not describe blinding procedures for any of the main studies (442, 443, 467, 511, 513). Study 459 mentions that 'coded vials' were supplied by Merck Sharp & Dohme, suggesting some potential for blinding, but explicit blinding methodology is not described.",
+      "level_description": "No explicit double-blinding is documented for the clinical trials. The studies appear to be predominantly open-label, with investigators and participants potentially aware of which vaccine formulation was administered. The mention of 'coded vials' in one study is insufficient evidence of proper double-blinding procedures."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 459 states children will be 'randomly assigned' to receive one of the vaccine groups. However, most other studies (442, 443, 467, 511, 513) describe children being 'assigned' or receiving vaccines without explicit mention of randomization methodology.",
+      "level_description": "Randomization is mentioned for Study 459, but the allocation method, concealment procedures, and stratification are not documented. Other major studies lack explicit documentation of randomization. The methodology falls short of demonstrating proper random allocation with concealment."
+    },
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Total vaccinations documented: 834 children received combined live M-M-R (RA 27/3) vaccine across lot numbers 621, 60664, 60665, and 60666. Individual studies: Study 442 (199 children with MMR), Study 443 (102 children with MMR), Study 467 (269 children), Study 511 (226 children), Study 513 (163 children).",
+      "level_description": "The total sample size of approximately 834 children is grossly inadequate for detecting rare adverse events. Standard safety assessment requires at least 3,000 children per age group to detect events occurring at 1:1,000 frequency with statistical confidence. This sample size could only reliably detect adverse events occurring more frequently than approximately 1 in 100 children."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "All studies followed children for 42 days (6 weeks) post-vaccination. Blood samples were obtained 'six weeks after vaccination' for serological testing. Clinical surveillance recorded complaints for '42 days following vaccination.'",
+      "level_description": "The 42-day (6-week) follow-up period is severely inadequate for detecting delayed adverse reactions, particularly autoimmune conditions, neurological complications, or other chronic sequelae that may emerge weeks to months after vaccination. Modern safety standards require minimum 6-12 months of follow-up, with ideal multi-year surveillance for pediatric vaccines."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Children ranged from 10 months to 8 years of age across studies. Mean ages were documented: Study 442 (3.7 years), Study 443 (1.7 years), Study 467 (1.9 years). Some tables break down serological results by individual age years (10 months, 11 months, 1 year, 2 years, etc.).",
+      "level_description": "While age data is collected and some tables show results by individual ages, the studies do not provide formal stratified safety analyses by distinct developmental age groups (infants 0-12 months, toddlers 1-2 years, preschoolers 3-5 years). Aggregated safety data may mask age-specific reaction patterns."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Documented exclusion criteria: sensitivity to egg, chicken, chicken feathers, or neomycin; leukemia or other immunologic disorders; persons receiving immunosuppressive drugs; febrile respiratory illness or other active febrile infection. Children were required to have negative history for vaccination with and illness caused by viruses represented in the vaccine.",
+      "level_description": "The studies document clear exclusion criteria related to allergies, immunocompromised status, and concurrent illness. Entry criteria required negative disease and vaccination history. While these criteria are documented, the exclusion of children with chronic conditions limits generalizability to real-world populations."
+    },
+    "standardized_adverse_events": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Clinical complaints were categorized into: fever (by temperature ranges: <99F, 99-100.9F, 101-102.9F, 103-104.9F, >105F), irritability, malaise, headache, upper respiratory illness, otitis, ophthalmopathy, gastrointestinal illness, anorexia, rash, lymphadenopathy, myalgia, arthralgia. Temperature was recorded as oral or rectal.",
+      "level_description": "The studies used consistent categories for adverse event reporting with temperature grading. However, no standardized criteria such as Brighton Collaboration definitions or MedDRA coding were used (predating these standards). Subjective categories like 'irritability' and 'malaise' lacked objective thresholds. Modern standardized adverse event definitions were not available in 1978."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Protocols state: 'Any serious or alarming reaction, including death due to any cause during the investigation, whether related or not related to the test material, must be reported immediately to Merck & Co., Inc.' Parents were asked to 'contact the physician should any significant or bothersome reaction occur.' In some studies, observations were made by 'medical or paramedical personnel.'",
+      "level_description": "There was a passive reporting mechanism for serious events with instructions to report deaths and serious reactions. However, this relied on parental observation and voluntary reporting rather than systematic active surveillance with scheduled clinical assessments. The methodology for serious adverse event ascertainment falls short of active monitoring standards."
+    },
+    "autoimmune_neurological": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No mention of autoimmune conditions, encephalitis, Guillain-Barre syndrome, seizures, convulsions, or other neurological assessments in the clinical trial documentation. High fevers (up to 105F) were documented in some children, but neurological evaluation was not described.",
+      "level_description": "The clinical trials did not include any specific monitoring, assessment, or reporting of autoimmune or neurological adverse events. Given that MMR vaccine has subsequently been associated with rare cases of febrile seizures, immune thrombocytopenic purpura, and encephalitis, the absence of any such monitoring in the original trials represents a significant gap."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Children with leukemia, immunologic disorders, or receiving immunosuppressive drugs were explicitly excluded from the trials. No separate analysis or inclusion of premature infants, children with allergies, chronic diseases, or other vulnerable populations is documented.",
+      "level_description": "Vulnerable subgroups were systematically excluded from the clinical trials rather than studied. There is no safety data from the pre-licensure trials for immunocompromised children, premature infants, or children with chronic health conditions who would subsequently receive this vaccine in real-world use."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A memo describes 'Analysis of variance was conducted on post titers' comparing rubella vaccine groups. Seroconversion rates and geometric mean titers are reported with percentages. One memo states 'No significant difference exists among the three groups.'",
+      "level_description": "Basic statistical analysis (ANOVA, seroconversion rates, geometric mean titers) was performed for immunogenicity outcomes. However, no power calculations for safety detection are documented, and the small sample sizes preclude meaningful statistical analysis of adverse events. The studies were powered for efficacy, not safety."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document was released through a FOIA request dated August 2019, over 40 years after the 1978 licensure. The cover letter notes that 'portions of pages' were withheld under Exemption 4 (trade secrets) and Exemption 6 (personal privacy). Detailed background records were stated to be 'on file in Virus and Cell Biology Research, Merck Institute.'",
+      "level_description": "This document was obtained only through FOIA request decades after approval, with portions redacted. Individual patient data are not publicly available. No independent Data Safety Monitoring Board is mentioned. The delayed and partial release of clinical trial data limits independent verification of safety findings."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document covers pre-licensure clinical trials only. No post-marketing surveillance plan, passive reporting system (such as VAERS, which did not exist until 1990), or ongoing safety monitoring is described.",
+      "level_description": "The 1978 licensure document contains no post-marketing surveillance provisions. VAERS was not established until 1990. The complete absence of post-marketing safety monitoring in the original approval documents means the safety assessment relied entirely on the limited pre-licensure trials."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "All clinical studies were conducted under the overall responsibility of Dr. Maurice R. Hilleman, Vice President, Virus and Cell Biology Research, Merck Institute for Therapeutic Research. Vaccines were prepared by Merck Sharp and Dohme Biologics Manufacturing. Serologic testing was performed in Merck laboratories. Clinical investigators reported directly to Merck.",
+      "level_description": "The trials were entirely designed, managed, and analyzed by the vaccine manufacturer. The lead investigator was a Vice President at Merck. No independent oversight, external monitoring, or disclosure of financial relationships is documented. This represents a fundamental conflict of interest with no mitigation measures described."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Protocols mention that 'death due to any cause during the investigation, whether related or not related to the test material, must be reported immediately.' However, no mortality data, death reports, or systematic mortality analysis appears in the results documentation.",
+      "level_description": "While the protocol required death reporting, no mortality data is presented in the clinical trial results. There is no systematic comparison of all-cause mortality between vaccine groups or documentation of whether any deaths occurred during the 42-day follow-up period."
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "The 1978 M-M-R II licensure studies demonstrate significant methodological limitations by any safety assessment standard. The trials enrolled only approximately 834 children receiving the combined vaccine, far below the minimum 3,000 per age group needed to detect rare adverse events. Follow-up was limited to 42 days, precluding detection of delayed autoimmune or neurological reactions. No true placebo control was used - instead comparing different vaccine formulations. Studies lacked double-blinding, with most appearing to be open-label. The trials excluded vulnerable populations (immunocompromised, premature infants) who would later receive the vaccine. No assessment of autoimmune or neurological outcomes was performed despite these being subsequently identified as rare adverse events. The entire research program was conducted by the manufacturer with no independent oversight, representing an unmitigated conflict of interest. While the studies may have been standard for their era, they fall dramatically short of modern pediatric vaccine safety evaluation requirements and leave substantial uncertainty about the true adverse event profile of M-M-R II."
+  }
+}

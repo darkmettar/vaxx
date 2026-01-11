@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os principais estudos de licenciamento (442, 443, 467, 511, 513) compararam a M-M-R (RA 27/3) com outras vacinas ativas: vacina sarampo-rubéola, vacina somente de rubéola, ou M-M-R com cepa de rubéola HPV-77. O protocolo do Estudo 459 menciona um grupo placebo de 50 crianças no desenho do estudo, mas isso representava apenas 9% do total de 550 participantes planejados, com as crianças restantes recebendo várias formulações de vacinas ativas.",
+      "level_description": "Os estudos clínicos que fundamentaram o licenciamento da M-M-R II compararam principalmente diferentes formulações de vacinas (cepas de rubéola RA 27/3 vs HPV-77, vacinas combinadas vs componentes únicos) em vez de usar controles placebo verdadeiramente inertes. Embora o Estudo 459 mencione um pequeno grupo placebo (50/550), a avaliação geral de segurança baseou-se em comparadores ativos, tornando impossível determinar a verdadeira taxa basal de eventos adversos atribuíveis à vacina versus eventos coincidentes."
+    },
+    "double_blind": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "O documento não descreve procedimentos de cegamento para nenhum dos estudos principais (442, 443, 467, 511, 513). O Estudo 459 menciona que 'frascos codificados' foram fornecidos pela Merck Sharp & Dohme, sugerindo algum potencial para cegamento, mas a metodologia explícita de cegamento não é descrita.",
+      "level_description": "Não há documentação explícita de duplo-cego para os ensaios clínicos. Os estudos parecem ser predominantemente abertos, com investigadores e participantes potencialmente cientes de qual formulação de vacina foi administrada. A menção de 'frascos codificados' em um estudo é evidência insuficiente de procedimentos adequados de duplo-cego."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O Estudo 459 afirma que as crianças serão 'atribuídas aleatoriamente' para receber um dos grupos de vacina. No entanto, a maioria dos outros estudos (442, 443, 467, 511, 513) descreve crianças sendo 'atribuídas' ou recebendo vacinas sem menção explícita da metodologia de randomização.",
+      "level_description": "A randomização é mencionada para o Estudo 459, mas o método de alocação, procedimentos de ocultação e estratificação não estão documentados. Outros estudos importantes carecem de documentação explícita de randomização. A metodologia não demonstra adequadamente alocação aleatória apropriada com ocultação."
+    },
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Total de vacinações documentadas: 834 crianças receberam a vacina combinada M-M-R viva (RA 27/3) através dos lotes 621, 60664, 60665 e 60666. Estudos individuais: Estudo 442 (199 crianças com MMR), Estudo 443 (102 crianças com MMR), Estudo 467 (269 crianças), Estudo 511 (226 crianças), Estudo 513 (163 crianças).",
+      "level_description": "O tamanho total da amostra de aproximadamente 834 crianças é grosseiramente inadequado para detectar eventos adversos raros. A avaliação padrão de segurança requer pelo menos 3.000 crianças por faixa etária para detectar eventos que ocorrem na frequência de 1:1.000 com confiança estatística. Este tamanho de amostra só poderia detectar de forma confiável eventos adversos que ocorrem com mais frequência do que aproximadamente 1 em 100 crianças."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Todos os estudos acompanharam as crianças por 42 dias (6 semanas) após a vacinação. Amostras de sangue foram obtidas 'seis semanas após a vacinação' para testes sorológicos. A vigilância clínica registrou queixas por '42 dias após a vacinação.'",
+      "level_description": "O período de acompanhamento de 42 dias (6 semanas) é severamente inadequado para detectar reações adversas tardias, particularmente condições autoimunes, complicações neurológicas ou outras sequelas crônicas que podem surgir semanas a meses após a vacinação. Os padrões modernos de segurança exigem um mínimo de 6-12 meses de acompanhamento, com vigilância ideal de múltiplos anos para vacinas pediátricas."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As crianças variaram de 10 meses a 8 anos de idade entre os estudos. Idades médias foram documentadas: Estudo 442 (3,7 anos), Estudo 443 (1,7 anos), Estudo 467 (1,9 anos). Algumas tabelas apresentam resultados sorológicos por idades individuais (10 meses, 11 meses, 1 ano, 2 anos, etc.).",
+      "level_description": "Embora os dados de idade sejam coletados e algumas tabelas mostrem resultados por idades individuais, os estudos não fornecem análises de segurança formalmente estratificadas por grupos etários de desenvolvimento distintos (bebês 0-12 meses, crianças pequenas 1-2 anos, pré-escolares 3-5 anos). Dados de segurança agregados podem mascarar padrões de reação específicos por idade."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Critérios de exclusão documentados: sensibilidade a ovo, frango, penas de frango ou neomicina; leucemia ou outros distúrbios imunológicos; pessoas recebendo medicamentos imunossupressores; doença respiratória febril ou outra infecção febril ativa. As crianças deveriam ter histórico negativo para vacinação e doença causada pelos vírus representados na vacina.",
+      "level_description": "Os estudos documentam critérios de exclusão claros relacionados a alergias, estado imunocomprometido e doenças concomitantes. Os critérios de entrada exigiam histórico negativo de doença e vacinação. Embora esses critérios estejam documentados, a exclusão de crianças com condições crônicas limita a generalização para populações do mundo real."
+    },
+    "standardized_adverse_events": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As queixas clínicas foram categorizadas em: febre (por faixas de temperatura: <99F, 99-100,9F, 101-102,9F, 103-104,9F, >105F), irritabilidade, mal-estar, dor de cabeça, doença respiratória superior, otite, oftalmopatia, doença gastrointestinal, anorexia, erupção cutânea, linfadenopatia, mialgia, artralgia. A temperatura foi registrada como oral ou retal.",
+      "level_description": "Os estudos usaram categorias consistentes para relato de eventos adversos com graduação de temperatura. No entanto, nenhum critério padronizado como definições da Brighton Collaboration ou codificação MedDRA foi usado (antecedendo esses padrões). Categorias subjetivas como 'irritabilidade' e 'mal-estar' não tinham limiares objetivos. Definições modernas padronizadas de eventos adversos não estavam disponíveis em 1978."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Os protocolos afirmam: 'Qualquer reação séria ou alarmante, incluindo morte por qualquer causa durante a investigação, relacionada ou não ao material de teste, deve ser relatada imediatamente à Merck & Co., Inc.' Os pais foram solicitados a 'contatar o médico caso ocorra qualquer reação significativa ou incômoda.' Em alguns estudos, as observações foram feitas por 'pessoal médico ou paramédico.'",
+      "level_description": "Havia um mecanismo de notificação passiva para eventos graves com instruções para relatar mortes e reações sérias. No entanto, isso dependia da observação parental e notificação voluntária, em vez de vigilância ativa sistemática com avaliações clínicas programadas. A metodologia para identificação de eventos adversos graves fica aquém dos padrões de monitoramento ativo."
+    },
+    "autoimmune_neurological": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Não há menção de condições autoimunes, encefalite, síndrome de Guillain-Barré, convulsões ou outras avaliações neurológicas na documentação dos ensaios clínicos. Febres altas (até 105F) foram documentadas em algumas crianças, mas avaliação neurológica não foi descrita.",
+      "level_description": "Os ensaios clínicos não incluíram nenhum monitoramento, avaliação ou relato específico de eventos adversos autoimunes ou neurológicos. Dado que a vacina MMR foi subsequentemente associada a casos raros de convulsões febris, púrpura trombocitopênica imune e encefalite, a ausência de qualquer monitoramento nos ensaios originais representa uma lacuna significativa."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Crianças com leucemia, distúrbios imunológicos ou recebendo medicamentos imunossupressores foram explicitamente excluídas dos ensaios. Nenhuma análise separada ou inclusão de bebês prematuros, crianças com alergias, doenças crônicas ou outras populações vulneráveis está documentada.",
+      "level_description": "Subgrupos vulneráveis foram sistematicamente excluídos dos ensaios clínicos em vez de estudados. Não há dados de segurança dos ensaios pré-licenciamento para crianças imunocomprometidas, bebês prematuros ou crianças com condições crônicas de saúde que posteriormente receberiam esta vacina no uso do mundo real."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Um memorando descreve 'Análise de variância foi conduzida nos títulos pós' comparando grupos de vacina de rubéola. Taxas de soroconversão e títulos médios geométricos são relatados com porcentagens. Um memorando afirma 'Não existe diferença significativa entre os três grupos.'",
+      "level_description": "Análise estatística básica (ANOVA, taxas de soroconversão, títulos médios geométricos) foi realizada para desfechos de imunogenicidade. No entanto, nenhum cálculo de poder para detecção de segurança está documentado, e os pequenos tamanhos de amostra impedem análise estatística significativa de eventos adversos. Os estudos foram dimensionados para eficácia, não para segurança."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O documento foi liberado através de uma solicitação FOIA datada de agosto de 2019, mais de 40 anos após o licenciamento de 1978. A carta de apresentação observa que 'partes de páginas' foram retidas sob a Isenção 4 (segredos comerciais) e Isenção 6 (privacidade pessoal). Registros detalhados de antecedentes foram declarados como estando 'arquivados na Pesquisa de Vírus e Biologia Celular, Instituto Merck.'",
+      "level_description": "Este documento foi obtido apenas através de solicitação FOIA décadas após a aprovação, com partes redigidas. Dados individuais de pacientes não estão disponíveis publicamente. Nenhum Comitê Independente de Monitoramento de Segurança de Dados é mencionado. A liberação tardia e parcial dos dados dos ensaios clínicos limita a verificação independente dos achados de segurança."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento cobre apenas ensaios clínicos pré-licenciamento. Nenhum plano de vigilância pós-comercialização, sistema de notificação passiva (como o VAERS, que não existia até 1990), ou monitoramento contínuo de segurança é descrito.",
+      "level_description": "O documento de licenciamento de 1978 não contém disposições de vigilância pós-comercialização. O VAERS não foi estabelecido até 1990. A ausência completa de monitoramento de segurança pós-comercialização nos documentos de aprovação originais significa que a avaliação de segurança dependeu inteiramente dos ensaios pré-licenciamento limitados."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Todos os estudos clínicos foram conduzidos sob a responsabilidade geral do Dr. Maurice R. Hilleman, Vice-Presidente de Pesquisa em Vírus e Biologia Celular, Instituto Merck de Pesquisa Terapêutica. As vacinas foram preparadas pela Merck Sharp and Dohme Biologics Manufacturing. Testes sorológicos foram realizados em laboratórios da Merck. Os investigadores clínicos reportavam diretamente à Merck.",
+      "level_description": "Os ensaios foram inteiramente projetados, gerenciados e analisados pelo fabricante da vacina. O investigador principal era Vice-Presidente da Merck. Nenhuma supervisão independente, monitoramento externo ou divulgação de relacionamentos financeiros está documentada. Isso representa um conflito de interesse fundamental sem medidas de mitigação descritas."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Os protocolos mencionam que 'morte por qualquer causa durante a investigação, relacionada ou não ao material de teste, deve ser relatada imediatamente.' No entanto, nenhum dado de mortalidade, relato de morte ou análise sistemática de mortalidade aparece na documentação dos resultados.",
+      "level_description": "Embora o protocolo exigisse notificação de mortes, nenhum dado de mortalidade é apresentado nos resultados dos ensaios clínicos. Não há comparação sistemática de mortalidade por todas as causas entre os grupos de vacina ou documentação sobre se ocorreram mortes durante o período de acompanhamento de 42 dias."
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "Os estudos de licenciamento da M-M-R II de 1978 demonstram limitações metodológicas significativas por qualquer padrão de avaliação de segurança. Os ensaios incluíram apenas aproximadamente 834 crianças recebendo a vacina combinada, muito abaixo do mínimo de 3.000 por faixa etária necessário para detectar eventos adversos raros. O acompanhamento foi limitado a 42 dias, impossibilitando a detecção de reações autoimunes ou neurológicas tardias. Nenhum controle placebo verdadeiro foi usado - em vez disso, compararam-se diferentes formulações de vacinas. Os estudos não tinham duplo-cego, com a maioria parecendo ser aberta. Os ensaios excluíram populações vulneráveis (imunocomprometidos, bebês prematuros) que posteriormente receberiam a vacina. Nenhuma avaliação de desfechos autoimunes ou neurológicos foi realizada, apesar de estes terem sido posteriormente identificados como eventos adversos raros. Todo o programa de pesquisa foi conduzido pelo fabricante sem supervisão independente, representando um conflito de interesse não mitigado. Embora os estudos possam ter sido padrão para sua época, eles ficam dramaticamente aquém dos requisitos modernos de avaliação de segurança de vacinas pediátricas e deixam incerteza substancial sobre o verdadeiro perfil de eventos adversos da M-M-R II."
+  }
+}

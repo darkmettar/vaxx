@@ -1,0 +1,1219 @@
+{
+  "vaccines": [
+    {
+      "id": "hepb_recombivax",
+      "name": "Recombivax HB",
+      "type": "HepB",
+      "manufacturer": "Merck",
+      "description": "Hepatitis B vaccine for prevention of infection caused by all known subtypes of hepatitis B virus. Approved for all ages. 3-dose series (0.5 mL for children 0-19 years) given at 0, 1, and 6 months.",
+      "sources": [
+        "hepb_recombivax_insert.pdf"
+      ],
+      "trial_en": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "One referenced study (Beasley et al., 1983) was a 'Randomized Double-Blind, Placebo-Controlled Trial' for HBIG efficacy. However, the primary vaccine efficacy study in neonates (Section 14.1) used 'untreated historical controls' rather than a concurrent placebo group. The adolescent regimen comparison (Section 14.3) was an 'open, randomized, multicenter study' without placebo control.",
+            "level_description": "While one referenced study used placebo control (for HBIG), the main vaccine efficacy data relied on historical controls rather than concurrent placebo groups. Immunogenicity studies were open-label without placebo comparators."
+          },
+          "double_blind": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "One referenced study (Beasley et al., 1983) was described as 'Double-Blind.' However, the key adolescent comparison study (Section 14.3) is explicitly described as 'an open, randomized, multicenter study.' Other immunogenicity studies do not specify blinding.",
+            "level_description": "Double-blinding was used in one referenced HBIG study but not in the primary vaccine trials. The adolescent regimen comparison was explicitly open-label, which introduces potential observer and participant bias."
+          },
+          "randomization": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "The adolescent two-dose vs. three-dose study (Section 14.3) was described as 'an open, randomized, multicenter study.' One referenced study (Beasley et al., 1983) was also randomized. However, no details on randomization methods are provided.",
+            "level_description": "Randomization was used in at least one key study and one referenced trial, but no description of randomization methodology (e.g., allocation concealment, sequence generation) is provided in the document."
+          },
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Section 6.1: '434 doses of RECOMBIVAX HB, 5 mcg, were administered to 147 healthy infants and children (up to 10 years of age).' Section 14.1: '130 infants after nine months of follow-up.' Section 14.2: 'protective level of antibody in 100% of 92 infants, 99% of 129 children, and in 99% of 112 adolescents.' Section 14.3: 255 adolescents in two-dose arm, 121 in three-dose arm.",
+            "level_description": "Pediatric sample sizes ranged from 92 to 255 subjects per age group. While adequate for immunogenicity assessment, these are relatively modest sample sizes for detecting rare adverse events. The safety monitoring study (147 children for 434 doses) is small."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Section 6.1: 'monitored for 5 days after each dose.' Section 14.1: 'after nine months of follow-up.' Section 2.4: 'The duration of the protective effect of RECOMBIVAX HB in healthy vaccinees is unknown at present.'",
+            "level_description": "Active safety monitoring was limited to only 5 days post-dose, which is inadequate for detecting delayed adverse events. The 9-month efficacy follow-up in neonates is reasonable for infection prevention but inadequate for long-term safety assessment. The document explicitly acknowledges that long-term protective duration is unknown."
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Clinical studies reported results separately for: infants and children up to 10 years of age (Section 6.1, 14.2); neonates born to HBsAg/HBeAg positive mothers (Section 14.1); adolescents 11-15 years (Section 14.3); young adults 20-29 years, adults 30-39 years, and adults >=40 years (Section 14.4); predialysis/dialysis patients (Section 14.5).",
+            "level_description": "The document provides separate immunogenicity and safety data for multiple age groups including infants, children, adolescents, and adult age brackets, allowing assessment of age-specific responses."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Studies included 'healthy infants and children' and 'healthy adults.' Section 14.1 specified neonates 'born of mothers positive for both HBsAg and HBeAg.' Section 14.5 addresses chronic HCV patients and dialysis patients. No detailed inclusion/exclusion criteria are provided.",
+            "level_description": "The document describes study populations in general terms (e.g., 'healthy') but does not provide specific inclusion/exclusion criteria, making it impossible to assess the rigor of participant selection or generalizability."
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Section 6.1 reports adverse reactions by system organ class (General Disorders, Gastrointestinal, Respiratory, Nervous System, Skin, Musculoskeletal, etc.) with frequency thresholds (>1% vs <1%). Specific reactions are listed including injection site reactions, fever (defined as >=101F or >=100F), and systemic complaints.",
+            "level_description": "Adverse events are reported by system organ class with frequency categories, suggesting some standardization. However, the document does not describe the use of standardized grading scales or definitions for severity assessment."
+          },
+          "active_monitoring_serious": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Section 6.1: 'monitored for 5 days after each dose.' Section 6.2 (Post-Marketing Experience) lists serious events reported voluntarily, including Guillain-Barre syndrome, multiple sclerosis, seizures, Stevens-Johnson syndrome, thrombocytopenia, encephalitis, etc., but states 'it is not possible to reliably estimate their frequency or establish a causal relationship.'",
+            "level_description": "Active monitoring was limited to 5 days post-vaccination, which is grossly inadequate for detecting serious adverse events that may have delayed onset. Serious events are only captured through passive post-marketing surveillance with acknowledged limitations in establishing causality and frequency."
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Section 6.2 (Post-Marketing Experience) lists: 'Autoimmune diseases including systemic lupus erythematosus (SLE), lupus-like syndrome, vasculitis, and polyarteritis nodosa.' Neurological: 'Guillain-Barre syndrome; multiple sclerosis; exacerbation of multiple sclerosis; myelitis including transverse myelitis; seizure; febrile seizure; peripheral neuropathy including Bell's Palsy; radiculopathy; encephalitis.' These are passive reports only.",
+            "level_description": "Autoimmune and neurological events are documented in post-marketing surveillance, but these were not systematically monitored in clinical trials. The document explicitly states a causal relationship cannot be established for these post-marketing reports."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Section 5.2-5.3 addresses premature infants and infants <2000g. Section 8.1 reports pregnancy data (26 women in clinical studies, 105 in post-approval reports). Section 8.5 notes geriatric populations showed 'diminished antibody response' in subjects >60 years. Section 14.5 covers chronic HCV patients (~70% seroprotection) and predialysis/dialysis patients (lower response rates).",
+            "level_description": "Some vulnerable subgroups are addressed (premature infants, pregnancy, elderly, immunocompromised dialysis patients, HCV patients), but data are limited and often from post-marketing or observational sources rather than controlled trials designed to assess these populations."
+          },
+          "statistical_analysis": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Results are presented as percentages of seroprotection (e.g., '100% of 92 infants,' '96% of 1213 healthy adults,' '99% of 255 subjects'). Section 14.1 states 'estimated efficacy in prevention of chronic hepatitis B infection was 95%.' No confidence intervals, p-values, or statistical methodology is described.",
+            "level_description": "The document reports only point estimates without confidence intervals, p-values, or description of statistical methods. The claim that two-dose regimen 'appears similar' to three-dose regimen lacks formal statistical comparison."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Section 15 provides 9 references to published studies and CDC recommendations. Some numerical data are provided (sample sizes, seroconversion rates). However, individual patient data, complete safety databases, and detailed study protocols are not available in this document.",
+            "level_description": "The prescribing information references published studies and provides summary statistics, but detailed raw data, complete safety databases, and full study protocols are not included. Access to underlying data would require retrieval of cited references."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Section 6.2 provides extensive post-marketing experience including hypersensitivity reactions, autoimmune diseases, neurological disorders, and other serious events. Section 17 instructs reporting to VAERS. The document states the vaccine has been marketed since 1986 with ongoing surveillance through 2018 (revision date).",
+            "level_description": "The document includes a comprehensive list of post-marketing adverse events and provides mechanisms for ongoing surveillance (VAERS, manufacturer reporting). Over 30 years of post-marketing data collection is reflected."
+          },
+          "conflict_of_interest": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "The document identifies Merck Sharp & Dohme Corp. as manufacturer and distributor. No disclosure of conflicts of interest, funding sources for clinical trials, or investigator relationships is provided.",
+            "level_description": "The prescribing information does not include any conflict of interest disclosures or information about trial funding. The manufacturer conducted the studies but no financial relationships or potential biases are addressed."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "No mortality data or death rates are reported in the clinical trials section or adverse events section. The document does not provide information on all-cause mortality in vaccinated vs. control groups.",
+            "level_description": "The document contains no information about deaths in clinical trials or all-cause mortality comparisons. This critical safety endpoint is not addressed."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "RECOMBIVAX HB prescribing information reflects trials from the 1980s era with methodological limitations by current standards. Strengths include separate age group analysis, adequate immunogenicity data, and extensive post-marketing surveillance over 30+ years. Significant limitations include: reliance on historical rather than concurrent placebo controls for efficacy, open-label design in key trials, very short active safety monitoring (5 days), absence of statistical rigor in reporting (no confidence intervals or p-values), no mortality data, and no conflict of interest disclosure. The document adequately demonstrates immunogenicity but provides limited evidence for comprehensive safety assessment, particularly for rare or delayed adverse events."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Um estudo referenciado (Beasley et al., 1983) foi um 'Ensaio Randomizado Duplo-Cego Controlado por Placebo' para eficácia de HBIG. No entanto, o estudo primário de eficácia da vacina em neonatos (Seção 14.1) utilizou 'controles históricos não tratados' em vez de um grupo placebo concorrente. A comparação de regime em adolescentes (Seção 14.3) foi um 'estudo aberto, randomizado e multicêntrico' sem controle placebo.",
+            "level_description": "Embora um estudo referenciado tenha usado controle placebo (para HBIG), os principais dados de eficácia da vacina basearam-se em controles históricos em vez de grupos placebo concorrentes. Os estudos de imunogenicidade foram abertos, sem comparadores placebo."
+          },
+          "double_blind": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Um estudo referenciado (Beasley et al., 1983) foi descrito como 'Duplo-Cego'. No entanto, o principal estudo comparativo em adolescentes (Seção 14.3) é explicitamente descrito como 'um estudo aberto, randomizado e multicêntrico'. Outros estudos de imunogenicidade não especificam o cegamento.",
+            "level_description": "O duplo-cegamento foi utilizado em um estudo referenciado de HBIG, mas não nos ensaios primários da vacina. A comparação de regime em adolescentes foi explicitamente aberta, o que introduz potencial viés do observador e do participante."
+          },
+          "randomization": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O estudo de duas doses versus três doses em adolescentes (Seção 14.3) foi descrito como 'um estudo aberto, randomizado e multicêntrico'. Um estudo referenciado (Beasley et al., 1983) também foi randomizado. No entanto, nenhum detalhe sobre os métodos de randomização é fornecido.",
+            "level_description": "A randomização foi utilizada em pelo menos um estudo principal e um ensaio referenciado, mas nenhuma descrição da metodologia de randomização (por exemplo, ocultação de alocação, geração de sequência) é fornecida no documento."
+          },
+          "pediatric_sample_size": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Seção 6.1: '434 doses de RECOMBIVAX HB, 5 mcg, foram administradas a 147 bebês e crianças saudáveis (até 10 anos de idade).' Seção 14.1: '130 bebês após nove meses de acompanhamento.' Seção 14.2: 'nível protetor de anticorpos em 100% de 92 bebês, 99% de 129 crianças e em 99% de 112 adolescentes.' Seção 14.3: 255 adolescentes no braço de duas doses, 121 no braço de três doses.",
+            "level_description": "Os tamanhos de amostra pediátrica variaram de 92 a 255 indivíduos por faixa etária. Embora adequados para avaliação de imunogenicidade, são tamanhos de amostra relativamente modestos para detectar eventos adversos raros. O estudo de monitoramento de segurança (147 crianças para 434 doses) é pequeno."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Seção 6.1: 'monitorados por 5 dias após cada dose.' Seção 14.1: 'após nove meses de acompanhamento.' Seção 2.4: 'A duração do efeito protetor de RECOMBIVAX HB em vacinados saudáveis é desconhecida no momento.'",
+            "level_description": "O monitoramento ativo de segurança foi limitado a apenas 5 dias pós-dose, o que é inadequado para detectar eventos adversos tardios. O acompanhamento de eficácia de 9 meses em neonatos é razoável para prevenção de infecção, mas inadequado para avaliação de segurança a longo prazo. O documento reconhece explicitamente que a duração da proteção a longo prazo é desconhecida."
+          },
+          "separate_age_groups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Os estudos clínicos relataram resultados separadamente para: bebês e crianças até 10 anos de idade (Seção 6.1, 14.2); neonatos nascidos de mães positivas para HBsAg/HBeAg (Seção 14.1); adolescentes de 11-15 anos (Seção 14.3); adultos jovens de 20-29 anos, adultos de 30-39 anos e adultos >=40 anos (Seção 14.4); pacientes em pré-diálise/diálise (Seção 14.5).",
+            "level_description": "O documento fornece dados separados de imunogenicidade e segurança para múltiplas faixas etárias, incluindo bebês, crianças, adolescentes e faixas etárias adultas, permitindo avaliação de respostas específicas por idade."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Os estudos incluíram 'bebês e crianças saudáveis' e 'adultos saudáveis'. A Seção 14.1 especificou neonatos 'nascidos de mães positivas tanto para HBsAg quanto para HBeAg'. A Seção 14.5 aborda pacientes com HCV crônico e pacientes em diálise. Nenhum critério detalhado de inclusão/exclusão é fornecido.",
+            "level_description": "O documento descreve as populações do estudo em termos gerais (por exemplo, 'saudáveis'), mas não fornece critérios específicos de inclusão/exclusão, tornando impossível avaliar o rigor da seleção de participantes ou a generalização dos resultados."
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A Seção 6.1 relata reações adversas por classe de sistema orgânico (Distúrbios Gerais, Gastrointestinais, Respiratórios, Sistema Nervoso, Pele, Musculoesqueléticos, etc.) com limites de frequência (>1% vs <1%). Reações específicas são listadas, incluindo reações no local da injeção, febre (definida como >=101F ou >=100F) e queixas sistêmicas.",
+            "level_description": "Os eventos adversos são relatados por classe de sistema orgânico com categorias de frequência, sugerindo alguma padronização. No entanto, o documento não descreve o uso de escalas padronizadas de graduação ou definições para avaliação de gravidade."
+          },
+          "active_monitoring_serious": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Seção 6.1: 'monitorados por 5 dias após cada dose.' A Seção 6.2 (Experiência Pós-Comercialização) lista eventos graves relatados voluntariamente, incluindo síndrome de Guillain-Barré, esclerose múltipla, convulsões, síndrome de Stevens-Johnson, trombocitopenia, encefalite, etc., mas afirma que 'não é possível estimar com confiabilidade sua frequência ou estabelecer uma relação causal.'",
+            "level_description": "O monitoramento ativo foi limitado a 5 dias pós-vacinação, o que é grosseiramente inadequado para detectar eventos adversos graves que podem ter início tardio. Eventos graves são capturados apenas por meio de vigilância passiva pós-comercialização com limitações reconhecidas no estabelecimento de causalidade e frequência."
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A Seção 6.2 (Experiência Pós-Comercialização) lista: 'Doenças autoimunes incluindo lúpus eritematoso sistêmico (LES), síndrome tipo lúpus, vasculite e poliarterite nodosa.' Neurológico: 'Síndrome de Guillain-Barré; esclerose múltipla; exacerbação de esclerose múltipla; mielite incluindo mielite transversa; convulsão; convulsão febril; neuropatia periférica incluindo paralisia de Bell; radiculopatia; encefalite.' Estes são apenas relatos passivos.",
+            "level_description": "Eventos autoimunes e neurológicos são documentados na vigilância pós-comercialização, mas não foram monitorados sistematicamente nos ensaios clínicos. O documento afirma explicitamente que uma relação causal não pode ser estabelecida para esses relatos pós-comercialização."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "As Seções 5.2-5.3 abordam bebês prematuros e bebês <2000g. A Seção 8.1 relata dados de gravidez (26 mulheres em estudos clínicos, 105 em relatos pós-aprovação). A Seção 8.5 observa que populações geriátricas apresentaram 'resposta de anticorpos diminuída' em indivíduos >60 anos. A Seção 14.5 abrange pacientes com HCV crônico (~70% de soroproteção) e pacientes em pré-diálise/diálise (taxas de resposta mais baixas).",
+            "level_description": "Alguns subgrupos vulneráveis são abordados (bebês prematuros, gravidez, idosos, pacientes em diálise imunocomprometidos, pacientes com HCV), mas os dados são limitados e frequentemente provenientes de fontes pós-comercialização ou observacionais, em vez de ensaios controlados projetados para avaliar essas populações."
+          },
+          "statistical_analysis": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Os resultados são apresentados como porcentagens de soroproteção (por exemplo, '100% de 92 bebês', '96% de 1213 adultos saudáveis', '99% de 255 indivíduos'). A Seção 14.1 afirma que 'a eficácia estimada na prevenção de infecção crônica por hepatite B foi de 95%.' Nenhum intervalo de confiança, valores-p ou metodologia estatística é descrita.",
+            "level_description": "O documento relata apenas estimativas pontuais sem intervalos de confiança, valores-p ou descrição de métodos estatísticos. A afirmação de que o regime de duas doses 'parece similar' ao regime de três doses carece de comparação estatística formal."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A Seção 15 fornece 9 referências a estudos publicados e recomendações do CDC. Alguns dados numéricos são fornecidos (tamanhos de amostra, taxas de soroconversão). No entanto, dados individuais de pacientes, bancos de dados completos de segurança e protocolos detalhados dos estudos não estão disponíveis neste documento.",
+            "level_description": "As informações de prescrição fazem referência a estudos publicados e fornecem estatísticas resumidas, mas dados brutos detalhados, bancos de dados completos de segurança e protocolos completos dos estudos não estão incluídos. O acesso aos dados subjacentes exigiria a recuperação das referências citadas."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "A Seção 6.2 fornece extensa experiência pós-comercialização, incluindo reações de hipersensibilidade, doenças autoimunes, distúrbios neurológicos e outros eventos graves. A Seção 17 instrui a reportar ao VAERS. O documento afirma que a vacina está no mercado desde 1986 com vigilância contínua até 2018 (data de revisão).",
+            "level_description": "O documento inclui uma lista abrangente de eventos adversos pós-comercialização e fornece mecanismos para vigilância contínua (VAERS, relatos ao fabricante). Mais de 30 anos de coleta de dados pós-comercialização estão refletidos."
+          },
+          "conflict_of_interest": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "O documento identifica Merck Sharp & Dohme Corp. como fabricante e distribuidor. Nenhuma divulgação de conflitos de interesse, fontes de financiamento para ensaios clínicos ou relacionamentos de investigadores é fornecida.",
+            "level_description": "As informações de prescrição não incluem nenhuma divulgação de conflito de interesse ou informação sobre financiamento dos ensaios. O fabricante conduziu os estudos, mas nenhuma relação financeira ou potenciais vieses são abordados."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Nenhum dado de mortalidade ou taxas de óbito são relatados na seção de ensaios clínicos ou seção de eventos adversos. O documento não fornece informações sobre mortalidade por todas as causas em grupos vacinados versus grupos controle.",
+            "level_description": "O documento não contém informações sobre óbitos em ensaios clínicos ou comparações de mortalidade por todas as causas. Este desfecho crítico de segurança não é abordado."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "As informações de prescrição do RECOMBIVAX HB refletem ensaios da década de 1980 com limitações metodológicas pelos padrões atuais. Os pontos fortes incluem análise separada por faixa etária, dados adequados de imunogenicidade e extensa vigilância pós-comercialização por mais de 30 anos. Limitações significativas incluem: dependência de controles históricos em vez de controles placebo concorrentes para eficácia, desenho aberto em ensaios-chave, monitoramento ativo de segurança muito curto (5 dias), ausência de rigor estatístico nos relatos (sem intervalos de confiança ou valores-p), ausência de dados de mortalidade e nenhuma divulgação de conflito de interesse. O documento demonstra adequadamente a imunogenicidade, mas fornece evidências limitadas para avaliação abrangente de segurança, particularmente para eventos adversos raros ou tardios."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "The pediatric clinical trial data is limited. Only 147 healthy infants and children (up to 10 years of age) received 434 doses across three clinical studies. For adolescents, the two-dose vs three-dose regimen comparison included 255 and 121 subjects respectively. While safety was established across all pediatric age groups, the sample sizes are relatively small for detecting rare adverse events in a vaccine approved since 1986 and administered to millions of children."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Follow-up was extremely limited. In the pediatric studies, subjects were monitored for only 5 days after each dose. In adult studies, monitoring was similarly limited to 5 days after each dose. For neonates with peripartum exposure, follow-up extended to 9 months, but this was primarily to assess efficacy (prevention of chronic infection) rather than comprehensive safety monitoring. No long-term safety follow-up data is presented in the prescribing information."
+          },
+          "comparison_group": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "The document references 'historical controls' for efficacy comparisons in neonates (untreated historical controls and those receiving only HBIG). The adolescent two-dose vs three-dose study was randomized and open-label. However, the document does not describe placebo-controlled trials or true randomized safety comparisons for the primary clinical studies. The comparison methodology for safety assessment is not well documented."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Clinical trials used active monitoring for 5 days after each dose, capturing injection site reactions and systemic adverse reactions. However, the short duration limits the ability to detect delayed-onset adverse events. The document mentions that adverse reactions were 'monitored' but does not detail the surveillance methodology (e.g., diaries, follow-up calls, clinic visits). Post-marketing surveillance relies on voluntary VAERS reporting rather than active surveillance."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Clinical trials captured some neurological symptoms including vertigo/dizziness and paresthesia at <1% incidence. Post-marketing reports include serious neurological events: Guillain-Barre syndrome, multiple sclerosis and its exacerbation, transverse myelitis, seizures, febrile seizures, peripheral neuropathy (including Bell's Palsy), radiculopathy, encephalitis, optic neuritis, and muscle weakness. However, no systematic neurological monitoring protocol is described in the pre-licensure trials."
+          },
+          "vulnerable_subgroups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "The document addresses several vulnerable populations: premature infants (warning about apnea risk), infants weighing <2000g (vaccination delay recommendations), dialysis/predialysis patients (separate formulation and dosing), pregnant women (post-approval data from 26 clinical study pregnancies and 105 post-approval reports showing background-rate outcomes), and elderly (noted diminished antibody response in >60 years). Chronic hepatitis C patients and immunocompromised populations are also discussed regarding immunogenicity."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "The document provides aggregate adverse reaction rates (e.g., 17% injection site reactions, 15% systemic reactions in adults; 0.2% and 10.4% in children) and lists adverse events by incidence category (>1% vs <1%). However, detailed study designs, statistical analyses, confidence intervals, and raw data tables are not included. Individual study protocols are not described. The document acknowledges that post-marketing events cannot establish causality due to voluntary reporting from uncertain population sizes."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Section 6.2 provides a comprehensive list of post-marketing adverse events organized by system organ class, including serious events like anaphylaxis, autoimmune diseases (SLE, vasculitis, polyarteritis nodosa), neurological disorders, and skin reactions (Stevens-Johnson syndrome). The document references VAERS reporting system with contact information. Post-approval pregnancy data spans 1986-2018 with 105 pregnancies tracked. However, the document notes inability to establish causality or reliable frequency estimates from voluntary reports."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "RECOMBIVAX HB, approved in 1986, has limited pre-licensure safety documentation by modern standards. Pediatric trials included only 147 children with just 5-day follow-up periods, which is insufficient to detect rare or delayed adverse events. The document lacks placebo-controlled trial data and detailed study methodologies. However, some strengths exist: vulnerable subgroups (premature infants, dialysis patients, pregnant women) are reasonably addressed, and post-marketing surveillance has accumulated decades of data identifying serious but rare events including neurological and autoimmune conditions. The overall safety profile relies heavily on post-marketing experience rather than robust pre-licensure evidence, reflecting the regulatory standards of the 1980s rather than current requirements."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "hepb_recombivax",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Os dados de ensaios clínicos pediátricos são limitados. Apenas 147 bebês e crianças saudáveis (até 10 anos de idade) receberam 434 doses em três estudos clínicos. Para adolescentes, a comparação entre o regime de duas doses versus três doses incluiu 255 e 121 participantes, respectivamente. Embora a segurança tenha sido estabelecida em todos os grupos etários pediátricos, os tamanhos das amostras são relativamente pequenos para detectar eventos adversos raros em uma vacina aprovada desde 1986 e administrada a milhões de crianças."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "O acompanhamento foi extremamente limitado. Nos estudos pediátricos, os participantes foram monitorados por apenas 5 dias após cada dose. Nos estudos com adultos, o monitoramento foi igualmente limitado a 5 dias após cada dose. Para neonatos com exposição periparto, o acompanhamento estendeu-se até 9 meses, mas isso foi principalmente para avaliar a eficácia (prevenção de infecção crônica) em vez de monitoramento abrangente de segurança. Nenhum dado de acompanhamento de segurança a longo prazo é apresentado nas informações de prescrição."
+          },
+          "comparison_group": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "O documento faz referência a 'controles históricos' para comparações de eficácia em neonatos (controles históricos não tratados e aqueles que receberam apenas HBIG). O estudo comparativo de duas doses versus três doses em adolescentes foi randomizado e aberto. No entanto, o documento não descreve ensaios controlados por placebo ou comparações de segurança verdadeiramente randomizadas para os estudos clínicos primários. A metodologia de comparação para avaliação de segurança não está bem documentada."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Os ensaios clínicos utilizaram monitoramento ativo por 5 dias após cada dose, registrando reações no local da injeção e reações sistêmicas adversas. No entanto, a curta duração limita a capacidade de detectar eventos adversos de início tardio. O documento menciona que as reações adversas foram 'monitoradas', mas não detalha a metodologia de vigilância (por exemplo, diários, ligações de acompanhamento, visitas clínicas). A vigilância pós-comercialização depende de relatos voluntários ao VAERS em vez de vigilância ativa."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Os ensaios clínicos registraram alguns sintomas neurológicos, incluindo vertigem/tontura e parestesia com incidência <1%. Os relatos pós-comercialização incluem eventos neurológicos graves: síndrome de Guillain-Barré, esclerose múltipla e sua exacerbação, mielite transversa, convulsões, convulsões febris, neuropatia periférica (incluindo paralisia de Bell), radiculopatia, encefalite, neurite óptica e fraqueza muscular. No entanto, nenhum protocolo sistemático de monitoramento neurológico é descrito nos ensaios pré-licenciamento."
+          },
+          "vulnerable_subgroups": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "O documento aborda várias populações vulneráveis: bebês prematuros (advertência sobre risco de apneia), bebês com peso <2000g (recomendações de adiamento da vacinação), pacientes em diálise/pré-diálise (formulação e dosagem separadas), gestantes (dados pós-aprovação de 26 gestações em estudos clínicos e 105 relatos pós-aprovação mostrando resultados dentro das taxas basais) e idosos (resposta diminuída de anticorpos observada em >60 anos). Pacientes com hepatite C crônica e populações imunocomprometidas também são discutidos em relação à imunogenicidade."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "O documento fornece taxas agregadas de reações adversas (por exemplo, 17% de reações no local da injeção, 15% de reações sistêmicas em adultos; 0,2% e 10,4% em crianças) e lista eventos adversos por categoria de incidência (>1% vs <1%). No entanto, desenhos detalhados dos estudos, análises estatísticas, intervalos de confiança e tabelas de dados brutos não estão incluídos. Os protocolos individuais dos estudos não são descritos. O documento reconhece que os eventos pós-comercialização não podem estabelecer causalidade devido a relatos voluntários de tamanhos populacionais incertos."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "A Seção 6.2 fornece uma lista abrangente de eventos adversos pós-comercialização organizados por classe de sistema de órgãos, incluindo eventos graves como anafilaxia, doenças autoimunes (LES, vasculite, poliarterite nodosa), distúrbios neurológicos e reações cutâneas (síndrome de Stevens-Johnson). O documento faz referência ao sistema de notificação VAERS com informações de contato. Os dados de gravidez pós-aprovação abrangem 1986-2018 com 105 gestações acompanhadas. No entanto, o documento observa a incapacidade de estabelecer causalidade ou estimativas de frequência confiáveis a partir de relatos voluntários."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "RECOMBIVAX HB, aprovada em 1986, possui documentação de segurança pré-licenciamento limitada pelos padrões modernos. Os ensaios pediátricos incluíram apenas 147 crianças com períodos de acompanhamento de apenas 5 dias, o que é insuficiente para detectar eventos adversos raros ou tardios. O documento carece de dados de ensaios controlados por placebo e metodologias detalhadas dos estudos. No entanto, existem alguns pontos fortes: subgrupos vulneráveis (bebês prematuros, pacientes em diálise, gestantes) são razoavelmente abordados, e a vigilância pós-comercialização acumulou décadas de dados identificando eventos graves, porém raros, incluindo condições neurológicas e autoimunes. O perfil geral de segurança depende fortemente da experiência pós-comercialização em vez de evidências pré-licenciamento robustas, refletindo os padrões regulatórios da década de 1980 em vez dos requisitos atuais."
+        }
+      }
+    },
+    {
+      "id": "hib_hiberix",
+      "name": "Hiberix",
+      "type": "Hib",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate) for prevention of invasive disease caused by H. influenzae type b. Approved for children 6 weeks through 4 years. 4-dose series at 2, 4, 6, and 15-18 months of age.",
+      "sources": [
+        "hib_hiberix_insert.pdf"
+      ],
+      "trial_en": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Study 1 compared HIBERIX (n=2,963) with active comparators: Control PRP-T (Sanofi Pasteur SA) (n=520) and DTaP-IPV/Hib (Sanofi Pasteur Ltd.) (n=520). No inert placebo group was used.",
+            "level_description": "The clinical trials used active vaccine comparators rather than saline placebo controls. All comparison groups received other Hib-containing vaccines, making it impossible to assess the true safety profile of HIBERIX against an unvaccinated baseline."
+          },
+          "double_blind": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Study 1 is described as 'randomized, controlled clinical trial' but blinding is not explicitly mentioned. Study 2 is described as 'open-label, multicenter study.'",
+            "level_description": "The main U.S. Study 1 appears to be randomized but blinding methodology is not documented. Study 2 and the 7 additional studies were explicitly open-label, meaning investigators and participants knew which vaccine was administered."
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Study 1 is described as 'a randomized, controlled clinical trial conducted in the U.S.' with children randomized to receive HIBERIX (n=2,963), Control PRP-T (n=520), or DTaP-IPV/Hib (n=520).",
+            "level_description": "Randomization is explicitly stated for the main U.S. trial (Study 1). However, the randomization methodology, allocation concealment, and stratification details are not provided."
+          },
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Study 1 enrolled 2,963 children receiving HIBERIX for primary series and 2,336 for booster dose. Seven additional studies included 1,008 children receiving HIBERIX as a booster. Study 2 enrolled 371 children.",
+            "level_description": "The total pediatric sample size across studies was substantial (over 4,000 children receiving HIBERIX). The main U.S. trial had nearly 3,000 subjects in the HIBERIX arm, which is adequate for detecting common adverse reactions."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Solicited adverse reactions were collected 'within 4 days of vaccination.' Serious adverse reactions in the 7 additional studies were reported 'in the 31-day period following booster immunization.'",
+            "level_description": "Active follow-up for solicited reactions was extremely short at only 4 days post-vaccination. Serious adverse event monitoring extended to 31 days in some studies, but no long-term safety follow-up (months to years) is documented for chronic or delayed adverse effects."
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Primary series given at 2, 4, and 6 months. Booster given at 15-18 months. In 7 additional studies, '172 (17.1%) subjects were aged 11 to 14 months, 642 (63.7%) subjects were aged 15 to 18 months, and 194 (19.2%) subjects were aged 19 to 25 months.'",
+            "level_description": "Age distribution is documented for booster studies, but separate safety analyses by age subgroup are not presented. Results are aggregated across age groups rather than stratified for comparison."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "The document mentions contraindications (severe allergic reaction after previous Hib or tetanus toxoid vaccine) and warnings (Guillain-Barre syndrome within 6 weeks, premature infants, immunosuppressed children) but does not detail specific trial inclusion/exclusion criteria.",
+            "level_description": "While contraindications and precautions are listed for clinical use, the actual clinical trial eligibility criteria (specific inclusion/exclusion criteria used to screen participants) are not documented in the prescribing information."
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Solicited reactions were systematically collected with standardized grading: Grade 3 pain 'cried when limb was moved/spontaneously painful,' Grade 3 irritability 'crying that could not be comforted/prevented normal activity,' Grade 3 fever '>103.1F (>39.5C) rectally.'",
+            "level_description": "The trials used standardized definitions and grading scales for solicited adverse events, with clear Grade 3 definitions provided for local and systemic reactions. Diary cards or standardized collection tools appear to have been used."
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Serious adverse reactions were reported: 'One of 2,963 subjects...experienced a serious adverse reaction...convulsion on Day 14 after Dose 1.' 'One of 2,336 subjects...experienced...new onset febrile seizure on Day 1 after Dose 4.' In 7 additional studies, '2 of 1,008 subjects reported a serious adverse reaction...in the 31-day period following booster immunization.'",
+            "level_description": "Serious adverse events were captured during the trials with temporal associations noted. However, the methodology for active monitoring (frequency of contact, methods of ascertainment) is not described. The 31-day monitoring window is relatively short for detecting serious delayed reactions."
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Guillain-Barre syndrome is mentioned as a warning if it occurred within 6 weeks of prior tetanus-containing vaccine. Postmarketing reports include 'Convulsions (with or without fever), hypotonic-hyporesponsive episode (i.e., sudden onset of hypotonia, hyporesponsiveness, and pallor or cyanosis).'",
+            "level_description": "Neurological events are addressed in warnings and postmarketing sections, but proactive assessment of autoimmune or neurological outcomes in the clinical trials is not documented. The precaution about Guillain-Barre relates to prior history, not trial monitoring."
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Warnings note: 'Safety and effectiveness of HIBERIX in immunosuppressed children have not been evaluated.' 'Apnea following intramuscular vaccination has been observed in some infants born prematurely.'",
+            "level_description": "Vulnerable populations such as immunocompromised children and premature infants were explicitly not studied. The document acknowledges these gaps but does not provide safety data for these high-risk subgroups from the clinical trials."
+          },
+          "statistical_analysis": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Non-inferiority analyses were performed: 'HIBERIX was non-inferior to Control PRP-T for percent of subjects achieving anti-PRP >=0.15 mcg/mL (lower limit of 95% CI on difference of HIBERIX minus Control PRP-T >= predefined limit of -5%).'",
+            "level_description": "Statistical methodology for immunogenicity non-inferiority comparisons is documented with confidence intervals and predefined non-inferiority margins. However, detailed statistical analysis plans for safety endpoints are not presented."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Study 1 is identified by clinical trial registry number NCT01000974. Adverse reaction rates are presented in detailed tables. However, the 7 additional studies are not identified by registry number.",
+            "level_description": "Some transparency is provided through the NCT registry number for Study 1 and detailed adverse event tables. However, full data availability, access to raw data, or complete study protocols are not addressed. Several supporting studies lack registry identification."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Section 6.2 documents postmarketing experience including: 'Extensive swelling of the vaccinated limb, injection site induration,' 'Allergic reactions (including anaphylactic and anaphylactoid reactions), angioedema,' 'Convulsions (with or without fever), hypotonic-hyporesponsive episode,' and 'Apnea.'",
+            "level_description": "A dedicated postmarketing surveillance section documents additional adverse reactions identified after approval. VAERS reporting is referenced. However, frequency estimates cannot be made from voluntary reports, as acknowledged in the document."
+          },
+          "conflict_of_interest": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "The document identifies the manufacturer as GlaxoSmithKline Biologicals but does not disclose investigator conflicts of interest, funding sources for independent analyses, or relationships between trial investigators and the sponsor.",
+            "level_description": "No information is provided about conflicts of interest for study investigators, independent oversight committees, or financial relationships. The manufacturer conducted the trials, but transparency about potential bias is not addressed."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "The document does not report any deaths or all-cause mortality data from the clinical trials.",
+            "level_description": "All-cause mortality is not addressed in the prescribing information. While specific serious adverse events are mentioned (convulsions, febrile seizures), there is no systematic reporting of deaths or mortality comparisons between treatment groups."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "The Hiberix clinical program included a reasonably sized randomized controlled trial (Study 1, n=2,963 for HIBERIX) with standardized adverse event collection and documented statistical methodology for immunogenicity. However, significant limitations include: (1) use of active vaccine comparators rather than true placebo controls, (2) very short follow-up period of only 4 days for solicited reactions and 31 days for serious events, (3) open-label design in several supporting studies, (4) no data on vulnerable populations like immunocompromised or premature infants, (5) no reporting of all-cause mortality, and (6) absent conflict of interest disclosures. The postmarketing surveillance section provides additional safety signals but cannot establish causality or frequency. Overall, the evidence base meets minimum regulatory standards but has meaningful gaps for comprehensive safety assessment."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "O Estudo 1 comparou HIBERIX (n=2.963) com comparadores ativos: PRP-T de Controle (Sanofi Pasteur SA) (n=520) e DTaP-IPV/Hib (Sanofi Pasteur Ltd.) (n=520). Nenhum grupo placebo inerte foi utilizado.",
+            "level_description": "Os ensaios clínicos utilizaram comparadores de vacinas ativas em vez de controles com placebo salino. Todos os grupos de comparação receberam outras vacinas contendo Hib, tornando impossível avaliar o verdadeiro perfil de segurança do HIBERIX em relação a uma linha de base não vacinada."
+          },
+          "double_blind": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O Estudo 1 é descrito como 'ensaio clínico randomizado e controlado', mas o cegamento não é explicitamente mencionado. O Estudo 2 é descrito como 'estudo multicêntrico aberto'.",
+            "level_description": "O principal Estudo 1 nos EUA parece ser randomizado, mas a metodologia de cegamento não está documentada. O Estudo 2 e os 7 estudos adicionais foram explicitamente abertos, significando que os investigadores e participantes sabiam qual vacina estava sendo administrada."
+          },
+          "randomization": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "O Estudo 1 é descrito como 'um ensaio clínico randomizado e controlado conduzido nos EUA' com crianças randomizadas para receber HIBERIX (n=2.963), PRP-T de Controle (n=520) ou DTaP-IPV/Hib (n=520).",
+            "level_description": "A randomização é explicitamente declarada para o principal ensaio dos EUA (Estudo 1). No entanto, a metodologia de randomização, ocultação da alocação e detalhes de estratificação não são fornecidos."
+          },
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "O Estudo 1 incluiu 2.963 crianças recebendo HIBERIX para a série primária e 2.336 para a dose de reforço. Sete estudos adicionais incluíram 1.008 crianças recebendo HIBERIX como reforço. O Estudo 2 incluiu 371 crianças.",
+            "level_description": "O tamanho total da amostra pediátrica entre os estudos foi substancial (mais de 4.000 crianças recebendo HIBERIX). O principal ensaio dos EUA teve quase 3.000 participantes no braço HIBERIX, o que é adequado para detectar reações adversas comuns."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Reações adversas solicitadas foram coletadas 'dentro de 4 dias da vacinação'. Reações adversas graves nos 7 estudos adicionais foram relatadas 'no período de 31 dias após a imunização de reforço'.",
+            "level_description": "O acompanhamento ativo para reações solicitadas foi extremamente curto, de apenas 4 dias pós-vacinação. O monitoramento de eventos adversos graves se estendeu a 31 dias em alguns estudos, mas nenhum acompanhamento de segurança a longo prazo (meses a anos) está documentado para efeitos adversos crônicos ou tardios."
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A série primária foi administrada aos 2, 4 e 6 meses. O reforço foi administrado entre 15-18 meses. Em 7 estudos adicionais, '172 (17,1%) participantes tinham entre 11 e 14 meses, 642 (63,7%) participantes tinham entre 15 e 18 meses, e 194 (19,2%) participantes tinham entre 19 e 25 meses'.",
+            "level_description": "A distribuição etária está documentada para os estudos de reforço, mas análises de segurança separadas por subgrupo etário não são apresentadas. Os resultados são agregados entre os grupos etários em vez de estratificados para comparação."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O documento menciona contraindicações (reação alérgica grave após vacina Hib ou toxoide tetânico anterior) e advertências (síndrome de Guillain-Barré dentro de 6 semanas, bebês prematuros, crianças imunossuprimidas), mas não detalha os critérios específicos de inclusão/exclusão dos ensaios.",
+            "level_description": "Embora contraindicações e precauções sejam listadas para uso clínico, os critérios reais de elegibilidade dos ensaios clínicos (critérios específicos de inclusão/exclusão usados para triagem de participantes) não estão documentados na bula."
+          },
+          "standardized_adverse_events": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Reações solicitadas foram sistematicamente coletadas com graduação padronizada: dor Grau 3 'chorou quando o membro foi movido/espontaneamente doloroso', irritabilidade Grau 3 'choro que não podia ser consolado/impedia atividade normal', febre Grau 3 '>103,1F (>39,5C) retal'.",
+            "level_description": "Os ensaios utilizaram definições padronizadas e escalas de graduação para eventos adversos solicitados, com definições claras de Grau 3 fornecidas para reações locais e sistêmicas. Diários ou ferramentas de coleta padronizadas parecem ter sido utilizados."
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Reações adversas graves foram relatadas: 'Um de 2.963 participantes... experimentou uma reação adversa grave... convulsão no Dia 14 após a Dose 1.' 'Um de 2.336 participantes... experimentou... nova convulsão febril no Dia 1 após a Dose 4.' Nos 7 estudos adicionais, '2 de 1.008 participantes relataram uma reação adversa grave... no período de 31 dias após a imunização de reforço'.",
+            "level_description": "Eventos adversos graves foram capturados durante os ensaios com associações temporais observadas. No entanto, a metodologia para monitoramento ativo (frequência de contato, métodos de verificação) não é descrita. A janela de monitoramento de 31 dias é relativamente curta para detectar reações graves tardias."
+          },
+          "autoimmune_neurological": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A síndrome de Guillain-Barré é mencionada como advertência se ocorreu dentro de 6 semanas de vacina contendo tétano anterior. Relatos pós-comercialização incluem 'Convulsões (com ou sem febre), episódio hipotônico-hiporresponsivo (ou seja, início súbito de hipotonia, hiporresponsividade e palidez ou cianose)'.",
+            "level_description": "Eventos neurológicos são abordados nas seções de advertências e pós-comercialização, mas a avaliação proativa de desfechos autoimunes ou neurológicos nos ensaios clínicos não está documentada. A precaução sobre Guillain-Barré refere-se ao histórico anterior, não ao monitoramento do ensaio."
+          },
+          "vulnerable_subgroups": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Advertências observam: 'A segurança e eficácia do HIBERIX em crianças imunossuprimidas não foram avaliadas.' 'Apneia após vacinação intramuscular foi observada em alguns bebês nascidos prematuramente'.",
+            "level_description": "Populações vulneráveis, como crianças imunocomprometidas e bebês prematuros, explicitamente não foram estudadas. O documento reconhece essas lacunas, mas não fornece dados de segurança para esses subgrupos de alto risco dos ensaios clínicos."
+          },
+          "statistical_analysis": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Análises de não inferioridade foram realizadas: 'HIBERIX foi não inferior ao PRP-T de Controle para a porcentagem de participantes atingindo anti-PRP >=0,15 mcg/mL (limite inferior do IC 95% na diferença de HIBERIX menos PRP-T de Controle >= limite predefinido de -5%)'.",
+            "level_description": "A metodologia estatística para comparações de não inferioridade de imunogenicidade está documentada com intervalos de confiança e margens de não inferioridade predefinidas. No entanto, planos de análise estatística detalhados para desfechos de segurança não são apresentados."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O Estudo 1 é identificado pelo número de registro de ensaio clínico NCT01000974. As taxas de reações adversas são apresentadas em tabelas detalhadas. No entanto, os 7 estudos adicionais não são identificados por número de registro.",
+            "level_description": "Alguma transparência é fornecida através do número de registro NCT para o Estudo 1 e tabelas detalhadas de eventos adversos. No entanto, disponibilidade completa de dados, acesso a dados brutos ou protocolos completos de estudo não são abordados. Vários estudos de apoio carecem de identificação de registro."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "A Seção 6.2 documenta a experiência pós-comercialização incluindo: 'Inchaço extenso do membro vacinado, induração no local da injeção', 'Reações alérgicas (incluindo reações anafiláticas e anafilactoides), angioedema', 'Convulsões (com ou sem febre), episódio hipotônico-hiporresponsivo' e 'Apneia'.",
+            "level_description": "Uma seção dedicada à vigilância pós-comercialização documenta reações adversas adicionais identificadas após a aprovação. O relatório VAERS é referenciado. No entanto, estimativas de frequência não podem ser feitas a partir de relatos voluntários, conforme reconhecido no documento."
+          },
+          "conflict_of_interest": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "O documento identifica o fabricante como GlaxoSmithKline Biologicals, mas não divulga conflitos de interesse dos investigadores, fontes de financiamento para análises independentes ou relacionamentos entre os investigadores do ensaio e o patrocinador.",
+            "level_description": "Nenhuma informação é fornecida sobre conflitos de interesse para investigadores do estudo, comitês de supervisão independentes ou relacionamentos financeiros. O fabricante conduziu os ensaios, mas a transparência sobre potencial viés não é abordada."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "O documento não relata nenhuma morte ou dados de mortalidade por todas as causas dos ensaios clínicos.",
+            "level_description": "A mortalidade por todas as causas não é abordada na bula. Embora eventos adversos graves específicos sejam mencionados (convulsões, convulsões febris), não há relato sistemático de mortes ou comparações de mortalidade entre os grupos de tratamento."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "O programa clínico do Hiberix incluiu um ensaio controlado randomizado de tamanho razoável (Estudo 1, n=2.963 para HIBERIX) com coleta padronizada de eventos adversos e metodologia estatística documentada para imunogenicidade. No entanto, limitações significativas incluem: (1) uso de comparadores de vacinas ativas em vez de controles com placebo verdadeiro, (2) período de acompanhamento muito curto de apenas 4 dias para reações solicitadas e 31 dias para eventos graves, (3) desenho aberto em vários estudos de apoio, (4) ausência de dados sobre populações vulneráveis como bebês imunocomprometidos ou prematuros, (5) ausência de relato de mortalidade por todas as causas, e (6) ausência de divulgações de conflitos de interesse. A seção de vigilância pós-comercialização fornece sinais de segurança adicionais, mas não pode estabelecer causalidade ou frequência. No geral, a base de evidências atende aos padrões regulatórios mínimos, mas possui lacunas significativas para uma avaliação abrangente de segurança."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Study 1 enrolled a substantial pediatric population: 2,963 children received HIBERIX for the primary series (at 2, 4, and 6 months), and 2,336 received the booster dose at 15-18 months. Control groups included 520 children each for Control PRP-T and DTaP-IPV/Hib. Seven additional studies contributed 1,008 children who received HIBERIX as a booster dose. The demographic breakdown shows 51.2% male, 61% white, 8% Asian, 9% black, and 22% other racial/ethnic groups. The total population across all trials is approximately 4,000+ children, which is adequate for detecting common adverse reactions."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Solicited adverse reactions were only collected within 4 days of vaccination (day of vaccination and the next 3 days). Serious adverse reactions were monitored for 31 days post-immunization in the 7 additional studies. There is no evidence of long-term safety follow-up extending months or years post-vaccination. This short follow-up window is insufficient to detect delayed adverse events or long-term safety signals."
+          },
+          "comparison_group": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Study 1 was a randomized, controlled clinical trial comparing HIBERIX against two active comparators: a U.S.-licensed monovalent Haemophilus b Conjugate Vaccine (Control PRP-T from Sanofi Pasteur SA) with n=520, and a U.S.-licensed combined DTaP-IPV/Hib vaccine (Sanofi Pasteur Ltd.) with n=520. While this uses active controls rather than placebo, it allows for direct comparison of safety profiles against established vaccines. However, it should be noted that seven additional studies lacked a comparator group receiving a U.S.-licensed Haemophilus b Conjugate Vaccine."
+          },
+          "active_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "The trials employed active solicitation of adverse reactions. Solicited local reactions (pain, redness, swelling) and general adverse reactions (irritability, drowsiness, fever, loss of appetite, fussiness, restlessness) were systematically collected within 4 days of vaccination. The insert includes detailed tables (Tables 1, 2, and 3) with specific percentages for each adverse reaction by dose and grade severity. Grade 3 (severe) reactions were specifically tracked. This demonstrates structured active surveillance methodology, though limited to a 4-day window."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Neurological safety concerns are addressed but incompletely. Guillain-Barre Syndrome (GBS) is mentioned as a warning, noting that if GBS occurred within 6 weeks of a prior tetanus toxoid-containing vaccine, the decision to give HIBERIX should be based on risk-benefit analysis. Syncope with transient neurological signs (visual disturbance, paresthesia, tonic-clonic limb movements) is documented. Serious adverse reactions included 1 convulsion on Day 14 after Dose 1 (1/2,963) and 1 new onset febrile seizure on Day 1 after Dose 4 (1/2,336). Postmarketing reports include convulsions (with or without fever) and hypotonic-hyporesponsive episodes. However, there is no systematic neurological assessment protocol or long-term neurological follow-up described in the clinical trials."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Some vulnerable populations are addressed but with limitations. Premature infants: A warning notes that apnea following intramuscular vaccination has been observed in some infants born prematurely, advising individual risk-benefit assessment. Immunocompromised children: The insert states that safety and effectiveness in immunosuppressed children have not been evaluated, acknowledging this gap. The pediatric age range is specifically defined (6 weeks through 4 years). However, the document explicitly states safety and effectiveness have not been established in children younger than 6 weeks or aged 5-16 years. No specific data is provided for children with chronic illnesses or other high-risk conditions."
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "The insert provides substantial transparent safety data: detailed tables showing adverse reaction percentages by dose number and severity grade; breakdown of sample sizes for each study arm; demographic information (sex, race/ethnicity); specific NCT trial identifier (NCT01000974) for Study 1; clear definitions of grading scales (e.g., Grade 3 pain defined as 'cried when limb was moved/spontaneously painful'); and temperature thresholds for fever definitions. Geographic locations of additional studies (Europe, Canada, Latin America, Germany) are disclosed. However, raw data and confidence intervals for adverse reactions are not provided."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Section 6.2 documents postmarketing experience with specific adverse reactions identified after approval, including: extensive swelling of vaccinated limb, injection site induration, allergic reactions (including anaphylactic/anaphylactoid reactions), angioedema, convulsions (with or without fever), hypotonic-hyporesponsive episodes, somnolence, syncope, vasovagal responses, apnea, rash, and urticaria. The insert appropriately notes that voluntary reporting makes it impossible to reliably estimate frequency or establish causal relationships. VAERS reporting information is provided (1-800-822-7967). Manufacturer contact for reporting is included (GlaxoSmithKline at 1-888-825-5249)."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "HIBERIX demonstrates adequate safety documentation in several areas: substantial pediatric sample size (~4,000+ children), randomized controlled comparison against licensed vaccines, active solicitation of adverse reactions with detailed severity grading, reasonable data transparency with published trial identifiers, and established postmarketing surveillance. However, significant limitations exist: follow-up duration is critically short (only 4 days for solicited reactions, 31 days for serious events), with no long-term safety monitoring. Neurological monitoring captured some serious events (convulsions, febrile seizures) but lacks systematic neurological assessment protocols. Vulnerable populations like immunocompromised children explicitly lack safety data. Overall, the safety profile is reasonably documented for short-term common reactions but insufficient for detecting delayed or rare adverse events."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "hib_hiberix",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "O Estudo 1 incluiu uma população pediátrica substancial: 2.963 crianças receberam HIBERIX para a série primária (aos 2, 4 e 6 meses), e 2.336 receberam a dose de reforço aos 15-18 meses. Os grupos controle incluíram 520 crianças cada para o Controle PRP-T e DTaP-IPV/Hib. Sete estudos adicionais contribuíram com 1.008 crianças que receberam HIBERIX como dose de reforço. A distribuição demográfica mostra 51,2% masculino, 61% brancos, 8% asiáticos, 9% negros e 22% outros grupos raciais/étnicos. A população total em todos os ensaios é de aproximadamente 4.000+ crianças, o que é adequado para detectar reações adversas comuns."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "As reações adversas solicitadas foram coletadas apenas dentro de 4 dias após a vacinação (dia da vacinação e os 3 dias seguintes). Reações adversas graves foram monitoradas por 31 dias após a imunização nos 7 estudos adicionais. Não há evidência de acompanhamento de segurança a longo prazo estendendo-se por meses ou anos após a vacinação. Esta janela curta de acompanhamento é insuficiente para detectar eventos adversos tardios ou sinais de segurança a longo prazo."
+          },
+          "comparison_group": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "O Estudo 1 foi um ensaio clínico randomizado e controlado comparando HIBERIX contra dois comparadores ativos: uma Vacina Conjugada Haemophilus b monovalente licenciada nos EUA (Controle PRP-T da Sanofi Pasteur SA) com n=520, e uma vacina combinada DTaP-IPV/Hib licenciada nos EUA (Sanofi Pasteur Ltd.) com n=520. Embora use controles ativos em vez de placebo, permite comparação direta dos perfis de segurança contra vacinas estabelecidas. No entanto, deve-se notar que sete estudos adicionais não incluíram um grupo comparador recebendo uma Vacina Conjugada Haemophilus b licenciada nos EUA."
+          },
+          "active_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "Os ensaios empregaram solicitação ativa de reações adversas. Reações locais solicitadas (dor, vermelhidão, inchaço) e reações adversas gerais (irritabilidade, sonolência, febre, perda de apetite, agitação, inquietação) foram sistematicamente coletadas dentro de 4 dias após a vacinação. A bula inclui tabelas detalhadas (Tabelas 1, 2 e 3) com porcentagens específicas para cada reação adversa por dose e gravidade. Reações Grau 3 (graves) foram especificamente rastreadas. Isso demonstra metodologia de vigilância ativa estruturada, embora limitada a uma janela de 4 dias."
+          },
+          "neurological_monitoring": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Preocupações de segurança neurológica são abordadas, mas de forma incompleta. A Síndrome de Guillain-Barré (SGB) é mencionada como advertência, observando que se a SGB ocorreu dentro de 6 semanas de uma vacina prévia contendo toxoide tetânico, a decisão de administrar HIBERIX deve ser baseada na análise de risco-benefício. Síncope com sinais neurológicos transitórios (distúrbio visual, parestesia, movimentos tônico-clônicos dos membros) está documentada. Reações adversas graves incluíram 1 convulsão no Dia 14 após a Dose 1 (1/2.963) e 1 nova crise febril no Dia 1 após a Dose 4 (1/2.336). Relatos pós-comercialização incluem convulsões (com ou sem febre) e episódios hipotônico-hiporresponsivos. No entanto, não há protocolo sistemático de avaliação neurológica ou acompanhamento neurológico a longo prazo descrito nos ensaios clínicos."
+          },
+          "vulnerable_subgroups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Algumas populações vulneráveis são abordadas, mas com limitações. Bebês prematuros: Uma advertência observa que apneia após vacinação intramuscular foi observada em alguns bebês nascidos prematuramente, aconselhando avaliação individual de risco-benefício. Crianças imunocomprometidas: A bula afirma que segurança e eficácia em crianças imunossuprimidas não foram avaliadas, reconhecendo essa lacuna. A faixa etária pediátrica é especificamente definida (6 semanas a 4 anos). No entanto, o documento declara explicitamente que segurança e eficácia não foram estabelecidas em crianças menores de 6 semanas ou com idade entre 5-16 anos. Nenhum dado específico é fornecido para crianças com doenças crônicas ou outras condições de alto risco."
+          },
+          "data_transparency": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "A bula fornece dados de segurança transparentes substanciais: tabelas detalhadas mostrando porcentagens de reações adversas por número de dose e grau de gravidade; discriminação dos tamanhos de amostra para cada braço do estudo; informações demográficas (sexo, raça/etnia); identificador específico do ensaio NCT (NCT01000974) para o Estudo 1; definições claras de escalas de graduação (por exemplo, dor Grau 3 definida como 'chorou quando o membro foi movido/dor espontânea'); e limites de temperatura para definições de febre. Localizações geográficas dos estudos adicionais (Europa, Canadá, América Latina, Alemanha) são divulgadas. No entanto, dados brutos e intervalos de confiança para reações adversas não são fornecidos."
+          },
+          "post_marketing_surveillance": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "explanation": "A Seção 6.2 documenta experiência pós-comercialização com reações adversas específicas identificadas após a aprovação, incluindo: inchaço extenso do membro vacinado, endurecimento no local da injeção, reações alérgicas (incluindo reações anafiláticas/anafilactoides), angioedema, convulsões (com ou sem febre), episódios hipotônico-hiporresponsivos, sonolência, síncope, respostas vasovagais, apneia, erupção cutânea e urticária. A bula observa apropriadamente que o relato voluntário torna impossível estimar confiavelmente a frequência ou estabelecer relações causais. Informações de relato ao VAERS são fornecidas (1-800-822-7967). Contato do fabricante para relatos está incluído (GlaxoSmithKline em 1-888-825-5249)."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "HIBERIX demonstra documentação de segurança adequada em várias áreas: tamanho de amostra pediátrica substancial (~4.000+ crianças), comparação controlada randomizada contra vacinas licenciadas, solicitação ativa de reações adversas com graduação detalhada de gravidade, transparência razoável de dados com identificadores de ensaios publicados e vigilância pós-comercialização estabelecida. No entanto, existem limitações significativas: a duração do acompanhamento é criticamente curta (apenas 4 dias para reações solicitadas, 31 dias para eventos graves), sem monitoramento de segurança a longo prazo. O monitoramento neurológico capturou alguns eventos graves (convulsões, crises febris), mas carece de protocolos sistemáticos de avaliação neurológica. Populações vulneráveis como crianças imunocomprometidas explicitamente carecem de dados de segurança. No geral, o perfil de segurança está razoavelmente documentado para reações comuns de curto prazo, mas é insuficiente para detectar eventos adversos tardios ou raros."
+        }
+      }
+    },
+    {
+      "id": "mmr_mmrii",
+      "name": "M-M-R II",
+      "type": "MMR",
+      "manufacturer": "Merck",
+      "description": "Measles, Mumps, and Rubella Virus Vaccine Live (RA 27/3 strain) for prevention of measles, mumps, and rubella. Originally licensed September 1978. Source document is 1978 FDA FOIA clinical trial summary.",
+      "sources": [
+        "mmr_mmrii_clinical.pdf"
+      ],
+      "trial_en": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "trial",
+        "language": "en",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "The main licensure studies (442, 443, 467, 511, 513) compared M-M-R (RA 27/3) against other active vaccines: measles-rubella vaccine, rubella-only vaccine, or M-M-R with HPV-77 rubella strain. Study 459 protocol mentions a placebo group of 50 children in the study design, but this was only 9% of the total 550 planned subjects, with remaining children receiving various active vaccine formulations.",
+            "level_description": "The clinical studies supporting M-M-R II licensure primarily compared different vaccine formulations (RA 27/3 vs HPV-77 rubella strains, combined vs single-component vaccines) rather than using true inert placebo controls. While Study 459 mentions a small placebo group (50/550), the overall safety assessment was based on active comparators, making it impossible to determine the true baseline rate of adverse events attributable to the vaccine versus coincidental events."
+          },
+          "double_blind": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "The document does not describe blinding procedures for any of the main studies (442, 443, 467, 511, 513). Study 459 mentions that 'coded vials' were supplied by Merck Sharp & Dohme, suggesting some potential for blinding, but explicit blinding methodology is not described.",
+            "level_description": "No explicit double-blinding is documented for the clinical trials. The studies appear to be predominantly open-label, with investigators and participants potentially aware of which vaccine formulation was administered. The mention of 'coded vials' in one study is insufficient evidence of proper double-blinding procedures."
+          },
+          "randomization": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Study 459 states children will be 'randomly assigned' to receive one of the vaccine groups. However, most other studies (442, 443, 467, 511, 513) describe children being 'assigned' or receiving vaccines without explicit mention of randomization methodology.",
+            "level_description": "Randomization is mentioned for Study 459, but the allocation method, concealment procedures, and stratification are not documented. Other major studies lack explicit documentation of randomization. The methodology falls short of demonstrating proper random allocation with concealment."
+          },
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Total vaccinations documented: 834 children received combined live M-M-R (RA 27/3) vaccine across lot numbers 621, 60664, 60665, and 60666. Individual studies: Study 442 (199 children with MMR), Study 443 (102 children with MMR), Study 467 (269 children), Study 511 (226 children), Study 513 (163 children).",
+            "level_description": "The total sample size of approximately 834 children is grossly inadequate for detecting rare adverse events. Standard safety assessment requires at least 3,000 children per age group to detect events occurring at 1:1,000 frequency with statistical confidence. This sample size could only reliably detect adverse events occurring more frequently than approximately 1 in 100 children."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "All studies followed children for 42 days (6 weeks) post-vaccination. Blood samples were obtained 'six weeks after vaccination' for serological testing. Clinical surveillance recorded complaints for '42 days following vaccination.'",
+            "level_description": "The 42-day (6-week) follow-up period is severely inadequate for detecting delayed adverse reactions, particularly autoimmune conditions, neurological complications, or other chronic sequelae that may emerge weeks to months after vaccination. Modern safety standards require minimum 6-12 months of follow-up, with ideal multi-year surveillance for pediatric vaccines."
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Children ranged from 10 months to 8 years of age across studies. Mean ages were documented: Study 442 (3.7 years), Study 443 (1.7 years), Study 467 (1.9 years). Some tables break down serological results by individual age years (10 months, 11 months, 1 year, 2 years, etc.).",
+            "level_description": "While age data is collected and some tables show results by individual ages, the studies do not provide formal stratified safety analyses by distinct developmental age groups (infants 0-12 months, toddlers 1-2 years, preschoolers 3-5 years). Aggregated safety data may mask age-specific reaction patterns."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Documented exclusion criteria: sensitivity to egg, chicken, chicken feathers, or neomycin; leukemia or other immunologic disorders; persons receiving immunosuppressive drugs; febrile respiratory illness or other active febrile infection. Children were required to have negative history for vaccination with and illness caused by viruses represented in the vaccine.",
+            "level_description": "The studies document clear exclusion criteria related to allergies, immunocompromised status, and concurrent illness. Entry criteria required negative disease and vaccination history. While these criteria are documented, the exclusion of children with chronic conditions limits generalizability to real-world populations."
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Clinical complaints were categorized into: fever (by temperature ranges: <99F, 99-100.9F, 101-102.9F, 103-104.9F, >105F), irritability, malaise, headache, upper respiratory illness, otitis, ophthalmopathy, gastrointestinal illness, anorexia, rash, lymphadenopathy, myalgia, arthralgia. Temperature was recorded as oral or rectal.",
+            "level_description": "The studies used consistent categories for adverse event reporting with temperature grading. However, no standardized criteria such as Brighton Collaboration definitions or MedDRA coding were used (predating these standards). Subjective categories like 'irritability' and 'malaise' lacked objective thresholds. Modern standardized adverse event definitions were not available in 1978."
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Protocols state: 'Any serious or alarming reaction, including death due to any cause during the investigation, whether related or not related to the test material, must be reported immediately to Merck & Co., Inc.' Parents were asked to 'contact the physician should any significant or bothersome reaction occur.' In some studies, observations were made by 'medical or paramedical personnel.'",
+            "level_description": "There was a passive reporting mechanism for serious events with instructions to report deaths and serious reactions. However, this relied on parental observation and voluntary reporting rather than systematic active surveillance with scheduled clinical assessments. The methodology for serious adverse event ascertainment falls short of active monitoring standards."
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "No mention of autoimmune conditions, encephalitis, Guillain-Barre syndrome, seizures, convulsions, or other neurological assessments in the clinical trial documentation. High fevers (up to 105F) were documented in some children, but neurological evaluation was not described.",
+            "level_description": "The clinical trials did not include any specific monitoring, assessment, or reporting of autoimmune or neurological adverse events. Given that MMR vaccine has subsequently been associated with rare cases of febrile seizures, immune thrombocytopenic purpura, and encephalitis, the absence of any such monitoring in the original trials represents a significant gap."
+          },
+          "vulnerable_subgroups": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Children with leukemia, immunologic disorders, or receiving immunosuppressive drugs were explicitly excluded from the trials. No separate analysis or inclusion of premature infants, children with allergies, chronic diseases, or other vulnerable populations is documented.",
+            "level_description": "Vulnerable subgroups were systematically excluded from the clinical trials rather than studied. There is no safety data from the pre-licensure trials for immunocompromised children, premature infants, or children with chronic health conditions who would subsequently receive this vaccine in real-world use."
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "A memo describes 'Analysis of variance was conducted on post titers' comparing rubella vaccine groups. Seroconversion rates and geometric mean titers are reported with percentages. One memo states 'No significant difference exists among the three groups.'",
+            "level_description": "Basic statistical analysis (ANOVA, seroconversion rates, geometric mean titers) was performed for immunogenicity outcomes. However, no power calculations for safety detection are documented, and the small sample sizes preclude meaningful statistical analysis of adverse events. The studies were powered for efficacy, not safety."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "The document was released through a FOIA request dated August 2019, over 40 years after the 1978 licensure. The cover letter notes that 'portions of pages' were withheld under Exemption 4 (trade secrets) and Exemption 6 (personal privacy). Detailed background records were stated to be 'on file in Virus and Cell Biology Research, Merck Institute.'",
+            "level_description": "This document was obtained only through FOIA request decades after approval, with portions redacted. Individual patient data are not publicly available. No independent Data Safety Monitoring Board is mentioned. The delayed and partial release of clinical trial data limits independent verification of safety findings."
+          },
+          "post_marketing_surveillance": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "The document covers pre-licensure clinical trials only. No post-marketing surveillance plan, passive reporting system (such as VAERS, which did not exist until 1990), or ongoing safety monitoring is described.",
+            "level_description": "The 1978 licensure document contains no post-marketing surveillance provisions. VAERS was not established until 1990. The complete absence of post-marketing safety monitoring in the original approval documents means the safety assessment relied entirely on the limited pre-licensure trials."
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "All clinical studies were conducted under the overall responsibility of Dr. Maurice R. Hilleman, Vice President, Virus and Cell Biology Research, Merck Institute for Therapeutic Research. Vaccines were prepared by Merck Sharp and Dohme Biologics Manufacturing. Serologic testing was performed in Merck laboratories. Clinical investigators reported directly to Merck.",
+            "level_description": "The trials were entirely designed, managed, and analyzed by the vaccine manufacturer. The lead investigator was a Vice President at Merck. No independent oversight, external monitoring, or disclosure of financial relationships is documented. This represents a fundamental conflict of interest with no mitigation measures described."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Protocols mention that 'death due to any cause during the investigation, whether related or not related to the test material, must be reported immediately.' However, no mortality data, death reports, or systematic mortality analysis appears in the results documentation.",
+            "level_description": "While the protocol required death reporting, no mortality data is presented in the clinical trial results. There is no systematic comparison of all-cause mortality between vaccine groups or documentation of whether any deaths occurred during the 42-day follow-up period."
+          }
+        },
+        "overall": {
+          "rating": "insufficient",
+          "emoji": "🔴",
+          "summary": "The 1978 M-M-R II licensure studies demonstrate significant methodological limitations by any safety assessment standard. The trials enrolled only approximately 834 children receiving the combined vaccine, far below the minimum 3,000 per age group needed to detect rare adverse events. Follow-up was limited to 42 days, precluding detection of delayed autoimmune or neurological reactions. No true placebo control was used - instead comparing different vaccine formulations. Studies lacked double-blinding, with most appearing to be open-label. The trials excluded vulnerable populations (immunocompromised, premature infants) who would later receive the vaccine. No assessment of autoimmune or neurological outcomes was performed despite these being subsequently identified as rare adverse events. The entire research program was conducted by the manufacturer with no independent oversight, representing an unmitigated conflict of interest. While the studies may have been standard for their era, they fall dramatically short of modern pediatric vaccine safety evaluation requirements and leave substantial uncertainty about the true adverse event profile of M-M-R II."
+        }
+      },
+      "trial_pt": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "trial",
+        "language": "pt",
+        "criteria": {
+          "placebo_control": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Os principais estudos de licenciamento (442, 443, 467, 511, 513) compararam a M-M-R (RA 27/3) com outras vacinas ativas: vacina sarampo-rubéola, vacina somente de rubéola, ou M-M-R com cepa de rubéola HPV-77. O protocolo do Estudo 459 menciona um grupo placebo de 50 crianças no desenho do estudo, mas isso representava apenas 9% do total de 550 participantes planejados, com as crianças restantes recebendo várias formulações de vacinas ativas.",
+            "level_description": "Os estudos clínicos que fundamentaram o licenciamento da M-M-R II compararam principalmente diferentes formulações de vacinas (cepas de rubéola RA 27/3 vs HPV-77, vacinas combinadas vs componentes únicos) em vez de usar controles placebo verdadeiramente inertes. Embora o Estudo 459 mencione um pequeno grupo placebo (50/550), a avaliação geral de segurança baseou-se em comparadores ativos, tornando impossível determinar a verdadeira taxa basal de eventos adversos atribuíveis à vacina versus eventos coincidentes."
+          },
+          "double_blind": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "O documento não descreve procedimentos de cegamento para nenhum dos estudos principais (442, 443, 467, 511, 513). O Estudo 459 menciona que 'frascos codificados' foram fornecidos pela Merck Sharp & Dohme, sugerindo algum potencial para cegamento, mas a metodologia explícita de cegamento não é descrita.",
+            "level_description": "Não há documentação explícita de duplo-cego para os ensaios clínicos. Os estudos parecem ser predominantemente abertos, com investigadores e participantes potencialmente cientes de qual formulação de vacina foi administrada. A menção de 'frascos codificados' em um estudo é evidência insuficiente de procedimentos adequados de duplo-cego."
+          },
+          "randomization": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O Estudo 459 afirma que as crianças serão 'atribuídas aleatoriamente' para receber um dos grupos de vacina. No entanto, a maioria dos outros estudos (442, 443, 467, 511, 513) descreve crianças sendo 'atribuídas' ou recebendo vacinas sem menção explícita da metodologia de randomização.",
+            "level_description": "A randomização é mencionada para o Estudo 459, mas o método de alocação, procedimentos de ocultação e estratificação não estão documentados. Outros estudos importantes carecem de documentação explícita de randomização. A metodologia não demonstra adequadamente alocação aleatória apropriada com ocultação."
+          },
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Total de vacinações documentadas: 834 crianças receberam a vacina combinada M-M-R viva (RA 27/3) através dos lotes 621, 60664, 60665 e 60666. Estudos individuais: Estudo 442 (199 crianças com MMR), Estudo 443 (102 crianças com MMR), Estudo 467 (269 crianças), Estudo 511 (226 crianças), Estudo 513 (163 crianças).",
+            "level_description": "O tamanho total da amostra de aproximadamente 834 crianças é grosseiramente inadequado para detectar eventos adversos raros. A avaliação padrão de segurança requer pelo menos 3.000 crianças por faixa etária para detectar eventos que ocorrem na frequência de 1:1.000 com confiança estatística. Este tamanho de amostra só poderia detectar de forma confiável eventos adversos que ocorrem com mais frequência do que aproximadamente 1 em 100 crianças."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Todos os estudos acompanharam as crianças por 42 dias (6 semanas) após a vacinação. Amostras de sangue foram obtidas 'seis semanas após a vacinação' para testes sorológicos. A vigilância clínica registrou queixas por '42 dias após a vacinação.'",
+            "level_description": "O período de acompanhamento de 42 dias (6 semanas) é severamente inadequado para detectar reações adversas tardias, particularmente condições autoimunes, complicações neurológicas ou outras sequelas crônicas que podem surgir semanas a meses após a vacinação. Os padrões modernos de segurança exigem um mínimo de 6-12 meses de acompanhamento, com vigilância ideal de múltiplos anos para vacinas pediátricas."
+          },
+          "separate_age_groups": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "As crianças variaram de 10 meses a 8 anos de idade entre os estudos. Idades médias foram documentadas: Estudo 442 (3,7 anos), Estudo 443 (1,7 anos), Estudo 467 (1,9 anos). Algumas tabelas apresentam resultados sorológicos por idades individuais (10 meses, 11 meses, 1 ano, 2 anos, etc.).",
+            "level_description": "Embora os dados de idade sejam coletados e algumas tabelas mostrem resultados por idades individuais, os estudos não fornecem análises de segurança formalmente estratificadas por grupos etários de desenvolvimento distintos (bebês 0-12 meses, crianças pequenas 1-2 anos, pré-escolares 3-5 anos). Dados de segurança agregados podem mascarar padrões de reação específicos por idade."
+          },
+          "inclusion_exclusion_criteria": {
+            "rating": "adequate",
+            "emoji": "✅",
+            "what_document_states": "Critérios de exclusão documentados: sensibilidade a ovo, frango, penas de frango ou neomicina; leucemia ou outros distúrbios imunológicos; pessoas recebendo medicamentos imunossupressores; doença respiratória febril ou outra infecção febril ativa. As crianças deveriam ter histórico negativo para vacinação e doença causada pelos vírus representados na vacina.",
+            "level_description": "Os estudos documentam critérios de exclusão claros relacionados a alergias, estado imunocomprometido e doenças concomitantes. Os critérios de entrada exigiam histórico negativo de doença e vacinação. Embora esses critérios estejam documentados, a exclusão de crianças com condições crônicas limita a generalização para populações do mundo real."
+          },
+          "standardized_adverse_events": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "As queixas clínicas foram categorizadas em: febre (por faixas de temperatura: <99F, 99-100,9F, 101-102,9F, 103-104,9F, >105F), irritabilidade, mal-estar, dor de cabeça, doença respiratória superior, otite, oftalmopatia, doença gastrointestinal, anorexia, erupção cutânea, linfadenopatia, mialgia, artralgia. A temperatura foi registrada como oral ou retal.",
+            "level_description": "Os estudos usaram categorias consistentes para relato de eventos adversos com graduação de temperatura. No entanto, nenhum critério padronizado como definições da Brighton Collaboration ou codificação MedDRA foi usado (antecedendo esses padrões). Categorias subjetivas como 'irritabilidade' e 'mal-estar' não tinham limiares objetivos. Definições modernas padronizadas de eventos adversos não estavam disponíveis em 1978."
+          },
+          "active_monitoring_serious": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Os protocolos afirmam: 'Qualquer reação séria ou alarmante, incluindo morte por qualquer causa durante a investigação, relacionada ou não ao material de teste, deve ser relatada imediatamente à Merck & Co., Inc.' Os pais foram solicitados a 'contatar o médico caso ocorra qualquer reação significativa ou incômoda.' Em alguns estudos, as observações foram feitas por 'pessoal médico ou paramédico.'",
+            "level_description": "Havia um mecanismo de notificação passiva para eventos graves com instruções para relatar mortes e reações sérias. No entanto, isso dependia da observação parental e notificação voluntária, em vez de vigilância ativa sistemática com avaliações clínicas programadas. A metodologia para identificação de eventos adversos graves fica aquém dos padrões de monitoramento ativo."
+          },
+          "autoimmune_neurological": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Não há menção de condições autoimunes, encefalite, síndrome de Guillain-Barré, convulsões ou outras avaliações neurológicas na documentação dos ensaios clínicos. Febres altas (até 105F) foram documentadas em algumas crianças, mas avaliação neurológica não foi descrita.",
+            "level_description": "Os ensaios clínicos não incluíram nenhum monitoramento, avaliação ou relato específico de eventos adversos autoimunes ou neurológicos. Dado que a vacina MMR foi subsequentemente associada a casos raros de convulsões febris, púrpura trombocitopênica imune e encefalite, a ausência de qualquer monitoramento nos ensaios originais representa uma lacuna significativa."
+          },
+          "vulnerable_subgroups": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Crianças com leucemia, distúrbios imunológicos ou recebendo medicamentos imunossupressores foram explicitamente excluídas dos ensaios. Nenhuma análise separada ou inclusão de bebês prematuros, crianças com alergias, doenças crônicas ou outras populações vulneráveis está documentada.",
+            "level_description": "Subgrupos vulneráveis foram sistematicamente excluídos dos ensaios clínicos em vez de estudados. Não há dados de segurança dos ensaios pré-licenciamento para crianças imunocomprometidas, bebês prematuros ou crianças com condições crônicas de saúde que posteriormente receberiam esta vacina no uso do mundo real."
+          },
+          "statistical_analysis": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "Um memorando descreve 'Análise de variância foi conduzida nos títulos pós' comparando grupos de vacina de rubéola. Taxas de soroconversão e títulos médios geométricos são relatados com porcentagens. Um memorando afirma 'Não existe diferença significativa entre os três grupos.'",
+            "level_description": "Análise estatística básica (ANOVA, taxas de soroconversão, títulos médios geométricos) foi realizada para desfechos de imunogenicidade. No entanto, nenhum cálculo de poder para detecção de segurança está documentado, e os pequenos tamanhos de amostra impedem análise estatística significativa de eventos adversos. Os estudos foram dimensionados para eficácia, não para segurança."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "what_document_states": "O documento foi liberado através de uma solicitação FOIA datada de agosto de 2019, mais de 40 anos após o licenciamento de 1978. A carta de apresentação observa que 'partes de páginas' foram retidas sob a Isenção 4 (segredos comerciais) e Isenção 6 (privacidade pessoal). Registros detalhados de antecedentes foram declarados como estando 'arquivados na Pesquisa de Vírus e Biologia Celular, Instituto Merck.'",
+            "level_description": "Este documento foi obtido apenas através de solicitação FOIA décadas após a aprovação, com partes redigidas. Dados individuais de pacientes não estão disponíveis publicamente. Nenhum Comitê Independente de Monitoramento de Segurança de Dados é mencionado. A liberação tardia e parcial dos dados dos ensaios clínicos limita a verificação independente dos achados de segurança."
+          },
+          "post_marketing_surveillance": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "O documento cobre apenas ensaios clínicos pré-licenciamento. Nenhum plano de vigilância pós-comercialização, sistema de notificação passiva (como o VAERS, que não existia até 1990), ou monitoramento contínuo de segurança é descrito.",
+            "level_description": "O documento de licenciamento de 1978 não contém disposições de vigilância pós-comercialização. O VAERS não foi estabelecido até 1990. A ausência completa de monitoramento de segurança pós-comercialização nos documentos de aprovação originais significa que a avaliação de segurança dependeu inteiramente dos ensaios pré-licenciamento limitados."
+          },
+          "conflict_of_interest": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "what_document_states": "Todos os estudos clínicos foram conduzidos sob a responsabilidade geral do Dr. Maurice R. Hilleman, Vice-Presidente de Pesquisa em Vírus e Biologia Celular, Instituto Merck de Pesquisa Terapêutica. As vacinas foram preparadas pela Merck Sharp and Dohme Biologics Manufacturing. Testes sorológicos foram realizados em laboratórios da Merck. Os investigadores clínicos reportavam diretamente à Merck.",
+            "level_description": "Os ensaios foram inteiramente projetados, gerenciados e analisados pelo fabricante da vacina. O investigador principal era Vice-Presidente da Merck. Nenhuma supervisão independente, monitoramento externo ou divulgação de relacionamentos financeiros está documentada. Isso representa um conflito de interesse fundamental sem medidas de mitigação descritas."
+          },
+          "all_cause_mortality": {
+            "rating": "absent",
+            "emoji": "❓",
+            "what_document_states": "Os protocolos mencionam que 'morte por qualquer causa durante a investigação, relacionada ou não ao material de teste, deve ser relatada imediatamente.' No entanto, nenhum dado de mortalidade, relato de morte ou análise sistemática de mortalidade aparece na documentação dos resultados.",
+            "level_description": "Embora o protocolo exigisse notificação de mortes, nenhum dado de mortalidade é apresentado nos resultados dos ensaios clínicos. Não há comparação sistemática de mortalidade por todas as causas entre os grupos de vacina ou documentação sobre se ocorreram mortes durante o período de acompanhamento de 42 dias."
+          }
+        },
+        "overall": {
+          "rating": "insufficient",
+          "emoji": "🔴",
+          "summary": "Os estudos de licenciamento da M-M-R II de 1978 demonstram limitações metodológicas significativas por qualquer padrão de avaliação de segurança. Os ensaios incluíram apenas aproximadamente 834 crianças recebendo a vacina combinada, muito abaixo do mínimo de 3.000 por faixa etária necessário para detectar eventos adversos raros. O acompanhamento foi limitado a 42 dias, impossibilitando a detecção de reações autoimunes ou neurológicas tardias. Nenhum controle placebo verdadeiro foi usado - em vez disso, compararam-se diferentes formulações de vacinas. Os estudos não tinham duplo-cego, com a maioria parecendo ser aberta. Os ensaios excluíram populações vulneráveis (imunocomprometidos, bebês prematuros) que posteriormente receberiam a vacina. Nenhuma avaliação de desfechos autoimunes ou neurológicos foi realizada, apesar de estes terem sido posteriormente identificados como eventos adversos raros. Todo o programa de pesquisa foi conduzido pelo fabricante sem supervisão independente, representando um conflito de interesse não mitigado. Embora os estudos possam ter sido padrão para sua época, eles ficam dramaticamente aquém dos requisitos modernos de avaliação de segurança de vacinas pediátricas e deixam incerteza substancial sobre o verdadeiro perfil de eventos adversos da M-M-R II."
+        }
+      },
+      "safety_en": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "safety",
+        "language": "en",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "The document reports a total of 834 children vaccinated across multiple studies (442, 443, 459, 467, 473, 484, 511, 513). While this represents a substantial effort for the era, it is far below the modern standard of >3,000 children per age group needed to detect rare adverse events (1 in 1,000 or 1 in 10,000). The sample size of 834 can only reliably detect events occurring at a frequency of approximately 1 in 100-300. Children ranged from 10 months to 15 years of age (mean ages typically 1.4-4.3 years), with no breakdown by age group sufficient for subgroup safety analysis."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "Follow-up was limited to 6 weeks (42 days) post-vaccination across all studies. The protocol explicitly states: 'Each child will be followed clinically for 42 days following vaccination.' Parents were asked to 'take daily temperatures and record all symptoms which occur during the following six weeks.' This timeframe is grossly inadequate to detect autoimmune conditions, neurological sequelae, or developmental effects that may manifest months or years after vaccination. The ideal minimum is 12 months, with 2-3+ years preferred for long-term safety assessment."
+          },
+          "comparison_group": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Study 459 included a planned placebo group of 50 children, comparing reactions in children receiving M-M-R vaccines vs. individual component vaccines vs. placebo. However, most studies (442, 443, 467, 473, 511, 513) compared different vaccine formulations (HPV-77 vs RA 27/3 rubella strains) rather than using a true saline placebo control. The comparison was primarily between active vaccines, not vaccine vs. no vaccine. The placebo group in Study 459 was limited to 50 children, which is statistically underpowered for safety signal detection."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "Surveillance methodology varied by study. In studies by Drs. Weibel, Lerman, Gershon, and McCollum, 'observations were recorded daily by the mother' using parent-completed reaction cards and thermometers. Parents were asked to contact physicians for 'significant or bothersome reactions.' In Dr. Villarejos' studies (Nicaragua/Costa Rica), observations were made by 'medical or paramedical personnel' with physicians notified of 'significant illness.' The protocol required reporting of 'any serious or alarming reaction, including death due to any cause' to Merck. However, there is no evidence of systematic medical examinations, proactive outreach, medical record review, or hospitalization/death investigation with formal causality analysis."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "The document contains no evidence of systematic neurological or developmental monitoring. The word 'neurology' appears only as a department name at University of Nebraska. No scheduled developmental assessments, neurological examinations, or surveillance for conditions such as seizures, encephalitis, Guillain-Barre syndrome, or developmental regression are documented. Clinical complaints tracked were limited to fever, rash, irritability, malaise, upper respiratory illness, otitis, gastrointestinal symptoms, and arthralgia. There is no mention of neurological examination protocols or developmental milestone tracking."
+          },
+          "vulnerable_subgroups": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "The document explicitly EXCLUDES vulnerable populations rather than including them. The protocols state that children 'with leukemia or other immunologic disorders and persons receiving immunosuppressive drugs should not be vaccinated.' There is no documentation of intentional inclusion of premature infants, immunocompromised children, or children with chronic conditions. No separate safety analysis for any special population subgroup is presented. The study population consisted entirely of healthy children from the 'open population' without documented special conditions."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "The document provides summary tables of antibody responses (seroconversion rates, geometric mean titers) and clinical complaints aggregated by vaccine group and time period. Individual case-level serological data is presented in some tables. Temperature and symptom data are presented as percentages. However, complete individual patient records, raw adverse event data, and case narratives are not included in this FOIA release. The document notes that 'detailed background records are on file in Virus and Cell Biology Research, Merck Institute' and 'are available for review at any time,' but these were not part of the submission. Some portions were withheld under FOIA Exemption 4 (trade secrets) and Exemption 6 (privacy)."
+          },
+          "post_marketing_surveillance": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "This is a pre-licensure clinical trial document from 1978. There is no mention of post-marketing surveillance plans, pharmacovigilance systems, VAERS (which was not established until 1990), or ongoing safety monitoring after licensure. The document contains no discussion of how safety would be monitored once the vaccine was in widespread use, no mention of periodic safety reviews, and no reference to mechanisms for detecting rare adverse events that might only appear with millions of doses administered."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "This 1978 FDA FOIA document provides limited safety evidence for M-M-R II vaccine licensure. While the clinical trials demonstrated immunogenicity with seroconversion rates of 95-99% across components, the safety evaluation has significant limitations: only 834 children were studied (insufficient to detect rare events), follow-up was limited to 42 days (inadequate for detecting delayed autoimmune or neurological effects), most studies lacked true placebo controls (comparing vaccine formulations instead), there was no systematic neurological monitoring, vulnerable populations were explicitly excluded, and no post-marketing surveillance was planned. The passive surveillance methodology relied heavily on parent-completed daily cards documenting temperature and symptoms, with no protocol for medical record review or structured causality assessment. The document shows the vaccine produced expected reactions (fever, rash, irritability) at rates considered acceptable for the era, but cannot provide confidence regarding rare serious adverse events or long-term safety in children."
+        }
+      },
+      "safety_pt": {
+        "vaccine_id": "mmr_mmrii",
+        "analysis_type": "safety",
+        "language": "pt",
+        "criteria": {
+          "pediatric_sample_size": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "O documento relata um total de 834 crianças vacinadas em múltiplos estudos (442, 443, 459, 467, 473, 484, 511, 513). Embora isso represente um esforço substancial para a época, está muito abaixo do padrão moderno de >3.000 crianças por faixa etária necessário para detectar eventos adversos raros (1 em 1.000 ou 1 em 10.000). O tamanho amostral de 834 pode detectar de forma confiável apenas eventos que ocorrem com frequência aproximada de 1 em 100-300. As crianças tinham entre 10 meses e 15 anos de idade (idades médias tipicamente de 1,4-4,3 anos), sem divisão por faixa etária suficiente para análise de segurança por subgrupo."
+          },
+          "follow_up_duration": {
+            "rating": "insufficient",
+            "emoji": "🔴",
+            "explanation": "O acompanhamento foi limitado a 6 semanas (42 dias) pós-vacinação em todos os estudos. O protocolo declara explicitamente: 'Cada criança será acompanhada clinicamente por 42 dias após a vacinação.' Os pais foram orientados a 'medir a temperatura diariamente e registrar todos os sintomas que ocorrerem durante as seis semanas seguintes.' Este período é grosseiramente inadequado para detectar condições autoimunes, sequelas neurológicas ou efeitos no desenvolvimento que podem se manifestar meses ou anos após a vacinação. O mínimo ideal é de 12 meses, sendo preferível 2-3+ anos para avaliação de segurança a longo prazo."
+          },
+          "comparison_group": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "O Estudo 459 incluiu um grupo placebo planejado de 50 crianças, comparando reações em crianças recebendo vacinas M-M-R vs. vacinas de componentes individuais vs. placebo. No entanto, a maioria dos estudos (442, 443, 467, 473, 511, 513) comparou diferentes formulações de vacina (cepas de rubéola HPV-77 vs RA 27/3) em vez de usar um controle placebo de solução salina verdadeiro. A comparação foi principalmente entre vacinas ativas, não vacina vs. nenhuma vacina. O grupo placebo no Estudo 459 foi limitado a 50 crianças, o que é estatisticamente insuficiente para detecção de sinais de segurança."
+          },
+          "active_surveillance": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "A metodologia de vigilância variou por estudo. Nos estudos dos Drs. Weibel, Lerman, Gershon e McCollum, 'as observações eram registradas diariamente pela mãe' usando cartões de reação preenchidos pelos pais e termômetros. Os pais foram orientados a contatar os médicos para 'reações significativas ou incômodas.' Nos estudos do Dr. Villarejos (Nicarágua/Costa Rica), as observações eram feitas por 'pessoal médico ou paramédico' com médicos notificados de 'doenças significativas.' O protocolo exigia relato de 'qualquer reação séria ou alarmante, incluindo morte por qualquer causa' à Merck. No entanto, não há evidência de exames médicos sistemáticos, contato proativo, revisão de prontuários médicos ou investigação de hospitalização/morte com análise formal de causalidade."
+          },
+          "neurological_monitoring": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "O documento não contém evidência de monitoramento neurológico ou do desenvolvimento sistemático. A palavra 'neurologia' aparece apenas como nome de departamento na Universidade de Nebraska. Não há avaliações de desenvolvimento programadas, exames neurológicos ou vigilância para condições como convulsões, encefalite, síndrome de Guillain-Barré ou regressão do desenvolvimento documentados. As queixas clínicas rastreadas foram limitadas a febre, erupção cutânea, irritabilidade, mal-estar, doença respiratória alta, otite, sintomas gastrointestinais e artralgia. Não há menção de protocolos de exame neurológico ou acompanhamento de marcos do desenvolvimento."
+          },
+          "vulnerable_subgroups": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "O documento EXCLUI explicitamente populações vulneráveis em vez de incluí-las. Os protocolos afirmam que crianças 'com leucemia ou outros distúrbios imunológicos e pessoas recebendo drogas imunossupressoras não devem ser vacinadas.' Não há documentação de inclusão intencional de bebês prematuros, crianças imunocomprometidas ou crianças com condições crônicas. Nenhuma análise de segurança separada para qualquer subgrupo de população especial é apresentada. A população do estudo consistiu inteiramente de crianças saudáveis da 'população aberta' sem condições especiais documentadas."
+          },
+          "data_transparency": {
+            "rating": "partial",
+            "emoji": "⚠️",
+            "explanation": "O documento fornece tabelas resumidas de respostas de anticorpos (taxas de soroconversão, títulos médios geométricos) e queixas clínicas agregadas por grupo de vacina e período de tempo. Dados sorológicos individuais de nível de caso são apresentados em algumas tabelas. Dados de temperatura e sintomas são apresentados como porcentagens. No entanto, registros individuais completos de pacientes, dados brutos de eventos adversos e narrativas de casos não estão incluídos nesta liberação FOIA. O documento observa que 'registros detalhados de base estão arquivados na Pesquisa de Vírus e Biologia Celular, Instituto Merck' e 'estão disponíveis para revisão a qualquer momento,' mas estes não faziam parte da submissão. Algumas partes foram retidas sob a Isenção 4 da FOIA (segredos comerciais) e Isenção 6 (privacidade)."
+          },
+          "post_marketing_surveillance": {
+            "rating": "absent",
+            "emoji": "❓",
+            "explanation": "Este é um documento de ensaio clínico pré-licenciamento de 1978. Não há menção de planos de vigilância pós-comercialização, sistemas de farmacovigilância, VAERS (que só foi estabelecido em 1990) ou monitoramento de segurança contínuo após o licenciamento. O documento não contém discussão sobre como a segurança seria monitorada uma vez que a vacina estivesse em uso generalizado, nenhuma menção de revisões periódicas de segurança e nenhuma referência a mecanismos para detectar eventos adversos raros que podem aparecer apenas com milhões de doses administradas."
+          }
+        },
+        "overall": {
+          "rating": "partial",
+          "emoji": "⚠️",
+          "summary": "Este documento FOIA da FDA de 1978 fornece evidência de segurança limitada para o licenciamento da vacina M-M-R II. Embora os ensaios clínicos tenham demonstrado imunogenicidade com taxas de soroconversão de 95-99% em todos os componentes, a avaliação de segurança tem limitações significativas: apenas 834 crianças foram estudadas (insuficiente para detectar eventos raros), o acompanhamento foi limitado a 42 dias (inadequado para detectar efeitos autoimunes ou neurológicos tardios), a maioria dos estudos não tinha controles placebo verdadeiros (comparando formulações de vacinas em vez disso), não houve monitoramento neurológico sistemático, populações vulneráveis foram explicitamente excluídas e nenhuma vigilância pós-comercialização foi planejada. A metodologia de vigilância passiva dependia fortemente de cartões diários preenchidos pelos pais documentando temperatura e sintomas, sem protocolo para revisão de prontuários médicos ou avaliação estruturada de causalidade. O documento mostra que a vacina produziu reações esperadas (febre, erupção cutânea, irritabilidade) em taxas consideradas aceitáveis para a época, mas não pode fornecer confiança em relação a eventos adversos sérios raros ou segurança a longo prazo em crianças."
+        }
+      }
+    }
+  ],
+  "criteria_trial": {
+    "placebo_control": {
+      "id": "placebo_control",
+      "name": "Placebo control group",
+      "name_pt": "Grupo controle com placebo",
+      "why_it_matters": "Allows identification of which reactions are caused by the vaccine vs. coincidental events",
+      "why_it_matters_pt": "Permite identificar quais reações são causadas pela vacina vs. eventos coincidentes",
+      "what_is_ideal": "Inert placebo (saline). Using another vaccine as comparator obscures true adverse event rates",
+      "what_is_ideal_pt": "Placebo inerte (solução salina). Usar outra vacina como comparador obscurece as taxas reais de eventos adversos"
+    },
+    "double_blind": {
+      "id": "double_blind",
+      "name": "Double-blind study",
+      "name_pt": "Estudo duplo-cego",
+      "why_it_matters": "Prevents bias in observation and symptom reporting",
+      "why_it_matters_pt": "Previne viés na observação e relato de sintomas",
+      "what_is_ideal": "Neither participants nor researchers know who received vaccine/placebo",
+      "what_is_ideal_pt": "Nem participantes nem pesquisadores sabem quem recebeu vacina/placebo"
+    },
+    "randomization": {
+      "id": "randomization",
+      "name": "Randomization",
+      "name_pt": "Randomização",
+      "why_it_matters": "Ensures differences in outcomes are due to the vaccine, not pre-existing characteristics",
+      "why_it_matters_pt": "Garante que diferenças nos resultados são devido à vacina, não características pré-existentes",
+      "what_is_ideal": "Documented random allocation with allocation concealment",
+      "what_is_ideal_pt": "Alocação aleatória documentada com ocultação da alocação"
+    },
+    "pediatric_sample_size": {
+      "id": "pediatric_sample_size",
+      "name": "Pediatric sample size",
+      "name_pt": "Tamanho da amostra pediátrica",
+      "why_it_matters": "Small samples cannot detect rare reactions. Detecting 1:1,000 events requires ~3,000 participants",
+      "why_it_matters_pt": "Amostras pequenas não podem detectar reações raras. Detectar eventos 1:1.000 requer ~3.000 participantes",
+      "what_is_ideal": ">3,000 children per age group for adequate safety detection",
+      "what_is_ideal_pt": ">3.000 crianças por grupo etário para detecção adequada de segurança"
+    },
+    "follow_up_duration": {
+      "id": "follow_up_duration",
+      "name": "Follow-up duration",
+      "name_pt": "Duração do acompanhamento",
+      "why_it_matters": "Autoimmune/neurological reactions may emerge weeks or months later",
+      "why_it_matters_pt": "Reações autoimunes/neurológicas podem surgir semanas ou meses depois",
+      "what_is_ideal": "Minimum 6-12 months; ideal: several years with scheduled assessments",
+      "what_is_ideal_pt": "Mínimo 6-12 meses; ideal: vários anos com avaliações programadas"
+    },
+    "separate_age_groups": {
+      "id": "separate_age_groups",
+      "name": "Separate age groups",
+      "name_pt": "Grupos etários separados",
+      "why_it_matters": "Infants, toddlers, and older children have different immune systems",
+      "why_it_matters_pt": "Bebês, crianças pequenas e crianças mais velhas têm sistemas imunológicos diferentes",
+      "what_is_ideal": "Separate analysis: 0-1 years, 1-5 years, 6-12 years",
+      "what_is_ideal_pt": "Análise separada: 0-1 ano, 1-5 anos, 6-12 anos"
+    },
+    "inclusion_exclusion_criteria": {
+      "id": "inclusion_exclusion_criteria",
+      "name": "Inclusion/exclusion criteria",
+      "name_pt": "Critérios de inclusão/exclusão",
+      "why_it_matters": "Allows understanding of who the results apply to",
+      "why_it_matters_pt": "Permite entender a quem os resultados se aplicam",
+      "what_is_ideal": "Balanced criteria that include representative population",
+      "what_is_ideal_pt": "Critérios equilibrados que incluem população representativa"
+    },
+    "standardized_adverse_events": {
+      "id": "standardized_adverse_events",
+      "name": "Standardized definition of adverse events",
+      "name_pt": "Definição padronizada de eventos adversos",
+      "why_it_matters": "Enables comparison across studies and prevents under/over-reporting",
+      "why_it_matters_pt": "Permite comparação entre estudos e previne sub/super-notificação",
+      "what_is_ideal": "Brighton Collaboration criteria or MedDRA coding",
+      "what_is_ideal_pt": "Critérios Brighton Collaboration ou codificação MedDRA"
+    },
+    "active_monitoring_serious": {
+      "id": "active_monitoring_serious",
+      "name": "Active monitoring of serious adverse events",
+      "name_pt": "Monitoramento ativo de eventos adversos graves",
+      "why_it_matters": "Passive/unsolicited reporting vastly underestimates serious events",
+      "why_it_matters_pt": "Notificação passiva/não solicitada subestima muito os eventos graves",
+      "what_is_ideal": "Active solicited surveillance for hospitalization, sequelae, deaths",
+      "what_is_ideal_pt": "Vigilância ativa solicitada para hospitalização, sequelas, mortes"
+    },
+    "autoimmune_neurological": {
+      "id": "autoimmune_neurological",
+      "name": "Assessment of autoimmune/neurological reactions",
+      "name_pt": "Avaliação de reações autoimunes/neurológicas",
+      "why_it_matters": "Conditions like Guillain-Barré, seizures, myocarditis are rare but serious",
+      "why_it_matters_pt": "Condições como Guillain-Barré, convulsões, miocardite são raras mas graves",
+      "what_is_ideal": "Specific long-term monitoring with scheduled exams",
+      "what_is_ideal_pt": "Monitoramento específico de longo prazo com exames programados"
+    },
+    "vulnerable_subgroups": {
+      "id": "vulnerable_subgroups",
+      "name": "Vulnerable subgroups",
+      "name_pt": "Subgrupos vulneráveis",
+      "why_it_matters": "Premature, immunocompromised children may react differently",
+      "why_it_matters_pt": "Crianças prematuras, imunocomprometidas podem reagir diferentemente",
+      "what_is_ideal": "Intentional inclusion and separate analysis of these groups",
+      "what_is_ideal_pt": "Inclusão intencional e análise separada desses grupos"
+    },
+    "statistical_analysis": {
+      "id": "statistical_analysis",
+      "name": "Robust statistical analysis",
+      "name_pt": "Análise estatística robusta",
+      "why_it_matters": "Most vaccine trials are powered for efficacy, not safety",
+      "why_it_matters_pt": "A maioria dos ensaios de vacinas tem poder para eficácia, não segurança",
+      "what_is_ideal": "Study powered for safety outcomes; confidence intervals documented",
+      "what_is_ideal_pt": "Estudo com poder para desfechos de segurança; intervalos de confiança documentados"
+    },
+    "data_transparency": {
+      "id": "data_transparency",
+      "name": "Data transparency",
+      "name_pt": "Transparência dos dados",
+      "why_it_matters": "Allows independent verification by other researchers",
+      "why_it_matters_pt": "Permite verificação independente por outros pesquisadores",
+      "what_is_ideal": "Independent DSMB; raw data available; peer-reviewed publication",
+      "what_is_ideal_pt": "DSMB independente; dados brutos disponíveis; publicação revisada por pares"
+    },
+    "post_marketing_surveillance": {
+      "id": "post_marketing_surveillance",
+      "name": "Post-marketing surveillance",
+      "name_pt": "Vigilância pós-comercialização",
+      "why_it_matters": "Detects rare reactions that only appear in millions of doses",
+      "why_it_matters_pt": "Detecta reações raras que só aparecem em milhões de doses",
+      "what_is_ideal": "Active pharmacovigilance system with periodic public reports",
+      "what_is_ideal_pt": "Sistema ativo de farmacovigilância com relatórios públicos periódicos"
+    },
+    "conflict_of_interest": {
+      "id": "conflict_of_interest",
+      "name": "Conflict of interest / funding source",
+      "name_pt": "Conflito de interesse / fonte de financiamento",
+      "why_it_matters": "Industry-funded studies are more likely to report favorable outcomes",
+      "why_it_matters_pt": "Estudos financiados pela indústria tendem a relatar resultados favoráveis",
+      "what_is_ideal": "Independent funding or full disclosure of all financial ties",
+      "what_is_ideal_pt": "Financiamento independente ou divulgação completa de todos os vínculos financeiros"
+    },
+    "all_cause_mortality": {
+      "id": "all_cause_mortality",
+      "name": "All-cause mortality and morbidity",
+      "name_pt": "Mortalidade e morbidade por todas as causas",
+      "why_it_matters": "Focusing only on vaccine-related outcomes can miss overall harm",
+      "why_it_matters_pt": "Focar apenas em resultados relacionados à vacina pode perder danos gerais",
+      "what_is_ideal": "Report total deaths and hospitalizations in all groups",
+      "what_is_ideal_pt": "Relatar total de mortes e hospitalizações em todos os grupos"
+    }
+  },
+  "criteria_safety": {
+    "pediatric_sample_size": {
+      "id": "pediatric_sample_size",
+      "name": "Pediatric sample size",
+      "name_pt": "Tamanho da amostra pediátrica",
+      "why_it_matters": "Small samples cannot detect rare events (1 in 1,000, 1 in 10,000)",
+      "why_it_matters_pt": "Amostras pequenas não podem detectar eventos raros (1 em 1.000, 1 em 10.000)",
+      "what_is_ideal": ">3,000 children per age group",
+      "what_is_ideal_pt": ">3.000 crianças por grupo etário"
+    },
+    "follow_up_duration": {
+      "id": "follow_up_duration",
+      "name": "Follow-up duration",
+      "name_pt": "Duração do acompanhamento",
+      "why_it_matters": "Autoimmune and neurological problems may take months or years to appear",
+      "why_it_matters_pt": "Problemas autoimunes e neurológicos podem levar meses ou anos para aparecer",
+      "what_is_ideal": "Minimum 12 months; 2-3+ years to assess long-term effects",
+      "what_is_ideal_pt": "Mínimo 12 meses; 2-3+ anos para avaliar efeitos de longo prazo"
+    },
+    "comparison_group": {
+      "id": "comparison_group",
+      "name": "Comparison group",
+      "name_pt": "Grupo de comparação",
+      "why_it_matters": "Need a group that did not receive the vaccine for comparison",
+      "why_it_matters_pt": "Precisa de um grupo que não recebeu a vacina para comparação",
+      "what_is_ideal": "True placebo (saline solution), with randomization and double-blind",
+      "what_is_ideal_pt": "Placebo verdadeiro (solução salina), com randomização e duplo-cego"
+    },
+    "active_surveillance": {
+      "id": "active_surveillance",
+      "name": "Active surveillance for serious events",
+      "name_pt": "Vigilância ativa para eventos graves",
+      "why_it_matters": "Passive reporting vastly underestimates serious events",
+      "why_it_matters_pt": "Notificação passiva subestima muito eventos graves",
+      "what_is_ideal": "Regular contact with families, review of medical records, causality analysis",
+      "what_is_ideal_pt": "Contato regular com famílias, revisão de prontuários, análise de causalidade"
+    },
+    "neurological_monitoring": {
+      "id": "neurological_monitoring",
+      "name": "Neurological/developmental monitoring",
+      "name_pt": "Monitoramento neurológico/desenvolvimento",
+      "why_it_matters": "Check if children developed normally months and years later",
+      "why_it_matters_pt": "Verificar se as crianças se desenvolveram normalmente meses e anos depois",
+      "what_is_ideal": "Scheduled developmental assessments, follow-up neurological exams",
+      "what_is_ideal_pt": "Avaliações de desenvolvimento programadas, exames neurológicos de acompanhamento"
+    },
+    "vulnerable_subgroups": {
+      "id": "vulnerable_subgroups",
+      "name": "Vulnerable subgroups",
+      "name_pt": "Subgrupos vulneráveis",
+      "why_it_matters": "Premature and immunosuppressed children may react differently",
+      "why_it_matters_pt": "Crianças prematuras e imunossuprimidas podem reagir diferentemente",
+      "what_is_ideal": "These groups intentionally included with results presented separately",
+      "what_is_ideal_pt": "Esses grupos intencionalmente incluídos com resultados apresentados separadamente"
+    },
+    "data_transparency": {
+      "id": "data_transparency",
+      "name": "Data transparency",
+      "name_pt": "Transparência dos dados",
+      "why_it_matters": "Is it possible to verify the complete study data?",
+      "why_it_matters_pt": "É possível verificar os dados completos do estudo?",
+      "what_is_ideal": "Peer-reviewed publication with complete adverse event data",
+      "what_is_ideal_pt": "Publicação revisada por pares com dados completos de eventos adversos"
+    },
+    "post_marketing_surveillance": {
+      "id": "post_marketing_surveillance",
+      "name": "Post-marketing surveillance",
+      "name_pt": "Vigilância pós-comercialização",
+      "why_it_matters": "What was discovered after millions of children received it?",
+      "why_it_matters_pt": "O que foi descoberto após milhões de crianças receberem?",
+      "what_is_ideal": "Active pharmacovigilance system with periodic public reports",
+      "what_is_ideal_pt": "Sistema ativo de farmacovigilância com relatórios públicos periódicos"
+    }
+  },
+  "metadata": {
+    "generated_at": "2026-01-11T03:40:17.164330Z",
+    "vaccines_count": 3,
+    "verification_status": "all_verified"
+  }
+}

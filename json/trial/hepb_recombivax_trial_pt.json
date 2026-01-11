@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepb_recombivax",
+  "analysis_type": "trial",
+  "language": "pt",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Um estudo referenciado (Beasley et al., 1983) foi um 'Ensaio Randomizado Duplo-Cego Controlado por Placebo' para eficácia de HBIG. No entanto, o estudo primário de eficácia da vacina em neonatos (Seção 14.1) utilizou 'controles históricos não tratados' em vez de um grupo placebo concorrente. A comparação de regime em adolescentes (Seção 14.3) foi um 'estudo aberto, randomizado e multicêntrico' sem controle placebo.",
+      "level_description": "Embora um estudo referenciado tenha usado controle placebo (para HBIG), os principais dados de eficácia da vacina basearam-se em controles históricos em vez de grupos placebo concorrentes. Os estudos de imunogenicidade foram abertos, sem comparadores placebo."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Um estudo referenciado (Beasley et al., 1983) foi descrito como 'Duplo-Cego'. No entanto, o principal estudo comparativo em adolescentes (Seção 14.3) é explicitamente descrito como 'um estudo aberto, randomizado e multicêntrico'. Outros estudos de imunogenicidade não especificam o cegamento.",
+      "level_description": "O duplo-cegamento foi utilizado em um estudo referenciado de HBIG, mas não nos ensaios primários da vacina. A comparação de regime em adolescentes foi explicitamente aberta, o que introduz potencial viés do observador e do participante."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "O estudo de duas doses versus três doses em adolescentes (Seção 14.3) foi descrito como 'um estudo aberto, randomizado e multicêntrico'. Um estudo referenciado (Beasley et al., 1983) também foi randomizado. No entanto, nenhum detalhe sobre os métodos de randomização é fornecido.",
+      "level_description": "A randomização foi utilizada em pelo menos um estudo principal e um ensaio referenciado, mas nenhuma descrição da metodologia de randomização (por exemplo, ocultação de alocação, geração de sequência) é fornecida no documento."
+    },
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Seção 6.1: '434 doses de RECOMBIVAX HB, 5 mcg, foram administradas a 147 bebês e crianças saudáveis (até 10 anos de idade).' Seção 14.1: '130 bebês após nove meses de acompanhamento.' Seção 14.2: 'nível protetor de anticorpos em 100% de 92 bebês, 99% de 129 crianças e em 99% de 112 adolescentes.' Seção 14.3: 255 adolescentes no braço de duas doses, 121 no braço de três doses.",
+      "level_description": "Os tamanhos de amostra pediátrica variaram de 92 a 255 indivíduos por faixa etária. Embora adequados para avaliação de imunogenicidade, são tamanhos de amostra relativamente modestos para detectar eventos adversos raros. O estudo de monitoramento de segurança (147 crianças para 434 doses) é pequeno."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Seção 6.1: 'monitorados por 5 dias após cada dose.' Seção 14.1: 'após nove meses de acompanhamento.' Seção 2.4: 'A duração do efeito protetor de RECOMBIVAX HB em vacinados saudáveis é desconhecida no momento.'",
+      "level_description": "O monitoramento ativo de segurança foi limitado a apenas 5 dias pós-dose, o que é inadequado para detectar eventos adversos tardios. O acompanhamento de eficácia de 9 meses em neonatos é razoável para prevenção de infecção, mas inadequado para avaliação de segurança a longo prazo. O documento reconhece explicitamente que a duração da proteção a longo prazo é desconhecida."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Os estudos clínicos relataram resultados separadamente para: bebês e crianças até 10 anos de idade (Seção 6.1, 14.2); neonatos nascidos de mães positivas para HBsAg/HBeAg (Seção 14.1); adolescentes de 11-15 anos (Seção 14.3); adultos jovens de 20-29 anos, adultos de 30-39 anos e adultos >=40 anos (Seção 14.4); pacientes em pré-diálise/diálise (Seção 14.5).",
+      "level_description": "O documento fornece dados separados de imunogenicidade e segurança para múltiplas faixas etárias, incluindo bebês, crianças, adolescentes e faixas etárias adultas, permitindo avaliação de respostas específicas por idade."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os estudos incluíram 'bebês e crianças saudáveis' e 'adultos saudáveis'. A Seção 14.1 especificou neonatos 'nascidos de mães positivas tanto para HBsAg quanto para HBeAg'. A Seção 14.5 aborda pacientes com HCV crônico e pacientes em diálise. Nenhum critério detalhado de inclusão/exclusão é fornecido.",
+      "level_description": "O documento descreve as populações do estudo em termos gerais (por exemplo, 'saudáveis'), mas não fornece critérios específicos de inclusão/exclusão, tornando impossível avaliar o rigor da seleção de participantes ou a generalização dos resultados."
+    },
+    "standardized_adverse_events": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 6.1 relata reações adversas por classe de sistema orgânico (Distúrbios Gerais, Gastrointestinais, Respiratórios, Sistema Nervoso, Pele, Musculoesqueléticos, etc.) com limites de frequência (>1% vs <1%). Reações específicas são listadas, incluindo reações no local da injeção, febre (definida como >=101F ou >=100F) e queixas sistêmicas.",
+      "level_description": "Os eventos adversos são relatados por classe de sistema orgânico com categorias de frequência, sugerindo alguma padronização. No entanto, o documento não descreve o uso de escalas padronizadas de graduação ou definições para avaliação de gravidade."
+    },
+    "active_monitoring_serious": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Seção 6.1: 'monitorados por 5 dias após cada dose.' A Seção 6.2 (Experiência Pós-Comercialização) lista eventos graves relatados voluntariamente, incluindo síndrome de Guillain-Barré, esclerose múltipla, convulsões, síndrome de Stevens-Johnson, trombocitopenia, encefalite, etc., mas afirma que 'não é possível estimar com confiabilidade sua frequência ou estabelecer uma relação causal.'",
+      "level_description": "O monitoramento ativo foi limitado a 5 dias pós-vacinação, o que é grosseiramente inadequado para detectar eventos adversos graves que podem ter início tardio. Eventos graves são capturados apenas por meio de vigilância passiva pós-comercialização com limitações reconhecidas no estabelecimento de causalidade e frequência."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 6.2 (Experiência Pós-Comercialização) lista: 'Doenças autoimunes incluindo lúpus eritematoso sistêmico (LES), síndrome tipo lúpus, vasculite e poliarterite nodosa.' Neurológico: 'Síndrome de Guillain-Barré; esclerose múltipla; exacerbação de esclerose múltipla; mielite incluindo mielite transversa; convulsão; convulsão febril; neuropatia periférica incluindo paralisia de Bell; radiculopatia; encefalite.' Estes são apenas relatos passivos.",
+      "level_description": "Eventos autoimunes e neurológicos são documentados na vigilância pós-comercialização, mas não foram monitorados sistematicamente nos ensaios clínicos. O documento afirma explicitamente que uma relação causal não pode ser estabelecida para esses relatos pós-comercialização."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "As Seções 5.2-5.3 abordam bebês prematuros e bebês <2000g. A Seção 8.1 relata dados de gravidez (26 mulheres em estudos clínicos, 105 em relatos pós-aprovação). A Seção 8.5 observa que populações geriátricas apresentaram 'resposta de anticorpos diminuída' em indivíduos >60 anos. A Seção 14.5 abrange pacientes com HCV crônico (~70% de soroproteção) e pacientes em pré-diálise/diálise (taxas de resposta mais baixas).",
+      "level_description": "Alguns subgrupos vulneráveis são abordados (bebês prematuros, gravidez, idosos, pacientes em diálise imunocomprometidos, pacientes com HCV), mas os dados são limitados e frequentemente provenientes de fontes pós-comercialização ou observacionais, em vez de ensaios controlados projetados para avaliar essas populações."
+    },
+    "statistical_analysis": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Os resultados são apresentados como porcentagens de soroproteção (por exemplo, '100% de 92 bebês', '96% de 1213 adultos saudáveis', '99% de 255 indivíduos'). A Seção 14.1 afirma que 'a eficácia estimada na prevenção de infecção crônica por hepatite B foi de 95%.' Nenhum intervalo de confiança, valores-p ou metodologia estatística é descrita.",
+      "level_description": "O documento relata apenas estimativas pontuais sem intervalos de confiança, valores-p ou descrição de métodos estatísticos. A afirmação de que o regime de duas doses 'parece similar' ao regime de três doses carece de comparação estatística formal."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A Seção 15 fornece 9 referências a estudos publicados e recomendações do CDC. Alguns dados numéricos são fornecidos (tamanhos de amostra, taxas de soroconversão). No entanto, dados individuais de pacientes, bancos de dados completos de segurança e protocolos detalhados dos estudos não estão disponíveis neste documento.",
+      "level_description": "As informações de prescrição fazem referência a estudos publicados e fornecem estatísticas resumidas, mas dados brutos detalhados, bancos de dados completos de segurança e protocolos completos dos estudos não estão incluídos. O acesso aos dados subjacentes exigiria a recuperação das referências citadas."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A Seção 6.2 fornece extensa experiência pós-comercialização, incluindo reações de hipersensibilidade, doenças autoimunes, distúrbios neurológicos e outros eventos graves. A Seção 17 instrui a reportar ao VAERS. O documento afirma que a vacina está no mercado desde 1986 com vigilância contínua até 2018 (data de revisão).",
+      "level_description": "O documento inclui uma lista abrangente de eventos adversos pós-comercialização e fornece mecanismos para vigilância contínua (VAERS, relatos ao fabricante). Mais de 30 anos de coleta de dados pós-comercialização estão refletidos."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "O documento identifica Merck Sharp & Dohme Corp. como fabricante e distribuidor. Nenhuma divulgação de conflitos de interesse, fontes de financiamento para ensaios clínicos ou relacionamentos de investigadores é fornecida.",
+      "level_description": "As informações de prescrição não incluem nenhuma divulgação de conflito de interesse ou informação sobre financiamento dos ensaios. O fabricante conduziu os estudos, mas nenhuma relação financeira ou potenciais vieses são abordados."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Nenhum dado de mortalidade ou taxas de óbito são relatados na seção de ensaios clínicos ou seção de eventos adversos. O documento não fornece informações sobre mortalidade por todas as causas em grupos vacinados versus grupos controle.",
+      "level_description": "O documento não contém informações sobre óbitos em ensaios clínicos ou comparações de mortalidade por todas as causas. Este desfecho crítico de segurança não é abordado."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "As informações de prescrição do RECOMBIVAX HB refletem ensaios da década de 1980 com limitações metodológicas pelos padrões atuais. Os pontos fortes incluem análise separada por faixa etária, dados adequados de imunogenicidade e extensa vigilância pós-comercialização por mais de 30 anos. Limitações significativas incluem: dependência de controles históricos em vez de controles placebo concorrentes para eficácia, desenho aberto em ensaios-chave, monitoramento ativo de segurança muito curto (5 dias), ausência de rigor estatístico nos relatos (sem intervalos de confiança ou valores-p), ausência de dados de mortalidade e nenhuma divulgação de conflito de interesse. O documento demonstra adequadamente a imunogenicidade, mas fornece evidências limitadas para avaliação abrangente de segurança, particularmente para eventos adversos raros ou tardios."
+  }
+}
