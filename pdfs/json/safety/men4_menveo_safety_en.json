@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extensive pediatric safety data with 8,735 infants receiving at least 1 dose in the 4-dose series studies, 1,985 older infants/toddlers in 2-dose series studies, and 3,181 children aged 2-10 years. Total of 36,146 individuals aged 2 months through 55 years received MENVEO across all clinical studies."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse reactions monitored for 7 days post-vaccination. Medically significant adverse events and serious adverse events (SAEs) monitored for 6 months after vaccination in children, adolescents, and adults aged 2-55 years. Additional follow-up between infant series and toddler doses in infant studies."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Multiple randomized, controlled trials with appropriate comparators. Infant studies included routine vaccine-only control groups. Older children and adult studies compared MENVEO to licensed comparator vaccines MENACTRA and MENOMUNE. Studies were multicenter and multinational."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance via diary cards for solicited local and systemic reactions for 7 days post-vaccination. Parents/participants monitored and recorded adverse events. Unsolicited adverse events including medically-attended events were tracked for 6 months."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Guillain-Barre syndrome (GBS) mentioned in Warnings section based on reports with another meningococcal vaccine. One case of acute disseminated encephalomyelitis reported 29 days post-Dose 4. Bell's palsy showed statistically significant increased risk (relative incidence 2.9) in postmarketing observational study of 48,899 persons aged 11-21 years. No systematic neurological assessment protocol described in clinical trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Warning included for premature infants regarding apnea risk. Immunocompromised individuals and those with complement deficiencies addressed in warnings. Pregnancy registry conducted with 82 subjects showing rates consistent with background. However, safety not established in adults over 65 years, and limited data on specific vulnerable populations like those with chronic conditions."
+    },
+    "data_transparency": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Detailed tables presenting rates of solicited adverse reactions by dose, age group, and comparison with routine vaccines and comparator vaccines. Specific percentages provided for each adverse reaction with severity grades. NCT numbers provided for all clinical trials enabling verification. SAE data presented with specific rates and event types."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Postmarketing Experience section lists adverse reactions reported voluntarily including hypersensitivity/anaphylaxis, nervous system disorders (syncope, convulsion, facial paresis), and various other system organ class reactions. A postmarketing observational safety study of 48,899 individuals aged 11-21 years evaluated pre-specified events and identified Bell's palsy signal. VAERS reporting encouraged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MENVEO has a robust safety profile supported by extensive clinical trial data involving over 36,000 participants across all age groups from 2 months through 55 years. The package insert demonstrates exemplary pediatric sample sizes, comparison groups, and data transparency with detailed adverse reaction tables. Follow-up and active surveillance are adequate with 7-day solicited reaction monitoring and 6-month SAE tracking. Neurological monitoring is partial, with Bell's palsy identified as a potential signal in postmarketing surveillance, though systematic neurological assessments were not explicitly described in trials. Vulnerable subgroup coverage is partial - premature infants and immunocompromised individuals are addressed, but data gaps exist for elderly populations. Postmarketing surveillance is adequate with ongoing VAERS reporting and a large observational study completed."
+  }
+}

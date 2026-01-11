@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 459 (Dr. Lerman) included a placebo group of 50 children as part of the trial design comparing MMR vaccines. Children were 'randomly assigned to receive one of the following' including 'Placebo - 50' children. Most other studies did not use placebo controls but compared different vaccine formulations (HPV-77 vs RA 27/3).",
+      "level_description": "Placebo control was used in only one study (Study 459) out of multiple studies. The majority of trials used active comparators (different vaccine formulations) rather than true placebo controls, limiting ability to assess vaccine-specific effects versus natural background rates."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 459 mentions vaccines were 'supplied in single-dose, coded vials by Merck Sharp & Dohme' suggesting some blinding, but explicit double-blind methodology is not stated. No other studies document blinding procedures.",
+      "level_description": "While coded vials suggest some blinding effort in one study, explicit double-blind methodology (blinding of both participants/parents and investigators) is not clearly documented in any study protocol."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 459 explicitly states: 'children will be randomly assigned to receive one of the following' vaccines. Other studies describe children being 'assigned' to vaccine groups but do not explicitly describe randomization methods.",
+      "level_description": "Random assignment is explicitly mentioned in one study (Study 459), but randomization methodology and allocation concealment are not detailed. Other studies do not clearly document randomization procedures."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Total vaccinations for MMR: 834 children across multiple lots. Study 442: 199 children. Study 443: 194 children (10 months to 8 years). Study 459: 257 children enrolled. Study 467: 269 children. Overall data shows 264/279 triple-negative children seroconverted. Age ranges typically 10 months to 7 years.",
+      "level_description": "Sample sizes are adequate for immunogenicity studies with several hundred children vaccinated across multiple study sites. However, for rare adverse event detection, these numbers would be insufficient."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Clinical follow-up was 6 weeks (42 days) post-vaccination across all studies. Protocol states: 'Each child will be followed clinically for 42 days following vaccination.' Blood samples obtained 'prior to and six weeks after vaccination.'",
+      "level_description": "6-week follow-up is grossly insufficient for detecting medium to long-term adverse events. Autoimmune conditions, neurological effects, and other delayed reactions require months to years of follow-up. No long-term safety data was collected."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Data tables show results stratified by age from 10 months through 7 years (e.g., 10 Months, 11 Months, 1 Year, 2 Years, 3 Years, 4 Years, 5 Years, 6 Years, 7 Years). Summary tables present seroconversion data by age group with mean ages reported (e.g., Mean Age 3.7 Years).",
+      "level_description": "Age-stratified data is presented in summary tables, allowing for analysis of responses across different pediatric age groups. However, statistical analysis comparing age groups for safety outcomes is limited."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Exclusion criteria documented: 'Known sensitivity to chicken or duck, chicken or duck eggs or feathers, or to neomycin'; 'leukemia or other malignancies, immunologic disorders, immunosuppressive or steroid therapy'; 'Current febrile illness.' Children required 'negative history for vaccination and illness' for components being tested.",
+      "level_description": "Standard exclusion criteria for live attenuated vaccines are documented, including immunocompromised states, allergies, and current illness. Inclusion criteria focused on age (1-6 years typically) and negative disease/vaccination history."
+    },
+    "standardized_adverse_events": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Clinical surveillance methods varied: 'observations were recorded daily by the mother' or 'observations were made on a routine basis by medical or paramedical personnel.' Parents instructed to 'report high fevers and rash by telephone' and received reaction reporting forms and thermometers. Temperature monitoring categorized as <99, 99-100.9, 101-102.2, 103-104.0 degrees.",
+      "level_description": "Some standardization in temperature recording categories, but adverse event collection relied heavily on parental observation and self-reporting. No standardized adverse event grading scale or systematic solicitation protocol documented."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Protocol states: 'Any serious or alarming reaction, including death due to any cause during the investigation, whether related or not related to the test material, must be reported immediately to Merck & Co., Inc., through Dr. Maurice R. Hilleman.' Parents 'asked to contact the physician should any significant or bothersome reaction occur.'",
+      "level_description": "Passive reporting system for serious adverse events is documented with immediate notification requirements. However, no systematic active surveillance, scheduled medical examinations, or structured serious adverse event monitoring protocol is described."
+    },
+    "autoimmune_neurological": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document mentions monitoring for arthralgia briefly: 'Mild transient arthralgia was reported by the parent but not observed by a medical person in one M-M-R susceptible vaccinee.' No systematic monitoring or specific endpoints for autoimmune or neurological outcomes documented.",
+      "level_description": "No specific protocols for monitoring autoimmune conditions (beyond occasional arthralgia mentions) or neurological adverse events. No systematic assessment of encephalitis, seizures, Guillain-Barre syndrome, or other neurological conditions."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Vulnerable populations were explicitly excluded: 'Persons with leukemia or other immunologic disorders and persons receiving immunosuppressive drugs should not be vaccinated.' Study populations were healthy children from open populations.",
+      "level_description": "Immunocompromised children and those with chronic conditions were systematically excluded. No safety data was collected for vulnerable subgroups who might be at higher risk for adverse events."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Statistical memos document: 'Analysis of variance was conducted on post titers'; 'Multivariate analysis of variance was performed on post-titer values'; 'The log transformation was used in each analysis'; 'No significant differences exist among the groups (lots).' Statistical comparisons performed by T. Schofield for consistency lot comparisons.",
+      "level_description": "Basic statistical methods (ANOVA, multivariate analysis) were applied for immunogenicity data comparison across vaccine lots. However, statistical analysis of safety data is limited, and power calculations for adverse event detection are not documented."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document released through FOIA request dated August 2019. States: 'We have withheld portions of pages under Exemption b(4)... trade secrets and commercial or financial information' and 'Exemption b(6)... invasion of personal privacy.' Summary tables and seroconversion rates are provided.",
+      "level_description": "Data was only released through FOIA process decades after original studies. Portions were redacted for trade secrets. Individual participant data not available. Raw adverse event data not fully disclosed in summary documents."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document covers pre-licensure clinical trials only (dated 1975-1978 for license approval in 1978). No post-marketing surveillance plans or results are documented in this submission.",
+      "level_description": "This document represents pre-licensure clinical trial data only. No post-marketing surveillance protocols, VAERS data, or long-term safety monitoring plans are included in this submission."
+    },
+    "conflict_of_interest": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Studies conducted under direction of Dr. Maurice R. Hilleman, 'Vice President, Virus and Cell Biology Research, Merck Institute.' Vaccines manufactured by Merck Sharp & Dohme. Clinical investigators received vaccines and materials from Merck. Protocol states adverse events must be reported 'to Merck & Co., Inc., through Dr. Maurice R. Hilleman.'",
+      "level_description": "All studies were sponsored, designed, and overseen by Merck - the vaccine manufacturer. No independent oversight, data monitoring, or conflict of interest disclosures documented. Adverse events reported directly to sponsor personnel."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Protocol requires reporting of 'death due to any cause during the investigation, whether related or not related to the test material.' However, no summary mortality data or mortality tables are presented in the document.",
+      "level_description": "Protocol includes mortality reporting requirements, but no mortality outcomes data is presented in available summary tables. Whether any deaths occurred during trials and their causality assessment is not documented in this submission."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The MMR-II clinical trials (1975-1978) enrolled approximately 834 children with adequate sample sizes for immunogenicity assessment. Positive aspects include age-stratified data, basic statistical analysis, and documented inclusion/exclusion criteria. However, significant limitations exist: only one study used placebo controls, follow-up was limited to 6 weeks (grossly insufficient for long-term safety), blinding procedures were unclear, vulnerable populations were excluded, and no specific monitoring for autoimmune or neurological outcomes was conducted. All studies were sponsored and overseen by the manufacturer (Merck) with no independent oversight. The document was only released through FOIA request with portions redacted. While immunogenicity was well-demonstrated (95-99% seroconversion rates), the safety assessment is fundamentally limited by short follow-up duration, passive adverse event reporting, and lack of systematic monitoring for serious outcomes."
+  }
+}

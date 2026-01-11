@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menactra",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Over 7,700 pediatric participants in primary clinical trials: 3,721 infants/toddlers at 9-12 months, 1,713 children 2-10 years, and 2,270 adolescents 11-18 years. Additional 5,266 comparator recipients. Total combined pediatric and adult safety database exceeded 15,000 participants."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Participants monitored for 20-30 minutes post-vaccination for immediate reactions, 7 days for solicited reactions via diary card, 28-30 days for unsolicited adverse events, and 6 months for serious adverse events, emergency room visits, and unexpected physician visits via scripted telephone interviews."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Randomized, active-controlled trials used Menomune (licensed meningococcal polysaccharide vaccine) as comparator across all age groups. For infants, control group of 997 children received routine childhood vaccines (MMRV, PCV7, HepA) without Menactra. Blinded safety data collection where personnel differed from those administering vaccines."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Structured active surveillance using diary cards for 7 consecutive days recording solicited injection site and systemic reactions by grade. Unsolicited adverse events collected via telephone interviews or interim clinic visits. 6-month follow-up conducted via scripted telephone interviews."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Specific warning for Guillain-Barre syndrome (GBS) in labeling. Post-marketing retrospective cohort study evaluated GBS risk in 9,578,688 individuals aged 11-18 years. Seizures explicitly tracked as solicited event (0% in clinical trials). Post-marketing surveillance documented GBS, facial palsy, acute disseminated encephalomyelitis, transverse myelitis, and convulsions."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Immunocompromised persons and complement deficiency patients addressed in warnings with note of potential reduced immune response. Pregnancy registry established but no adequate well-controlled studies in pregnant women. Safety not established in infants under 9 months or adults over 55 years. No dedicated clinical trials in immunocompromised children."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Comprehensive tabulated safety data with percentages for each reaction type and severity grade (Grade 1-3). 95% confidence intervals provided for all immunogenicity endpoints. Serious adverse event rates reported by age group. Statistical comparisons between Menactra and Menomune groups with p-values where significant differences observed."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Large-scale post-marketing retrospective cohort study of 9.5+ million individuals specifically evaluated GBS risk. GBS attributable risk estimated at 0-5 additional cases per million vaccinees within 6 weeks. Comprehensive voluntary adverse event reporting with categorized post-marketing events by organ system including neurological, immune, and musculoskeletal disorders."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Menactra demonstrates adequate safety evidence with large pediatric sample sizes exceeding 7,700 participants across age groups, randomized active-controlled trial design with licensed comparator, and robust 6-month follow-up for serious adverse events. The GBS signal prompted a comprehensive post-marketing study of nearly 10 million individuals, demonstrating proactive safety surveillance. Primary limitations include lack of dedicated studies in immunocompromised children and no placebo-controlled trials. Overall, the safety database is comprehensive and well-documented."
+  }
+}

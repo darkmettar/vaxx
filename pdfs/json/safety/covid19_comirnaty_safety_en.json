@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "covid19_comirnaty",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Clinical trials included 3,109 children aged 5-11 years in Phase 2/3 (Study 3), with 1,131 adolescents 12-15 years in Study 2. Additional studies included 310 vaccine-naive children 5-11 years for XBB.1.5 formulation. Total pediatric participants exceeded 4,500, providing reasonable statistical power for common adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Primary efficacy follow-up was relatively short (median 1.9 months for children 5-11 years in blinded period). Some participants had 4-6 months follow-up. Booster studies had median 6.4 months follow-up. Long-term data on myocarditis/pericarditis outcomes explicitly noted as unavailable. A longitudinal study showed persistent CMR abnormalities at median 5 months, but clinical significance unknown."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Multiple randomized, placebo-controlled, double-blind Phase 2/3 trials (Study 2, Study 3) with saline placebo controls. Study 2 enrolled approximately 44,000 participants (22,026 COMIRNATY; 22,021 placebo). Children's Study 3 had 3,109 COMIRNATY and 1,538 placebo recipients. Proper randomization and blinding maintained throughout controlled periods."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Electronic diary (e-diary) used to collect solicited local and systemic reactions for 7 days post-vaccination. Unsolicited adverse events monitored through 1 month post-vaccination, serious adverse events through 6 months. Reactogenicity subsets systematically tracked predefined symptoms with severity grading."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Bell's palsy (facial paralysis) was tracked and reported: 4 cases in COMIRNATY group vs 2 in placebo among adults. Febrile seizures in children 5-11 reported in postmarketing. Syncope and dizziness documented. However, no systematic neurological examination protocol described. Document states insufficient information to determine causal relationship with Bell's palsy."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study 2 included 200 participants with stable HIV infection (CD4>200, viral load<50). Immunocompromised individuals acknowledged to have potentially diminished response. Pregnant/lactating women addressed with animal developmental toxicity data (no fetal harm found in rats). Geriatric use analyzed (20.7% were 65+). Subgroup analyses by comorbidities, obesity, and ethnicities performed."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables provided for solicited local/systemic reactions by age group, dose, and severity. Clinical trial registration numbers included (NCT04368728, NCT04816643, etc.). Specific participant numbers, percentages, and 95% confidence intervals reported. Vaccine efficacy data stratified by age, prior infection status. Postmarketing adverse events listed by organ system."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Postmarketing section (6.2) identifies adverse reactions from voluntary reporting including myocarditis, pericarditis, anaphylaxis, febrile seizures. References a longitudinal 38-hospital observational study (MACiV) on vaccine-associated myocarditis outcomes. Incidence estimates provided: approximately 8 cases myocarditis/pericarditis per million doses overall, 27 per million in males 12-24 years. VAERS reporting encouraged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Comirnaty's safety profile is supported by large, well-designed placebo-controlled trials with over 44,000 adult participants and 4,500+ pediatric participants. Active surveillance via electronic diaries captured reactogenicity data systematically. Key identified risk of myocarditis/pericarditis (particularly in young males) is quantified with incidence rates. However, follow-up duration is relatively short, long-term myocarditis outcomes remain unknown, and neurological monitoring lacked systematic protocols. Vulnerable populations (HIV+, elderly, those with comorbidities) were included but pregnant women studied only in animals."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menveo",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Clinical trials used active comparator vaccines (MENACTRA, MENOMUNE) rather than placebo. In infant studies, control groups received routine vaccines only. No true placebo (saline) control group was used in any pivotal trial.",
+      "level_description": "Trials used active comparators only. Infants aged 2-23 months received routine vaccines as control; children 2-10 years and adolescents/adults 11-55 years were compared to MENACTRA or MENOMUNE. No inert placebo group was included."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The one-vial presentation study (NCT03433482) was 'observer-blind.' The booster study (NCT02986854) was 'open-label.' Most primary trials do not specify blinding methodology in the document.",
+      "level_description": "Blinding varied across studies. One study was observer-blind, another was explicitly open-label. The document does not confirm double-blinding for most pivotal trials, suggesting inconsistent or absent blinding protocols."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple 'randomized, multicenter clinical studies' are described throughout Section 6.1 and Section 14. Examples include NCT00806195, NCT00626327, NCT00616421, NCT00450437, and others.",
+      "level_description": "Trials were randomized and multicenter. The document consistently describes studies as randomized but does not detail the randomization methods (e.g., block, stratified, allocation concealment)."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "36,146 individuals aged 2 months through 55 years received at least one dose. Infant studies (2-23 months): 8,735 infants received MENVEO with 2,864 controls. Children 2-10 years: 3,181 received MENVEO with 2,116 receiving comparator vaccines.",
+      "level_description": "Large pediatric sample sizes across age groups. Over 8,700 infants in the 4-dose series studies and over 3,100 children aged 2-10 years. Sample sizes exceed typical requirements for detecting common adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions monitored for 7 days post-vaccination. Medically significant adverse events and SAEs monitored for 6 months after vaccination in children, adolescents, and adults aged 2-55 years.",
+      "level_description": "Short-term safety (7 days) well documented. Medium-term follow-up of 6 months for serious adverse events is adequate but limited for detecting long-latency adverse effects."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Distinct age cohorts studied: infants 2 months (4-dose series), 7-23 months (2-dose series), 2-5 years, 6-10 years, 11-18 years, 19-55 years. Safety and immunogenicity data presented separately for each group.",
+      "level_description": "Excellent age stratification with dedicated studies and separate reporting for multiple pediatric age groups and adults. Data tables provide age-specific adverse reaction rates."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document mentions 'per-protocol' populations and exclusion of subjects with prior meningococcal vaccination but does not provide detailed inclusion/exclusion criteria for the clinical trials.",
+      "level_description": "Criteria not explicitly detailed in the prescribing information. References to per-protocol populations suggest criteria existed but specifics are not disclosed."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Solicited local reactions (tenderness, erythema, induration) and systemic reactions (irritability, sleepiness, fever, etc.) monitored using diary cards for 7 days. Severity grading defined: e.g., 'severe tenderness = cried when limb moved,' 'severe erythema >50mm.'",
+      "level_description": "Standardized collection with predefined severity scales. Clear definitions provided for mild, moderate, and severe reactions. Consistent methodology across age groups and studies."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs monitored for 6 months post-vaccination. Detailed SAE rates reported: 2.7% MENVEO vs 2.2% control during infant series; specific SAEs listed (wheezing, pneumonia, gastroenteritis, convulsions). Medically-attended adverse events tracked.",
+      "level_description": "Active SAE surveillance for 6 months with reporting of rates and types of events. Comparison to control groups provided. Most common SAEs identified by system organ class."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 5.4 mentions GBS reported after another meningococcal conjugate vaccine. One case of acute disseminated encephalomyelitis (ADEM) reported 29 days post Dose 4. Postmarketing study found Bell's palsy with adjusted relative incidence of 2.9 (95% CI: 1.1-7.5).",
+      "level_description": "Some neurological outcomes tracked and reported. Bell's palsy signal identified in postmarketing study. However, systematic prospective monitoring for autoimmune/neurological conditions was not a primary endpoint in pivotal trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 5.3 addresses altered immunocompetence and complement deficiency. Section 5.5 discusses apnea in premature infants. Pregnancy registry included 82 subjects. No data for geriatric use (>65 years).",
+      "level_description": "Limited subgroup data. Immunocompromised individuals mentioned as having potential reduced response. Pregnancy registry small. Premature infants discussed as warning. No data for elderly."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority design with pre-specified criteria (lower limit of 95% CI >-10% for seroresponse differences). GMTs and GMCs with 95% CIs reported. Immunogenicity endpoint: hSBA >=1:8 with lower limit of 95% CI >=80% (serogroup A) or >=85% (C, W, Y).",
+      "level_description": "Clear statistical endpoints and non-inferiority margins defined. Confidence intervals reported for all key outcomes. Pre-specified success criteria met for most serogroups."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "ClinicalTrials.gov identifiers provided for all studies (e.g., NCT00806195, NCT00626327, NCT00616421, NCT00450437). Detailed tables with sample sizes, percentages, and confidence intervals included.",
+      "level_description": "Trial registry numbers provided enabling access to additional study details. Comprehensive adverse event tables with denominators. However, raw participant-level data not available in document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes postmarketing experience with voluntarily reported events. Postmarketing observational study (n=48,899 aged 11-21 years) evaluated pre-specified events using electronic health records with self-controlled case series method.",
+      "level_description": "Active postmarketing study conducted with formal epidemiological methods. Bell's palsy signal detected. VAERS reporting encouraged. However, passive surveillance limitations acknowledged."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose funding sources for trials, investigator conflicts of interest, or manufacturer involvement in study design and analysis.",
+      "level_description": "No conflict of interest or funding disclosure in the prescribing information. Manufacturer (GSK) is listed but financial relationships with investigators not addressed."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "In infants 2-23 months within 28 days of vaccination: 2 deaths in MENVEO group (sudden death, sepsis), 0 in control. 'None assessed as related to vaccination.' No deaths reported in one-vial presentation studies.",
+      "level_description": "Deaths reported but limited detail. Mortality presented as narrative rather than systematic analysis. Total mortality rates across full study populations not comprehensively tabulated."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MENVEO clinical trials demonstrate adequate methodology with large sample sizes, randomized multicenter designs, and excellent age stratification. Key limitations include lack of true placebo control (active comparators used throughout), inconsistent blinding across studies, and limited disclosure of conflicts of interest. Safety monitoring was standardized with 6-month follow-up for serious events. The postmarketing study identified a Bell's palsy signal. Neurological and autoimmune outcomes were not primary endpoints in pivotal trials. Overall, trial quality is adequate for regulatory approval but falls short of exemplary due to the absence of placebo controls and transparency gaps."
+  }
+}

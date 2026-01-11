@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "den_dengvaxia",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Exceptionally large pediatric safety database with 22,924 subjects aged 6-16 years receiving at least one dose of DENGVAXIA across 12 randomized, placebo-controlled clinical trials. Study 1 alone enrolled 20,869 subjects and Study 2 enrolled 10,278 subjects. This represents one of the largest pediatric vaccine trial programs."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extended follow-up of up to 72 months (6 years) from first vaccination in Studies 1, 2, 3, and 4. A subset of 3,203 subjects (80.1%) from Study 3 were re-consented to participate in an extension study (Study 4) to evaluate safety for 72 months. All 12 studies monitored SAEs for at least 6 months after the last dose."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Well-designed placebo-controlled trials with 2:1 randomization (DENGVAXIA:placebo). Placebo group received 0.9% sodium chloride. Total of 10,668 subjects received placebo, providing robust comparator data. Observer-blind design minimized bias in adverse event reporting."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive active surveillance with solicited adverse reactions recorded daily for 14 days post-vaccination (injection site within 7 days, systemic within 14 days). Reactogenicity subsets of 2,000 subjects in Study 1 and 1,310 subjects in Study 2 were specifically recruited for detailed safety monitoring. SAEs monitored for 28 days and up to 6 months post-dose."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "One case of acute disseminated encephalomyelitis (ADEM) reported 7 days post Dose 1 and considered related to vaccination. One convulsion reported on day of Dose 1 and considered related. Severe dengue definition included encephalopathy as a criterion. However, no dedicated neurological monitoring protocol was described beyond general SAE surveillance."
+    },
+    "vulnerable_subgroups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Critical analysis by dengue serostatus revealed significantly increased risk of severe dengue in seronegative individuals (HR 3.94, 95% CI 1.17-13.27). Analysis stratified by age groups (6-8 years, 9-14 years, 9-16 years). Contraindicated in immunocompromised individuals and those under 6 years. Detailed warnings for seronegative individuals. Pregnancy exposure registry established."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed adverse reaction tables with percentage rates by dose and severity grade for both age groups. Hazard ratios with 95% confidence intervals provided for severe dengue outcomes. NCT trial registration numbers provided for all 12 studies. However, individual-level data or complete statistical analysis plans are not included in the package insert."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Postmarketing section reports spontaneous adverse events including allergic/anaphylactic reactions and severe dengue infections (including hospitalization and death) in individuals with unknown prior dengue status. VAERS reporting encouraged. Pregnancy exposure registry established. However, no quantitative postmarketing data or formal post-authorization safety study results are presented."
+    }
+  },
+  "overall": {
+    "rating": "exemplary",
+    "emoji": "⭐",
+    "summary": "Dengvaxia demonstrates an exemplary pre-licensure safety evaluation with over 22,000 pediatric subjects across 12 placebo-controlled trials and up to 6-year follow-up. The program notably identified a critical safety signal - increased severe dengue risk in seronegative individuals - leading to restricted indication requiring confirmed prior dengue infection. Active surveillance was comprehensive with solicited reactions and long-term SAE monitoring. The safety program exemplifies how rigorous evaluation can identify subgroup-specific risks that fundamentally shape vaccine indication and labeling."
+  }
+}

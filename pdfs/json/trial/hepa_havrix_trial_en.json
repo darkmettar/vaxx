@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The pivotal efficacy study in Thailand used ENGERIX-B (Hepatitis B vaccine) as the control rather than a true placebo. 40,119 children were randomized to receive either HAVRIX 360 EL.U. or ENGERIX-B at 0, 1, and 12 months. Safety studies totaling approximately 37,000 individuals did not describe placebo-controlled comparisons.",
+      "level_description": "Active comparator used instead of inert placebo. The efficacy trial compared hepatitis A vaccine to hepatitis B vaccine, which could mask vaccine-class adverse events common to aluminum-adjuvanted vaccines."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The Thailand efficacy study is described as 'double-blind, randomized controlled.' However, the immunogenicity studies (HAV 210, HAV 231, HAV 232, HAV 220) are described as 'open-label' or do not specify blinding status.",
+      "level_description": "The pivotal efficacy trial was double-blind, but most safety and immunogenicity studies were open-label, potentially introducing observer bias in adverse event reporting."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Thailand efficacy trial states '40,119 children were randomized' to HAVRIX or control. Study HAV 231 states '1,241 children aged 15 months were randomized to receive' one of three groups. Studies HAV 232 and HAV 220 also describe randomization to different groups.",
+      "level_description": "Multiple trials describe randomization of subjects to treatment groups. The Thailand trial randomized over 40,000 children. However, specific randomization methods (block, stratified, etc.) are not described."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety evaluated in 61 clinical trials involving approximately 37,000 individuals. Pediatric studies: Thailand efficacy trial included 40,119 children aged 1-16 years; HAV 210 (N=1,084), HAV 232 (N=394), HAV 220 (N=433), HAV 231 (N=1,241) totaling 3,152 children aged 11-25 months. Safety and effectiveness evaluated in more than 22,000 subjects aged 1-18 years.",
+      "level_description": "Exceptionally large pediatric sample sizes with over 22,000 children studied for safety and efficacy across multiple age groups and studies."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "In Study HAV 231, 'Solicited local adverse reactions and general events were recorded for 4 days (Days 0 to 3) after vaccination. Unsolicited adverse events were recorded for 31 days after vaccination. Telephone follow-up was conducted 6 months after the last vaccination to inquire about serious adverse events, new onset chronic illnesses, and medically significant events.'",
+      "level_description": "Active solicited adverse event monitoring limited to 4 days post-vaccination. Extended follow-up to 6 months for serious events, but only via telephone. Duration of immunity following complete immunization 'has not been established.'"
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study HAV 210 evaluated separate age groups: children aged 11-13 months, 15-18 months, and 23-25 months. Dosing differs by age: children/adolescents (12 months through 18 years) receive 720 EL.U./0.5 mL; adults (19 years and older) receive 1440 EL.U./1 mL. Separate sections address pediatric use (8.4) and geriatric use (8.5).",
+      "level_description": "Age-stratified analysis performed with separate groups for young infants, toddlers, adolescents, and adults. Age-appropriate dosing established, though geriatric studies were insufficient to determine if older adults respond differently."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document states contraindications include 'Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any hepatitis A-containing vaccine, or to any component of HAVRIX, including neomycin.' Demographics are provided: Study HAV 231 subjects '53% were male; 69% were White, 16% were Hispanic, 9% were Black, and 6% were other racial/ethnic groups.'",
+      "level_description": "Basic demographic data provided but detailed inclusion/exclusion criteria for clinical trials not specified in the prescribing information. Contraindications for clinical use are defined but not trial enrollment criteria."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adverse events are categorized by MedDRA system organ class (Infections and Infestations, Blood and Lymphatic System Disorders, Nervous System Disorders, etc.). Severity grading defined: 'Grade 3: Drowsiness defined as prevented normal daily activities; irritability/fussiness defined as crying that could not be comforted/prevented normal daily activities; loss of appetite defined as no eating at all.'",
+      "level_description": "Standardized MedDRA classification used for adverse event reporting with defined severity grades. Incidence rates provided in categories (1-10%, <1%). Solicited adverse reactions systematically collected via diary cards."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "In studies of children aged 11-25 months, '0.9% (29/3,152) of subjects reported a serious adverse event within the 31-day period following vaccination.' Specifically, '4 reports of seizure within 31 days post-vaccination: these occurred 2, 9, and 27 days following the first dose of HAVRIX administered alone and 12 days following the second dose.' Telephone follow-up conducted at 6 months for SAEs.",
+      "level_description": "Serious adverse events actively tracked for 31 days post-vaccination with 6-month telephone follow-up. Specific SAE rates reported. However, active monitoring period is relatively short compared to some vaccines."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Postmarketing reports include: 'Guillain-Barre syndrome, multiple sclerosis, myelitis, neuropathy, encephalopathy, convulsion.' Clinical trials reported 4 seizures within 31 days post-vaccination. Syncope can be 'accompanied by transient neurological signs such as visual disturbance, paresthesia, and tonic-clonic limb movements.'",
+      "level_description": "Neurological events reported in postmarketing surveillance including GBS, MS, and myelitis, but not systematically monitored in pre-licensure trials. Clinical trial seizure reports limited to 4 cases without detailed analysis."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Immunocompromised persons: 'may have a diminished immune response to HAVRIX.' Hepatic impairment: 'Subjects with chronic liver disease had a lower antibody response' - studied in 220 adults with various liver conditions. Pregnancy: 175 pregnant women inadvertently exposed, with outcome data analyzed. Geriatric: 'Clinical studies did not include sufficient numbers of subjects aged 65 years and older.'",
+      "level_description": "Some vulnerable populations studied (chronic liver disease, inadvertent pregnancy exposures) but immunocompromised patients and elderly not adequately characterized. No prospective pregnancy studies."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Efficacy calculated as '94% (95% Confidence Interval [CI]: 74, 98).' For immunogenicity: 'GMTs in children aged 11 to 13 months and 15 to 18 months were non-inferior (similar) to the GMT in children aged 23 to 25 months (i.e., the lower limit of the 2-sided 95% CI on the GMT ratio... were both >=0.5).' Vaccine response defined with specific seroconversion thresholds.",
+      "level_description": "Statistical methods include 95% confidence intervals, non-inferiority analysis, and pre-specified endpoints. Efficacy and immunogenicity analyzed with appropriate statistical rigor, though detailed methodology not fully described in prescribing information."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document provides summary data from 61 clinical trials but does not reference specific publications, ClinicalTrials.gov identifiers, or provide access to full study protocols. Study names (HAV 210, HAV 231, HAV 232, HAV 220) are internal designations without external reference numbers.",
+      "level_description": "Summary statistics and aggregate data provided in prescribing information, but individual study data, full protocols, and raw datasets not publicly referenced or accessible from this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 details postmarketing experience including: anaphylactic reaction, Guillain-Barre syndrome, multiple sclerosis, myelitis, encephalopathy, thrombocytopenia, hepatitis, and other events. States: 'Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship.' Patients instructed to report to VAERS.",
+      "level_description": "Comprehensive postmarketing surveillance section with extensive list of reported adverse events by organ system. VAERS reporting encouraged. Limitations of voluntary reporting acknowledged."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document identifies GlaxoSmithKline Biologicals as manufacturer (Rixensart, Belgium, U.S. License No. 1617) and GlaxoSmithKline as distributor (Durham, NC). No conflict of interest disclosures, funding sources for clinical trials, or investigator relationships are provided.",
+      "level_description": "No information provided regarding conflicts of interest, funding sources for clinical trials, or financial relationships between investigators and the manufacturer."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. Deaths are not mentioned in the adverse reactions sections (6.1 or 6.2). The Thailand efficacy study mentions hepatitis outcomes but not mortality endpoints.",
+      "level_description": "No all-cause mortality data reported from clinical trials. While serious adverse events are documented, deaths or mortality rates are not specifically addressed in the prescribing information."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX clinical trials demonstrate strong sample sizes (over 40,000 children in the pivotal efficacy study and 37,000 total individuals in safety studies) with 94% efficacy against clinical hepatitis A. However, the pivotal study used an active comparator (Hepatitis B vaccine) rather than true placebo, limiting detection of vaccine-class effects. Adverse event monitoring was standardized using MedDRA classification with 4-day active solicitation and 31-day unsolicited collection. Key limitations include short active follow-up duration, absent all-cause mortality data, no conflict of interest disclosures, and limited transparency regarding full study data. The duration of immunity has not been established. Postmarketing surveillance has identified rare neurological events (GBS, MS, myelitis) not captured in pre-licensure trials."
+  }
+}

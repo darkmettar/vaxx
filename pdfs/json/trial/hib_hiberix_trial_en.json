@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_hiberix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Study 1 compared HIBERIX (n=2,963) against Control PRP-T (Sanofi Pasteur SA) (n=520) and DTaP-IPV/Hib (Sanofi Pasteur Ltd.) (n=520). All groups received active vaccines. No true placebo (saline) control group was included in any of the clinical trials described.",
+      "level_description": "Active comparator design only. The control groups received other licensed Hib conjugate vaccines rather than an inert placebo, making it impossible to distinguish vaccine-related adverse events from background rates in unvaccinated children."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 1 is described as 'randomized, controlled clinical trial' but blinding status is not explicitly stated. Study 2 is described as 'open-label, multicenter study.' The 7 additional clinical studies mentioned do not specify blinding methodology.",
+      "level_description": "Main U.S. study (Study 1) may have been blinded but this is not documented. At least one major study (Study 2) was explicitly open-label. Incomplete blinding documentation across the trial program."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study 1 is explicitly described as a 'randomized, controlled clinical trial.' Subjects were randomized to receive HIBERIX (n=2,963), Control PRP-T (n=520), or DTaP-IPV/Hib (n=520) at 2, 4, and 6 months of age.",
+      "level_description": "Randomization is clearly documented for the main pivotal trial (Study 1). However, the randomization method (e.g., block randomization, stratification criteria) is not detailed."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study 1 primary series: HIBERIX n=2,963, Control PRP-T n=520, DTaP-IPV/Hib n=520 (total ~4,000). Booster phase: HIBERIX n=2,336, Control PRP-T n=435, DTaP-IPV/Hib n=400. Additionally, 7 studies provided 1,008 children for booster data. Total exposed in clinical trials: approximately 5,000+ children.",
+      "level_description": "Sample size of nearly 3,000 for HIBERIX in the primary series and 2,336 for booster is adequate for detecting common adverse events. However, rare events (occurring <1:1,000) would require larger cohorts."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Solicited adverse reactions were collected 'within 4 days of vaccination' (day of vaccination and next 3 days). Serious adverse reactions were reported within 31 days post-vaccination in the 7 additional studies. Immunogenicity was measured 1 month following vaccination.",
+      "level_description": "Active safety monitoring limited to 4 days for solicited events is extremely short. The 31-day window for serious adverse events is also inadequate for detecting delayed autoimmune, neurological, or other long-term adverse effects."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 1 enrolled children at 2, 4, and 6 months for primary series and 15-18 months for booster. The 7 additional studies included: 172 (17.1%) aged 11-14 months, 642 (63.7%) aged 15-18 months, and 194 (19.2%) aged 19-25 months at booster. Demographics: 51.2% male; 61% white, 8% Asian, 9% black, 22% other.",
+      "level_description": "Age distribution is documented but safety results are not stratified by age group. No separate analysis provided for different age subgroups or by demographic characteristics."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document does not provide explicit inclusion/exclusion criteria for the clinical trials. Contraindications section mentions: severe allergic reaction after previous H. influenzae type b or tetanus toxoid-containing vaccine. Warnings mention considerations for children with Guillain-Barre syndrome history and premature infants.",
+      "level_description": "Trial enrollment criteria are not detailed in the prescribing information. Only post-marketing contraindications and precautions are described, not the original trial eligibility requirements."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited local reactions: pain, redness, swelling (with >20mm threshold). Solicited general reactions: irritability, drowsiness, loss of appetite, fever (with Grade 3 definitions). Grade 3 pain: cried when limb moved/spontaneously painful. Grade 3 irritability: crying that could not be comforted. Fever thresholds: >=100.4F rectally, Grade 3 >103.1F.",
+      "level_description": "Clear grading scales with defined thresholds for local and systemic reactions. Standardized collection of solicited adverse events across studies with consistent Grade 3 severity definitions."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 1: 1 of 2,963 subjects (convulsion Day 14 after Dose 1), 1 of 2,336 booster subjects (febrile seizure Day 1 after Dose 4). In 7 additional studies: 2 of 1,008 subjects had SAEs in 31-day period (bilateral pneumonia 9 days post, asthenia after accidental drug ingestion 18 days post).",
+      "level_description": "Serious adverse events are reported but monitoring window is limited (31 days). Temporal association noted but causality assessment methodology not described. Total 4 SAEs reported across ~4,000 subjects."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Guillain-Barre syndrome warning for those with GBS within 6 weeks of prior tetanus toxoid vaccine. Postmarketing: convulsions (with or without fever), hypotonic-hyporesponsive episode. Clinical trials: 2 seizure events (1 convulsion Day 14, 1 febrile seizure Day 1). No systematic autoimmune disorder monitoring described.",
+      "level_description": "Neurological events (seizures) were captured but autoimmune conditions were not systematically monitored. GBS warning is based on class labeling for tetanus toxoid products rather than HIBERIX-specific data."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Section 5.5: 'Safety and effectiveness of HIBERIX in immunosuppressed children have not been evaluated.' Section 5.3 discusses apnea risk in premature infants but states clinical decisions 'should be based on consideration of the individual infant's medical status.' Section 8.4: Safety not established in children <6 weeks or 5-16 years.",
+      "level_description": "Immunocompromised children explicitly excluded from evaluation. Premature infants mentioned only as a precaution without dedicated safety data. No systematic evaluation of vulnerable subgroups."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority analyses conducted: HIBERIX was non-inferior to Control PRP-T for anti-PRP >=0.15 mcg/mL (lower limit of 95% CI >= -5%). Non-inferiority criterion NOT met for anti-PRP >=1.0 mcg/mL (lower limit was -12.28%, below -10% threshold). ATP Cohort for Immunogenicity used. 95% and 97.5% confidence intervals reported.",
+      "level_description": "Pre-specified non-inferiority margins and statistical methods documented. Notably, one non-inferiority endpoint was not met, demonstrating transparent reporting. GMCs with 95% CIs provided for immunogenicity endpoints."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 1 referenced as NCT01000974 (ClinicalTrials.gov identifier). Detailed tables provided for solicited adverse events and immunogenicity. However, unsolicited adverse events are not comprehensively reported, and individual patient-level data is not accessible.",
+      "level_description": "Clinical trial registration identified. Summary tables provided but full study protocols, statistical analysis plans, and complete safety datasets are not publicly available in this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 Postmarketing Experience describes voluntary reports: extensive swelling, injection site induration, allergic reactions (including anaphylaxis), angioedema, convulsions, hypotonic-hyporesponsive episode, somnolence, syncope, apnea, rash, urticaria. VAERS reporting encouraged (1-800-822-7967 or www.vaers.hhs.gov).",
+      "level_description": "Postmarketing adverse event reporting system in place. Specific serious events identified post-approval including neurological and allergic reactions. However, these are voluntary reports without frequency estimates."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No disclosure of conflicts of interest for investigators. Manufactured by GlaxoSmithKline Biologicals, Rixensart, Belgium. Distributed by GlaxoSmithKline, Durham, NC. No information about funding sources for clinical trials or investigator relationships.",
+      "level_description": "The prescribing information does not address potential conflicts of interest. Studies were presumably funded by the manufacturer (GlaxoSmithKline) but this is not explicitly stated, nor are investigator disclosures provided."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No deaths are reported in the clinical trial adverse events section. However, the document does not explicitly state whether deaths occurred or confirm zero mortality. All-cause mortality is not addressed as an endpoint.",
+      "level_description": "No mortality data reported. It is unclear whether no deaths occurred or whether deaths were simply not discussed. All-cause mortality was not a specified endpoint in the clinical trials."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "HIBERIX clinical trials demonstrate adequate randomization and sample sizes (~3,000 subjects in primary series) with standardized adverse event collection using defined severity grades. Key methodological limitations include: (1) no true placebo control - all comparators were active vaccines; (2) extremely short follow-up for solicited events (4 days only); (3) open-label design in at least one major study; (4) no systematic monitoring for autoimmune conditions; (5) vulnerable populations (immunocompromised, premature infants) not systematically studied; (6) no mortality data reported; and (7) conflicts of interest not disclosed. The trial documented that one non-inferiority immunogenicity endpoint was not met (anti-PRP >=1.0 mcg/mL), demonstrating some transparency. Postmarketing surveillance has identified additional serious events including neurological complications. Overall, the evidence base meets minimum regulatory standards but has significant gaps for comprehensive safety assessment."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_vaxneuvance",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "All clinical studies used active comparator (Prevnar 13) rather than placebo. Studies 8-11 in children compared VAXNEUVANCE to Prevnar 13. Studies 1-7 in adults also used Prevnar 13 as the active comparator. No placebo-controlled trials were conducted.",
+      "level_description": "Active comparator-controlled design only; no true placebo control group was included to assess vaccine-attributable adverse events against an inert baseline."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Document states trials were 'randomized, double-blind clinical studies' (Studies 8-11 in children, Studies 1-7 in adults). Study 8 described as 'multicenter, double-blind, active comparator-controlled study.'",
+      "level_description": "Double-blind design was consistently employed across the clinical development program, with participants and investigators blinded to treatment assignment."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies described as randomized. Study 8: participants randomized to VAXNEUVANCE (N=860) or Prevnar 13 (N=860). Study 9: participants randomized in 1:1:1:1:1 ratio. Study 2: randomized 9:1. Study 4: randomized 3:1. Study 12: participants randomized to VAXNEUVANCE (N=303) or Prevnar 13 (N=303).",
+      "level_description": "Randomization was employed across studies with various allocation ratios specified, though specific randomization methods (e.g., stratification factors, block sizes) were not detailed in the prescribing information."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies 8-11 included 3,349 participants receiving VAXNEUVANCE and 1,814 receiving Prevnar 13. Study 8 specifically: N=858 VAXNEUVANCE, N=855 Prevnar 13. In US (including Puerto Rico), 2,827 participants received at least one dose. Study 12 (catch-up): N=303 VAXNEUVANCE, N=303 Prevnar 13.",
+      "level_description": "Over 5,000 pediatric subjects enrolled across multiple studies provides adequate statistical power for safety and immunogenicity assessment in the infant and pediatric populations."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Safety follow-up for serious adverse events: 1 month in Study 11, 6 months in Studies 8-10 for children. For adults: 1 month in Study 5, 2 months in Study 7, 6 months in Studies 1, 2, 4, 6, and 12 months in Study 3. Solicited adverse events monitored for 14 days post-vaccination.",
+      "level_description": "Follow-up duration varies from 1-12 months across studies; longest follow-up is 12 months (Study 3) but most studies used 6 months or less. Limited for detecting delayed or long-term adverse events."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Data presented separately for: infants (6 weeks-11 months), children (12-15 months), children/adolescents 2-17 years, adults 18-49 years, and adults 50+ years. Catch-up vaccination data presented for 7-11 months, 12-23 months, and 2-17 years cohorts. Subgroups include preterm infants, sickle cell disease, HIV-infected children and adults, and HSCT recipients.",
+      "level_description": "Comprehensive age stratification with detailed safety and immunogenicity data presented for multiple distinct pediatric and adult age cohorts, enabling age-appropriate benefit-risk assessment."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document indicates 'healthy infants' for Studies 8-11. Adults included those with 'stable underlying medical conditions' and 'behavioral risk factors known to increase risk of pneumococcal disease.' Some specific populations studied separately (sickle cell, HIV, HSCT). Specific inclusion/exclusion criteria not detailed.",
+      "level_description": "Basic population characteristics described but detailed inclusion/exclusion criteria are not provided in the prescribing information; referenced studies would need to be consulted for complete criteria."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions collected via Vaccination Report Card (VRC) for up to 14 days. Injection-site reactions (pain, erythema, swelling, induration) and systemic reactions (fever, irritability, somnolence, fatigue, headache, myalgia, arthralgia) with defined severity grades. Study investigators reviewed VRC to ensure consistency with protocol definitions.",
+      "level_description": "Standardized data collection using VRC with predefined severity scales (mild/moderate/severe for most, size measurements for local reactions). Consistent methodology across studies with investigator verification."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Serious adverse events monitored for 1-12 months depending on study. In Studies 8-11: SAEs up to 6 months reported by 9.6% VAXNEUVANCE vs 8.9% Prevnar 13. Up to 30 days post-Doses 1-3: 4.8% vs 5.0%. One febrile seizure reported in 9-week-old female one day after Dose 1. In adults: SAEs within 30 days: 0.4% VAXNEUVANCE vs 0.7% Prevnar 13.",
+      "level_description": "Active SAE monitoring conducted with comparison to active control. SAE rates reported with no notable patterns or imbalances suggesting causal relationship to vaccine."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One febrile seizure reported (9-week-old female, one day after Dose 1). Document states 'no notable patterns or numerical imbalances between vaccination groups for specific categories of serious adverse events.' No specific mention of systematic monitoring for autoimmune or other neurological conditions.",
+      "level_description": "One neurological event (febrile seizure) reported. No specific protocols described for monitoring autoimmune or neurological adverse events; such events would presumably be captured as SAEs but not specifically tracked."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Specific studies conducted in: preterm infants (<37 weeks gestation, N=142 VAXNEUVANCE vs N=144 Prevnar 13), children with sickle cell disease (N=70 vs N=34), HIV-infected children (N=203 vs N=204), HIV-infected adults (N=152 vs N=150), and HSCT recipients (N=139 vs N=138). Safety profiles reported as similar to Prevnar 13 in these populations.",
+      "level_description": "Multiple immunocompromised and vulnerable subgroups specifically studied with dedicated trials. Safety and immunogenicity assessed, though effectiveness not established in these populations."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority testing for immunogenicity with predefined criteria (lower bound 95% CI >0.5 for GMC ratio, >-10 percentage points for response rate differences). Statistical methods specified: Miettinen & Nurminen method for CIs, t-distribution for GMC ratios, constrained longitudinal data analysis (cLDA) for adult OPA GMTs.",
+      "level_description": "Appropriate non-inferiority statistical framework with prespecified margins and methodology. Statistical methods clearly described for primary immunogenicity endpoints."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Detailed tables provided with response rates, GMCs, GMTs, and 95% confidence intervals for each serotype. NCT numbers provided for all major studies (NCT03893448, NCT03620162, NCT03692871, NCT02987972, etc.). Sample sizes clearly reported for each analysis.",
+      "level_description": "Clinical trial registry numbers provided for all studies. Comprehensive immunogenicity and safety data presented with appropriate statistical measures. Results traceable to registered trials."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document instructs reporting of suspected adverse reactions to Merck (1-877-888-4231) or VAERS (1-800-822-7967 or www.vaers.hhs.gov). No post-marketing surveillance data presented (vaccine approved 2021).",
+      "level_description": "Standard adverse event reporting mechanisms referenced. As a relatively new vaccine (2021 approval), post-marketing surveillance data would be limited and not yet incorporated into prescribing information."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No disclosure of conflicts of interest, funding sources, or sponsor involvement in study design/conduct. Manufactured by Merck Sharp & Dohme Corp.",
+      "level_description": "Prescribing information does not include conflict of interest disclosures. Studies presumed to be manufacturer-sponsored but no explicit COI statements provided."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No mortality data reported. Document reports serious adverse event rates but does not specify deaths or all-cause mortality in either treatment arm.",
+      "level_description": "All-cause mortality data not reported in the prescribing information. Any deaths would presumably be captured in SAE reporting but are not specifically disclosed."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Vaxneuvance was evaluated in a comprehensive clinical development program including multiple randomized, double-blind, active comparator-controlled trials with over 5,000 pediatric and 7,400 adult participants. Key strengths include robust sample sizes, excellent age group stratification, dedicated studies in vulnerable populations (preterm, sickle cell, HIV, HSCT), standardized adverse event collection, and rigorous non-inferiority statistical analysis with transparent immunogenicity data. Notable limitations include the absence of placebo control (all trials used Prevnar 13 as active comparator), relatively short follow-up periods (mostly 6 months or less), no reported mortality data, absence of conflict of interest disclosures, and limited specific monitoring for autoimmune/neurological events. The active comparator design, while scientifically appropriate for an established vaccine class, limits ability to assess absolute vaccine-attributable adverse event rates."
+  }
+}

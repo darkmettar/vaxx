@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_havrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Safety evaluated in 61 clinical trials with approximately 37,000 individuals. Pediatric data includes over 22,000 subjects aged 1-18 years, plus 3,152 children aged 11-25 months across 4 dedicated coadministration studies (HAV 210, HAV 232, HAV 220, HAV 231)."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse reactions recorded for only 4 days (Days 0-3) after vaccination. Unsolicited adverse events recorded for 31 days. Telephone follow-up conducted 6 months after last vaccination to inquire about serious adverse events, new onset chronic illnesses, and medically significant events. No long-term systematic follow-up beyond 6 months documented."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Randomized controlled studies used active comparators. The Thai efficacy study (40,119 children) used ENGERIX-B as control. Coadministration studies (HAV 231) used randomized groups comparing HAVRIX alone vs. HAVRIX with MMR/varicella vs. MMR/varicella alone. However, no true placebo-controlled safety trials described."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited local and general adverse reactions recorded by parents/guardians on diary cards for 4 days after vaccination. Unsolicited adverse events recorded for 31 days. Telephone follow-up conducted at 6 months for serious adverse events and new onset chronic illnesses."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Document mentions syncope can be accompanied by transient neurological signs (visual disturbance, paresthesia, tonic-clonic limb movements). Reports 4 seizures within 31 days post-vaccination in pediatric studies. Postmarketing lists convulsion, encephalopathy, Guillain-Barre syndrome, multiple sclerosis, myelitis, and neuropathy, but no systematic pre-licensure neurological assessment protocol described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studied in immunocompromised individuals (acknowledges diminished immune response). Specific immunogenicity data provided for subjects with chronic liver disease including chronic hepatitis B (n=46), chronic hepatitis C (n=104), and other liver conditions (n=70). Pregnancy exposure data available for 175 women with documented outcomes. Geriatric data insufficient per document. No specific safety data for preterm infants."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed solicited reaction rates provided with percentages and severity grades. Tables present local and general adverse reactions with specific percentages. Serious adverse event rates reported (0.9% within 31 days). Study demographics disclosed. However, individual-level data and complete study protocols not provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 lists postmarketing adverse reactions across multiple organ systems including serious events (thrombocytopenia, anaphylaxis, Guillain-Barre syndrome, encephalopathy, myelitis, hepatitis). Standard disclaimer that frequency cannot be reliably estimated from voluntary reports. VAERS reporting encouraged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "HAVRIX demonstrates an adequate safety profile with exemplary pediatric sample sizes (37,000+ total subjects, 22,000+ pediatric). Key strengths include large-scale controlled efficacy trials, detailed solicited reaction documentation, and comprehensive postmarketing surveillance data. Primary limitations are the short active follow-up period (4 days solicited, 31 days unsolicited), lack of true placebo controls in safety assessment, and absence of systematic pre-licensure neurological monitoring protocols despite postmarketing neurological signals."
+  }
+}

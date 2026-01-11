@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "rv_rotateq",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "71,725 infants were evaluated in 3 placebo-controlled clinical trials including 36,165 infants in the group that received RotaTeq and 35,560 infants in the group that received placebo. Study 006 had 34,837 vaccine recipients and 34,788 placebo recipients monitored by active surveillance.",
+      "level_description": "True placebo control used with large, well-matched groups in multiple phase 3 studies."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document describes the studies as placebo-controlled but does not explicitly state double-blind methodology. Study 029 is described as a 'randomized, blinded, placebo-controlled study conducted in Japan.'",
+      "level_description": "Blinding is mentioned for one study but not consistently detailed for all trials."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Overall, 73,086 infants were randomized in 4 placebo-controlled, phase 3 studies conducted in 12 countries on 4 continents. Racial and gender distribution was balanced between groups (51% male, 49% female in both groups).",
+      "level_description": "Large-scale randomization across multiple studies with demographic balance documented."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "71,725 infants evaluated in clinical trials (36,165 RotaTeq, 35,560 placebo). Efficacy data from 7,744 infants from US, Finland, and Japan. Pre-term infant subgroup included 2,070 infants (25-36 weeks gestational age).",
+      "level_description": "Exceptionally large pediatric sample size of over 70,000 infants, one of the largest vaccine trials conducted."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "In Study 006, subjects were monitored by active surveillance at 7, 14, and 42 days after each dose, and every 6 weeks thereafter for 1 year after the first dose. Efficacy was evaluated through two rotavirus seasons post-vaccination. Hospitalizations tracked for first two years after third dose.",
+      "level_description": "Extensive follow-up through two rotavirus seasons with active surveillance up to 1 year post-dose."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Vaccine approved for infants 6-32 weeks of age. Pre-term infants (25-36 weeks gestational age, median 34 weeks) were analyzed separately with 2,070 subjects. Data available for infants with controlled gastroesophageal reflux disease.",
+      "level_description": "Pre-term infants analyzed separately; narrow age range (6-32 weeks) limits need for extensive age stratification."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Clear contraindications defined: hypersensitivity to vaccine components, history of SCID, history of intussusception. Exclusions for immunocompromised infants detailed including blood dyscrasias, leukemia, lymphomas, immunosuppressive therapy, HIV/AIDS, and those who received blood transfusions within 42 days.",
+      "level_description": "Comprehensive inclusion/exclusion criteria with detailed contraindications and precautions clearly specified."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Detailed Safety Cohort of 11,711 infants used Vaccination Report Cards to record temperature, diarrhea, and vomiting daily for first week after each dose. Parents/guardians contacted on days 7, 14, and 42 after each dose. Standardized definitions for elevated temperature (>=100.5F rectal equivalent) provided.",
+      "level_description": "Systematic adverse event collection with standardized definitions, daily recording cards, and scheduled follow-up contacts."
+    },
+    "active_monitoring_serious": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "In Study 006, 34,837 vaccine and 34,788 placebo recipients were monitored by active surveillance to identify intussusception at 7, 14, and 42 days after each dose, and every 6 weeks thereafter for 1 year. Serious adverse events tracked within 42-day period. Medical charts reviewed to confirm diagnoses.",
+      "level_description": "Exemplary active surveillance for serious adverse events including intussusception with scheduled contacts and medical record review."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Seizures tracked: 33 in RotaTeq vs 24 in placebo within 42 days of any dose. Febrile seizures reported as serious adverse events: 5 vaccine, 5 placebo. Kawasaki disease reported: 5 of 36,150 vaccine recipients vs 1 of 35,536 placebo (relative risk 4.9, 95% CI 0.6-239.1).",
+      "level_description": "Seizures and Kawasaki disease specifically monitored, though some neurological/autoimmune outcomes have limited statistical power."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pre-term infants (2,070 subjects, 25-36 weeks gestational age) studied separately with adverse events tracked. Infants with controlled gastroesophageal reflux disease included. Document explicitly states no safety/efficacy data for immunocompromised infants including HIV/AIDS.",
+      "level_description": "Pre-term infants studied; however, immunocompromised populations explicitly excluded without safety data."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "95% confidence intervals provided for all efficacy endpoints. Relative risk calculations with CI for intussusception (1.6, 95% CI 0.4-6.4 within 42 days). Per-protocol and Intent-to-Treat analyses conducted. Group sequential design stopping criteria employed in Study 006.",
+      "level_description": "Rigorous statistical methodology with confidence intervals, relative risk calculations, ITT analyses, and appropriate trial design."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Tables provided with detailed case counts, efficacy percentages, and confidence intervals. Adverse event rates with denominators clearly stated. Intussusception cases broken down by dose and day range. However, some data only provided as percentages without absolute numbers.",
+      "level_description": "Good data presentation with tables and specific figures, though some details could be more granular."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "PRISM program evaluated >1.2 million RotaTeq vaccinations (507,000 first doses) from 2004-2011. Post-marketing observational cohort study of 85,150 infants from 2006-2009. VAERS reporting established. Post-marketing identified approximately 1-1.5 excess intussusception cases per 100,000 vaccinated infants within 21 days of first dose.",
+      "level_description": "Comprehensive post-marketing surveillance with multiple large-scale studies and active monitoring systems."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document manufactured and distributed by Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. No disclosure of conflicts of interest for trial investigators or funding sources for the clinical studies.",
+      "level_description": "No conflict of interest disclosures provided for researchers or detailed funding information beyond manufacturer."
+    },
+    "all_cause_mortality": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Across clinical studies, 52 deaths were reported: 25 in RotaTeq recipients compared to 27 in placebo recipients. Most common cause was SIDS: 8 in RotaTeq and 9 in placebo recipients. Pre-term infant deaths: 2 vaccine (1 SIDS, 1 motor vehicle accident), 2 placebo (1 SIDS, 1 unknown).",
+      "level_description": "All-cause mortality comprehensively tracked across vaccine and placebo groups with causes of death documented."
+    }
+  },
+  "overall": {
+    "rating": "exemplary",
+    "emoji": "⭐",
+    "summary": "RotaTeq clinical trials represent exemplary vaccine research with over 70,000 randomized infants across multiple countries, true placebo control, active surveillance for serious adverse events including intussusception, comprehensive mortality tracking, and extensive post-marketing surveillance. The trials demonstrated strong methodology including standardized adverse event collection, rigorous statistical analysis, and long-term follow-up through two rotavirus seasons. Minor limitations include lack of explicit double-blind documentation for all studies and absence of conflict of interest disclosures. Pre-term infants were studied separately, though immunocompromised populations were excluded."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "menb_trumenba",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Control groups varied by study. Study B1971016 used saline (3 injections at 0, 2, and 6 months). Studies B1971009 and B1971014 used HAV (hepatitis A vaccine) at 0 and 6 months with saline at 2 months. Study B1971015 used multiple control groups including saline+saline+Trumenba and Menactra+Adacel+saline. Total: 10,718 subjects received Trumenba; 4,497 subjects in control groups.",
+      "level_description": "Saline controls were used in some studies, but HAV was used as an active comparator in others. True placebo (inert saline throughout) was only used in study B1971016. Mixed use of active and saline controls across studies reduces ability to assess true placebo-controlled safety profile."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "All four studies (B1971009, B1971016, B1971014, B1971015) were described as 'observer-blinded' studies, not double-blind.",
+      "level_description": "Observer-blinded design means the outcome assessors were blinded but subjects and/or vaccinators may have known the treatment assignment. This is less rigorous than true double-blind design where all parties are blinded."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "All four studies (B1971009, B1971016, B1971014, B1971015) were described as 'randomized, controlled, observer-blinded studies.'",
+      "level_description": "Randomization was explicitly stated for all studies. However, details about randomization methods (block randomization, stratification, allocation concealment) were not provided in this document."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study B1971009 enrolled 3,596 subjects aged 10 to <19 years (1,509 + 600 + 589 in Trumenba groups; 898 in HAV/Saline). Study B1971015 enrolled 2,648 subjects aged 10 to <13 years (888 + 878 + 882 across three groups). Study B1971014 included subjects 10 to <26 years with 3,804 Trumenba and 1,908 control.",
+      "level_description": "Substantial pediatric enrollment with over 6,000 adolescents and children across studies. Age groups 10-18 and 10-12 were specifically studied. Sample sizes are adequate for detecting common adverse events but may be limited for rare events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "SAEs were tracked 'from the first study vaccination through 6 months after last study vaccination.' Given the 6-month vaccination schedule, this translates to approximately 12 months total observation. Mean duration of local reactions (pain, redness, swelling) ranged 2-2.8 days.",
+      "level_description": "Six months post-final vaccination is relatively short for detecting delayed-onset adverse events. Long-term safety (beyond 12 months) was not evaluated in these pivotal trials. This limits ability to detect rare, late-onset autoimmune or neurological conditions."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study B1971009 studied subjects 10 to <18/19 years of age. Study B1971016 studied subjects 18 to <26 years of age. Study B1971015 studied subjects 10 to <13 years of age. Immunogenicity and safety data were reported separately for these age groups.",
+      "level_description": "Age-specific analysis was conducted with separate studies for adolescents (10-18/19), young adults (18-26), and younger adolescents (10-13). This allows age-appropriate safety and efficacy assessment."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No specific inclusion or exclusion criteria are detailed in this document.",
+      "level_description": "The summary document does not describe specific inclusion/exclusion criteria for the trials. This information may exist in the full study protocols but is not documented in this regulatory summary."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited local reactions (pain, redness, swelling) and systemic events (fever, headache, fatigue, chills, muscle pain, joint pain, vomiting, diarrhea) were recorded on e-diary in studies B1971009, B1971016, and B1971015 within 7 days of vaccination. Study B1971014 collected only unsolicited adverse events (no e-diary) as its purpose was to detect rare safety events.",
+      "level_description": "Standardized solicited adverse event collection was used for most studies with defined time windows. However, one study (B1971014) relied only on unsolicited reporting, and no mention of standardized grading scales (e.g., FDA Toxicity Grading Scale) was made."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs were monitored from first vaccination through 6 months after last vaccination. SAE rates: B1971009: 2.45% Trumenba vs 1.89% control; B1971016: 1.34% both groups; B1971014: 1.55% Trumenba vs 2.52% control. Specific SAEs assessed as possibly related: 3 in B1971016 (pyrexia, multiple sclerosis, dystonia), 2 in B1971014 (neutropenia, anaphylactic reaction in Trumenba group; demyelination, spontaneous abortion in control).",
+      "level_description": "Active SAE monitoring was conducted with investigator assessment of relatedness to vaccination. Specific SAEs were identified and evaluated. The monitoring period (6 months post-final dose) was defined but relatively short."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "12 of 10,718 Trumenba recipients (0.11%) reported autoimmune conditions; 7 of 10,718 (0.07%) reported neuroinflammatory conditions. In controls: 6 of 4,497 (0.13%) reported autoimmune conditions; 4 of 4,497 (0.09%) reported neuroinflammatory conditions. SAEs possibly related included multiple sclerosis, dystonia, and demyelination. Five of 12 subjects with autoimmune conditions had evidence of pre-existing disease.",
+      "level_description": "Specific tracking of autoimmune and neuroinflammatory conditions was conducted with clinical review of individual cases. Rates were similar between vaccine and control groups. The document concluded no conclusive evidence of excess risk, though sample size limits detection of rare events."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Demographics: 48.0% male, 52% female; 84.3% Caucasian, 11.6% African-American, 1.4% Asian, 2.7% 'other.' Study populations included adolescents (10-18) and young adults (18-25). A pregnancy cohort study (B1971052) was committed as postmarketing requirement.",
+      "level_description": "Demographic data reported but no specific subgroup analyses for vulnerable populations (immunocompromised, those with chronic conditions). Racial diversity was limited. Pregnancy outcomes were deferred to postmarketing studies rather than evaluated in pivotal trials."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pre-specified immunogenicity endpoints with defined success criteria (lower bound of 95% CI thresholds) were established and met. Primary endpoints included percent with 4-fold increase in hSBA titers. Non-inferiority criteria for concomitant vaccination (lower limit of 2-sided 95% CI of GMT ratio > 0.67) were defined. Independent statistical analysis confirmed primary results. 'No major statistical issues related to the submission.'",
+      "level_description": "Pre-specified endpoints and statistical methods were defined with appropriate use of confidence intervals and non-inferiority margins. Independent statistical verification was conducted. However, safety analyses appear descriptive rather than hypothesis-driven."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "This is an FDA Summary Basis for Regulatory Action document that summarizes key findings from clinical study reports submitted to the BLA. Tables with immunogenicity percentages and adverse event rates are provided. References are made to full study reports (B1971009, B1971016, B1971014, B1971015) but these are not publicly available.",
+      "level_description": "Summary data provided with some detailed tables, but full clinical study reports are not included. Raw data, patient-level information, and complete adverse event listings are not disclosed. Transparency is limited to regulatory summary level."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Postmarketing requirements/commitments included: confirmatory studies (B1971009, B1971016) - now fulfilled; safety study (B1971014) - now fulfilled; concomitant use study (B1971015) - now fulfilled; pregnancy/birth outcomes cohort study (B1971052) - ongoing commitment. The review team determined no new postmarketing commitments or requirements were needed after this supplement approval.",
+      "level_description": "Structured postmarketing requirements were established under accelerated approval. Key studies were completed. Pregnancy registry remains as ongoing commitment. However, no mention of routine pharmacovigilance reporting or long-term registry requirements."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No disclosure of conflicts of interest by investigators, reviewers, or sponsor relationships is provided in this document.",
+      "level_description": "The document does not address financial or professional conflicts of interest. This is a regulatory document focused on scientific review; COI disclosures may exist elsewhere but are not documented here."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No all-cause mortality data is presented. SAEs are reported by category but deaths are not specifically mentioned or enumerated.",
+      "level_description": "The document does not report on deaths or all-cause mortality in trial participants. While SAE rates are provided, mortality endpoints are not separately analyzed or discussed."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The Trumenba clinical development program included four randomized, observer-blinded (not double-blind) controlled trials with substantial sample sizes (over 10,000 vaccinees). Immunogenicity was demonstrated using validated serological assays against diverse meningococcal B strains. Safety monitoring included solicited adverse events for 7 days and SAEs for 6 months post-final vaccination. Autoimmune and neuroinflammatory events were specifically tracked with no excess risk identified. However, key limitations include: observer-blinded rather than double-blind design; mixed use of active and saline controls; relatively short follow-up period (6 months post-series); no published inclusion/exclusion criteria, conflict of interest disclosures, or all-cause mortality data; and limited transparency beyond regulatory summary. The trial program meets basic regulatory standards for accelerated-to-traditional approval conversion but has methodological gaps compared to optimal trial design."
+  }
+}

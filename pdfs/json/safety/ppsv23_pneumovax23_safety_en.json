@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ppsv23_pneumovax23",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "PNEUMOVAX 23 is not approved for children under 2 years old. The document explicitly states children in this age group do not develop an effective immune response to this polysaccharide vaccine. All clinical trial data presented is from adults aged 50 years and older (N=1008 total: 444 initial vaccination, 564 revaccination). No pediatric safety trials are described in the document."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Safety follow-up was only 14 days following vaccination in the primary adult study. The sequential administration study with Prevnar 13 collected SAEs through Week 30, but solicited adverse reactions were only evaluated for Days 1-5 (injection site) and Days 1-14 (systemic). This short follow-up period is inadequate to detect delayed adverse events or long-term safety signals."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The pivotal adult clinical trial (N=1008) used a randomized, double-blind, placebo-controlled crossover design. Placebo consisted of saline containing 0.25% phenol. Subjects received either PNEUMOVAX 23 followed by placebo, or placebo followed by PNEUMOVAX 23 at 30-day intervals, allowing direct comparison of adverse event rates between vaccine and placebo groups."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The study used solicited adverse reactions (actively asking about specific symptoms) for injection-site complaints and certain systemic symptoms (asthenia/fatigue, chills, myalgia, headache). Unsolicited events were also collected. However, the 14-day follow-up window is limited. The sequential study collected temperature data Days 1-5 only. No mention of electronic diary cards or more robust active surveillance methods."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "No specific neurological monitoring protocol was described in clinical trials. Post-marketing reports mention neurological adverse events including paresthesia, radiculoneuropathy, Guillain-Barre syndrome, and febrile convulsion, but these were not systematically monitored during trials. One serious adverse event in trials mentioned 'headache/tremor/stiffness/sweating' but no systematic neurological assessment was described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document addresses immunocompromised individuals (noting diminished immune response), elderly patients (age 65+ with comparison to 50-64 year olds), and notes precautions for those with compromised cardiovascular/pulmonary function. However, specific safety data for high-risk subgroups is limited. No dedicated pediatric data for children 2+ years despite approval for at-risk children. Pregnancy and lactation data are acknowledged as insufficient."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The document provides detailed tables with adverse event rates for both initial vaccination and revaccination groups, broken down by age cohorts. Specific percentages for solicited and unsolicited events are provided. Serious adverse events are listed with descriptions. The crossover design and sample sizes are clearly described. However, individual patient-level data and statistical analyses are not provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 provides a comprehensive list of post-marketing adverse reactions across multiple body systems including: general disorders (cellulitis, fever >102F, injection-site necrosis), hematologic (thrombocytopenia, hemolytic anemia, leukocytosis), hypersensitivity (anaphylactoid reactions, serum sickness), nervous system (Guillain-Barre syndrome, radiculoneuropathy), and skin reactions. VAERS reporting is referenced. The limitation noted is that frequency cannot be reliably estimated from voluntary reports."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "PNEUMOVAX 23 safety documentation is primarily based on adult trials (50+ years) with no pediatric-specific safety data despite approval for at-risk children 2+ years. The main clinical trial (N=1008) used appropriate placebo controls but follow-up was limited to 14 days. Neurological monitoring was not systematic, though post-marketing surveillance has identified serious neurological events including Guillain-Barre syndrome. Data transparency is reasonable with detailed adverse event tables provided. The vaccine's long market history since 1983 provides extensive post-marketing experience, but the limited prospective safety follow-up and absence of pediatric trial data represent significant gaps in the safety evidence base."
+  }
+}

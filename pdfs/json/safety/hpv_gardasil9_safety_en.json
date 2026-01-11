@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hpv_gardasil9",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study V503-002 enrolled 2,534 children aged 9-15 years (1,890 girls and 644 boys). Additional pediatric safety data came from studies V503-005 (1,241 subjects ages 11-15), V503-007 (1,054 subjects ages 11-15), and V503-009 (600 girls ages 9-15). Total pediatric exposure across studies was approximately 5,212 subjects ages 9-15 years. While substantial, the sample size has limitations for detecting rare adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The main efficacy study V503-001 had median follow-up of approximately 40 months post-Day 1 (about 3.3 years). Pediatric immunobridging studies had shorter follow-up: V503-002 followed subjects for 12 months, V503-005/007/009 for 7 months. Long-term follow-up was limited, though post-marketing extension studies up to 10-12 years were committed. The document notes that long-term efficacy and safety through Month 126 (10.5 years) would be assessed post-marketing."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The pivotal efficacy study V503-001 used qHPV (Gardasil) as active control rather than saline placebo, which limits detection of adverse events common to both vaccines. Study V503-006 included a saline placebo arm (305 subjects) for prior qHPV recipients. No true placebo-controlled trial was conducted specifically for 9vHPV, though the FDA reviewer noted this was ethically justified given proven qHPV efficacy. AAHS adjuvant content in 9vHPV (500 mcg) is more than double that in qHPV (225 mcg)."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance was conducted using Vaccination Report Cards (VRC) for 5-15 days post each vaccination. Subjects recorded daily oral temperature for 4 days and injection-site/systemic adverse events for 15 days. Serious adverse events were collected from Day 1 through 180 days post-dose 3. New medical conditions and autoimmune disorders were actively monitored throughout the study period. The surveillance system was structured and VRC-aided."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Neurological events were monitored as part of overall adverse event collection but no specific neurological assessment protocol was described. The document reports 5 cases of multiple sclerosis in 9vHPV group vs 2 in qHPV group - a numerical imbalance noted by the FDA reviewer. Cases of hypoesthesia, syncope, dizziness, and headache were documented. Three MS cases had onset within 2 months of vaccination. The FDA recommended post-marketing surveillance for autoimmune conditions including MS via Mini-Sentinel."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Immunocompromised patients were excluded from trials, and the document explicitly states 'safety and effectiveness of 9vHPV have not been formally evaluated in immunocompromised patient populations.' Pregnancy outcomes were analyzed, revealing a concerning signal: spontaneous abortion rate was 19.1% among those who conceived within 30 days of vaccination vs 9.6% for those conceiving later. Lactating mothers (86 subjects) were included with no safety signals identified in breastfed infants. Geriatric populations were not studied."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The FDA clinical review document provides extensive detail on adverse events, including tables of injection-site reactions, systemic events, SAEs, and deaths. Narratives for all deaths (10 total) and vaccine-related SAEs (4 cases) are provided. Financial disclosures for investigators were documented. Two study sites were excluded from analysis due to GCP violations, demonstrating data quality controls. Subgroup analyses by age, race, ethnicity, and region were presented."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Robust post-marketing commitments were established: (1) FDA/CDC collaboration using Vaccine Safety Datalink to assess spontaneous abortion rates; (2) Mini-Sentinel assessment for autoimmune conditions including MS; (3) Applicant-sponsored pregnancy registry; (4) Extension studies V503-001 (up to 12 years) and V503-002 (up to Month 126/10.5 years) for long-term safety. VAERS surveillance from qHPV experience (56 million doses) was referenced as relevant background data."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The Gardasil 9 pre-licensure safety evaluation demonstrates adequate active surveillance methodology and substantial pediatric sample sizes (>5,000 subjects ages 9-15). However, several limitations exist: (1) Use of active vaccine comparator (qHPV) rather than true placebo limits detection of adjuvant-related effects, particularly given the doubled AAHS content; (2) Relatively short pediatric follow-up (7-12 months for most); (3) Numerical imbalances in MS cases (5 vs 2) and spontaneous abortions within 30 days of vaccination (19.1% vs 8.0%) warrant continued monitoring; (4) Immunocompromised populations were excluded. The FDA reviewer concluded the benefit-risk balance was favorable but mandated post-marketing studies via VSD and Mini-Sentinel to address the identified safety signals."
+  }
+}

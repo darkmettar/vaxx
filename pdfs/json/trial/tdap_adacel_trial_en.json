@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Study Td506 was a randomized, observer-blind, active-controlled trial comparing Adacel to Td vaccine (DECAVAC). Study NCT01439165 compared a second dose of Adacel to Td vaccine (TENIVAC). No placebo-controlled trials were conducted; all comparisons used active comparators (Td vaccines).",
+      "level_description": "No true placebo control was used. All trials compared Adacel to other tetanus-diphtheria containing vaccines (Td) rather than an inert placebo, limiting the ability to assess the full safety profile attributable specifically to the vaccine."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study Td506 was described as 'observer-blind' and Study NCT01439165 was 'observer-blind, active-controlled.' Study Td505 was 'randomized, double-blind' for lot consistency. Study NCT00347958 was 'descriptive, open-label.' Study NCT01311557 was 'open label, two-arm.'",
+      "level_description": "The main efficacy/safety studies used observer-blind methodology rather than full double-blinding. Some supporting studies were open-label. Only the lot consistency study (Td505) was described as double-blind."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study Td506 was a 'randomized, observer-blind, active-controlled trial.' Study NCT01439165 was 'randomized, observer-blind, active-controlled, multi-center study.' Participants were randomized to receive Adacel or Td vaccine. Enrollment was stratified by age to ensure adequate representation across the entire age range.",
+      "level_description": "Primary studies were randomized with participants assigned to vaccine groups. Stratification by age ensured adequate representation across age ranges."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A total of 7,143 individuals 10-64 years of age received Adacel including 4,695 adolescents 10-17 years of age. Study Td506 enrolled 2,053 adolescents (11-17 years). Study Td505 enrolled 1,806 adolescents (11-17 years). Study NCT01311557 enrolled 1,302 individuals (10 to <12 years, 651 per group).",
+      "level_description": "Substantial numbers of adolescents (ages 10-17) were enrolled across multiple studies. However, Adacel is not approved for children under 10 years of age, so no pediatric data for younger children is available."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "In Td506, solicited reactions were monitored for 14 days post-vaccination. From days 28 to 6 months, participants were monitored for unexpected visits, serious illness, and hospitalizations. At least 96% completed the 6-month follow-up. In NCT01439165, SAEs were collected for up to 6 months post-vaccination.",
+      "level_description": "Active solicited adverse event monitoring was conducted for 7-14 days. Passive monitoring extended to 6 months for serious adverse events with excellent retention rates (96% completion)."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Results are reported separately for adolescents 11-17 years of age and adults 18-64 years of age. Study NCT01311557 compared 10 to <11 years vs 11 to <12 years. Tables present data stratified by these age groups for both solicited reactions and immunogenicity endpoints.",
+      "level_description": "Age-stratified data is consistently presented throughout the document with detailed tables for adolescents and adults separately. Additional comparison of narrow age bands (10-11 vs 11-12) was conducted."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study participants had not received tetanus or diphtheria-containing vaccines within the previous 5 years. The document lists contraindications (severe allergic reaction, encephalopathy) and precautions (Guillain-Barre syndrome history, progressive neurologic disorders, Arthus-type hypersensitivity). Demographics: 86% Caucasian, 8% Black, 3% Hispanic, 1% Asian.",
+      "level_description": "Some basic inclusion criteria are mentioned (vaccine-naive in past 5 years) but detailed inclusion/exclusion criteria for clinical trials are not comprehensively listed in the prescribing information."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited local reactions (pain, erythema, swelling) and systemic reactions (fever, headache, body ache, tiredness, chills, nausea, vomiting, diarrhea, lymph node swelling, rash, sore/swollen joints) were monitored using diary cards with predefined intensity grades (Any, Moderate, Severe with specific definitions).",
+      "level_description": "Standardized categories for adverse events were used with clear severity grading. Moderate was defined as 'interfered with activities but did not necessitate medical care.' Severe was defined as 'incapacitating, prevented usual activities, may have necessitated medical care.'"
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs were reported in 1.5% of Adacel recipients and 1.4% of Td vaccine recipients during 6-month follow-up in Td506. Two SAEs were neuropathic events (severe migraine with unilateral facial paralysis, nerve compression). In NCT01439165, 0.8% Adacel and 0.3% Td reported SAEs during 6-month follow-up. All SAEs were considered unrelated to study vaccine by investigators.",
+      "level_description": "Serious adverse events were actively collected throughout study periods (up to 6 months). Specific neuropathic events were identified and reported. SAE rates were comparable between Adacel and Td groups."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Warnings include Guillain-Barre syndrome risk within 6 weeks of tetanus toxoid vaccine, and brachial neuritis. A review by the Institute of Medicine found evidence for a causal relation between tetanus toxoid and brachial neuritis. Postmarketing reports include: Guillain-Barre syndrome, brachial neuritis, facial palsy, convulsion, syncope, myelitis, paresthesia, hypoesthesia.",
+      "level_description": "Neurological adverse events are mentioned in warnings and postmarketing experience, but the clinical trial data does not describe systematic prospective monitoring for autoimmune or neurological conditions beyond standard SAE collection."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Pregnancy registry data included 225 women vaccinated during pregnancy vs 675 controls with rates of spontaneous abortion (9.3% vs 15%) and congenital anomalies (6.7% vs 8.4%). Ongoing registry has 1,236 prospective reports since 2005. Geriatric: not approved for 65+. Immunocompromised persons may have reduced response but were not systematically studied.",
+      "level_description": "Pregnancy data is available from passive surveillance and registry. Limited specific subgroup analyses for other vulnerable populations (immunocompromised, those with chronic conditions) are described in the prescribing information."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority criteria were predefined (upper limit of 95% CI on the difference <10% for seroprotection rates). Booster response definitions were specified (4-fold rise if below cut-off, 2-fold rise if above). GMC ratios with 95% CIs were calculated for pertussis antigens (lower limit >0.67). Sample size was designed to detect >10% differences.",
+      "level_description": "Statistical methods included non-inferiority analyses with predefined criteria, confidence intervals, and appropriate immunogenicity endpoints. Per-protocol analysis sets were used. Sample size calculations were performed."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Summary data tables are provided showing percentages for adverse reactions and immunogenicity endpoints (Tables 1-10). Specific study identifiers are provided (Td506, NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Results presented with 95% confidence intervals.",
+      "level_description": "Aggregate data summaries are provided with key tables and figures. ClinicalTrials.gov identifiers are listed for most studies. Full individual-level data or complete statistical analysis results are not included but registrations allow access."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 describes postmarketing adverse events spontaneously reported in the US and other countries, including: anaphylactic reaction, hypersensitivity, Guillain-Barre syndrome, brachial neuritis, facial palsy, convulsion, myelitis, myocarditis, pruritus, urticaria, myositis, large injection site reactions (>50mm), extensive limb swelling. VAERS reporting contact provided.",
+      "level_description": "Postmarketing surveillance is documented with a list of spontaneously reported adverse events categorized by system organ class. Healthcare providers are instructed to report to VAERS or manufacturer. Pregnancy registry is ongoing."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose conflicts of interest for investigators, funding sources beyond manufacturer involvement, or relationships between researchers and Sanofi Pasteur.",
+      "level_description": "No conflict of interest disclosures or investigator financial relationships are provided in the prescribing information. All studies were sponsored by the manufacturer (Sanofi Pasteur)."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. Deaths are not mentioned in the adverse reactions section or clinical studies section.",
+      "level_description": "No mortality data is presented from clinical trials. All-cause death rates in vaccinated vs. control groups are not reported in the prescribing information."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Adacel clinical trials used randomized, observer-blind, active-controlled designs comparing to Td vaccine rather than placebo. Studies enrolled over 7,000 participants including substantial adolescent populations (4,695 ages 10-17) with 6-month follow-up for serious adverse events and 96% retention. Standardized adverse event collection using diary cards and immunogenicity analyses with pre-defined non-inferiority criteria were employed. Excellent age stratification with separate reporting for adolescents and adults. Key limitations include: no true placebo control, observer-blind rather than double-blind methodology in main studies, no mortality data reported, and absence of conflict of interest disclosures. Postmarketing surveillance has identified additional rare adverse events including neurological conditions (GBS, brachial neuritis) and myocarditis."
+  }
+}

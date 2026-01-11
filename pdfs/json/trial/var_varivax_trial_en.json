@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "A double-blind, placebo-controlled study was conducted among 914 healthy children and adolescents serologically confirmed to be susceptible to varicella (n=491 vaccine, n=465 placebo). However, this was conducted using a prior formulation containing 17,000 PFU per dose, not the current refrigerator-stable formulation. The document states: 'Although no placebo-controlled trial was carried out with refrigerator-stable VARIVAX.' No placebo-controlled trial was carried out in adolescents and adults.",
+      "level_description": "Placebo-controlled study exists but was conducted with a different (prior) formulation, not the currently marketed refrigerator-stable product. Adult trials lacked placebo controls."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The placebo-controlled efficacy trial was described as 'double-blind' among 914 children and adolescents. However, this was with a prior formulation. Later trials including the refrigerator-stable formulation comparison study were 'double-blind, randomized, multicenter' but compared different formulations, not vaccine vs placebo. An open-label clinical trial (NCT00432523) was conducted in France and Germany with 752 children.",
+      "level_description": "Double-blinding was used in the pivotal placebo-controlled trial, but only with a prior formulation. Multiple subsequent studies were open-label or compared formulations rather than vaccine vs. placebo."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Randomization was used in multiple trials. The two-dose regimen trial randomized 2,216 children to receive either 1 dose or 2 doses. The immunogenicity comparison study was 'double-blind, randomized, multicenter.' NCT00432523 was a 'randomized open-label clinical trial' with children randomized to intramuscular (n=374) or subcutaneous (n=378) routes.",
+      "level_description": "Randomization methods were employed in key clinical trials comparing dosing regimens and administration routes."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "VARIVAX was administered subcutaneously to over 11,000 healthy children, adolescents, and adults in clinical trials. For children 1-12 years: 8,824-8,913 subjects for fever and injection-site reactions. A total of 9,454 healthy children (12 months to 12 years of age) and 1,648 adolescents and adults (13 years and older) have been vaccinated in clinical trials. The two-dose regimen study enrolled 2,216 children.",
+      "level_description": "Excellent pediatric sample sizes with over 9,400 children studied and nearly 9,000 monitored for specific adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Children were actively followed for up to 10 years post single-dose vaccination. The two-dose regimen study followed subjects for 10 years after vaccination. Adolescents and adults have been followed for up to 6 years following 2-dose vaccination. Herpes zoster incidence was tracked during 42,556 person-years of follow-up in children and 5,410 person-years in adults.",
+      "level_description": "Exceptional long-term follow-up of up to 10 years in children and 6 years in adults, with active surveillance for breakthrough disease and herpes zoster."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Results are clearly separated by age groups: Children 1 to 12 Years of Age (with specific data for 12-23 months), and Adolescents (13 Years of Age and Older) and Adults. Tables 1 and 2 present separate data for children and adolescents/adults. The immunogenicity study in children 12-18 months was conducted separately. Different dosing regimens are specified for different age groups.",
+      "level_description": "Exemplary separation of safety and efficacy data by age groups, with distinct tables and analyses for children, adolescents, and adults."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document specifies subjects were 'healthy children, adolescents, and adults.' The placebo-controlled trial enrolled subjects 'serologically confirmed to be susceptible to varicella.' Children with 'a negative history of varicella' were enrolled in the two-dose study. Contraindications clearly define exclusion criteria including immunosuppression, pregnancy, febrile illness, and active TB.",
+      "level_description": "Inclusion criteria specified healthy subjects with serological confirmation of varicella susceptibility. Exclusion criteria are well-documented through contraindications section."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Vaccine-related adverse reactions were assessed by study investigators as 'possibly, probably, or definitely vaccine-related.' Local and systemic solicited adverse reactions were recorded using 'standardized diary cards.' Local reactions were recorded for 4 days and systemic for 42 days. Intensity of injection site reactions was classified as mild (≤2.5 cm), moderate (>2.5 to ≤5.0 cm), or severe (>5.0 cm). Pain intensity was also standardized.",
+      "level_description": "Standardized diary cards with defined severity criteria were used for adverse event collection, with clear intensity classification systems."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Subjects were 'actively followed for 42 days after each dose.' In the two-dose regimen trial, '981 subjects...were actively followed for 42 days after each dose.' Serious adverse events were reported (0.3% and 1% in IM and SC groups). Six subjects reported serious adverse events in the refrigerator-stable formulation study. Parents were 'instructed to contact the investigator for an examination as soon as possible and no later than 72 hours following onset of symptoms.'",
+      "level_description": "Active follow-up for 42 days post-vaccination with protocol for rapid investigator notification of symptoms. Serious adverse events were tracked and reported."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Post-marketing section lists neurological events: encephalitis, cerebrovascular accident, transverse myelitis, Guillain-Barre syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis. Febrile seizures occurred at <0.1% in children. Thrombocytopenia (including ITP) is listed under hemic/lymphatic system. However, systematic pre-licensure assessment of autoimmune conditions is not described in clinical trials section.",
+      "level_description": "Neurological events including Guillain-Barre, encephalitis, and transverse myelitis are acknowledged in post-marketing surveillance, but systematic pre-licensure autoimmune monitoring is not detailed."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "HIV-infected individuals are mentioned with reference to ACIP recommendations. Immunocompromised individuals are contraindicated. Pregnant women were enrolled in a pregnancy exposure registry (1522 women from 1995-2013). No data available for children less than 12 months. Geriatric studies did not include sufficient seronegative subjects aged 65+ to determine response differences.",
+      "level_description": "Some vulnerable populations were addressed (pregnancy registry), but immunocompromised patients are contraindicated rather than studied, and geriatric data is insufficient."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Statistical significance was reported: adverse reactions 'at a significantly (p<0.05) greater rate.' Efficacy estimates with 95% confidence intervals: 'estimated efficacy of 94% (95% CI, 93%, 96%)' and '90% (95% CI, 82%, 96%).' Comparison between 1-dose and 2-dose regimens: 'p<0.001' for efficacy difference. Seroconversion rates and GMTs with confidence intervals are provided in Table 4.",
+      "level_description": "Statistical methods include p-values, 95% confidence intervals, and comparative efficacy analyses between dosing regimens."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Multiple detailed tables (Tables 1-4) present specific percentages, sample sizes, and confidence intervals. Individual adverse event rates are quantified (e.g., fever 14.7%, injection-site complaints 19.3%). Clinical trial identifiers provided (NCT00432523). Breakthrough case data and person-years of follow-up are specified. Referenced clinical studies (18 references) are listed.",
+      "level_description": "Comprehensive data tables with specific rates, confidence intervals, and clinical trial identifiers. Published references support findings."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Section 6.2 provides extensive post-marketing adverse events. VAERS reporting encouraged with contact information. Pregnancy exposure registry maintained 1995-2013 with 1,522 women enrolled. Post-marketing experience documented vaccine virus transmission. Herpes zoster cases tracked. The document states events are 'reported voluntarily from a population of uncertain size.'",
+      "level_description": "Robust post-marketing surveillance including VAERS, a dedicated pregnancy registry spanning 18 years, and extensive post-marketing adverse event documentation."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose conflicts of interest for clinical trial investigators. The manufacturer (Merck Sharp & Dohme LLC) is identified. Studies were conducted at Merck Research Laboratories. No independent funding sources or investigator financial disclosures are mentioned in the prescribing information.",
+      "level_description": "No conflict of interest disclosures for clinical trial investigators or independent oversight are provided in the package insert."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality rates during clinical trials. Deaths are not discussed in the clinical trials section. Serious adverse events are mentioned but mortality is not specifically addressed. Post-marketing surveillance does not include mortality data.",
+      "level_description": "All-cause mortality data from clinical trials is not reported in the prescribing information."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VARIVAX clinical trials demonstrate several strengths including large pediatric sample sizes (over 9,400 children), exemplary long-term follow-up (up to 10 years), clear age-stratified data presentation, and robust post-marketing surveillance including an 18-year pregnancy registry. However, significant limitations exist: the pivotal placebo-controlled trial used a prior formulation (not the currently marketed refrigerator-stable product), no placebo-controlled trials were conducted in adults, and the document lacks mortality data and conflict of interest disclosures. While the overall evidence base is adequate for demonstrating efficacy (94-98% against varicella), the trial design limitations regarding the current formulation and absence of key safety transparency metrics warrant consideration."
+  }
+}

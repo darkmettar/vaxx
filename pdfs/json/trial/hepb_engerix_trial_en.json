@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepb_engerix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document describes 36 clinical studies with 5,071 subjects but does not mention any placebo-controlled trials. Studies compared vaccine groups, used matched controls (e.g., diabetic vs non-diabetic subjects), or measured immunogenicity without placebo groups. The neonatal efficacy study compared against expected carrier rate (70%) rather than a placebo group.",
+      "level_description": "No placebo-controlled trials are described in the prescribing information. Comparisons were made to historical/expected rates or between different populations/schedules."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not mention blinding methodology in any of the clinical trials described. No reference to double-blind, single-blind, or blinding procedures for investigators or participants.",
+      "level_description": "No information about blinding is provided for any of the clinical studies referenced in the package insert."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not describe randomization methods for any clinical trials. Studies are described as comparing groups or populations but without mention of random assignment procedures.",
+      "level_description": "No randomization methodology is described in the prescribing information for any of the referenced trials."
+    },
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "In 36 clinical studies, 13,495 doses were administered to 5,071 healthy adults and children plus healthy neonates. Specific pediatric numbers: 58 neonates in high-risk efficacy study; 381 neonates in 0,1,2-month schedule; 52 neonates in 0,1,6-month schedule; 242 children aged 6 months through 10 years; 181 + 161 children/adolescents aged 5-16 years; 119 + 122 adolescents aged 11-19 years.",
+      "level_description": "Pediatric sample sizes are modest but documented. The neonatal efficacy study had only 58 subjects, while larger immunogenicity studies had several hundred pediatric participants across different age groups."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Adverse reactions were monitored for only 4 days post-administration in the 36 clinical studies. The neonatal efficacy study had 12-month follow-up. Homosexual men study had 18-month follow-up after completing immunization. SAEs in diabetic study monitored through 30 days following last vaccination.",
+      "level_description": "Safety follow-up was very short (4 days) for routine adverse events. Efficacy follow-up varied from 12-18 months in specific studies, but long-term safety monitoring beyond 30 days was not systematically performed."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document provides separate data for: neonates (born to HBsAg-positive/negative mothers), children birth through 10 years, adolescents 11-19 years (with 10 mcg and 20 mcg doses), adults 16-65 years, adults 40+ years, and adults on hemodialysis. Dosing schedules differ by age group.",
+      "level_description": "Clinical data is clearly stratified by age groups with separate immunogenicity results reported for neonates, children, adolescents, and various adult age ranges."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Studies enrolled 'healthy adults and children who were initially seronegative for hepatitis B markers, and healthy neonates.' Specific populations described include: neonates of HBsAg-positive mothers, homosexual men aged 16-59, adults with chronic hepatitis C aged 25-67, hemodialysis patients, and adults with type 2 diabetes. No detailed exclusion criteria provided.",
+      "level_description": "Basic inclusion criteria (seronegative, healthy) are mentioned with some population characteristics, but detailed inclusion/exclusion criteria for clinical trials are not provided in the prescribing information."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A symptom checklist was used in clinical trials. Adverse reactions are categorized by system organ class (Nervous System Disorders, General Disorders and Administration Site Conditions, etc.) and by incidence rate (1-10%, <1%). Parent or guardian completed forms for children and neonates with specific notation that neonatal checklist did not include headache, fatigue, or dizziness.",
+      "level_description": "Standardized symptom checklists were used with systematic categorization of adverse events by organ system and frequency. Age-appropriate modifications were made for neonatal assessments."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "In the diabetic study, 'Serious adverse events were monitored through 30 days following the last vaccination. SAEs occurred in 3.8% of diabetic subjects and 1.6% of controls. No SAEs were deemed related to ENGERIX-B.' General clinical trials monitored only for 4 days post-administration.",
+      "level_description": "SAE monitoring was performed in at least one study (30 days in diabetic trial), but routine clinical trial monitoring was limited to 4 days. SAE monitoring methodology was not consistently described across all trials."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 5.7 states: 'Results from 2 clinical studies indicate that there is no association between hepatitis B vaccination and the development of multiple sclerosis, and that vaccination with hepatitis B vaccine does not appear to increase the short-term risk of relapse in multiple sclerosis.' Postmarketing lists neurological events: encephalitis, encephalopathy, Guillain-Barre syndrome, Bell's palsy, multiple sclerosis, optic neuritis, transverse myelitis.",
+      "level_description": "Two studies specifically examined multiple sclerosis risk. However, systematic monitoring for autoimmune/neurological outcomes in pre-licensure trials is not described; such events are primarily reported through postmarketing surveillance."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies included: adults on hemodialysis (n=56), adults with type 2 diabetes (416 diabetic + 258 controls), adults with chronic hepatitis C (n=67), immunocompromised persons (mentioned in Section 5.6), premature infants (warnings in 5.2 and 5.3), infants <2000g, and elderly >60 years. Lower responses documented in hemodialysis and older adults.",
+      "level_description": "Multiple vulnerable populations were studied including hemodialysis patients, diabetics, hepatitis C patients, premature infants, and elderly. Warnings provided for immunocompromised individuals and premature infants."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "GMTs (Geometric Mean Titers) and 95% confidence intervals are reported for some studies (e.g., adolescents GMT 1,989 mIU/mL, 95% CI: 1,318-3,020). P-values reported for one comparison (P=0.02 and P=0.18 for schedule comparisons). Seroprotection rates provided as percentages. No sample size calculations, power analyses, or ITT/PP designations mentioned.",
+      "level_description": "Basic statistical measures (GMTs, CIs, percentages) are reported. Some hypothesis testing with p-values. However, detailed statistical methodology including power calculations and analysis populations are not described."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Summary results are provided including sample sizes, seroprotection rates, and GMTs for various populations. Individual trial data not provided. References to 8 published studies are included. The document notes '36 clinical studies' without providing detailed breakdown of each study's methodology and results.",
+      "level_description": "Aggregate results are presented with some references to published literature, but individual patient data, full study protocols, and complete adverse event data are not provided in the package insert."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 provides extensive postmarketing adverse reactions organized by system organ class. States: 'Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the vaccine.' VAERS reporting encouraged with contact information provided.",
+      "level_description": "Comprehensive postmarketing surveillance data is presented with detailed adverse event listing by organ system. VAERS reporting system is referenced with contact information for reporting suspected reactions."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose conflicts of interest, funding sources for clinical trials, or relationships between investigators and GlaxoSmithKline. The vaccine is manufactured by GlaxoSmithKline Biologicals.",
+      "level_description": "No conflict of interest disclosures, study funding information, or investigator relationships are provided in the prescribing information."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. Deaths are not mentioned in the adverse reactions sections for clinical trials or postmarketing surveillance.",
+      "level_description": "No mortality data is provided in the prescribing information. All-cause mortality was not reported as an endpoint or outcome in any of the described clinical studies."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ENGERIX-B's clinical trial evidence as presented in the prescribing information has significant methodological limitations. While the vaccine was studied in multiple populations across 36 clinical studies with over 5,000 subjects, fundamental aspects of rigorous trial design are absent or undocumented: no placebo controls, no described blinding or randomization, and very short (4-day) safety follow-up. Strengths include separate age group analyses, standardized adverse event collection using symptom checklists, studies in vulnerable populations (hemodialysis, diabetics, premature infants), and comprehensive postmarketing surveillance. The neonatal efficacy study demonstrated 95% protection against chronic carrier state in high-risk infants, though based on only 58 subjects. The absence of placebo-controlled trials, lack of long-term safety monitoring, and missing mortality data represent notable gaps in the documented evidence base."
+  }
+}

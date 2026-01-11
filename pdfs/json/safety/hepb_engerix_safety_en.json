@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_engerix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "5,071 total subjects across 36 clinical studies received 13,495 doses, including healthy neonates and children. Specific pediatric studies included 381 infants (0,1,2 month schedule), 52 infants (0,1,6 month schedule), 242 children aged 6 months to 10 years, and 181 children/adolescents aged 5-16 years. Neonatal efficacy study included 58 high-risk neonates."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Safety monitoring was limited to only 4 days post-administration in clinical trials. While immunogenicity was assessed at various timepoints (Month 4, 7, 8, 12, 13), active safety surveillance was extremely short. The neonatal efficacy study had 12-month follow-up for efficacy but not detailed safety monitoring."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The diabetes study included 258 control subjects without diabetes compared to 416 diabetic subjects. However, most other trials appear to be single-arm studies without placebo or active comparator groups for safety evaluation. No true placebo-controlled trials are described for the pediatric population."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse reactions were collected using symptom checklists for 4 days post-vaccination. Parent/guardian completed forms for children and neonates. However, the 4-day window is very limited. Serious adverse events in the diabetes trial were monitored for 30 days post-last vaccination."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Clinical trials reported dizziness, headache, and somnolence at 1-10% or <1% incidence. However, systematic neurological monitoring protocols are not described. Post-marketing reports include serious neurological events (encephalitis, encephalopathy, Guillain-Barre syndrome, Bell's palsy, seizures, multiple sclerosis, transverse myelitis) but causal relationship not established."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studies included premature infants (<2,000g birth weight), infants born to HBsAg-positive mothers, hemodialysis patients, adults with type 2 diabetes, elderly (>60 years), and immunocompromised persons. Specific warnings exist for low birth weight infants (apnea risk) and immunocompromised individuals (diminished response). Pregnancy registry data from TWINRIX included 245 women."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Adverse reaction frequencies are provided (22% injection site soreness, 14% fatigue) with breakdown by incidence categories (1-10%, <1%). However, detailed pediatric-specific safety tables are not provided, and individual study-level data is not presented. SAE rates reported only for diabetes trial (3.8% diabetics, 1.6% controls)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Comprehensive post-marketing section (Section 6.2) lists adverse events by system organ class including serious events: thrombocytopenia, anaphylaxis, encephalitis, Guillain-Barre syndrome, Stevens-Johnson syndrome, and others. VAERS reporting information provided. Document acknowledges limitations of voluntary reporting for establishing frequency or causality."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ENGERIX-B has adequate pediatric sample sizes across multiple age groups and comprehensive post-marketing surveillance. However, the pre-licensure safety follow-up of only 4 days is notably insufficient for detecting delayed adverse events. Most trials lacked true placebo controls for safety comparison. Vulnerable populations were studied but neurological monitoring was not systematic. The vaccine has been on market since 1989 with extensive real-world use, but controlled safety data has significant limitations."
+  }
+}

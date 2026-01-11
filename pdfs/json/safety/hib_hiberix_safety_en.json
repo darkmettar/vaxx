@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_hiberix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study 1 enrolled 2,963 children receiving HIBERIX for the primary series (2, 4, 6 months) and 2,336 for the booster dose. An additional 1,008 children received HIBERIX as a booster across 7 supplementary studies. These sample sizes provide reasonable statistical power to detect common adverse events, though rare events may still be missed."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Solicited adverse reactions were only monitored for 4 days post-vaccination (day of vaccination plus 3 days). One study mentions 31-day follow-up for serious adverse reactions (2 of 1,008 subjects reported events in that window). No long-term follow-up (months to years) is documented for detecting delayed adverse effects."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study 1 was a randomized, controlled trial comparing HIBERIX to a U.S.-licensed monovalent Haemophilus b Conjugate Vaccine (Control PRP-T, Sanofi Pasteur) with n=520, and a combined DTaP-IPV/Hib vaccine (Sanofi Pasteur) with n=520. However, the 7 additional booster studies lacked a U.S.-licensed comparator group."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse reactions (pain, redness, swelling, irritability, drowsiness, fever, loss of appetite, fussiness, restlessness) were actively collected within 4 days of each dose. However, the surveillance window is very short. Serious adverse reactions were recorded but the document does not detail an active surveillance protocol beyond self-reporting mechanisms."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The insert mentions warnings about Guillain-Barre Syndrome (if occurred within 6 weeks of prior tetanus-containing vaccine), syncope with transient neurological signs (visual disturbance, paresthesia, tonic-clonic movements), and apnea in premature infants. Clinical trial data documented 2 seizure events: one convulsion on Day 14 after Dose 1 and one febrile seizure on Day 1 after Dose 4 (booster). Postmarketing reports include convulsions (with or without fever) and hypotonic-hyporesponsive episodes, but no systematic neurological screening protocol is described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document includes warnings about premature infants (apnea risk) and immunocompromised children (safety and effectiveness not evaluated). Demographics in Study 1 noted 51.2% male, 61% white, 8% Asian, 9% black, 22% other racial/ethnic groups. However, no stratified safety analyses for subgroups (e.g., by age within the 6-week to 4-year range, prematurity status, or underlying conditions) are presented."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables present solicited adverse reaction rates by dose and vaccine group (Tables 1, 2, 3). Percentages for Grade 3 (severe) reactions are provided. Study 1 is identified by clinical trial number (NCT01000974). However, raw data, individual participant data, and full study protocols are not provided in the package insert."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Section 6.2 lists postmarketing adverse reactions including extensive limb swelling, allergic reactions (anaphylaxis), angioedema, convulsions, hypotonic-hyporesponsive episodes, somnolence, syncope, apnea, rash, and urticaria. The insert acknowledges these are voluntary reports from a population of uncertain size, making frequency estimates and causal relationships impossible to establish. VAERS reporting is encouraged but no active postmarketing studies are described."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "HIBERIX demonstrates adequate pediatric sample sizes (nearly 3,000 children in the main trial) with randomized controlled comparison to licensed vaccines. However, the safety evaluation has notable limitations: follow-up was restricted to only 4 days for solicited reactions (insufficient for detecting delayed effects), neurological monitoring was reactive rather than systematic, and vulnerable subgroups lacked dedicated safety analyses. Postmarketing surveillance relies on passive voluntary reporting. The documented serious neurological events (seizures) in clinical trials and postmarketing reports (convulsions, hypotonic-hyporesponsive episodes) warrant attention despite being reported at low rates."
+  }
+}

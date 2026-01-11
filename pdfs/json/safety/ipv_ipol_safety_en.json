@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "ipv_ipol",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "\u26a0\ufe0f",
+      "explanation": "US studies included 219 infants (one study), over 700 infants (three studies), and over 1,300 infants (four additional studies). Outside US, over 3,000 infants studied with immunogenicity data from 1,485. Combined pediatric sample exceeds 2,000, but distributed across multiple small studies rather than large unified trials."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "\ud83d\udd34",
+      "explanation": "Safety monitoring limited to 48-72 hours post-vaccination as shown in Table 2 (reactions tracked at 6, 24, and 48 hours). No long-term safety follow-up documented. Immunogenicity persistence was studied up to 6-10 years, but this did not include systematic safety assessments."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "\u26a0\ufe0f",
+      "explanation": "Studies compared IPOL given concomitantly with DTP versus DTP given alone. This allows comparison of added reactogenicity from IPV but does not constitute a true placebo-controlled study. No saline placebo control group documented."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "\u26a0\ufe0f",
+      "explanation": "Table 2 demonstrates structured active surveillance at defined time points (6, 24, 48 hours) tracking specific local reactions (erythema, swelling, tenderness) and systemic reactions (fever, irritability, tiredness, anorexia, vomiting, persistent crying). However, surveillance duration was very short (48-72 hours maximum)."
+    },
+    "neurological_monitoring": {
+      "rating": "insufficient",
+      "emoji": "\ud83d\udd34",
+      "explanation": "No systematic neurological monitoring protocol described in clinical trials. The document notes GBS has been temporally associated with another inactivated poliovirus vaccine but states no causal relationship with IPOL has been established. Post-marketing reports include convulsions, febrile convulsions, paresthesia, somnolence, and syncope, but these were not systematically monitored during trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "insufficient",
+      "emoji": "\ud83d\udd34",
+      "explanation": "Document notes IPOL should be used in immunodeficient patients and states safety in infants below 6 weeks has not been established. However, no dedicated safety studies in vulnerable populations (premature infants, immunocompromised children, those with neurological conditions) are documented. One reference mentions premature and term infants but relates to immune response, not safety."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "\u26a0\ufe0f",
+      "explanation": "Table 2 provides detailed reaction rates at specific time points with sample sizes. However, several key references cite 'unpublished data available from Sanofi Pasteur SA' or 'Sanofi Pasteur Inc.' (references 11 and 12), limiting independent verification. Individual patient-level data not available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "\u2705",
+      "explanation": "Document includes a post-marketing experience section listing adverse events identified during postapproval use including lymphadenopathy, injection site reactions, hypersensitivity/anaphylaxis, arthralgia, myalgia, convulsions, rash, and urticaria. References VAERS reporting system and includes instructions for reporting adverse events to manufacturer and DHHS."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "\u26a0\ufe0f",
+    "summary": "IPOL package insert documents pediatric safety data from multiple studies totaling several thousand infants, but with significant limitations. Follow-up duration was restricted to 48-72 hours, neurological monitoring was not systematic, and vulnerable subgroup data is absent. While active surveillance was employed during the short observation period and post-marketing surveillance exists, key safety data relies on unpublished manufacturer records. The vaccine has a long history of use since 1988 with reasonable post-marketing safety signal detection, but the pre-licensure safety evidence in the package insert does not meet modern clinical trial standards."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "All ten clinical studies were randomized, active-controlled trials comparing MenQuadfi to other licensed meningococcal vaccines (Menveo, Menactra, or Menomune). No placebo-controlled trials were conducted. Study 1 and 2 compared to Menveo for 4-dose infant series; Study 3 compared to Menveo and Menactra for 2-dose series; Study 4 compared to Menveo in children 2-9 years; Studies 5-6 compared to Menveo/Menactra in adolescents and adults; Study 7 compared to Menomune in adults 56+ years.",
+      "level_description": "No placebo control was used in any trial. All comparisons were against active comparator vaccines (other licensed meningococcal vaccines), which limits the ability to assess true vaccine-attributable adverse events versus background rates."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document describes trials as 'randomized, active-controlled, multi-center clinical studies' but does not specify whether trials were blinded, single-blind, double-blind, or open-label. Observer-blinding may have been used for immunogenicity assessments but is not confirmed.",
+      "level_description": "The prescribing information does not provide information about blinding methodology. The absence of blinding description suggests the trials may have been open-label, which could introduce observer bias in adverse event reporting."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document states safety was evaluated in 'ten randomized, active-controlled, multi-center clinical studies conducted in the U.S. and Puerto Rico.' Enrollment was stratified by age category in some studies (e.g., Study 7: 56-64 years 44.3%, 65-74 years 39.7%, 75+ years 15.9%).",
+      "level_description": "Randomization is clearly stated for all trials with stratification by age groups where appropriate. However, details on randomization methods (block randomization, concealment) are not provided in the prescribing information."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "A total of 4,273 participants younger than 2 years received at least one dose (N=3,807 in 4-dose series, N=466 in 2-dose series). Study 1 included 1,727 MenQuadfi recipients (1,375 completed full 4-dose series). Study 2 included 2,080 MenQuadfi recipients (1,836 completed 4-dose series). Study 3 included 370 participants in 2-dose series (6-13 months) and 96 in 2-dose series (17-23 months). Study 4 included 498 children ages 2-9 years. Studies 5 and 6 included 3,196 adolescents ages 10-17 years.",
+      "level_description": "Robust pediatric sample sizes across multiple age strata with over 4,200 infants under 2 years, approximately 500 children ages 2-9 years, and over 3,000 adolescents. Studies provide excellent statistical power for safety assessment in pediatric populations."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participants were monitored for immediate reactions for 30 minutes post-vaccination. Solicited reactions were recorded daily for 7 days. Unsolicited adverse events were collected within 30 days. Medically attended events and SAEs were collected for at least 6 months after vaccination for all studies except Study 10 (NCT04142242), where safety data were collected for at least 1 month.",
+      "level_description": "Follow-up duration of 6 months for SAEs in most studies is adequate for detecting acute and subacute adverse events. Study 10 with only 1 month follow-up is a limitation. Longer follow-up (1-2 years) would strengthen long-term safety assessment."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Distinct safety analyses presented for: infants 6 weeks-23 months (4-dose and 2-dose series), children 2-9 years (Study 4), adolescents 10-17 years (Studies 5-6), adults 18-55 years (Study 6), adults 56+ years (Study 7), and elderly 59+ years (Study 10). Preterm infants (31-37 weeks gestational age) were specifically analyzed with no notable differences noted between preterm and full-term infants.",
+      "level_description": "Comprehensive age stratification with separate adverse reaction tables for each age group. Specific attention to preterm infants (7.7% of Study 1, 4.3% of Study 2). Results clearly differentiated by age category throughout the document."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document notes contraindications (severe allergic reaction to vaccine components or tetanus toxoid-containing vaccines) and warnings for immunocompromised individuals, those with complement deficiencies, and history of GBS. Demographic characteristics of study populations are provided including sex, race, ethnicity, and Hispanic/Latino percentage. Explicit inclusion/exclusion criteria are not fully detailed.",
+      "level_description": "Basic population characteristics are described (healthy, meningococcal vaccine-naive for some studies, prior vaccination history for booster studies) but comprehensive inclusion/exclusion criteria are not enumerated in the prescribing information."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Standardized grading scales used consistently: Grade 3 for injection site tenderness (cries when limb mobilized), erythema/swelling (>=50mm), fever (>=103.1F/39.5C in infants, >=102.1F/39.0C in older children/adults), vomiting (>=6 episodes/24hrs or requiring parenteral hydration), crying abnormal (>3 hours), drowsiness (sleeping most of time or difficult to wake), appetite loss (refuses >=3 feeds/meals or most feeds), irritability (inconsolable), myalgia/headache/malaise (prevents daily activity).",
+      "level_description": "Comprehensive standardized grading system with clear definitions for Grade 3 severity across all solicited adverse reactions. Consistent application across all age groups and studies enables meaningful comparisons."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs were collected for at least 6 months post-vaccination (1 month for Study 10). SAE rates reported: 5.3% MenQuadfi vs 3.6% Menveo in 4-dose infant series (Studies 1-2), 1.6% vs 3.3% in 2-dose series 6-13 months (Study 3), 1.0% vs 3.9% in 2-dose series 17-23 months, 1.4% vs 0.6% in children 2-9 years (Study 4), 0.8% vs 0.8% in adolescents (Study 5), 0.3% vs 0.9% in adolescents (Study 6), 1.6% vs 0.6% in adults 18-55 years, 3.3% vs 3.3% in adults 56+ years. Two SAEs of febrile seizure were considered possibly related to vaccination.",
+      "level_description": "Systematic SAE collection with specified time frames and comparative rates between vaccine groups. Two possibly vaccine-related febrile seizures identified following 4th dose with concomitant vaccines. Most SAEs occurred >30 days post-vaccination and were deemed unrelated to vaccination."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 5.4 addresses GBS: 'Guillain-Barre syndrome has been reported in temporal relationship following administration of another U.S.-licensed meningococcal quadrivalent polysaccharide conjugate vaccine.' Syncope mentioned in warnings and reported in 3 participants (Study 5). Two febrile seizures possibly related to vaccination occurred in Study 2 following 4th dose when co-administered with MMR, varicella, and PCV13 at 12 months. Postmarketing reports include febrile seizure, convulsion, and syncope.",
+      "level_description": "GBS is acknowledged as a concern based on other meningococcal vaccines but no specific monitoring or data presented for MenQuadfi trials. Neurological events (syncope, febrile seizures) were tracked but systematic autoimmune monitoring was not detailed."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Preterm infants analyzed: Study 1 had 133 (7.7%) preterm infants (31-37 weeks gestational age, mostly 34-37 weeks), Study 2 had 89 (4.3%) preterm infants. 'No notable differences in rates and severity of adverse reactions between preterm and full-term infants.' Adults 65+ years studied (N=249) including 71 participants 75+ years. Immunocompromised individuals and complement deficiency patients noted in warnings but not specifically studied. Pregnancy registry exists but no clinical studies in pregnant women.",
+      "level_description": "Preterm infant analysis is commendable with separate safety evaluation. Elderly subgroups including those 75+ years studied. Immunocompromised, pregnant women, and those with chronic conditions were not systematically studied."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority analyses conducted with pre-specified criteria: lower limit of 2-sided 95% CI >-10% for seroresponse rates and percentage with hSBA titers >=1:8. Wilson Score method without continuity correction used for CI of differences. Exact binomial method for single proportions. Per-protocol analysis sets defined for immunogenicity endpoints.",
+      "level_description": "Clear non-inferiority criteria with appropriate statistical methods. Multiple endpoints evaluated with proper confidence intervals. Sample size calculations and power analyses are not provided in the prescribing information."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Clinical trial identifiers provided for all ten studies (NCT03537508, NCT03673462, NCT03691610, NCT03077438, NCT02199691, NCT02842853, NCT02842866, NCT02752906, NCT04084769, NCT04142242). Detailed tables present solicited adverse reaction rates by grade and vaccine group. GMTs and seroresponse rates provided with 95% CIs. Demographic characteristics reported for each study.",
+      "level_description": "NCT registration numbers enable access to full protocols and results. Comprehensive adverse reaction tables with severity grades. Individual-level data and complete statistical analysis plans are not included in prescribing information."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 Postmarketing Experience: 'Immune system disorder: Anaphylaxis and other forms of hypersensitivity. Nervous system disorder: Febrile seizure, convulsion, syncope.' Pregnancy exposure registry mentioned with contact number (call Sanofi Pasteur at 1-800-822-2463). VAERS reporting encouraged with contact information (1-800-822-7967 or www.vaers.hhs.gov). Sanofi Pasteur adverse reaction reporting: 1-800-822-2463.",
+      "level_description": "Postmarketing surveillance system established with VAERS integration and pregnancy registry. Some postmarketing adverse events already identified since 2020 approval. Appropriate acknowledgment that postmarketing data cannot reliably establish frequency or causality."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not provide information about funding sources, author conflicts of interest, or relationships between investigators and Sanofi Pasteur Inc. Manufactured by Sanofi Pasteur Inc., Swiftwater PA 18370 USA.",
+      "level_description": "No disclosure of conflicts of interest or funding sources for individual trials. The manufacturer (Sanofi Pasteur) conducted and sponsored all trials, which is standard but represents an inherent potential conflict not explicitly addressed."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not provide data on all-cause mortality during the clinical trials. SAEs are reported by percentage but deaths are not specifically enumerated or discussed.",
+      "level_description": "No mortality data presented in the prescribing information. While absence of mention may suggest no deaths occurred, explicit reporting of mortality outcomes (even if zero) would strengthen transparency."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MenQuadfi's clinical trial program demonstrates adequate methodology with ten randomized, active-controlled studies involving over 10,000 participants spanning 6 weeks through elderly adults. Key strengths include exemplary pediatric sample sizes (4,273 children under 2 years, 498 children 2-9 years, 3,196 adolescents), comprehensive age stratification with separate analyses for distinct age groups including preterm infants, standardized adverse event grading with clear severity definitions, and good data transparency with all ten NCT trial identifiers provided. Six-month SAE follow-up is adequate for most safety signal detection. Limitations include: absence of placebo controls (all active-comparator designs limit assessment of absolute adverse event rates); blinding status not specified; autoimmune/neurological monitoring acknowledged but not systematically studied for MenQuadfi specifically; conflict of interest disclosures and all-cause mortality data are absent. The vaccine demonstrated non-inferiority to licensed comparators for immunogenicity with comparable safety profiles. Postmarketing surveillance is established with VAERS and pregnancy registry integration."
+  }
+}

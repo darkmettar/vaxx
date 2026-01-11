@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_boostrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The U.S. Adolescent Study (NCT00109330) included 3,080 adolescents aged 10-18 years receiving BOOSTRIX and 1,034 receiving Td comparator. An additional German Adolescent Study included 319 adolescents aged 10-12 years. Total adolescent enrollment across initial-dose studies was 4,949 subjects, providing a reasonably robust sample for this age group."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse events were monitored for 4-15 days post-vaccination depending on the study. Unsolicited adverse events were monitored for 30-31 days. Serious adverse events were monitored for 6 months in initial-dose studies, but only 31 days in revaccination and some concomitant vaccine studies. Long-term safety follow-up beyond 6 months was not systematically conducted."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Multiple studies used active comparators: the U.S. Adolescent Study compared BOOSTRIX to licensed Td vaccine (MassBiologics); the U.S. Adult Study compared to ADACEL (Tdap by Sanofi Pasteur); the U.S. Elderly Study compared to DECAVAC (Td by Sanofi Pasteur). The pregnancy study (NCT02377349) used a saline placebo control group with 341 vaccine recipients and 346 placebo recipients."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studies used standardized diary cards to monitor solicited adverse events during the 4-15 day post-vaccination period. Local reactions (pain, redness, swelling, arm circumference increase) and general adverse events (headache, fatigue, gastrointestinal symptoms, fever) were systematically recorded with severity grading (Grade 1-3)."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document addresses neurological concerns through contraindications (encephalopathy within 7 days of prior pertussis vaccine) and warnings (Guillain-Barre syndrome risk, progressive neurologic disorders). Postmarketing reports include convulsions, encephalitis, facial palsy, and syncope. However, the clinical trials did not include systematic neurological assessments or specific neurological outcome endpoints beyond documenting serious adverse events."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studies were conducted across multiple age groups: adolescents (10-18 years), adults (19-64 years), elderly (65+ years including 299 subjects 75+ years), and pregnant women in the third trimester (341 subjects). The elderly study specifically evaluated safety in the geriatric population. Immunocompromised individuals were noted as potentially having reduced immune response but were not specifically studied."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The prescribing information provides detailed tables with percentages and confidence intervals for solicited adverse reactions across all age groups (Tables 2-8). ClinicalTrials.gov NCT numbers are provided for all studies, enabling verification. Specific rates for Grade 2-3 severity reactions are reported. Both local and systemic reactions are quantified with statistical comparisons between vaccine and control groups."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 documents postmarketing adverse events reported voluntarily since approval in 2005, including: blood/lymphatic disorders (lymphadenitis), immune disorders (anaphylaxis), cardiac disorders (myocarditis), injection site reactions, musculoskeletal disorders, nervous system disorders (convulsions, encephalitis, facial palsy), and skin disorders (angioedema, urticaria). A pregnancy exposure registry is maintained and VAERS reporting is encouraged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "BOOSTRIX has adequate safety documentation with large sample sizes across multiple age groups including adolescents (n=4,949), adults, elderly, and pregnant women. Clinical trials used appropriate active comparators and standardized diary-based surveillance. Key limitations include: follow-up duration of only 6 months maximum for serious adverse events, no systematic neurological assessment protocols, and reliance on passive postmarketing surveillance for rare events. The pregnancy safety data is based on a non-U.S. formulation with higher aluminum content (0.5 mg vs 0.3 mg per dose)."
+  }
+}

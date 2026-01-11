@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Pediatric trials (Studies 8, 9, 10) were active-controlled using Prevnar 13 as comparator, not placebo. Adult Study 1 used Prevnar 20/saline vs Prevnar 13/PPSV23 (saline as placebo for second dose only). Study 6 was open-label with Prevnar 13 as control. The efficacy evidence relies on CAPiTA trial (Prevnar 13) which was placebo-controlled, and original NCKP Prevnar trial which used investigational meningococcal conjugate vaccine as control.",
+      "level_description": "Active-controlled trials using predecessor vaccine as comparator; true placebo control only in referenced efficacy trials for Prevnar/Prevnar 13, not direct Prevnar 20 trials. Effectiveness inferred through immunobridging rather than direct placebo-controlled efficacy data."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Pediatric Studies 8, 9, and 10 were 'randomized, double-blind, active-controlled, clinical trials.' Study 11 was single-arm (open). Adult Studies 1, 2, 3, 4, 5, and 7 were randomized with double-blind components. Study 6 was explicitly 'open-label administration of Prevnar 20.'",
+      "level_description": "Pivotal infant trials (Studies 8-10) and main adult trial (Study 1) were double-blind. Some studies were open-label (Study 6) or single-arm (Study 11), but these were supplementary rather than primary."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study 8: randomized 1:1 to Prevnar 20 (N=1001) or Prevnar 13 (N=990). Study 9: randomized 2:1 to Prevnar 20 (N=1000) or Prevnar 13 (N=503). Study 10: randomized 1:1 to Prevnar 20 (N=231) or Prevnar 13 (N=227). Adult Study 1: randomly assigned 1:1 ratio for 60+ years, 3:1 ratio for younger cohorts. Study 7: randomized 1:1 ratio with stratification by prior pneumococcal vaccine status.",
+      "level_description": "Clear randomization schemes documented across all major trials with specified ratios and stratification factors where applicable."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Across 4 pediatric trials (Studies 8, 9, 10, and 11): 3063 participants received at least one dose of Prevnar 20, and 1720 received Prevnar 13. For infant 4-dose series (Studies 8-10): 2232 Prevnar 20, 1717 Prevnar 13 globally. US/PR: 1567 Prevnar 20, 1376 Prevnar 13. Study 11: 831 participants across 4 age groups (15-24 months, 2-5 years, 5-10 years, 10-18 years).",
+      "level_description": "Large pediatric sample sizes exceeding 3000 participants in the Prevnar 20 arm across multiple trials, adequate for detecting adverse events with frequency greater than approximately 1:1000."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited reactions: e-diary recording for 7 days (pediatric) or 10 days (adult local reactions). AEs: from first dose until 1 month after third dose, and from fourth dose through 1 month after fourth dose. SAEs and NDCMCs: from first dose through 6 months after last dose. Adult trials: SAE follow-up through 6 months after vaccination.",
+      "level_description": "6-month follow-up for serious adverse events and newly diagnosed chronic conditions is reasonable but relatively short for detecting rare delayed adverse events like autoimmune conditions."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Pediatric: 6 weeks-15 months (4-dose series), catch-up groups 15-24 months, 2-5 years, 5-10 years, 10-18 years. Adults: 18-49 years, 50-59 years, 60-64 years (immunobridging reference), 60+ years, 65+ years with prior vaccination status stratification. Geriatric subgroups noted: 65+, 70-79, 80+ years with diminished immune responses in older groups.",
+      "level_description": "Comprehensive age stratification with separate efficacy and safety analyses for multiple pediatric and adult age cohorts, including immunobridging analyses between age groups."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adult trials: 'healthy individuals and immunocompetent individuals with stable underlying conditions, including chronic cardiovascular disease, chronic pulmonary disease, renal disorders, diabetes mellitus, chronic liver disease.' Stable condition defined as 'not requiring significant change in therapy in the previous 6 weeks or any hospitalization for worsening disease within 12 weeks.' Study 9: 111 late preterm infants (>34 to <37 weeks gestational age) included.",
+      "level_description": "Clear stability criteria for underlying conditions; specific populations like preterm infants included. Immunocompromised explicitly excluded from data."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Solicited local reactions graded with specific criteria: pain (mild: hurts if gently touched; moderate: hurts with crying; severe: limits limb movement). Redness/swelling: mild >0-2.0 cm, moderate >2.0-7.0 cm, severe >7.0 cm. Fever: specific temperature thresholds (38.0-38.4, 38.4-38.9, 38.9-40.0, >40.0 degrees C). Systemic reactions graded (mild: easily consolable; moderate: requiring increased attention; severe: inconsolable). E-diary collection with caliper measurement specifications.",
+      "level_description": "Comprehensive standardized scales for solicited adverse reactions with specific severity definitions, objective measurement criteria (caliper units), and consistent e-diary collection methodology across sites."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "SAEs and NDCMCs reported from first dose through 6 months after last dose. Pediatric SAE rates: 4.5% (101/2232) Prevnar 20 vs 3.7% (64/1717) Prevnar 13. From dose 1 to 1 month after dose 3: 1.1% vs 1.2%. From dose 4 to 1 month after: 0.7% vs 0.5%. Adult SAE rates: 1.5% (67/4552) Prevnar 20 vs 1.8% (44/2496) controls within 6 months. Within 1 month: 0.4% in both groups.",
+      "level_description": "Active monitoring for SAEs through 6 months with documented rates showing comparable profiles between groups. No notable patterns or imbalances suggesting causal relationship to Prevnar 20."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Two febrile seizures in Prevnar 20 group: one serious (14 days after dose 4 with MMR/varicella), one non-serious (7 days after dose 4 with concurrent COVID-19). One injection site hypersensitivity (redness) within 30 minutes of Prevnar 20 after each of first 3 doses. Prevnar 13/Prevnar experience: hypotonic-hyporesponsive episodes (0.015% Prevnar 13, 0.071% Prevnar - all in Brazil trial with whole cell pertussis). Postmarketing: hypotonia (pediatric), apnea (pediatric).",
+      "level_description": "Neurological events documented reactively; no systematic prospective neurological or autoimmune monitoring protocol described. NDCMCs collected but no specific breakdown of autoimmune conditions provided."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Late preterm infants (>34 to <37 weeks) included in Study 9 (N=111: 77 Prevnar 20, 34 Prevnar 13). Warning: 'Apnea following intramuscular vaccination has been observed in some infants born prematurely.' Adults with chronic conditions: cardiovascular 5.5%, pulmonary/asthma 8.7%, diabetes 13.9%, liver disease 0.4%, smoking 12.9%. Immunocompromised: 'Safety and immunogenicity data on Prevnar 20 are not available.' Pregnancy: no adequate studies; rabbit developmental toxicity study showed no adverse effects.",
+      "level_description": "Preterm infants and adults with stable chronic conditions included; immunocompromised explicitly excluded. No pediatric data on children with underlying conditions beyond prematurity."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Noninferiority criteria: percentage difference lower bound >-10% for response rates; GMC ratio lower bound >0.5 (2-fold criterion). Methods: Clopper and Pearson for exact CIs, Miettinen and Nurminen for proportion differences, Student t distribution for GMCs. Regression models with covariates: vaccine group, sex, smoking status, age, baseline titers. Transparent reporting of serotypes not meeting NI criteria (1, 3, 4, 9V, 23F, 12F after dose 3).",
+      "level_description": "Rigorous pre-specified statistical methods with clearly defined noninferiority margins, appropriate covariate adjustment, and transparent reporting of both positive and negative results."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Clinical trial identifiers: NCT04382326, NCT04379713, NCT03512288, NCT04642079 (pediatric); NCT03760146, NCT03313037, NCT03828617, NCT02955160, NCT03642847, NCT03835975, NCT04526574 (adults). Detailed tables with percentages, GMCs, GMTs, response rates, and 95% confidence intervals. Sample sizes clearly specified for each analysis.",
+      "level_description": "Trial registration numbers for all major studies provided enabling verification. Detailed numerical data presented but individual-level data not publicly available in document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "VAERS reporting: 1-800-822-7967 or http://vaers.hhs.gov. Pfizer contact: 1-800-438-1985. Postmarketing experience from Prevnar 13 listed as relevant: lymphadenopathy, cyanosis (pediatric), vaccination-site dermatitis/pruritus/urticaria, anaphylactic/anaphylactoid reaction including shock, hypotonia (pediatric), apnea (pediatric), angioneurotic edema, erythema multiforme, pallor (pediatric).",
+      "level_description": "VAERS reporting mechanism clearly documented; postmarketing experience from predecessor Prevnar 13 included as relevant. Direct Prevnar 20 postmarketing data limited due to 2021 approval."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document identifies Pfizer Inc. as manufacturer (US Govt. License No. 3). Contact for adverse reaction reports: Pfizer Inc. at 1-800-438-1985. No disclosure of conflicts of interest, funding sources for trials, or investigator financial relationships included in prescribing information.",
+      "level_description": "No conflict of interest disclosures or funding transparency provided in the package insert."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "SAE rates reported (pediatric 4.5% vs 3.7%; adults 1.5% vs 1.8%) without mortality breakdown. No death counts or all-cause mortality data presented. Statement notes 'no notable patterns or imbalances between vaccine groups for specific categories of SAEs' but does not enumerate deaths.",
+      "level_description": "All-cause mortality data not reported in the document. Deaths, if any occurred during trials, are not specifically documented."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Prevnar 20 trials demonstrate strong methodology with exemplary features including large sample sizes (3063+ pediatric participants), proper randomization with specified ratios, comprehensive age stratification across pediatric and adult populations, standardized adverse event grading with e-diary collection, and rigorous statistical analysis with transparent noninferiority criteria. Key limitations include: (1) reliance on active comparator (Prevnar 13) rather than placebo control, with effectiveness inferred through immunobridging; (2) 6-month SAE follow-up that may miss delayed adverse events; (3) absence of all-cause mortality data; (4) no conflict of interest disclosures; (5) immunocompromised population exclusion; and (6) some indications approved under accelerated approval pending confirmatory trials. Overall, the trial design is methodologically sound for demonstrating comparable safety and immunogenicity to established vaccines, but lacks direct placebo-controlled efficacy evidence specific to Prevnar 20."
+  }
+}

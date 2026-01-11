@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_recombivax",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Only 147 healthy infants and children (up to 10 years of age) received 434 doses across three clinical studies. This is a very small sample size for a vaccine approved for universal infant use. No specific breakdown by age subgroups (neonates, infants under 1 year, toddlers) is provided."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Participants were monitored for only 5 days after each dose. This extremely short follow-up period is inadequate to detect delayed adverse events, autoimmune conditions, or long-term safety signals. The document explicitly states the duration of protective effect is unknown."
+    },
+    "comparison_group": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No placebo-controlled comparison group is documented for the safety trials. The clinical studies described are open-label without placebo comparators. Historical controls were used only for efficacy in the perinatal transmission study, not for safety assessment."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Adverse reactions were monitored after each dose, and specific reactions were recorded by system organ class. However, the surveillance was limited to 5 days post-vaccination. The document does not describe active solicitation methods, diary cards, or standardized assessment protocols."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No specific neurological monitoring or assessment protocols are described in the clinical trials section. Neurological adverse events (Guillain-Barre syndrome, multiple sclerosis, transverse myelitis, seizures, Bell's Palsy, encephalitis) appear only in post-marketing reports, indicating they were not prospectively assessed during trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Some vulnerable groups are addressed: premature infants (warning about apnea), infants <2000g (delayed vaccination guidance), and dialysis patients (separate formulation studied). However, specific safety data for these subgroups from clinical trials is not presented, and immunocompromised children are not specifically studied."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Adverse reaction rates are provided (0.2% injection site, 10.4% systemic in pediatrics; 17% and 15% respectively in adults). However, detailed tables with specific event frequencies, confidence intervals, and individual study protocols are not included. Immunogenicity data is reported but safety data lacks granularity."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A comprehensive list of post-marketing adverse events is provided including serious conditions (anaphylaxis, Guillain-Barre syndrome, multiple sclerosis, Stevens-Johnson syndrome, thrombocytopenia, autoimmune diseases). VAERS reporting is referenced, and the vaccine has been on the market since 1986 allowing substantial post-marketing observation."
+    }
+  },
+  "overall": {
+    "rating": "insufficient",
+    "emoji": "🔴",
+    "summary": "RECOMBIVAX HB's pre-licensure safety data has significant limitations: only 147 pediatric subjects studied, extremely short 5-day follow-up periods, no placebo control group, and no systematic neurological monitoring. While post-marketing surveillance has accumulated extensive data since 1986 approval, the original clinical trial design falls short of modern safety assessment standards for a vaccine given to millions of newborns annually."
+  }
+}

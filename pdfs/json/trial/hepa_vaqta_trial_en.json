@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepa_vaqta",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Monroe Efficacy Study was a 'randomized, double-blind, placebo-controlled study involving 1037 susceptible healthy children and adolescents 2 through 16 years of age.' The placebo was 'alum diluent' (amorphous aluminum hydroxyphosphate sulfate), which is the adjuvant component of the vaccine rather than a true inert placebo. N=519 received VAQTA, N=518 received placebo.",
+      "level_description": "Placebo-controlled trial was conducted, but the placebo contained the aluminum adjuvant rather than an inert substance like saline, which may mask adjuvant-related adverse events."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Monroe Efficacy Study is described as a 'double-blind, placebo-controlled efficacy trial.' The document notes that 'Second injection of placebo not administered because code for the trial was broken' after demonstration of efficacy.",
+      "level_description": "Double-blinding was implemented for the efficacy trial. However, many other clinical trials described in the document were open-label studies."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The Monroe Efficacy Study was 'randomized.' Multiple other trials described also used randomization: 'children 12 to 23 months of age were randomized to receive a first dose of VAQTA with ProQuad and Prevnar concomitantly (N=330) or a first dose of ProQuad and pneumococcal 7-valent conjugate vaccine concomitantly.'",
+      "level_description": "Randomization was performed in the pivotal efficacy trial and several other clinical studies. The specific method of randomization is not described in detail."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The safety of VAQTA has been evaluated in over 10,000 subjects 1 year to 85 years of age. Specifically: '4374 children 12 to 23 months of age received one or two 25U doses of VAQTA' and '2615 healthy children 2 years through 18 years of age received at least one dose of VAQTA.' The Monroe Efficacy Study included 1037 children/adolescents 2-16 years.",
+      "level_description": "Large pediatric sample sizes exceeding 6,000 children across multiple age groups provide robust safety data for pediatric populations."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Subjects were followed 'days 1 to 5 postvaccination for fever and local adverse reactions and days 1 to 14 for systemic adverse events.' For serious adverse events in children 12-23 months: 'The serious adverse events were collected over the period defined in each protocol (14, 28, or 42 days).' Long-term efficacy follow-up extended to 9-10 years for disease occurrence.",
+      "level_description": "Short-term safety follow-up of 5-14 days for most adverse events is insufficient to capture delayed reactions. Serious adverse events were tracked for only 14-42 days. Long-term follow-up focused on efficacy rather than comprehensive safety monitoring."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety and immunogenicity data are presented separately for: Children 12-23 months of age, Children/Adolescents 2-18 years of age, and Adults 19 years and older. Detailed tables provide age-specific adverse reaction rates.",
+      "level_description": "Comprehensive separation of data by age groups with distinct pediatric, adolescent, and adult populations analyzed separately."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document mentions 'susceptible healthy children and adolescents' and 'initially seronegative' subjects were included. The Monroe study included subjects 'in a U.S. community with recurrent outbreaks of hepatitis A.' Race and gender distributions are provided for all studies.",
+      "level_description": "Some demographic information and serostatus criteria are mentioned, but detailed inclusion/exclusion criteria are not provided in the package insert."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adverse events are categorized by MedDRA system organ classes (e.g., 'General disorders and administration site conditions', 'Infections and Infestations', 'Nervous system disorders'). Local and systemic reactions are reported with specific percentages and organized into solicited and unsolicited categories.",
+      "level_description": "Standardized adverse event terminology and systematic categorization was used across trials. Solicited reactions were recorded on diary cards."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Across five studies in subjects 12-23 months of age, '0.7% (32/4374) of subjects reported a serious adverse event following any dose of VAQTA, and 0.1% (5/4374) of subjects reported a serious adverse event judged to be vaccine related.' Vaccine-related serious adverse events included 'febrile seizure (0.05%), dehydration (0.02%), gastroenteritis (0.02%), and cellulitis (0.02%).'",
+      "level_description": "Serious adverse events were tracked and reported with specific rates and causality assessments by investigators. However, monitoring periods were limited (14-42 days)."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Post-marketing experience reports: 'Nervous system disorders: Guillain-Barre syndrome; cerebellar ataxia; encephalitis.' Also 'Blood and lymphatic disorders: Thrombocytopenia.' Clinical trials did not specifically track or report these conditions.",
+      "level_description": "Autoimmune and neurological conditions were not systematically assessed in clinical trials but have been identified through post-marketing surveillance. No pre-specified monitoring for these outcomes in trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Limited pregnancy data: '36 women with a known pregnancy outcome were exposed to VAQTA during pregnancy' from post-approval reports. 'Immunocompromised persons may have a diminished immune response to VAQTA.' Geriatric population included 4769 persons 65+ years in post-marketing study. No specific data on children with underlying conditions.",
+      "level_description": "Some post-approval pregnancy data is available. Immunocompromised individuals are mentioned but with limited specific data. Children with chronic conditions or special needs were not specifically studied."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "95% confidence intervals are provided for seroconversion rates and GMTs throughout: e.g., '96% (95% CI: 93.7%, 97.5%) seroconverted.' Statistical significance noted: 'p<0.001' for efficacy comparison. The document states 'There were no statistically significant differences in the rates of any adverse events or adverse reactions between vaccine and placebo recipients after Dose 1.'",
+      "level_description": "Standard statistical methods including confidence intervals and p-values were used. Pre-specified efficacy endpoints were met with statistical significance."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Detailed tables present adverse reaction rates with specific percentages and sample sizes. Demographic data including race and gender distribution is provided for all major studies. Individual study designs and sample sizes are described.",
+      "level_description": "Package insert provides substantial detail on study populations, adverse event rates, and immunogenicity data. Individual participant data and full study protocols are not publicly available in this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A post-marketing 60-day safety surveillance study at a large HMO included 42,110 individuals (13,735 children/adolescents and 28,375 adults). 'Safety was passively monitored by electronic search of the automated medical records database for emergency room and outpatient visits, hospitalizations, and deaths.' Post-marketing adverse events reported include Guillain-Barre syndrome, encephalitis, and thrombocytopenia.",
+      "level_description": "Post-marketing surveillance system is in place with a large observational study conducted. VAERS reporting is mentioned. However, 60-day follow-up is relatively short."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not provide information about conflicts of interest, study funding sources, or investigator financial relationships. Merck Sharp & Dohme Corp. is identified as the manufacturer.",
+      "level_description": "No disclosure of conflicts of interest or funding arrangements is provided in the package insert. The vaccine manufacturer conducted the trials."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The post-marketing study included 'deaths' in the database search categories. No specific mortality data or death counts from clinical trials are reported in the package insert. No statement that no deaths occurred.",
+      "level_description": "Deaths were monitored in post-marketing surveillance, but no mortality data from clinical trials is presented. All-cause mortality rates are not explicitly reported."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VAQTA clinical trials demonstrate adequate methodology with a pivotal double-blind, randomized, placebo-controlled efficacy study (Monroe study) showing 100% efficacy. Sample sizes are exemplary, particularly for pediatric populations (>6,000 children). Key limitations include: use of aluminum adjuvant as placebo rather than inert saline, short safety follow-up periods (5-14 days for most adverse events, 14-42 days for serious events), absence of systematic autoimmune/neurological monitoring in trials, no reported conflict of interest disclosures, and incomplete all-cause mortality reporting. Post-marketing surveillance has identified serious neurological events not detected in pre-licensure trials."
+  }
+}

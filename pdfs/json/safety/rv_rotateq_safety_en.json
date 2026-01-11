@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "rv_rotateq",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Exceptionally large clinical trial program with 71,725 infants evaluated in 3 placebo-controlled trials (36,165 vaccine, 35,560 placebo). The REST study (Study 006) alone included 34,837 vaccine and 34,788 placebo recipients for intussusception surveillance. Additional post-marketing surveillance evaluated over 1.2 million vaccinations."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Parents/guardians contacted on days 7, 14, and 42 after each dose for adverse events. Intussusception surveillance continued every 6 weeks for 1 year after first dose. Efficacy followed through two rotavirus seasons. However, long-term follow-up beyond 2 years was not evaluated."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Properly designed placebo-controlled trials with balanced randomization. Detailed Safety Cohort included 11,711 infants (6,138 RotaTeq, 5,573 placebo). Post-marketing studies included concurrent and historical control groups for comparison."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Active surveillance for intussusception at 7, 14, and 42 days after each dose, then every 6 weeks for 1 year. Vaccination Report Cards used by parents to record temperature, diarrhea, vomiting daily for first week. Post-marketing PRISM program provided electronic active surveillance across 3 US health insurance plans."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Seizures were tracked and reported: 33 in vaccine vs 24 in placebo recipients within 42 days of any dose (not significant). Febrile seizures specifically monitored (5 vaccine, 5 placebo as serious adverse events). However, no systematic neurological assessment protocol described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Pre-term infants (25-36 weeks gestational age, n=2,070) were specifically studied with dedicated safety analysis. Data available for infants with controlled gastroesophageal reflux disease. However, immunocompromised infants explicitly excluded with no safety/efficacy data available for this population."
+    },
+    "data_transparency": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive tables provided for adverse events by dose, time interval, and severity. Detailed breakdowns of intussusception cases by day range. Deaths reported with causes (52 total: 25 vaccine, 27 placebo). Kawasaki disease cases disclosed despite wide confidence interval. Racial and gender distribution reported."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Robust post-marketing surveillance through VAERS and PRISM program. Large observational studies: PRISM evaluated >1.2 million vaccinations (2004-2011), another study analyzed 85,150 infants (2006-2009). Intussusception risk quantified at 1-1.5 excess cases per 100,000 first doses within 21 days. Multiple adverse events identified post-approval including anaphylaxis, Kawasaki disease, and SCID-related complications."
+    }
+  },
+  "overall": {
+    "rating": "exemplary",
+    "emoji": "⭐",
+    "summary": "RotaTeq demonstrates exemplary safety documentation with one of the largest pre-licensure clinical trial programs in vaccine history (71,725 infants). The REST study was specifically powered to detect intussusception risk after concerns with a prior rotavirus vaccine. Active surveillance protocols, placebo-controlled design, and extensive post-marketing monitoring through PRISM provide robust safety data. Post-marketing surveillance identified a small increased intussusception risk (1-1.5 excess cases per 100,000 first doses) that was not detected in clinical trials, demonstrating the value of continued surveillance. Pre-term infant data and transparent adverse event reporting strengthen the safety profile, though data gaps exist for immunocompromised populations."
+  }
+}

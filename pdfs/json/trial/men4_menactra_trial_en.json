@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "men4_menactra",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "The primary safety studies were randomized, active-controlled trials comparing Menactra to Menomune (A/C/Y/W-135 polysaccharide vaccine). For children 9-12 months, control groups received childhood vaccines (MMRV, PCV7, HepA) without Menactra. The Td vaccine concomitant study used Td+placebo as comparator. No true saline placebo-controlled trials were conducted.",
+      "level_description": "No inert placebo comparator was used in the primary efficacy/safety studies. Active comparators (Menomune polysaccharide vaccine) or other routine vaccines served as controls, which cannot adequately assess vaccine-specific adverse events."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "For the Td vaccine concomitant study: 'In a double-blind, randomized, controlled trial, 1021 participants aged 11 through 17 years received Td vaccine and Menactra concomitantly or Td vaccine followed one month later by Menactra.' For the Typhim Vi study: 'In a double-blind, randomized, controlled trial, 945 participants aged 18 through 55 years received Typhim Vi and Menactra concomitantly.' However, for the primary safety studies with Menomune: 'As the route of administration differed for the two vaccines (Menactra given intramuscularly, Menomune A/C/Y/W-135 given subcutaneously), study personnel collecting the safety data differed from personnel administering the vaccine.'",
+      "level_description": "Some concomitant vaccine studies were double-blind, but the primary comparative studies against Menomune could not be fully blinded due to different routes of administration. Observer-blinding was used instead. The infant/toddler primary safety study was not described as double-blind."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The three primary safety studies were randomized, active-controlled trials that enrolled participants 2-10 years of age (Menactra, N=1713; Menomune, N=1519), 11-18 years of age (Menactra, N=2270; Menomune, N=972) and 18-55 years of age (Menactra, N=1384; Menomune, N=1170). Multiple studies described as 'randomized' including the DAPTACEL/IPV concomitant study and Td/Typhim Vi studies.",
+      "level_description": "Multiple studies were described as randomized, though specific randomization methods (e.g., computer-generated sequences, stratification) were not detailed in the prescribing information."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The safety of Menactra was evaluated in four clinical studies that enrolled 3721 participants who received Menactra at 9 and 12 months of age. A control group of 997 children was enrolled at 12 months of age. The primary safety study enrolled 1256 children at 9 and 12 months. For ages 2-10: Menactra N=1713, Menomune N=1519. For ages 11-18: Menactra N=2270, Menomune N=972. Total Menactra recipients 2-55 years: 10,057.",
+      "level_description": "Large pediatric sample sizes were enrolled across multiple age groups: 3,721 infants/toddlers (9-12 months), 1,713 children (2-10 years), and 2,270 adolescents (11-18 years). These numbers are adequate for detecting common adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participants were monitored after each vaccination for 20 or 30 minutes for immediate reactions, depending on the study. Solicited injection site and systemic reactions were recorded in a diary card for 7 consecutive days after each vaccination. Participants were monitored for 28 days (30 days for infants and toddlers) for unsolicited adverse events and for 6 months post-vaccination for visits to an emergency room, unexpected visits to an office physician, and serious adverse events.",
+      "level_description": "Six-month follow-up for serious adverse events is adequate for detecting most acute and subacute safety signals. However, longer-term follow-up (1+ years) would be needed to detect rare delayed events."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety and immunogenicity data are presented separately for: Children 9-12 months of age, US Participants 2-10 years of age, Participants 11-18 years of age, and Participants 18-55 years of age. Tables 1-4 provide detailed solicited adverse reaction rates by age group. Immunogenicity data presented separately for ages 2-3 years, 4-10 years, 11-18 years, and 18-55 years.",
+      "level_description": "Excellent stratification by age with separate safety and immunogenicity analyses for infants (9-12 months), young children (2-10 years with subset of 2-3 years), adolescents (11-18 years), and adults (18-55 years). Detailed tables provided for each group."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document does not explicitly list inclusion/exclusion criteria for the clinical trials. It states contraindications: 'Severe allergic reaction (eg, anaphylaxis) after a previous dose of a meningococcal capsular polysaccharide-, diphtheria toxoid- or CRM197-containing vaccine, or to any component of Menactra.' Warnings mention individuals with GBS history, altered immunocompetence, and complement deficiency.",
+      "level_description": "Specific inclusion/exclusion criteria for clinical trials are not detailed in the prescribing information. Only contraindications and warnings for vaccine use are described."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse events were systematically graded. For injection site reactions: Grade 2 (1.0-2.0 inches), Grade 3 (>2.0 inches). For systemic reactions like fever: Grade 2 (>38.5C to <=39.5C), Grade 3 (>39.5C). Pain graded as: Grade 2 (interferes with normal activities), Grade 3 (disabling, unwilling to move arm). All solicited reactions recorded via diary cards for 7 consecutive days.",
+      "level_description": "Standardized grading scales were used for solicited adverse events with defined severity criteria (Grade 1/2/3 or Mild/Moderate/Severe). Systematic diary card collection and defined assessment timepoints were employed."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participants were monitored for 6 months post-vaccination for visits to an emergency room, unexpected visits to an office physician, and serious adverse events. Unsolicited adverse event information was obtained either by telephone interview or at an interim clinic visit. Information regarding adverse events that occurred in the 6-month post-vaccination time period was obtained via a scripted telephone interview. SAE rates reported: In children 2-10 years: 0.6% (Menactra) vs 0.7% (Menomune). In adolescents/adults: 1.0% (Menactra) vs 1.3% (Menomune).",
+      "level_description": "Active monitoring for SAEs was conducted through 6-month telephone follow-up and clinic visits, with emergency room and physician visits tracked. Specific SAE rates were reported for all age groups."
+    },
+    "autoimmune_neurological": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Guillain-Barre syndrome (GBS) is specifically addressed: 'The risk of GBS following Menactra vaccination was evaluated in a post-marketing retrospective cohort study using healthcare claims data from 9,578,688 individuals 11 through 18 years of age, of whom 1,431,906 (15%) received Menactra. Of 72 medical chart-confirmed GBS cases, none had received Menactra within 42 days prior to symptom onset.' Post-marketing reports include: 'Guillain-Barre syndrome, paraesthesia, vasovagal syncope, dizziness, convulsion, facial palsy, acute disseminated encephalomyelitis, transverse myelitis.'",
+      "level_description": "GBS was specifically evaluated in a large post-marketing retrospective cohort study. Neurological adverse events are documented in post-marketing experience section. However, pre-licensure trials did not specifically track autoimmune/neurological outcomes as primary endpoints."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document notes: 'Some individuals with altered immunocompetence, including some individuals receiving immunosuppressant therapy, may have reduced immune responses to Menactra.' And: 'Persons with certain complement deficiencies and persons receiving treatment that inhibits terminal complement activation (for example, eculizumab) are at increased risk for invasive disease.' A pregnancy registry exists, and developmental toxicity in mice showed no harm. Safety/effectiveness not established in children <9 months, pregnant women, nursing mothers, and adults >55 years.",
+      "level_description": "Limited data on vulnerable populations. Immunocompromised individuals mentioned regarding reduced responses but not specifically studied. Pregnancy registry exists but no controlled trials in pregnant women. Adults >55 years and children <9 months were excluded from trials."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Non-inferiority analyses were conducted: 'The proportion of participants achieving an SBA-H titer of at least 1:8 was assessed using a 10% non-inferiority margin and a one-sided Type 1 error rate of 0.025.' Chi-square tests were used for comparing adverse event rates (noted as 'Denotes p <0.05 level of significance'). 95% confidence intervals provided for proportions (Clopper-Pearson Exact method) and GMTs (normal approximation).",
+      "level_description": "Appropriate statistical methods were employed including non-inferiority analyses with pre-specified margins, chi-square tests for safety comparisons, and confidence intervals using validated methods. Sample size justifications were not explicitly stated."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Detailed tables present solicited adverse event rates by severity grade for each age group (Tables 1-4). Immunogenicity data presented with GMTs, proportions achieving seroprotection, and 95% CIs (Tables 5-8). SAE rates provided for all vaccine groups. Post-marketing adverse events listed by system organ class.",
+      "level_description": "The prescribing information provides substantial safety and immunogenicity data in tabular format with confidence intervals. However, individual participant-level data and complete study protocols are not included in this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A comprehensive post-marketing experience section lists adverse events by system organ class including: Blood/Lymphatic System Disorders (lymphadenopathy), Immune System Disorders (hypersensitivity reactions, anaphylaxis), Nervous System Disorders (GBS, paraesthesia, convulsion, facial palsy, ADEM, transverse myelitis), Musculoskeletal Disorders (myalgia), General Disorders (large injection site reactions). A post-marketing safety study evaluated GBS risk in 9.5 million individuals. VAERS reporting contact provided.",
+      "level_description": "Robust post-marketing surveillance documented including a large retrospective cohort study for GBS. Post-marketing adverse events catalogued by system organ class. Pregnancy registry and VAERS reporting mechanisms in place."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not contain information about conflicts of interest, study funding sources, or investigator financial disclosures. The manufacturer is Sanofi Pasteur Inc.",
+      "level_description": "No disclosure of conflicts of interest, funding sources, or investigator relationships with the manufacturer is provided in the prescribing information."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data or deaths occurring during clinical trials. Only serious adverse event rates are provided (ranging from 0.6% to 2.5% depending on age group and vaccine combination).",
+      "level_description": "All-cause mortality is not reported in the prescribing information. There is no specific mention of deaths or mortality rates in either the Menactra or comparator groups during clinical trials."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Menactra's clinical development program included multiple randomized trials with substantial sample sizes across age groups from 9 months to 55 years, with over 10,000 Menactra recipients studied. However, the trials used active comparators (Menomune polysaccharide vaccine or concomitant childhood vaccines) rather than true placebo controls, limiting the ability to detect vaccine-attributable adverse events. Blinding was compromised in some studies due to different administration routes. The 6-month follow-up for SAEs is adequate, and a notable strength is the large post-marketing GBS safety study. Age-stratified data presentation is exemplary, but the absence of mortality data, conflict of interest disclosures, and detailed vulnerable subgroup analyses are notable gaps."
+  }
+}

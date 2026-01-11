@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "mmr_mmrii",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The clinical trials enrolled approximately 834 children across multiple studies (Studies 442, 443, 459, 467, 473, 484, 511, 513). Individual studies ranged from 41-275 children. While these numbers provide some data on immunogenicity and common reactions, they are insufficient to detect rare adverse events (occurring <1:1000). The age range was appropriate (8 months to 15 years, mostly 10 months to 7 years), but sample sizes per study were relatively small by modern standards for detecting safety signals."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Follow-up duration was uniformly short: 42 days (6 weeks) for clinical observations and 6-8 weeks for serological testing. This is inadequate for detecting delayed adverse events, long-term safety outcomes, or rare neurological complications that may manifest weeks to months after vaccination. No long-term follow-up (months to years) was documented in the clinical trial data."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The trials primarily compared MMR RA27/3 against MMR HPV-77 (another active vaccine formulation) rather than against a true placebo. Study 459 included a 'rubella placebo' arm with 50 subjects, but most comparisons were between two active vaccine groups. There was no inert placebo control for the full MMR vaccine, making it difficult to attribute adverse events specifically to vaccination versus background rates."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Surveillance methods varied by study: parent-reported daily temperatures and symptoms using report cards (42-day observation period), with instructions to contact physicians for significant reactions. In some studies (Villarejos), observations were made by medical/paramedical personnel. However, this was largely passive parental reporting rather than systematic active surveillance with regular clinical examinations. Report card return rates varied (54-73% in some studies), introducing potential bias."
+    },
+    "neurological_monitoring": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No systematic neurological monitoring or assessment protocols were documented in the clinical trial data. The document mentions 'NEUROLOGY' as a department heading in institutional listings, but no specific neurological adverse events (seizures, encephalitis, ataxia, etc.) were systematically tracked or reported. The adverse event reporting focused on fever, rash, arthralgia, and injection site reactions. No mention of neurological evaluation criteria or findings."
+    },
+    "vulnerable_subgroups": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No specific analysis or enrollment of vulnerable subgroups was documented. The protocols explicitly excluded children with immunologic disorders, those receiving immunosuppressive drugs, and those with febrile illness. There was no documentation of safety data in premature infants, children with chronic conditions, immunocompromised populations, or other high-risk groups. The studies enrolled healthy children from the general population only."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The documents were obtained through FOIA request (dated 2019, for 1978 approval). Background records were noted as 'available for review' at Merck facilities. Summary data tables showing seroconversion rates and geometric mean titers were provided. However, individual patient-level data, complete adverse event listings, and detailed clinical narratives were not fully included. Some portions were withheld under FOIA Exemptions 4 (trade secrets) and 6 (privacy)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No post-marketing surveillance data was included in these clinical trial documents, which represent pre-licensure data only. The documents date to the 1976-1978 approval period. No mention of VAERS (established 1990), Vaccine Safety Datalink, or other post-marketing monitoring systems. Adverse event reporting was limited to the instruction to report 'serious or alarming reactions, including death' to Merck during the investigation period."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The MMR-II (RA27/3) clinical trial data from the 1970s shows significant limitations by contemporary safety evaluation standards. While approximately 834 children were enrolled with good immunogenicity results (95-99% seroconversion), the safety assessment was constrained by: short follow-up (42 days only), lack of true placebo controls, passive/parental surveillance methods, no neurological monitoring protocols, exclusion of vulnerable populations, and absence of post-marketing data. The trials were designed primarily to demonstrate immunogenicity and compare rubella strains (RA27/3 vs HPV-77), not to comprehensively evaluate safety. These pre-licensure studies from 1976-1978 predate modern vaccine safety standards and comprehensive adverse event monitoring systems."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "ipv_ipol",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document describes clinical studies comparing IPOL vaccine schedules with OPV schedules or DTP alone, but does not mention any placebo-controlled trials. Studies referenced compared IPV-only schedules, sequential IPV-OPV schedules, and IPV given with DTP vs DTP alone. No inert placebo group is described.",
+      "level_description": "No placebo-controlled trials are described in the package insert."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not describe blinding procedures for any of the clinical studies. Studies are described in terms of immunogenicity outcomes (seroconversion rates, antibody titers) and adverse reactions, but no mention is made of whether participants, investigators, or assessors were blinded to treatment assignment.",
+      "level_description": "No information about blinding methodology is provided in the document."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document describes multiple clinical studies but does not mention randomization procedures. Studies reference various vaccination schedules (Study 1, Study 2, Study 3) with different vaccine combinations, but no explicit description of random assignment to treatment groups is provided.",
+      "level_description": "No information about randomization methods is included in the package insert."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Document states: 'In the US, 219 infants received three doses of a similar enhanced IPV at two, four, and eighteen months of age.' Additionally, 'IPOL vaccine was administered to more than 700 infants between 2 to 18 months of age during three clinical studies conducted in the US.' Also, 'IPOL vaccine, or a combination vaccine containing IPOL vaccine and DTP, was administered to more than 3,000 infants between 2 to 18 months of age' in trials outside the US, with immunogenicity data available from 1,485 infants. Safety data from 'more than 1,300 infants' in four additional US studies.",
+      "level_description": "Adequate sample sizes are reported (700+ US infants in IPOL studies, 3,000+ infants internationally, 1,300+ in safety studies)."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Short-term follow-up for adverse reactions: 'within 48 hours post-vaccination' and at 6, 24, and 48 hours. For immunogenicity, follow-up extended to 12-18 months of age (pre-booster assessments). Long-term Swedish survey data cited showing 'persistence of detectable serum neutralizing antibody for at least 10 years.' However, for adverse events monitoring, only short-term (48-72 hour) active follow-up is described.",
+      "level_description": "Adverse event monitoring limited to 48-72 hours post-vaccination. Immunogenicity followed to 18 months, with some long-term antibody persistence data from external surveys."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Studies focused on infants 2-18 months of age with doses at 2, 4, 6-18 months and booster at 4-6 years. Table 1 shows data at different ages (2 months, 4 months, 18 months) and includes some older children (6 years for antibody persistence). Document notes: 'SAFETY AND EFFECTIVENESS OF IPOL VACCINE IN INFANTS BELOW SIX WEEKS OF AGE HAVE NOT BEEN ESTABLISHED.' Adult dosing schedules are recommended but 'responses of adults to primary series have not been studied.'",
+      "level_description": "Primary focus on infants 2-18 months. Some data on persistence to 6 years and 10+ years (Swedish survey). Adult immunogenicity not studied."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Contraindications section lists exclusion criteria: 'hypersensitivity to any component of the vaccine, including 2-phenoxyethanol, formaldehyde, neomycin, streptomycin, and polymyxin B.' Also, 'persons with an acute, febrile illness should be deferred.' Precautions discuss immunocompromised patients. However, the document does not describe specific inclusion/exclusion criteria used for the pre-licensure clinical trials.",
+      "level_description": "Post-approval contraindications and precautions are described, but specific clinical trial enrollment criteria are not detailed."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Table 2 presents standardized adverse event categories monitored at 6, 24, and 48 hours: Local reactions (erythema >1 inch, swelling, tenderness) and systemic reactions (fever >102.2F, irritability, tiredness, anorexia, vomiting, persistent crying). These were assessed at defined time points using consistent definitions across different doses and age groups.",
+      "level_description": "Standardized adverse event categories with defined thresholds were monitored at specified time intervals (6, 24, 48 hours post-vaccination)."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Short-term active monitoring (6, 24, 48 hours) for local and systemic reactions is documented. Document notes: 'Although no causal relationship has been established, deaths have occurred in temporal association after vaccination of infants with IPV.' Post-marketing surveillance through VAERS is described for ongoing reporting. No specific active monitoring protocol for serious adverse events beyond 48-72 hours is described in the clinical trial sections.",
+      "level_description": "Active monitoring limited to 48-72 hours for predefined reactions. Deaths reported temporally but 'no causal relationship established.' Relies on passive post-marketing surveillance (VAERS) for rare serious events."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document addresses GBS: 'Although no causal relationship between IPOL vaccine and Guillain-Barre Syndrome (GBS) has been established, GBS has been temporally related to administration of another inactivated poliovirus vaccine.' Post-marketing section lists 'convulsion, febrile convulsion, headache, paresthesia, somnolence, syncope' under nervous system disorders. No systematic pre-licensure evaluation of autoimmune or neurological outcomes is described.",
+      "level_description": "GBS mentioned with no established causal link. Neurological events captured in post-marketing only. No systematic pre-approval autoimmune/neurological assessment described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One study included premature infants: reference 21 cited as 'Adenyi-Jones SC, et al. Systemic and local immune responses to enhanced-potency inactivated poliovirus vaccine in premature and term infants.' HIV-infected individuals discussed: 'Administration of IPOL vaccine is not contraindicated in individuals infected with HIV.' Reference to children of HIV-positive mothers (ref 34). Immunocompromised patients: 'patients with an altered immune state may or may not develop a protective response.' No specific subgroup analyses for other vulnerable populations (e.g., chronic diseases) are detailed.",
+      "level_description": "Some data on premature infants and HIV-exposed children referenced. Immunocompromised discussed qualitatively. No detailed subgroup efficacy/safety analyses presented."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document presents percentage-based outcomes (seroconversion rates, adverse reaction percentages) but does not describe statistical methods, confidence intervals, power calculations, or p-values. Table 1 shows %DA (detectable antibody) rates ranging from 95-100% across studies. Table 2 shows adverse reaction percentages. No formal statistical comparisons or hypothesis testing results are described.",
+      "level_description": "Descriptive statistics (percentages) provided. No statistical methodology, confidence intervals, power analyses, or significance testing described."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Some data presented in Tables 1 and 2 with sample sizes (N) and percentages. However, multiple references cite 'Unpublished data available from Sanofi Pasteur SA' (ref 11) and 'Unpublished data available from Sanofi Pasteur Inc.' (ref 12). Raw data, participant-level information, and detailed statistical outputs are not provided. Published references available but key data remain proprietary.",
+      "level_description": "Summary tables provided but critical data cited as unpublished/proprietary from manufacturer. Limited transparency regarding raw data or detailed analyses."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Post-marketing Experience section lists adverse events identified during postapproval use across multiple body systems (blood/lymphatic, general disorders, immune system, musculoskeletal, nervous system, skin). Document describes VAERS reporting: 'Adverse events following immunization with vaccine should be reported by healthcare providers to the US Department of Health and Human Services (DHHS) Vaccine Adverse Event Reporting System (VAERS).' Also mentions National Vaccine Injury Compensation Program requirements.",
+      "level_description": "Post-marketing adverse events catalogued by body system. VAERS reporting system and National Vaccine Injury Compensation Program described with contact information."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not disclose any information about conflicts of interest, funding sources for clinical trials, or investigator financial relationships. Studies are referenced by citation numbers but author affiliations and potential conflicts are not discussed. Key data sources described as 'Unpublished data available from Sanofi Pasteur' (the manufacturer).",
+      "level_description": "No conflict of interest disclosures are provided in the package insert."
+    },
+    "all_cause_mortality": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document states: 'Although no causal relationship has been established, deaths have occurred in temporal association after vaccination of infants with IPV.' This refers to reference 37 (Stratton R. et al. Adverse Events Associated with Childhood Vaccines. Polio Vaccines. National Academy Press, 295-299, 1994). No specific mortality data from clinical trials is presented, and it is stated that causality was not established for temporally associated deaths.",
+      "level_description": "Deaths mentioned as temporally associated but without established causality. No systematic mortality data from clinical trials presented."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "The IPOL package insert describes immunogenicity-focused clinical studies in over 700 US infants and 3,000+ infants internationally, with adequate sample sizes and standardized short-term adverse event monitoring. However, the document reveals significant methodological limitations: no placebo-controlled trials are described, blinding and randomization methods are not mentioned, and adverse event follow-up was limited to 48-72 hours. Key data are cited as unpublished manufacturer proprietary information. While post-marketing surveillance systems are adequately described and neurological events like GBS are acknowledged, the pre-licensure safety evidence base relies primarily on comparison to DTP-only groups rather than true controls, and mortality is only noted as temporally associated without systematic assessment."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "men4_menquadfi",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Total of 4,273 participants younger than 2 years received at least one dose of MenQuadfi (3,807 in 4-dose series, 466 in 2-dose series). Study 1 enrolled 1,727 infants with 1,375 completing full 4-dose series; Study 2 enrolled 2,080 infants with 1,836 completing 4-dose series. Study 3 included 370 participants in 2-dose series starting at 6-7 months and 96 in 2-dose series starting at 17-19 months. In ages 2-9 years, 498 participants received MenQuadfi (Study 4). In adolescents 10-17 years, 3,196 participants were enrolled across Studies 5 and 6. This represents one of the largest and most comprehensive pediatric safety databases for a meningococcal conjugate vaccine."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Participants were monitored for immediate reactions for 30 minutes post-vaccination at study sites. Solicited adverse reactions were recorded via diary cards daily for 7 days following each vaccination. At subsequent visits 1-2 months post-vaccination, diary cards were reviewed with investigators for corrections/clarifications. Unsolicited adverse events were collected for 30 days. Medically attended events and serious adverse events (SAEs) were collected for at least 6 months after vaccination in most studies. Study 10 collected SAE data for at least 1 month only, which is a limitation for that study population."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "All 10 clinical studies were randomized, active-controlled trials comparing MenQuadfi to licensed comparator meningococcal vaccines: Menveo (oligosaccharide CRM197 conjugate), Menactra (polysaccharide diphtheria toxoid conjugate), and Menomune (polysaccharide vaccine given subcutaneously). While active comparators are age-appropriate and clinically relevant for non-inferiority assessment, the absence of true placebo controls prevents determination of absolute vaccine-attributable adverse event rates versus background rates in the population."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive active surveillance was employed: 30-minute post-vaccination monitoring at study sites for immediate reactions; 7-day diary cards completed by parents/guardians recording solicited injection site reactions (tenderness, erythema, swelling) and systemic reactions (fever, vomiting, crying abnormal, drowsiness, appetite lost, irritability for infants; myalgia, headache, malaise, fever for older participants); subsequent visits at 1-2 months to review and clarify diary entries with investigators; collection of unsolicited adverse events for 30 days; and medically-attended events/SAEs collected for at least 6 months."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Guillain-Barre syndrome (GBS) is mentioned in Section 5.4 warnings but only by reference to temporal association with another meningococcal conjugate vaccine - GBS was not systematically monitored or reported in MenQuadfi trials specifically. Two SAEs of febrile seizure were reported as possibly vaccine-related in Study 2 following the 4th dose at 12 months when co-administered with MMR, varicella, and PCV13 vaccines; one occurred 1 day post-vaccination, the other 9 days post-vaccination. Both resolved without recurrence. Syncope and dizziness were monitored within 30 minutes post-vaccination. Postmarketing surveillance has identified febrile seizure, convulsion, and syncope. No specific systematic neurological assessments were described in study protocols."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Preterm infants were specifically included and analyzed: Study 1 had 133 (7.7%) preterm infants born at 31 to <37 weeks gestational age (121 born at 34-37 weeks); Study 2 had 89 (4.3%) preterm infants (83 born at 34-37 weeks). Safety analysis found 'no notable differences in rates and severity of adverse reactions between preterm and full-term infants after any vaccination.' Older adults 56+ years (N=448) were studied including 249 participants 65+ years and 71 participants 75+ years. Section 5.2 addresses immunocompromised individuals (may have reduced immune response) and complement deficiency patients (increased disease risk even if vaccinated). Pregnancy registry exists but pregnant women were not studied clinically."
+    },
+    "data_transparency": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extensive tabular data presented with exact percentages and sample sizes for all solicited reactions by grade severity (Any and Grade 3) across all age groups and studies. All ten clinical trial identifiers provided (NCT numbers). Detailed demographic breakdowns including sex, race, ethnicity, and Hispanic/Latino percentage for each study population. SAE rates reported with specific time intervals (within 7 days, within 30 days, and through 6 months post-vaccination). 95% confidence intervals provided for immunogenicity comparisons. Per-protocol analysis sets defined. Definitions for all adverse reaction grades clearly specified."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Postmarketing surveillance system established with multiple components: VAERS integration for spontaneous adverse event reporting (contact: 1-800-822-7967 or www.vaers.hhs.gov); Sanofi Pasteur adverse reaction reporting line (1-800-822-2463); pregnancy exposure registry for monitoring outcomes in women vaccinated during pregnancy. Section 6.2 lists postmarketing adverse events identified since 2020 approval: immune system disorders (anaphylaxis and other hypersensitivity) and nervous system disorders (febrile seizure, convulsion, syncope). Document appropriately notes that postmarketing reports cannot reliably establish frequency or causal relationship."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "MenQuadfi demonstrates an adequate overall safety profile based on ten randomized clinical trials enrolling over 10,000 participants across all age groups from 6 weeks through elderly populations. The pediatric safety database is particularly robust with over 4,200 children under 2 years and over 3,000 adolescents. Exemplary features include comprehensive active surveillance protocols (30-minute monitoring, 7-day diary cards, 6-month SAE follow-up), detailed adverse event grading with standardized definitions, and excellent data transparency with all NCT identifiers and demographic data. Key safety findings: common adverse reactions are injection site reactions and systemic symptoms (irritability, fever in infants; myalgia, headache in older recipients) that are generally mild-moderate and resolve within 3 days; SAE rates were comparable to licensed comparator vaccines; two possibly vaccine-related febrile seizures occurred in infants receiving concurrent vaccines at 12 months (MMR, varicella, PCV13). Limitations include the absence of true placebo controls (all active-comparator designs), precluding determination of absolute vaccine-attributable adverse event rates, and lack of systematic GBS/autoimmune monitoring specific to MenQuadfi. Preterm infants (7.7% and 4.3% of infant studies) showed no notable differences from full-term infants. Postmarketing surveillance since 2020 approval has identified rare events including anaphylaxis and convulsions."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepa_vaqta",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Safety evaluated in over 10,000 subjects aged 1-85 years. Specifically, 4,374 children aged 12-23 months across five clinical trials and 2,615 children/adolescents aged 2-18 years across eleven clinical trials received at least one dose of VAQTA. Additionally, a post-marketing study included 42,110 individuals (13,735 children/adolescents)."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Active follow-up for adverse reactions was limited: local reactions monitored for 5 days post-vaccination, systemic adverse events for 14 days. Serious adverse events were collected for 14, 28, or 42 days depending on protocol. Long-term safety follow-up beyond this window relied on passive surveillance."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The Monroe Efficacy Study was a double-blind, placebo-controlled trial (N=1,037) using alum diluent as placebo. No significant differences in adverse event rates between vaccine and placebo groups after Dose 1. However, the placebo group did not receive a second injection after the trial code was broken for efficacy demonstration."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse events were recorded daily on diary cards. Local reactions at injection site and fever monitored for 5 days; systemic adverse events captured for 14 days. Tables present detailed incidence rates for solicited local and systemic reactions across multiple studies and age groups."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Febrile seizure was reported as a vaccine-related serious adverse event in 0.05% of children 12-23 months. Post-marketing reports include Guillain-Barre syndrome, cerebellar ataxia, and encephalitis, but clinical trials did not specifically monitor for neurological outcomes prospectively."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studies included diverse racial/ethnic demographics. Immunocompromised individuals are noted to potentially have diminished immune response. Pregnancy section includes post-approval data from 30 pregnancies with known outcomes. Geriatric data available from post-marketing study (4,769 subjects 65+ years) and clinical trials (68 subjects 65+)."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables present solicited local and systemic adverse reactions with percentages for each age group, dose, and concomitant vaccine scenario. Confidence intervals provided for immunogenicity data. Serious adverse event rates clearly stated (0.7% overall, 0.1% vaccine-related in pediatric studies)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "A 60-day post-marketing observational safety study at a large HMO included 42,110 individuals receiving 1-2 doses of VAQTA with passive electronic monitoring for ER visits, hospitalizations, and deaths. Post-marketing reports documented with acknowledgment that causal relationship cannot be established. VAERS reporting encouraged."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VAQTA demonstrates a well-documented safety profile with exemplary sample sizes exceeding 10,000 subjects across age groups and robust post-marketing surveillance. The Monroe Efficacy Study provided placebo-controlled safety data showing no significant differences from placebo. Key limitations include short active follow-up periods (5-14 days for most endpoints) and lack of prospective neurological monitoring, though serious neurological events were captured in post-marketing surveillance. Overall safety monitoring meets regulatory standards with comprehensive data transparency."
+  }
+}

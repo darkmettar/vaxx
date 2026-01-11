@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "tdap_adacel",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A total of 4,695 adolescents (10-17 years) received Adacel in clinical studies. Study Td506 included 1,184 adolescents 11-17 years with Adacel and 792 with Td control. Study Td505 included 1,806 adolescents 11-17 years. Study NCT01311557 enrolled 1,302 individuals ages 10-12 years (651 per age group). Note: Adacel is not approved for children under 10 years; pediatric safety data is limited to adolescents."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Follow-up was 6 months post-vaccination in the main study Td506, with at least 96% of participants completing the follow-up. Solicited reactions were monitored for 0-14 days via diary cards (0-7 days in NCT01439165). From days 14-28, adverse events requiring medical contact were collected. Serious adverse events, hospitalizations, and unexpected physician visits monitored from days 28 to 6 months via telephone contact."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study Td506 was a randomized, observer-blind, active-controlled trial comparing Adacel (N=2,936) to Td vaccine DECAVAC (N=1,365). Study NCT01439165 compared second-dose Adacel (N=1,002) to Td vaccine TENIVAC (N=328). The comparisons used licensed Td vaccines as active controls rather than placebo, which is appropriate for a booster vaccine but limits absolute safety signal detection."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited local and systemic reactions were monitored daily for 7-14 days post-vaccination using diary cards. From days 14-28, adverse events requiring medical contact were obtained via telephone interview or clinic visits. Unsolicited adverse events collected through day 28-30. SAEs actively monitored throughout 6-month follow-up period via telephone contact and clinic visits."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document warns about Guillain-Barre syndrome (risk may be increased if GBS occurred within 6 weeks of prior tetanus toxoid vaccine) and brachial neuritis (IOM found evidence for causal relation with tetanus toxoid). Two neuropathic SAEs in adults within 28 days of vaccination: severe migraine with unilateral facial paralysis and nerve compression in neck/arm. No additional neuropathic events in other trials. However, no systematic prospective neurological surveillance protocol was described; events captured through general SAE monitoring."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Pregnancy data includes retrospective surveillance study (N=225 exposed vs 675 controls) with spontaneous abortion rates 9.3% vs 15% and congenital anomaly rates 6.7% vs 8.4%. Ongoing pregnancy registry has 1,236 prospective reports (2005-2022) with outcomes consistent with background rates. Animal studies (rabbits) showed no adverse effects. Immunocompromised individuals mentioned but not systematically studied. Geriatric (65+) studied but vaccine not approved due to lower immune responses. No data on individuals with chronic diseases."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables (Tables 1-10) present solicited adverse reaction frequencies by age group with percentages and 95% confidence intervals. Multiple clinical studies cited with ClinicalTrials.gov registry numbers (NCT01439165, NCT00347958, NCT01311557, NCT00258882, NCT05040802). Rates presented for Adacel and comparator groups. SAE rates disclosed (1.5% Adacel vs 1.4% Td in Td506; 0.8% Adacel vs 0.3% Td in NCT01439165)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 describes spontaneous postmarketing reports by system organ class: immune system disorders (anaphylaxis, hypersensitivity with angioedema/edema/rash/hypotension), nervous system disorders (Guillain-Barre syndrome, brachial neuritis, facial palsy, paresthesia, hypoesthesia, convulsion, syncope, myelitis), cardiac disorders (myocarditis), skin disorders (pruritus, urticaria), musculoskeletal disorders (myositis, muscle spasm), and injection site reactions (>50mm swelling, extensive limb swelling, sterile abscess, Arthus hypersensitivity). VAERS reporting contact provided. Pregnancy registry ongoing."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Adacel's safety profile is supported by clinical trials involving over 7,100 individuals aged 10-64 years, with 6-month follow-up and 96% retention rates. Active surveillance methods including diary cards and telephone contacts were used with active Td vaccine comparator groups. Strengths include detailed adverse event reporting with frequency tables stratified by age, excellent postmarketing surveillance identifying rare events (GBS, brachial neuritis, myocarditis), and ongoing pregnancy registry data showing rates consistent with background. Limitations include the lack of systematic prospective neurological monitoring protocols, limited data on vulnerable subgroups beyond pregnancy (immunocompromised not studied), and the use of active Td vaccine controls rather than placebo which limits absolute safety signal detection. The vaccine is approved for ages 10-64 only; not for younger children or geriatric populations."
+  }
+}

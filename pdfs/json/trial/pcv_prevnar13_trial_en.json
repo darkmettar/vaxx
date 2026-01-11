@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "pcv_prevnar13",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Infant trials used Prevnar (7-valent) as active control, not placebo. The adult efficacy study (Study 12, N=84,496) was randomized, double-blind, placebo-controlled in Netherlands adults 65+ years. Most pediatric studies compared Prevnar 13 to Prevnar active control. Some adult studies compared to PPSV23.",
+      "level_description": "Partial placebo-control: True placebo control only in adult efficacy trial. Pediatric trials used active comparator (Prevnar 7-valent), which limits ability to assess absolute safety/efficacy."
+    },
+    "double_blind": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The US noninferiority study (Study 2) was a randomized, double-blind, active-controlled trial. The adult efficacy study (Study 12) was randomized double-blind placebo-controlled. Some adult studies used 'modified double-blind' where site staff dispensing vaccine were unblinded but principal investigator and subject were blinded.",
+      "level_description": "Double-blinding was maintained in most key studies, with appropriate blinding procedures documented."
+    },
+    "randomization": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study 2: infants randomly assigned 1:1 to Prevnar 13 or Prevnar. Study 12: 84,496 subjects randomized 1:1 to Prevnar 13 or placebo. Study 3: subjects randomly assigned 2:2:2:1 ratio. Adult studies used 1:1 randomization between vaccine groups.",
+      "level_description": "Proper randomization documented across multiple studies with specified allocation ratios."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Safety of Prevnar 13 was evaluated in 13 clinical trials with 4,729 infants (6 weeks through 11 months) and toddlers receiving at least one dose of Prevnar 13, and 2,760 receiving Prevnar control. Three US studies included 1,907 Prevnar 13 recipients and 701 Prevnar recipients. Children 5-17 years: 592 subjects in Study 5.",
+      "level_description": "Large pediatric sample sizes across multiple age groups in multiple studies (>7,000 total infant/toddler subjects)."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Safety data for first three doses available for all 13 infant studies; dose 4 data for 10 studies; 6-month follow-up data for 7 studies. Solicited adverse reactions recorded for 7 consecutive days after each vaccination. Serious adverse events collected throughout study period. Adult Study 12: median follow-up 3.93 years.",
+      "level_description": "Adequate short-term follow-up (7 days solicited, 1 month unsolicited) with extended SAE monitoring (6 months in some studies, ~4 years in adult efficacy trial)."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Studies separately evaluated: infants 6 weeks-11 months, toddlers 12-15 months, children 7-11 months, 12-23 months, 24 months-5 years, 5-9 years, 10-17 years. Adults: 18-49, 50-59, 60-64, 65+, and 70+ years. Each age group had separate data tables and analyses.",
+      "level_description": "Comprehensive age stratification across pediatric and adult populations with separate immunogenicity and safety data for each group."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adults with pre-existing underlying diseases enrolled if medical condition was stable (no change in therapy or hospitalization for 12 weeks, or 6 weeks in Study 9). Subjects excluded due to prior receipt of diphtheria toxoid-containing vaccines within 6 months. Adults with immunocompromising conditions excluded from efficacy study. Contraindication: severe allergic reaction to any component.",
+      "level_description": "Clear inclusion/exclusion criteria documented, including stability requirements for underlying conditions."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Solicited local reactions (redness, swelling, tenderness) measured with caliper units and graded as Mild (0.5-2.0 cm), Moderate (2.5-7.0 cm), Severe (>7.0 cm). Fever graded: Mild (38-39C), Moderate (>39-40C), Severe (>40C). Pain graded by functional impact. Electronic diary used for 7-14 consecutive days.",
+      "level_description": "Standardized grading scales for local and systemic reactions with objective measurements and electronic capture."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Serious adverse events collected throughout study period for all 13 clinical trials. SAEs collected for additional 5 months after vaccination (6-month follow-up contact) in most studies. Information regarding SAEs, newly diagnosed chronic conditions, and hospitalizations collected during clinic visits and scripted telephone interviews.",
+      "level_description": "Active SAE monitoring throughout study periods with extended 6-month follow-up in most studies."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Hypotonic-hyporesponsive episodes reported: 1 in 6,839 Prevnar 13 recipients (0.015%), 3 in 4,204 Prevnar recipients (0.071%). Febrile seizures mentioned. Post-marketing: hypotonia reported. No systematic assessment of autoimmune conditions specifically mentioned.",
+      "level_description": "Some neurological events tracked (HHE, seizures), but no explicit systematic monitoring for autoimmune conditions documented."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 8.6 addresses high-risk populations: infants born prematurely (N=100), children with sickle cell disease, individuals with hematopoietic stem cell transplant, and HIV-infected individuals. Apnea warning for premature infants. Studies in immunocompromised populations included.",
+      "level_description": "Multiple vulnerable subgroups evaluated including preterm infants, sickle cell disease, HSCT recipients, and HIV-infected individuals."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Noninferiority criteria defined: lower limit 95% CI for GMT ratio >0.5, or difference in % responders >-10%. Statistical significance defined as p<0.05 (no adjustments for multiplicity noted). GMTs, GMCs calculated with 95% CIs. Evaluable immunogenicity population used for analyses.",
+      "level_description": "Pre-specified noninferiority criteria, appropriate statistical methods for immunogenicity comparisons, though multiplicity adjustments not applied."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "ClinicalTrials.gov identifiers provided for all 13 studies (NCT numbers listed in Section 15). Detailed tables with specific N values, percentages, confidence intervals. Demographics reported (race, ethnicity, sex distribution).",
+      "level_description": "Trial registration numbers provided, detailed tabular data with confidence intervals, though raw individual patient data not available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.3 describes post-marketing experience. Events reported include: vaccination-site dermatitis/pruritus/urticaria, lymphadenopathy, cyanosis, anaphylactic/anaphylactoid reactions, hypotonia, angioneurotic edema, erythema multiforme, apnea, pallor. VAERS reporting encouraged (1-800-822-7967).",
+      "level_description": "Post-marketing surveillance section included with reported adverse events and VAERS contact information."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document manufactured by Wyeth Pharmaceuticals Inc, a subsidiary of Pfizer Inc. No disclosure of conflicts of interest, funding sources for individual studies, or investigator relationships mentioned in the prescribing information.",
+      "level_description": "No conflict of interest disclosure in the document. Studies conducted by manufacturer."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Infant studies: 3 deaths (0.063%) among Prevnar 13 recipients, 1 death (0.036%) in Prevnar recipients, all SIDS consistent with background rates. Adult studies: 12 of 5,667 (0.21%) Prevnar 13 and 4 of 1,391 (0.29%) PPSV23 recipients died. Study 12: 3,006 deaths (7.1%) Prevnar 13, 3,005 deaths (7.1%) placebo over ~4 year follow-up.",
+      "level_description": "All-cause mortality reported for both pediatric and adult studies with comparison to controls and background rates."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Prevnar 13 clinical trials demonstrate adequate methodology overall with exemplary features in sample size, age stratification, and adverse event standardization. Key strengths include large pediatric populations (>7,000 subjects), comprehensive age-group analyses, standardized grading scales with electronic capture, and the adult placebo-controlled efficacy trial (N=84,496). Limitations include: pediatric trials used active comparator rather than placebo, limited systematic assessment of autoimmune conditions, and absence of conflict of interest disclosures. The document provides extensive immunogenicity and safety data across multiple populations including high-risk groups."
+  }
+}

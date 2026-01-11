@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_vaxneuvance",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Robust pediatric sample: 3,349 infants/children received VAXNEUVANCE in 4-dose series trials (Studies 8-11), plus 1,814 received Prevnar 13 as comparator. Study 8 alone had 858 VAXNEUVANCE recipients. Additional catch-up study (Study 12) included 303 children 7 months-17 years. Special populations also studied: 142 preterm infants, 70 children with sickle cell disease, 203 HIV-infected children, and 8 pediatric HSCT recipients."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited adverse events monitored for 14 days post-vaccination using Vaccination Report Cards reviewed by investigators. Fever monitored for 7 days. Serious adverse events followed for 6 months in Studies 8-10 and 12, though only 1 month in Study 11. Adults followed 1-12 months depending on study."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "All pediatric trials were randomized, double-blind, active comparator-controlled using Prevnar 13 (PCV13) as the comparator. This represents the gold standard design comparing against an established licensed vaccine. Multiple trials (Studies 8-14) used this rigorous methodology."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Comprehensive active surveillance using Vaccination Report Cards (VRC) with structured solicitation of specific local reactions (pain, induration, erythema, swelling) and systemic reactions (irritability, somnolence, fever, decreased appetite, urticaria) at defined timepoints. Study investigators reviewed VRCs with participants/guardians 15 days post-vaccination to ensure consistency with protocol definitions."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "One febrile seizure was reported in a 9-week-old female one day after Dose 1 (Study 11). Apnea in premature infants is noted as a warning/precaution based on class effect for IM vaccines. However, no systematic neurological monitoring protocol or specific neurological adverse event solicitation is described. Somnolence was tracked as a systemic reaction (24-48% across doses)."
+    },
+    "vulnerable_subgroups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Extensive study of vulnerable populations: preterm infants <37 weeks (N=142 vs 144), children with sickle cell disease (N=70 vs 34), HIV-infected children with CD4+ >=200 (N=203 vs 204), HIV-infected adults (N=152 vs 150), hematopoietic stem cell transplant recipients (N=139 vs 138), and adults with stable underlying conditions (diabetes, renal/heart/liver/lung disease). Safety profiles were similar to comparator groups."
+    },
+    "data_transparency": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Detailed tables with percentages for each adverse reaction by dose, severity grade, and vaccine group. NCT registry numbers provided for all studies (NCT03893448, NCT03620162, NCT03692871, NCT02987972, etc.). Demographic characteristics reported (age, sex, race/ethnicity). SAE rates reported by timepoint. Missing data percentages disclosed (0.8-3.9%)."
+    },
+    "post_marketing_surveillance": {
+      "rating": "absent",
+      "emoji": "❓",
+      "explanation": "No post-marketing surveillance data presented in this package insert. The document includes VAERS reporting information and manufacturer contact for suspected adverse reactions, but no post-marketing safety data or signals are discussed. Vaccine was approved in 2021 with pediatric indication added in 2022."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Vaxneuvance demonstrates strong pre-licensure safety evidence with exemplary pediatric sample sizes (>3,300 infants/children), rigorous double-blind active-controlled trial designs against Prevnar 13, comprehensive active surveillance methodology, and extensive study of vulnerable populations including preterm infants, immunocompromised children, and those with sickle cell disease. Safety monitoring for 14 days post-vaccination with 6-month serious adverse event follow-up is adequate. SAE rates were comparable between groups (~9.6% vs 8.9% at 6 months, mostly unrelated). Limitations include lack of systematic neurological monitoring beyond somnolence/seizure capture and absence of post-marketing data in this insert. The one reported febrile seizure and the apnea warning for preterm infants warrant clinical attention. Overall safety profile appears comparable to established Prevnar 13."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "dtap_infanrix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Approximately 95,000 doses administered in clinical studies. 29,243 infants received INFANRIX in primary series studies, 6,081 children received a fourth dose, 1,764 received a fifth dose. Additional large studies include 22,505 infants in German safety study (66,867 doses) and 4,696 children in Italian efficacy trial."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Solicited adverse reactions were collected for only 4 consecutive days following each vaccine dose (day of vaccination plus 3 days). German study collected unsolicited events for 28 days post-vaccination. Italian efficacy trial followed subjects for mean of 17 months for efficacy, but safety follow-up focused on short-term reactions within 48-72 hours."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Italian efficacy trial was double-blind, randomized with DT (diphtheria-tetanus) as active control (4,696 INFANRIX vs 4,678 whole-cell DTP). Comparison showed significantly lower rates of fever, hypotonic-hyporesponsive episodes, and persistent crying with INFANRIX vs whole-cell DTP. However, no true placebo group was used."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Parents used standardized diary cards to collect data on solicited local and general adverse reactions. German study used report cards for all subjects and standardized diaries for subset of 2,457 subjects. Adverse events were supplemented by spontaneous reporting and medical history at follow-up visits."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Specific neurological events were tracked: encephalopathy is a contraindication; seizures monitored (1 seizure per 13,761 INFANRIX doses vs 3 per 13,520 DTP doses); hypotonic-hyporesponsive episodes tracked (0 for INFANRIX vs 9 for whole-cell DTP); afebrile seizure rate 0.13 per 1,000 doses in German study. Guillain-Barre syndrome and syncope addressed in warnings."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Premature infants addressed with warning about apnea following vaccination. Children at risk for seizures mentioned with antipyretic recommendation. However, no specific subgroup analyses presented for immunocompromised children or those with underlying conditions. Safety in infants <6 weeks not established."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables provided with specific percentages for solicited reactions by dose number and severity grade. Demographics of study populations reported (racial/ethnic composition). Rates per 1,000 doses provided for serious adverse reactions. Confidence intervals provided for efficacy but not for safety outcomes."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 lists postmarketing adverse reactions identified through voluntary reporting including: encephalopathy, hypotonia, syncope, anaphylactic reaction, thrombocytopenia, apnea, SIDS (Sudden Infant Death Syndrome). Document acknowledges limitation that frequency cannot be reliably estimated from voluntary reports."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "INFANRIX demonstrates adequate safety documentation with exemplary pediatric sample sizes (95,000+ doses across multiple clinical studies). Strengths include active surveillance via standardized diary cards, neurological event monitoring, and transparent reporting of adverse reaction rates. Key limitations include short follow-up duration (primarily 4 days post-vaccination), lack of true placebo control, and limited vulnerable subgroup analyses. Post-marketing surveillance captures serious rare events but cannot establish causation or frequency."
+  }
+}

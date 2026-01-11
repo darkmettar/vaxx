@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "menb_trumenba",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Total of 10,718 subjects received at least one dose of Trumenba and 4,497 subjects were in control groups across four studies. Study B1971009 enrolled 3,596 adolescents (10-18 years), Study B1971016 enrolled 3,304 young adults (18-25 years), Study B1971014 enrolled 5,712 subjects (10-25 years), and Study B1971015 enrolled 2,648 children (10-12 years). This represents a large, well-powered sample across the pediatric and young adult age range."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "SAEs were tracked from first vaccination through 6 months after last vaccination. The three-dose schedule was administered at 0, 1-2, and 6 months, meaning total follow-up extended approximately 12 months from enrollment. Solicited local and systemic reactions were monitored for 7 days post-vaccination."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "All four studies were randomized, controlled, observer-blinded. Control groups varied appropriately: Studies B1971009 and B1971014 used HAV/saline, Study B1971016 used saline placebo, and Study B1971015 used both saline-only and MCV4+Tdap+saline groups. Total control group was 4,497 subjects."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited local reactions and systemic events were recorded via e-diary in three of four studies (B1971009, B1971016, B1971015). Study B1971014 did not use e-diaries as its purpose was detecting rare safety events, with reactogenicity reported as unsolicited AEs instead. Detailed local (pain, redness, swelling) and systemic (fever, headache, fatigue, chills, muscle pain, joint pain, vomiting, diarrhea) reactions were collected with durations."
+    },
+    "neurological_monitoring": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Autoimmune and neuroinflammatory conditions were specifically tracked. 7 of 10,718 (0.07%) Trumenba recipients reported neuroinflammatory conditions vs 4 of 4,497 (0.09%) controls. Individual cases were clinically reviewed with conclusion of no excess risk and no pattern suggesting common pathophysiological mechanism. Specific SAEs of multiple sclerosis, dystonia, and demyelination were reported and adjudicated."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The studies excluded children under 10 years; vaccine is only approved for ages 10-25. The document mentions a postmarketing commitment (B1971052) for a cohort study examining pregnancy and birth outcomes following vaccination, but results are not provided. No specific data on immunocompromised individuals or those with chronic conditions was presented."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables and percentages are provided for immunogenicity endpoints with confidence intervals, local reaction rates by vaccination number, systemic reaction rates, SAE rates, and study withdrawal rates. Demographics (48% male, 84.3% Caucasian, 11.6% African-American, 1.4% Asian, 2.7% other) and mean duration of adverse events are included."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "This supplement fulfills postmarketing requirements 1 and 2 and commitments 6 and 7 from the original 2014 accelerated approval. A pregnancy outcomes study (B1971052) was committed to but not reported here. The review team determined no new postmarketing commitments or requirements were needed, but no ongoing pharmacovigilance data or VAERS analysis was presented."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Trumenba's safety profile is supported by a robust clinical program with over 10,700 vaccine recipients across four randomized, observer-blinded, controlled trials in individuals aged 10-25 years. Active surveillance captured reactogenicity data, and neurological/autoimmune conditions were specifically monitored with reassuring results. Main limitations include lack of data in vulnerable subgroups (immunocompromised, children under 10, pregnant women) and limited post-marketing surveillance reporting in this document. Follow-up duration of approximately 6 months post-final dose is standard but may be insufficient to detect rare long-term events."
+  }
+}

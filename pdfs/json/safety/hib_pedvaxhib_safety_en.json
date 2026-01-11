@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_pedvaxhib",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The Protective Efficacy Study enrolled 3,486 Navajo infants who completed the primary two-dose regimen (4,459 total received vaccine or placebo). Additional clinical studies involved 903 infants for Liquid PedvaxHIB comparisons and 8,086 doses to 5,027 healthy infants/children in early clinical studies. These sample sizes are adequate for assessing common adverse events in a placebo-controlled design."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Systematic adverse event monitoring was limited to a 3-day period (48-hour objective observations by parents) following vaccination. While the efficacy study followed subjects initially until 15-18 months of age with extended follow-up for 2 years and 9 months for disease occurrence, safety surveillance was not systematically extended. The short safety monitoring window may miss delayed adverse events."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "The Protective Efficacy Study was a randomized, double-blind, placebo-controlled trial in Navajo infants. This is the gold standard design for evaluating vaccine safety and efficacy. The study clearly compared adverse event rates between vaccine recipients (lyophilized PedvaxHIB) and placebo recipients with DTP/OPV administered concomitantly to most subjects in both groups."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Parents reported selected objective observations (fever, erythema, swelling) over a 48-hour period using standardized measurements. Additional adverse reactions were collected during a 3-day period without regard to causality. However, this represents solicited reactogenicity data collection rather than comprehensive active safety surveillance with systematic follow-up visits or diary cards beyond 48 hours."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Seizures were tracked and reported in both vaccine (9 cases) and placebo (8 cases) groups in the Protective Efficacy Study, with notation that most occurred in subjects who also received DTP. Post-marketing data includes febrile seizures. However, no systematic neurological assessment protocol, developmental monitoring, or specific neurological examinations were described in the clinical trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Studies specifically enrolled Native American (Navajo and Apache) infants who are at higher risk for Hib disease. Immunogenicity data was stratified by racial/ethnic groups (Native American, Caucasian, Hispanic, Black). Studies also evaluated children with genetically-related immune deficiencies (Km(1) negative and G2m(23) negative allotypes) who are considered hyporesponsive. Safety in immunocompromised patients is discussed in precautions."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Tables provide percentages of adverse reactions at specific timepoints (6h, 24h, 48h) with number of subjects evaluated. Confidence intervals are provided for efficacy calculations. However, complete adverse event frequencies by system organ class are not presented, individual-level data is not available, and some data is referenced as 'data on file at Merck Research Laboratories' rather than publicly available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "A Post-Marketing Adverse Reactions section exists listing: lymphadenopathy, angioedema (rarely), febrile seizures, and sterile injection site abscess. The insert also mentions potential adverse reactions from other Hib vaccines (early onset Hib disease, Guillain-Barre syndrome) without established causality. However, the post-marketing section is brief without incidence rates, reporting periods, or comprehensive safety signal analysis."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "PedvaxHIB demonstrates adequate safety evidence based on a well-designed, randomized, double-blind, placebo-controlled efficacy trial in 3,486+ Navajo infants, with additional supportive data from clinical studies totaling over 5,000 subjects. The exemplary placebo-controlled design and attention to vulnerable subgroups (Native American infants, genetically hyporesponsive children) are strengths. However, the short safety monitoring window (48 hours to 3 days), lack of detailed neurological protocols, limited data transparency with some data remaining on file with the manufacturer, and brief post-marketing safety section represent areas where more comprehensive documentation would strengthen the safety profile. The vaccine showed no difference in serious adverse events between vaccine and placebo groups."
+  }
+}

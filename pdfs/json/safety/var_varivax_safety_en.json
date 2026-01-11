@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "var_varivax",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Over 11,000 healthy children, adolescents, and adults were administered VARIVAX in clinical trials. Specifically, 9,454 healthy children (12 months to 12 years) and 1,648 adolescents/adults (13+ years) were vaccinated. The pivotal placebo-controlled study enrolled 914 subjects (491 vaccine, 465 placebo). Additional studies included 8,824-8,913 children for fever and injection-site monitoring, 981 children in the two-dose regimen study, and 2,216 children in the 10-year follow-up efficacy trial."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active safety monitoring was conducted for 42 days after each vaccination dose using standardized diary cards. Beyond the initial safety period, subjects were actively followed for up to 10 years for breakthrough varicella, herpes zoster, and vaccine-related illness. The document reports 42,556 person-years of follow-up in children and 5,410 person-years in adults for herpes zoster surveillance. Antibody persistence was measured annually for up to 9 years. While formal solicited adverse event collection was 42 days, the long-term active follow-up for vaccine-related disease outcomes is substantial."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "A double-blind, placebo-controlled study was conducted with 914 healthy children and adolescents serologically confirmed susceptible to varicella. The study found only injection-site pain and redness occurred at significantly greater rates in vaccine recipients versus placebo. However, the placebo-controlled portion was limited, and many later trials compared different vaccine formulations rather than using true placebo controls."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Active surveillance was conducted during the 42-day post-vaccination period using standardized diary cards in several trials. Parents/guardians recorded local reactions for 4 days and systemic reactions for 42 days. Study investigators reviewed diary cards at day 42 visits. The two-dose regimen study actively followed 981 subjects for 42 days after each dose. However, much long-term follow-up data was acquired through passive surveillance."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Febrile seizures were tracked and reported at a rate of <0.1% in children. Post-marketing section lists neurological events (encephalitis, cerebrovascular accident, transverse myelitis, Guillain-Barre syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis, meningitis), but systematic prospective neurological monitoring protocols in clinical trials are not described. Herpes zoster was monitored with 9 cases reported during follow-up (all mild without sequelae)."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document explicitly states that VARIVAX is contraindicated in immunocompromised and immunosuppressed individuals. HIV-infected individuals are mentioned with reference to ACIP recommendations but no trial data provided. A pregnancy exposure registry monitored 1,522 women from 1995-2013 who received VARIVAX inadvertently during pregnancy or within 3 months before conception. However, no clinical safety/efficacy data exist for children under 12 months, and studies did not include sufficient geriatric subjects (65+) to determine differential responses."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed tables present specific adverse reaction rates with denominators (e.g., fever in 14.7% of 8,824 children; injection-site complaints in 19.3% of 8,913 children). Peak occurrence timing is provided. Immunogenicity data includes 95% confidence intervals. One clinical trial is identified by NCT number (NCT00432523). The document references 18 published studies. However, some long-term data was collected passively with acknowledged incomplete reporting."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 provides a comprehensive list of post-marketing adverse events organized by body system including: anaphylaxis, necrotizing retinitis, aplastic anemia, thrombocytopenia, encephalitis, transverse myelitis, Guillain-Barre syndrome, Stevens-Johnson syndrome, and herpes zoster. The document acknowledges these events are voluntarily reported from an uncertain-size population, making frequency estimation difficult. VAERS reporting is encouraged. A 10-year safety profile review is referenced."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "VARIVAX demonstrates adequate safety documentation with exemplary pediatric sample sizes (over 11,000 subjects), a placebo-controlled trial, and detailed adverse event reporting. Key limitations include the relatively short 42-day active safety monitoring period despite 10-year efficacy follow-up, limited systematic neurological monitoring protocols, and acknowledged gaps for immunocompromised populations, infants under 12 months, and geriatric patients. Post-marketing surveillance captures serious adverse events but cannot establish causality or frequency. The vaccine has been in use since 1995 with established safety profile."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_prevnar20",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Large pediatric safety database: 3063 participants received at least one dose of Prevnar 20 across 4 trials (Studies 8, 9, 10, 11). For the 4-dose infant series (Studies 8-10): 2232 globally with 1567 in US/Puerto Rico alone. Study 8: N=1001 Prevnar 20, N=990 Prevnar 13. Study 9: N=1000 Prevnar 20, N=503 Prevnar 13 (multi-country). Study 10: N=231 Prevnar 20, N=227 Prevnar 13. Study 11: 831 catch-up participants aged 15 months through 17 years. Additionally, 1720 participants received Prevnar 13 as comparator, enabling robust safety comparison. Sample sizes provide adequate power for detecting adverse events occurring at greater than 1:1000 frequency."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Solicited local and systemic reactions monitored via electronic diary for 7 consecutive days post-vaccination (10 days for local reactions in adults). Adverse events collected from first dose through 1 month after third dose, and from fourth dose through 1 month after fourth dose. Serious adverse events (SAEs) and newly diagnosed chronic medical conditions (NDCMCs) collected from first dose through 6 months after last dose. Adult trials similarly followed SAEs for 6 months with telephone contact. The 6-month SAE follow-up is standard for vaccine trials but may be insufficient for detecting rare delayed-onset adverse events such as autoimmune conditions."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Pediatric Studies 8, 9, and 10 were randomized, double-blind, active-controlled trials comparing Prevnar 20 to Prevnar 13 (established standard of care). Study 8: 1:1 randomization; Study 9: 2:1 randomization; Study 10: 1:1 randomization. Study 11 was single-arm with no comparator. Active-controlled design enables direct safety comparison with approved vaccine and is ethically appropriate when effective vaccines exist, but limits ability to assess absolute adverse event rates that would be revealed by placebo comparison."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Comprehensive active surveillance implemented through electronic diary (e-diary) for solicited reactions with daily recording for 7-10 days post-vaccination. Parents/guardians recorded local reactions (pain, redness, swelling) and systemic reactions (irritability, drowsiness, fever, decreased appetite) with standardized severity grading. Caliper units specified for measuring redness/swelling. Specific temperature thresholds defined for fever. SAEs and NDCMCs actively collected through telephone contact at 6 months. Severity definitions clearly specified (e.g., pain: mild=hurts if gently touched; moderate=hurts with crying; severe=limits limb movement)."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Two febrile seizures reported in Prevnar 20 group: one serious (14 days post-dose 4 with concomitant MMR/varicella vaccination), one non-serious (7 days post-dose 4 with concurrent COVID-19 infection). Both considered possibly related to vaccination. Hypotonic-hyporesponsive episodes referenced from Prevnar 13/Prevnar historical data: 1/6839 (0.015%) for Prevnar 13, 3/4204 (0.071%) for Prevnar - all occurred in Brazil trial with concomitant whole-cell pertussis vaccine. Postmarketing Prevnar 13 reports include hypotonia, apnea in pediatric populations. However, no systematic prospective neurological assessment protocol described; monitoring appears reactive through SAE capture rather than systematic neurological evaluation."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Late preterm infants (>34 to <37 weeks gestational age) included in Study 9: N=111 (77 Prevnar 20, 34 Prevnar 13). Prescribing information includes warning about apnea in premature infants with recommendation for individualized risk/benefit assessment. Adults with stable chronic conditions enrolled: chronic cardiovascular disease (5.5%), pulmonary disease/asthma (8.7%), diabetes mellitus (13.9%), liver disease (0.4%), smoking (12.9%). Key gap: immunocompromised individuals explicitly excluded - document states 'Safety and immunogenicity data on Prevnar 20 are not available for individuals in immunocompromised groups and vaccination should be considered on an individual basis.' Pregnancy: only animal data available showing no adverse fetal effects in rabbits."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Detailed safety tables provided with percentages for solicited local and systemic reactions by dose, age group, and severity grade (Tables 2-7). SAE rates reported: pediatric 4.5% (101/2232) Prevnar 20 vs 3.7% (64/1717) Prevnar 13 within 6 months after final dose; 1.1% vs 1.2% from dose 1 to 1 month after dose 3; 0.7% vs 0.5% from dose 4 to 1 month after. Clinical trial registration numbers provided for all major studies. Statement indicates 'no notable patterns or imbalances between vaccine groups for specific categories of SAEs.' Individual-level data not available; specific SAE categories not enumerated beyond febrile seizures."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "VAERS reporting clearly referenced: contact 1-800-822-7967 or http://vaers.hhs.gov for suspected adverse reactions. Pfizer contact: 1-800-438-1985. Postmarketing experience from Prevnar 13 documented as relevant to Prevnar 20 since 'vaccines are manufactured and formulated similarly and contain 13 of the same polysaccharide conjugates.' Listed reactions: lymphadenopathy (localized to injection site), cyanosis (pediatric), vaccination-site dermatitis/pruritus/urticaria, anaphylactic/anaphylactoid reactions including shock, hypotonia (pediatric), apnea (pediatric), angioneurotic edema, erythema multiforme, pallor (pediatric). Direct Prevnar 20 postmarketing data limited given 2021 initial approval."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Prevnar 20 demonstrates an adequate to strong safety evaluation framework with exemplary pediatric sample sizes (>3000 participants), active surveillance using standardized e-diary collection with defined severity criteria, and 6-month follow-up for serious adverse events. Safety data show comparable profiles between Prevnar 20 and Prevnar 13: common solicited reactions included irritability (>60%), injection site pain (>30-50%), drowsiness (>30-40%), decreased appetite (>20%), and fever (>10%). SAE rates were comparable between groups (4.5% vs 3.7% in pediatrics, 1.5% vs 1.8% in adults). Two febrile seizures were reported in the Prevnar 20 group. Key limitations include: (1) reliance on active comparator rather than placebo, limiting absolute risk assessment; (2) exclusion of immunocompromised populations from safety data; (3) limited direct Prevnar 20 postmarketing data; (4) partial neurological monitoring (reactive rather than systematic); and (5) no safety data for children with chronic conditions beyond prematurity. The late preterm infant inclusion (N=111) with apnea warning demonstrates appropriate attention to vulnerable populations. Overall, the safety evidence supports approval based on comparable profile to established Prevnar 13 vaccine."
+  }
+}

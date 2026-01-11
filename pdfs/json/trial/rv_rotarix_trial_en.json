@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "rv_rotarix",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Multiple placebo-controlled studies conducted. Study 8 (NCT00140673) included 63,225 infants (31,673 ROTARIX, 31,552 placebo). Studies 1-7 evaluated 71,209 infants (36,755 ROTARIX, 34,454 placebo). European Study 5 randomized 3,994 infants (2,646 ROTARIX, 1,348 placebo).",
+      "level_description": "Large-scale, true placebo-controlled trials with tens of thousands of participants in both arms. Placebo recipients received matched inactive preparations. This represents gold-standard methodology for vaccine trials."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Studies explicitly described as 'randomized, double-blind, placebo-controlled' (Study 5 European, Study 8 Latin America/Finland, Study 20 Dominican Republic twins study). The document states these were 'double-blind' trials with identical placebo administration.",
+      "level_description": "Double-blind methodology consistently applied across all major efficacy trials with over 70,000 participants, representing gold-standard blinding for vaccine trials."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Studies described as 'randomized, double-blind, placebo-controlled.' Study 8 randomized 63,225 infants. Study 5 randomized 3,994 infants. Study 20 (transmission study) randomized 100 pairs of twins. Document mentions 'according to randomization' in ATP analysis descriptions.",
+      "level_description": "Large-scale randomization consistently applied across all major clinical trials with over 70,000 total participants. ATP and TVC analyses confirm proper randomization implementation."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Studies 1-8 evaluated 71,209 infants total (36,755 ROTARIX, 34,454 placebo). Study 8 alone included 63,225 infants. The efficacy subset in Latin America included 20,169 infants. Studies 9-11 (comparing formulations) evaluated 4,223 infants. Preterm infant safety data available for 254 infants (134 ROTARIX, 120 placebo).",
+      "level_description": "Exceptionally large pediatric sample sizes across multiple studies, with over 70,000 infants in the primary safety database. This exceeds typical requirements and provides robust statistical power for detecting both efficacy and rare adverse events."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions collected for 8 consecutive days post-vaccination. Unsolicited adverse events collected for 31 days post-vaccination. SAEs monitored for 31 days in Studies 1-8, and through 6 months after last dose in Studies 9-11. Intussusception monitored in subset (n=20,169) up to one year after first dose. Efficacy evaluated through one and two rotavirus seasons.",
+      "level_description": "Follow-up is adequate for acute adverse events but varies by endpoint. SAE monitoring extends to 6 months post-vaccination in some studies. Long-term efficacy data available through two seasons. One-year intussusception surveillance in a subset of ~20,000 infants."
+    },
+    "separate_age_groups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Vaccine indicated for infants 6 weeks to 24 weeks of age. Preterm infants (gestational age ≤36 weeks) were studied separately with 254 subjects (134 ROTARIX, 120 placebo). No breakdown by specific age within the 6-24 week range provided in efficacy analyses.",
+      "level_description": "The target population (6-24 weeks) is narrow and age-appropriate. Preterm infants were studied separately but with limited numbers. No detailed age-stratified efficacy or safety breakdowns within the approved age range are provided."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Contraindications clearly defined: hypersensitivity to vaccine components, history of uncorrected congenital GI malformation, history of intussusception, SCID. Exclusion of infants with acute diarrhea/vomiting at time of vaccination. Studies enrolled 'healthy infants' with gestational age ≥32 weeks noted for twins study. Studies excluded infants with OPV coadministration.",
+      "level_description": "Clear inclusion/exclusion criteria are documented, particularly around contraindications. The document specifies that 'healthy infants' were enrolled and provides clear guidance on populations who should not receive the vaccine."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited adverse reactions (fussiness/irritability, cough/runny nose, fever, loss of appetite, vomiting, diarrhea) collected via diary cards for 8 days post-vaccination with specific definitions provided. Fever defined as ≥100.4°F (≥38.0°C) rectally or ≥99.5°F (≥37.5°C) orally. Grade 3 severity criteria specified (e.g., fever >103.1°F). Vesikari scale (scores 0-20) used for gastroenteritis severity.",
+      "level_description": "Standardized definitions and grading scales were employed. Solicited adverse events had clear definitions with severity grading. The validated Vesikari scale was used for the primary endpoint (gastroenteritis severity)."
+    },
+    "active_monitoring_serious": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study 8: Active surveillance for intussusception using 'independent, complementary methods (prospective hospital surveillance and parent reporting at scheduled study visits)' within 31 days after vaccination and up to one year in subset of 20,169 infants. SAEs monitored for 31 days in 8 studies. Deaths tracked throughout entire course of all studies (68 deaths in ROTARIX group, 50 in placebo).",
+      "level_description": "Exemplary active surveillance system for the serious adverse event of primary concern (intussusception), combining hospital-based surveillance with parent reporting. Comprehensive death tracking across all studies demonstrates rigorous serious adverse event monitoring."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Kawasaki disease tracked across 16 completed/ongoing trials: 18 (0.035%) ROTARIX recipients vs 9 (0.021%) placebo recipients. RR 1.71 (95% CI: 0.71, 4.38) in placebo-controlled trials. Idiopathic thrombocytopenic purpura reported in postmarketing surveillance. No specific mention of systematic neurological monitoring.",
+      "level_description": "Some autoimmune conditions (Kawasaki disease, ITP) were tracked, with Kawasaki disease showing a non-significant trend toward increased risk. However, no systematic assessment of neurological conditions or comprehensive autoimmune panel is documented."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Preterm infants (≤36 weeks gestational): 254 studied (134 ROTARIX, 120 placebo), SAEs similar (5.2% vs 5.0%), no deaths or intussusception. Safety and effectiveness NOT evaluated in: immunocompromised infants (HIV, immunosuppressive therapy, malignancies), chronic GI disorders, or infants <6 weeks or >24 weeks. SCID infants explicitly contraindicated based on postmarketing reports.",
+      "level_description": "Limited preterm infant data available but underpowered. Key vulnerable populations (immunocompromised, chronic GI conditions) explicitly not studied. The document acknowledges these gaps rather than providing safety data for these groups."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "95% Confidence Intervals provided for efficacy estimates and relative risks. Relative Risk calculations with CIs for intussusception (RR: 0.85 [95% CI: 0.30, 2.42] within 31 days). Statistical significance noted (P <0.001 for efficacy endpoints, P <0.05 for type-specific efficacy). Both ATP (according to protocol) and TVC (total vaccinated cohort) analyses performed.",
+      "level_description": "Standard statistical methods employed with appropriate confidence intervals, relative risk calculations, and significance testing. Both per-protocol and intention-to-treat-like analyses provided, enabling assessment of efficacy under different analytical frameworks."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Clinical trial registration numbers provided (NCT00729001, NCT00385320, NCT00429481, NCT00757770, NCT00140686, NCT00169455, NCT00137930, NCT00140673, NCT02914184, NCT03207750, NCT03954743, plus others). Detailed tables with case counts, percentages, and statistical measures. Death data reported (68 ROTARIX, 50 placebo) including cause analysis (pneumonia breakdown).",
+      "level_description": "Good transparency with NCT registration numbers enabling access to trial protocols. Numerical data provided in tables with confidence intervals. Mortality data disclosed with cause-specific analysis. Published references cited for methodology."
+    },
+    "post_marketing_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Mexico hospital-based active surveillance study evaluated intussusception risk in ~1 million infants. Relative incidence within 31 days post-dose 1: 1.96 (95.5% CI: 1.46, 2.63); within 7 days: 6.07 (95.5% CI: 4.20, 8.63). Additional observational studies in Brazil and Australia. Global passive surveillance via VAERS. Postmarketing reports include: intussusception (including deaths), recurrent intussusception, hematochezia, gastroenteritis with viral shedding in SCID, ITP, Kawasaki disease.",
+      "level_description": "Comprehensive postmarketing surveillance with active hospital-based studies in Mexico identifying elevated intussusception risk. International observational studies (Brazil, Australia) confirming findings. Robust passive surveillance system. Transparent reporting of postmarketing adverse events including fatalities."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document identifies GlaxoSmithKline Biologicals as manufacturer (Rixensart, Belgium) and GSK as U.S. distributor. No disclosure of funding sources for clinical trials, investigator conflicts, or financial relationships with study authors.",
+      "level_description": "The prescribing information does not contain conflict of interest disclosures. While the manufacturer is identified, there is no documentation of investigator financial relationships or trial funding transparency."
+    },
+    "all_cause_mortality": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "During Studies 1-8: 68 deaths (0.19%) following ROTARIX (n=36,755) vs 50 deaths (0.15%) following placebo (n=34,454). Most common cause: pneumonia - 19 (0.05%) ROTARIX vs 10 (0.03%) placebo (RR: 1.74, 95% CI: 0.76, 4.23). Studies 9-11: 1 fatal SAE (SIDS) after ROTARIX liquid formulation, assessed as not causally related.",
+      "level_description": "All-cause mortality data reported with breakdown by treatment group. Numerical difference noted (68 vs 50 deaths) with pneumonia as most common cause showing non-significant elevation. Confidence intervals provided. The RR for pneumonia deaths crossed 1.0, indicating no statistically significant difference."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "The ROTARIX clinical trial program demonstrates robust methodology with large-scale placebo-controlled trials (>70,000 infants), double-blind randomization, and exemplary active surveillance for intussusception. Key strengths include exceptional sample sizes, standardized endpoint definitions (Vesikari scale), comprehensive mortality tracking, and transparent postmarketing surveillance that identified real-world intussusception risk. Limitations include minimal data on vulnerable populations (immunocompromised, chronic GI conditions studied populations explicitly excluded), partial autoimmune/neurological monitoring, and absent conflict of interest documentation. The trials meet or exceed regulatory standards for vaccine approval, with particularly strong safety surveillance infrastructure."
+  }
+}

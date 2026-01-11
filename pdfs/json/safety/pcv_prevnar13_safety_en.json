@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "pcv_prevnar13",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Prevnar 13 was evaluated in 13 clinical trials with 4,729 infants and toddlers receiving at least one dose of Prevnar 13, plus 2,760 receiving Prevnar as active control. Additionally, 6,839 subjects globally received at least one dose. Three US studies included 1,907 Prevnar 13 recipients and 701 Prevnar recipients. Children 5-17 years included 592 subjects. This represents a robust pediatric sample size across multiple age groups."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Safety data for the first three doses are available for all 13 infant studies; dose 4 data are available for 10 studies; and 6-month follow-up data are available for 7 studies. Solicited adverse reactions were recorded for 7 consecutive days following each vaccination using electronic diaries. Unsolicited adverse events were monitored from first dose until one month after the infant series, and for one month after the toddler dose. Serious adverse events were collected throughout the study period and during a 6-month follow-up phone contact."
+    },
+    "comparison_group": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "The trials used Prevnar (7-valent conjugate vaccine) as an active control, which is the most appropriate comparator for a successor vaccine. This allows for meaningful safety comparison with an established pneumococcal vaccine. The US noninferiority study randomized infants 1:1 to receive either Prevnar 13 or Prevnar. Adult studies also included PPSV23 as active comparator."
+    },
+    "active_surveillance": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "explanation": "Solicited local and systemic adverse reactions were recorded daily by parents/guardians using an electronic diary for 7 consecutive days following each vaccination. Local reactions (redness, swelling, tenderness) were measured with calipers and graded by severity. Systemic events (fever, irritability, decreased appetite, sleep changes) were actively monitored. Unsolicited adverse events were collected at clinic visits and via scripted telephone interviews."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document mentions hypotonic-hyporesponsive episodes (1 case among 6,839 Prevnar 13 recipients vs 3 among 4,204 Prevnar recipients), seizures (including febrile seizures) as unsolicited adverse reactions occurring in less than 1% of infants, and hypotonia in post-marketing reports. However, there is no description of systematic neurological assessment protocols or dedicated neurological monitoring beyond these event reports."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The document addresses several high-risk populations including: premature infants (warning about apnea risk, immunogenicity data from 100 preterm infants), children with sickle cell disease (open-label study, N=95-131), hematopoietic stem cell transplant recipients (subjects ages 2-71), and HIV-infected individuals (adults and children studies). However, the document notes immunogenicity and safety data in these populations are limited and effectiveness has not been established."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The prescribing information provides detailed tables with percentages of adverse reactions by dose, severity grades, and confidence intervals. ClinicalTrials.gov identifiers are provided for all 13 referenced studies. Specific data on deaths (3 SIDS deaths in Prevnar 13 group, 1 in Prevnar group) and serious adverse events (8.2% vs 7.2%) are disclosed. However, raw individual patient data is not publicly available."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.3 describes post-marketing experience with adverse events reported through passive surveillance since market introduction. Categories include administration site conditions, blood/lymphatic disorders, cardiac disorders (cyanosis), immune system disorders (anaphylactic reactions), nervous system disorders (hypotonia), skin disorders (angioneurotic edema, erythema multiforme), respiratory (apnea), and vascular disorders (pallor). VAERS reporting information is provided."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "Prevnar 13's safety profile is supported by extensive clinical trial data from 13 pediatric studies with nearly 7,500 infant/toddler subjects and robust adult trials including an 84,496-subject efficacy study. The program demonstrates exemplary features in sample size, use of an appropriate active comparator (Prevnar), and active surveillance methodology with electronic diaries and standardized severity grading. Follow-up duration of 6 months and post-marketing surveillance are adequate. Vulnerable subgroups were studied but with acknowledged limitations. The main gap is the lack of systematic neurological monitoring protocols beyond adverse event reporting. Overall, the safety evidence base is comprehensive and well-documented, though neurological safety assessment could be more rigorous."
+  }
+}

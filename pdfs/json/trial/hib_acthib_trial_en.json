@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_acthib",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No placebo-controlled trials described. Clinical trials compared ActHIB to other Haemophilus influenzae type b conjugate vaccines (PRP-OMP/PedvaxHIB and HbOC/HibTITER) rather than to placebo. Studies focused on immunogenicity comparisons between active vaccines.",
+      "level_description": "No placebo or saline control group was used in any described trial. All comparisons were between active Hib conjugate vaccines."
+    },
+    "double_blind": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not mention blinding procedures. The clinical trials section describes immunogenicity studies but does not specify whether investigators or participants were blinded to treatment assignment.",
+      "level_description": "No mention of blinding methodology in any trial described in the prescribing information."
+    },
+    "randomization": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not describe randomization procedures. While comparative trials were conducted in Tennessee and Minnesota/Missouri/Texas, no details on how subjects were assigned to different vaccine groups are provided.",
+      "level_description": "Randomization methods are not described in the document."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "More than 7,000 infants and young children (≤2 years of age) received at least one dose during US clinical trials. Study P3T06 enrolled 1,454 children. A safety study in 110 children 15-20 months of age was conducted. Immunogenicity trials included 65-167 subjects per vaccine arm (Tennessee: 65 ActHIB, Minnesota/Missouri/Texas: 142 ActHIB).",
+      "level_description": "Total sample size exceeds 7,000 children which is adequate for a pediatric vaccine. Individual comparative studies had smaller but reasonable sample sizes (65-167 per group)."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Adverse reactions monitored within 48 hours after immunization in the 110-child safety study. Study P3T06 monitored solicited reactions within 0-3 days after vaccination. Serious adverse events tracked within 30 days following vaccination. Post-immunization antibody responses measured approximately 1 month after vaccination.",
+      "level_description": "Follow-up was short-term (48 hours to 30 days) for adverse events. No long-term safety follow-up described in clinical trials section."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Studies stratified by age: infants at 2, 4, and 6 months of age for primary series; children 15-20 months for booster study; separate immunogenicity data for 12-15 months (N=256) and 17-24 months (N=81) age groups. Study P3T06 doses 1-3 vs dose 4 were analyzed separately.",
+      "level_description": "Clear age-group stratification with separate data for infants, toddlers, and different age ranges within those groups."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Document mentions contraindications (hypersensitivity to prior dose or vaccine components, Guillain-Barre syndrome within 6 weeks of tetanus toxoid vaccine) and precautions (altered immunocompetence). Children in Study P3T06 ranged from 1.3 to 19.5 months. Native American populations studied separately due to known low immune responses.",
+      "level_description": "Contraindications are listed but detailed inclusion/exclusion criteria for clinical trials are not provided."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Solicited local reactions (tenderness, erythema >1 inch, induration, swelling) and systemic reactions (fever >102.2°F, irritability, drowsiness, anorexia, vomiting, persistent cry, unusual cry) were systematically collected. Study P3T06 used severity grading (any, moderate, severe) for reactions like decreased activity/lethargy and inconsolable crying with defined timepoints.",
+      "level_description": "Standardized solicited adverse event collection with defined severity scales and specific timepoints (6, 24, 48 hours and 0-3 days)."
+    },
+    "active_monitoring_serious": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study P3T06: Within 30 days following Doses 1-3, 50 of 1,455 (3.4%) participants experienced SAE. One SAE of seizure with apnea on day of vaccination with first dose was determined possibly related. Within 30 days following Dose 4, 4 of 418 (1.0%) experienced SAE, none assessed as related.",
+      "level_description": "Serious adverse events were tracked within 30 days, but methodology for active monitoring not detailed. Only one possibly related SAE (seizure with apnea) identified."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Guillain-Barre syndrome mentioned as precaution if occurred within 6 weeks of prior tetanus toxoid vaccine. Postmarketing reports include convulsions under nervous system disorders. One SAE of seizure with apnea noted in clinical trials. No systematic monitoring for autoimmune conditions described.",
+      "level_description": "GBS warning included as precaution and convulsions noted in postmarketing, but no systematic autoimmune/neurological monitoring protocol in trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Native American (Alaskan) populations studied separately showing 75% achieved protective antibody titers vs higher rates in general population. Sickle cell anemia children studied with 89% achieving adequate titers after two doses. Immunosuppressed persons mentioned as potentially having reduced responses. No data in infants below 6 weeks.",
+      "level_description": "Some vulnerable populations studied (Native Americans, sickle cell patients) but limited data. No formal subgroup analyses for other high-risk populations."
+    },
+    "statistical_analysis": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Geometric Mean Concentrations (GMC) reported with percentages achieving protective threshold (≥1.0 mcg/mL). Data presented in tables with sample sizes. No confidence intervals, p-values, or formal statistical comparisons between vaccine groups described.",
+      "level_description": "Basic descriptive statistics (GMC, percentages) provided but no formal statistical analysis methodology or inferential statistics detailed."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Tables provided with immunogenicity data and adverse event rates. References cite published studies and data on file at Sanofi Pasteur. Adverse event percentages given with sample sizes. However, raw data, full study protocols, and complete results not publicly accessible within document.",
+      "level_description": "Summary data presented with references to published studies, but relies on 'data on file' citations. Limited transparency on full trial methodology and complete datasets."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Postmarketing experience section lists spontaneously reported events: anaphylaxis, allergic reactions (urticaria, angioedema), convulsions, extensive limb swelling, peripheral edema, pruritus, rash. VAERS reporting encouraged. Document acknowledges events reported voluntarily from uncertain population size with difficulty establishing causal relationship.",
+      "level_description": "Active postmarketing surveillance through VAERS with specific adverse events listed. Appropriate caveats about spontaneous reporting limitations included."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not disclose conflicts of interest. Manufactured by Sanofi Pasteur SA (France), distributed by Sanofi Pasteur Inc. (USA). Some references cite 'data on file' at manufacturer. NIH-supported trials mentioned but no COI disclosures provided.",
+      "level_description": "No conflict of interest disclosure in the prescribing information. Manufacturer involvement in trials apparent but not explicitly addressed."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "Document does not report any mortality data from clinical trials. States that 1,064 subjects 12-24 months who received ActHIB alone reported no serious or life threatening adverse reactions. No deaths mentioned in SAE reporting for Study P3T06.",
+      "level_description": "All-cause mortality not explicitly tracked or reported. Absence of mortality events may be implied but not systematically documented."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "ActHIB clinical trials focused primarily on immunogenicity comparisons with other Hib conjugate vaccines rather than placebo-controlled efficacy studies. The trials enrolled over 7,000 children with adequate sample sizes and age stratification. Adverse event monitoring was standardized but limited to short-term follow-up (48 hours to 30 days). No placebo control, blinding, or randomization details are described. Statistical analysis is basic with no inferential statistics. Some vulnerable populations were studied (Native Americans, sickle cell patients). Postmarketing surveillance is in place, but the document lacks transparency on full study protocols, conflict of interest disclosures, and all-cause mortality tracking."
+  }
+}

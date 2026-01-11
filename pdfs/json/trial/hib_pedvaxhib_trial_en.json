@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hib_pedvaxhib",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The Protective Efficacy Study was a randomized, double-blind, placebo-controlled study involving 3,486 Native American (Navajo) infants who completed the primary two-dose regimen. Each infant received two doses of either placebo or lyophilized PedvaxHIB. The placebo group had 22 cases of invasive Hib disease (8 after first dose, 14 after second dose) while the vaccine group had only 1 case (after the second dose). The protective efficacy was calculated to be 93% (95% CI: 57%-98%, p=0.001).",
+      "level_description": "True placebo control with saline/inert comparator was used in the pivotal efficacy trial, allowing for genuine assessment of vaccine efficacy against clinical disease endpoints."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The Protective Efficacy Study is explicitly described as a 'randomized, double-blind, placebo-controlled study.' This indicates that neither investigators nor participants knew which treatment (vaccine or placebo) was administered during the trial.",
+      "level_description": "The pivotal efficacy study employed proper double-blind methodology, minimizing bias in outcome assessment and reporting."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The document states that infants were enrolled in 'a randomized, double-blind, placebo-controlled study.' Additionally, a smaller study (n=34) of children who had invasive Hib disease despite previous vaccination mentions children were 'randomly assigned to 2 groups.'",
+      "level_description": "Randomization is explicitly stated for the pivotal efficacy trial, supporting unbiased allocation of participants to vaccine and placebo groups."
+    },
+    "pediatric_sample_size": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "The Protective Efficacy Study enrolled 3,486 Native American (Navajo) infants who completed the two-dose regimen, with 4,459 healthy Navajo infants initially receiving lyophilized PedvaxHIB or placebo. An additional multicenter clinical study (n=903) compared Liquid PedvaxHIB with lyophilized PedvaxHIB in 678 healthy infants 2-6 months of age. Early clinical studies involved 8,086 doses of lyophilized PedvaxHIB administered to 5,027 healthy infants and children. Antibody responses were measured in subsets (416 vaccine, 461 placebo in the efficacy study).",
+      "level_description": "Large pediatric sample sizes were used across multiple studies, with the pivotal efficacy trial including thousands of infants, providing robust statistical power for efficacy and safety assessment."
+    },
+    "follow_up_duration": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Most subjects in the Protective Efficacy Study were initially followed until 15 to 18 months of age. After study termination, placebo recipients were offered vaccine and all original participants were then followed for an additional two years and nine months from termination of the study. Safety monitoring in other studies was for a 48-hour period (local reactions) and three-day period (adverse reactions) following vaccination.",
+      "level_description": "Extended follow-up of nearly 3 years post-study termination for efficacy outcomes is adequate. However, short-term safety monitoring (48-72 hours) limits detection of delayed adverse events."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The document presents data by age groups: infants 6-12 weeks of age in the efficacy study, infants 2-6 months of age in the Liquid vs Lyophilized comparison study, and infants initially vaccinated at 2-3 months of age in immunogenicity studies. Table 2 shows responses for ages 2-3 months, 12-15 months (booster), and ~24 months (persistence). Table 6 provides dosing regimens for ages 2-10 months, 11-14 months, and 15-71 months.",
+      "level_description": "Age-stratified data is provided across multiple studies, with different dosing regimens specified for different age groups, though safety analyses are not always presented separately by age."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The document describes study populations as 'healthy' infants (e.g., 'healthy Navajo infants,' 'healthy infants 2 to 6 months of age'). Contraindications section indicates hypersensitivity to vaccine components precludes vaccination. Precautions mention delaying vaccination during acute febrile illness. However, detailed inclusion/exclusion criteria are not explicitly enumerated.",
+      "level_description": "Study populations are described as healthy infants from specific populations, but detailed inclusion/exclusion criteria are not provided in the package insert."
+    },
+    "standardized_adverse_events": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Adverse events were systematically collected with specific categories reported: injection site reactions (erythema >2.5cm, swelling >2.5cm), fever (>38.3C rectal), irritability, sleepiness, pain/soreness, unusual high-pitched crying, prolonged crying (>4hr), diarrhea, vomiting, otitis media, rash, and upper respiratory infection. Table 5 presents standardized data on fever and local reactions at specific timepoints (6, 24, 48 hours) post-vaccination.",
+      "level_description": "Adverse events were collected using standardized categories and timepoints, with systematic recording of solicited local and systemic reactions using defined thresholds."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "In the Protective Efficacy Study, 'no differences were seen in the type and frequency of serious health problems expected in this Navajo population or in serious adverse experiences reported among those who received lyophilized PedvaxHIB and those who received placebo.' Seizures were monitored (9 in vaccine recipients, 8 in placebo). One serious reaction (tracheitis) was reported as possibly related to lyophilized PedvaxHIB. The document instructs healthcare providers to report serious adverse reactions to VAERS.",
+      "level_description": "Serious adverse events were monitored and compared between vaccine and placebo groups in the pivotal trial, with seizures specifically tracked. Post-marketing surveillance through VAERS is referenced."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Seizures were monitored in the Protective Efficacy Study: 9 occurred in vaccine recipients (8 also received DTP), 8 occurred in placebo recipients (7 also received DTP), and 'were not reported to be related to lyophilized PedvaxHIB.' The Potential Adverse Reactions section mentions that Guillain-Barre syndrome has been associated with the use of Haemophilus b Polysaccharide Vaccines and another Haemophilus b Conjugate Vaccine, though 'a cause and effect relationship between these side effects and the vaccination was not established.' Febrile seizures are listed under post-marketing adverse reactions.",
+      "level_description": "Seizures were tracked in clinical trials with comparative data. Guillain-Barre syndrome is mentioned as a potential adverse reaction from other Hib vaccines. However, systematic long-term monitoring for autoimmune/neurological conditions was not described."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The vaccine was studied in populations with higher risk of Hib disease: Native Americans (Navajo, Apache), who have higher incidence and lower antibody response to Hib vaccines. Studies were conducted in children who were 'poor responders to nonconjugated PRP vaccines' and in children with 'genetically-related deficiencies [Blacks who were Km(1) allotype negative and Caucasians who were G2m(23) allotype negative].' Tables 3 and 4 present immunogenicity data by racial/ethnic groups (Native American, Caucasian, Hispanic, Black). The document notes vaccine may not provide expected immune response in immunocompromised individuals.",
+      "level_description": "Clinical studies specifically included high-risk populations (Native Americans, poor responders, those with genetic variants affecting immune response) and provided data stratified by racial/ethnic groups."
+    },
+    "statistical_analysis": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "The protective efficacy was calculated to be 93% with a 95% confidence interval of 57%-98% (p=0.001, two-tailed). The difference in cases between placebo and vaccine in the first two months was statistically significant (p=0.008, two-tailed). Extended follow-up efficacy was 96.6% (95% CI, 72.2-99.9%) in children under 18 months and 100% (95% CI, 23.5-100%) in children over 18 months. Geometric Mean Titers (GMT) and percentages achieving antibody thresholds (>0.15 mcg/mL, >1.0 mcg/mL) are reported.",
+      "level_description": "Statistical methods are applied with p-values and 95% confidence intervals reported for efficacy endpoints. Immunogenicity outcomes include GMT and response rates with defined thresholds."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Immunogenicity data (antibody levels, GMTs, response rates) are presented in tables for various study populations. Adverse event percentages are provided in Table 5 for local reactions and fever. The document references 52 published studies and 'Data on file at Merck Research Laboratories.' Individual participant data, detailed demographic breakdowns, and complete adverse event tabulations are not provided.",
+      "level_description": "Summary data on immunogenicity and common adverse events are presented in tables. However, comprehensive raw data, full demographic details, and complete adverse event listings are not included; some data referenced as 'on file' at the manufacturer."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "A dedicated 'Post-Marketing Adverse Reactions' section lists additional adverse reactions reported with the use of lyophilized and liquid formulations: lymphadenopathy, angioedema (rarely), febrile seizures, and sterile injection site abscess. The document instructs that 'Patients, parents, and guardians should be instructed to report any serious adverse reactions to their healthcare provider who in turn should report such events to the U.S. Department of Health and Human Services through the Vaccine Adverse Event Reporting System (VAERS), 1-800-822-7967.'",
+      "level_description": "Post-marketing surveillance data is included with specific adverse reactions identified after licensure. VAERS reporting system is referenced for ongoing safety monitoring."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not include any disclosure of conflicts of interest, funding sources for clinical trials, or relationships between investigators and the manufacturer (Merck & Co., Inc.). Some data is referenced as 'Data on file at Merck Research Laboratories.'",
+      "level_description": "No conflict of interest disclosures are provided in the package insert. The relationship between the manufacturer and clinical trial investigators is not disclosed."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not report all-cause mortality data from clinical trials. The only reference to mortality is general background information stating that 'The mortality rate from Hib meningitis is about 5%' when discussing the disease burden prior to vaccine introduction.",
+      "level_description": "All-cause mortality is not reported for clinical trial participants. Deaths, if any occurred during trials, are not documented in the package insert."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "PedvaxHIB has one of the strongest clinical trial designs among pediatric vaccines, with a true randomized, double-blind, placebo-controlled efficacy trial in over 3,400 Navajo infants demonstrating 93% protective efficacy. The vaccine was also studied in genetically high-risk populations and poor vaccine responders. However, the package insert has limitations: short-term safety monitoring (48-72 hours), incomplete conflict of interest disclosure, absence of all-cause mortality data, and some data referenced only as 'on file' at the manufacturer. The post-marketing section identifies additional adverse events. Overall, the clinical evidence package is stronger than most pediatric vaccines due to the placebo-controlled efficacy trial, though documentation gaps remain."
+  }
+}

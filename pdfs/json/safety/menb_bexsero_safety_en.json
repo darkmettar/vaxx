@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "menb_bexsero",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document reports safety data from 3,139 subjects who received at least one dose of BEXSERO in clinical trials, plus serious adverse event data from 15,351 participants in CDC vaccination campaigns. However, the approved age range is 10-25 years, meaning true pediatric populations (under 10) were not included in the approval basis. Studies in children 6 weeks to <10 years were deferred under PREA. The adolescent sample (10-17 years) is modest but supplemented by young adult data."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Follow-up duration is poorly characterized in the safety section. The CDC expanded access IND monitored serious adverse events only up to 30 days following the second dose. One UK study measured immunogenicity at 11 months post-dose 2, but long-term safety follow-up beyond a few months is not described. The cases of juvenile arthritis occurred 5-6 months post-vaccination, indicating some follow-up existed but was not systematically reported."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Multiple randomized controlled trials were conducted including observer-blind, placebo-controlled (Chile), and active-controlled (UK, US/Poland) designs. The document notes that reactogenicity with BEXSERO was greater than that seen with control or comparator vaccines, indicating meaningful comparison was performed."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The document describes solicited reactogenicity data collection (local and systemic reactions), unsolicited adverse event monitoring, and revised analyses of reactogenicity rates following FDA BIMO inspection findings. Diary cards or similar active collection methods appear to have been used, as evidenced by discussion of source documents for solicited reaction data."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "No specific neurological monitoring protocol is described. The document mentions two cases of juvenile arthritis and one case of acute thyroiditis as notable serious adverse events but does not describe systematic assessment of neurological outcomes such as seizures, encephalopathy, or Guillain-Barre syndrome. The one anaphylaxis case was noted, but neurological events were not specifically tracked."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document states that observed rates of adverse events across demographic groups (race, gender, age) were fairly comparable. However, no specific data on immunocompromised individuals, pregnant women, or those with chronic conditions is presented. A pregnancy registry was committed as a post-marketing requirement, indicating pregnant women were not studied pre-approval. Pregnancy category B designation was based on animal studies only."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document provides aggregate safety summaries but does not include detailed tables of adverse event rates by type, severity, or timing. Common reactions are listed qualitatively (injection site pain, erythema, myalgia, malaise, headache). The document notes FDA BIMO inspections identified issues with data collection from source documents, requiring revised reactogenicity analyses, which raises some concern about data integrity."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Routine pharmacovigilance per 21 CFR 600.80 is required. Post-marketing commitments include: confirmatory studies for effectiveness against diverse strains, pediatric studies for ages 6 weeks to <10 years under PREA, a concomitant vaccination study, and establishment of a U.S. pregnancy registry with annual and 3-year summary reports."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "BEXSERO received accelerated approval based on immunogenicity data in adolescents and young adults (10-25 years). The safety database included approximately 3,139 clinical trial subjects plus 15,351 from expanded access programs. While the trials included randomized controlled designs and active surveillance of reactogenicity, significant limitations exist: short follow-up duration (30 days for serious adverse events in CDC campaigns), deferred pediatric studies for children under 10, no systematic neurological monitoring described, limited data on vulnerable subgroups, and FDA inspection findings that required revised reactogenicity analyses. Post-marketing commitments address some gaps but key pediatric and long-term safety data were not available at approval."
+  }
+}

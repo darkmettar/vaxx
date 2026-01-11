@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "covid19_comirnaty",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study 2 (NCT04368728) was a Phase 1/2/3 multicenter, randomized, saline placebo-controlled, double-blinded study that enrolled approximately 44,000 participants 16 years of age or older (22,026 COMIRNATY; 22,021 placebo). Study 3 (NCT04816643) for children 5-11 years was also saline placebo-controlled (3,109 COMIRNATY; 1,538 placebo).",
+      "level_description": "Large-scale placebo-controlled trials with saline placebo used as comparator across multiple age groups and studies."
+    },
+    "double_blind": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study 2 was explicitly described as 'saline placebo-controlled, double-blinded (Phase 2/3)' study. Study 3 (Phase 2/3) was described as 'observer-blind' for pediatric populations. Study 4 was a 'double-blind placebo-controlled booster study.'",
+      "level_description": "Double-blinding or observer-blinding explicitly stated and implemented in the pivotal Phase 2/3 studies across age groups."
+    },
+    "randomization": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Study 2: 'Randomization was stratified by age: 12 through 15 years of age, 16 through 55 years of age, or 56 years of age and older, with a minimum of 40% of participants in the >=56-year stratum.' Participants were 'randomized equally' to vaccine or placebo groups.",
+      "level_description": "Proper randomization with stratification by age groups was implemented in the pivotal trials."
+    },
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Children 5-11 years: Study 3 enrolled 4,695 participants (3,109 COMIRNATY, 1,538 placebo). Adolescents 12-15 years: Study 2 included 2,260 adolescents (1,131 COMIRNATY; 1,129 placebo). For efficacy analysis in 5-11 year olds, N=2,703 vaccine vs N=1,348 placebo without evidence of prior infection.",
+      "level_description": "Sample sizes in the thousands for pediatric populations, adequate for safety signal detection but vaccine efficacy analysis was limited by case counts in some subgroups."
+    },
+    "follow_up_duration": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 2: 'At the time of the analysis of Study 2 with a data cutoff of March 13, 2021, there were 25,651 (58.2%) participants 16 years of age and older followed for >=4 months after the second dose.' For children 5-11: 'followed a median of 1.9 months (range 0.1 to 7.5 months) after the second dose.' Participants planned to be followed for up to 24 months.",
+      "level_description": "Median follow-up ranged from approximately 2 months to 6 months across studies at time of licensure. Long-term data available through unblinded follow-up, but placebo-controlled follow-up was limited to 4-6 months for most participants."
+    },
+    "separate_age_groups": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Document presents detailed separate analyses for: 16 through 55 years of age, 56 years of age and older, 12 through 15 years of age, 5 through 11 years of age. Each age group has separate tables for solicited local and systemic reactions (Tables 3-12) and separate efficacy analyses.",
+      "level_description": "Comprehensive age-stratified analysis with dedicated studies and separate reactogenicity and efficacy data presentations for each major age group."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Study 2: 'excluded participants who were immunocompromised and those who had previous clinical or microbiological diagnosis of COVID-19. Participants with preexisting stable disease, defined as disease not requiring significant change in therapy or hospitalization for worsening disease during the 6 weeks before enrollment, were included as were participants with known stable infection with HIV, HCV, or HBV.' 200 participants with confirmed stable HIV infection were included.",
+      "level_description": "Clear exclusion criteria documented with defined parameters for stable disease inclusion. Immunocompromised exclusion noted with exceptions for stable HIV."
+    },
+    "standardized_adverse_events": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Participants in the reactogenicity subset were monitored using an electronic diary for solicited local and systemic reactions with standardized severity grading: Local reactions graded as Mild (>2.0 to <=5.0 cm), Moderate (>5.0 to <=10.0 cm), Severe (>10.0 cm). Systemic reactions graded by functional impairment (Mild: does not interfere with activity; Moderate: interferes with activity; Severe: prevents daily activity).",
+      "level_description": "Standardized electronic diary monitoring with clearly defined severity grading scales for both local and systemic reactions."
+    },
+    "active_monitoring_serious": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Participants were monitored for unsolicited adverse events from Dose 1 through 1 month (all unsolicited adverse events) or through 6 months (serious adverse events) after the last vaccination. Serious adverse events reported: Study 2 ages 16-55: 103 (0.8%) COMIRNATY vs 117 (0.9%) placebo; ages 56+: 165 (1.8%) COMIRNATY vs 151 (1.7%) placebo.",
+      "level_description": "Active surveillance for serious adverse events up to 6 months post-vaccination with comparable rates between vaccine and placebo groups documented."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Bell's palsy (facial paralysis) was reported by 4 participants in the COMIRNATY group and 2 participants in the placebo group. 'Currently available information is insufficient to determine a causal relationship with the vaccine.' Document states 'no other notable patterns or numerical imbalances between treatment groups for specific categories of non-serious adverse events (including other neurologic or neuro-inflammatory, and thrombotic events).'",
+      "level_description": "Some neurological events tracked (Bell's palsy) but limited systematic assessment of autoimmune conditions. Document notes insufficient information to determine causal relationships."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Study 2 included 200 participants with confirmed stable HIV infection (documented viral load <50 copies/mL and CD4 count >200 cells/mm3). 'HIV-positive participants are included in the safety population but are summarized separately in the safety analyses.' Participants with preexisting stable disease were included. Immunocompromised individuals were generally excluded.",
+      "level_description": "Limited inclusion of immunocompromised individuals (only stable HIV). Pregnancy data described as 'insufficient to inform vaccine-associated risks.' Specific vulnerable subgroups like organ transplant recipients were excluded."
+    },
+    "statistical_analysis": {
+      "rating": "exemplary",
+      "emoji": "⭐",
+      "what_document_states": "Primary efficacy endpoint met pre-specified success criterion: 'vaccine efficacy against confirmed COVID-19 occurring at least 7 days after Dose 2 was 95.0% (95% credible interval: 90.3, 97.6).' Immunobridging analyses used noninferiority criteria (GMR lower bound >0.67). Two-sided 95% confidence intervals calculated using Clopper and Pearson method adjusted for surveillance time.",
+      "level_description": "Rigorous statistical methodology with pre-specified success criteria, credible intervals, noninferiority criteria, and appropriate statistical methods documented."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Document provides detailed tables with numerical data including GMTs, GMRs, confidence intervals, case counts, surveillance time, and percentages for solicited reactions by severity grade. Multiple clinical trial registration numbers provided (NCT04380701, NCT04368728, NCT04955626, NCT04816643, etc.).",
+      "level_description": "Extensive numerical data presented in tables with confidence intervals. Clinical trial registration numbers provided. However, individual patient-level data not publicly available in this document."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 Postmarketing Experience lists adverse reactions identified: myocarditis, pericarditis, severe allergic reactions including anaphylaxis, syncope, dizziness, febrile seizures. Document cites longitudinal retrospective observational study of 333 patients with vaccine-associated myocarditis. Reference to CDC considerations for myocarditis and published data on incidence rates (approximately 8 cases per million doses overall, 27 cases per million in males 12-24).",
+      "level_description": "Post-marketing surveillance data included with identified adverse reactions. Incidence estimates from health insurance claims data provided. CDC resources referenced."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not include a conflict of interest disclosure section. It identifies BioNTech Manufacturing GmbH as manufacturer and Pfizer Inc. as manufacturing partner.",
+      "level_description": "No conflict of interest disclosures or funding source declarations are included in this prescribing information document."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document does not provide all-cause mortality data comparing vaccine and placebo groups. Death is listed only as a criterion for severe COVID-19 definition in the protocol, not as an outcome measure reported in the results.",
+      "level_description": "All-cause mortality data not reported in this document. No comparison of deaths between vaccine and placebo groups provided."
+    }
+  },
+  "overall": {
+    "rating": "adequate",
+    "emoji": "✅",
+    "summary": "COMIRNATY's clinical development program demonstrated exemplary trial design with large-scale, randomized, placebo-controlled, double-blind studies across multiple age groups. The pivotal Study 2 enrolled approximately 44,000 participants with robust randomization and stratification. Safety monitoring used standardized electronic diary collection with clearly defined severity grading. Vaccine efficacy of 95% against symptomatic COVID-19 was well-documented. However, limitations include relatively short placebo-controlled follow-up (median 2-6 months), absence of all-cause mortality reporting, limited inclusion of immunocompromised populations (only stable HIV included), incomplete autoimmune/neurological assessment, and no conflict of interest disclosures in this regulatory document. Post-marketing surveillance has identified myocarditis/pericarditis as notable safety signals, particularly in young males."
+  }
+}
