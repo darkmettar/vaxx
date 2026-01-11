@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hepb_recombivax",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "The pediatric clinical trial data is limited. Only 147 healthy infants and children (up to 10 years of age) received 434 doses across three clinical studies. For adolescents, the two-dose vs three-dose regimen comparison included 255 and 121 subjects respectively. While safety was established across all pediatric age groups, the sample sizes are relatively small for detecting rare adverse events in a vaccine approved since 1986 and administered to millions of children."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Follow-up was extremely limited. In the pediatric studies, subjects were monitored for only 5 days after each dose. In adult studies, monitoring was similarly limited to 5 days after each dose. For neonates with peripartum exposure, follow-up extended to 9 months, but this was primarily to assess efficacy (prevention of chronic infection) rather than comprehensive safety monitoring. No long-term safety follow-up data is presented in the prescribing information."
+    },
+    "comparison_group": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document references 'historical controls' for efficacy comparisons in neonates (untreated historical controls and those receiving only HBIG). The adolescent two-dose vs three-dose study was randomized and open-label. However, the document does not describe placebo-controlled trials or true randomized safety comparisons for the primary clinical studies. The comparison methodology for safety assessment is not well documented."
+    },
+    "active_surveillance": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Clinical trials used active monitoring for 5 days after each dose, capturing injection site reactions and systemic adverse reactions. However, the short duration limits the ability to detect delayed-onset adverse events. The document mentions that adverse reactions were 'monitored' but does not detail the surveillance methodology (e.g., diaries, follow-up calls, clinic visits). Post-marketing surveillance relies on voluntary VAERS reporting rather than active surveillance."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Clinical trials captured some neurological symptoms including vertigo/dizziness and paresthesia at <1% incidence. Post-marketing reports include serious neurological events: Guillain-Barre syndrome, multiple sclerosis and its exacerbation, transverse myelitis, seizures, febrile seizures, peripheral neuropathy (including Bell's Palsy), radiculopathy, encephalitis, optic neuritis, and muscle weakness. However, no systematic neurological monitoring protocol is described in the pre-licensure trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The document addresses several vulnerable populations: premature infants (warning about apnea risk), infants weighing <2000g (vaccination delay recommendations), dialysis/predialysis patients (separate formulation and dosing), pregnant women (post-approval data from 26 clinical study pregnancies and 105 post-approval reports showing background-rate outcomes), and elderly (noted diminished antibody response in >60 years). Chronic hepatitis C patients and immunocompromised populations are also discussed regarding immunogenicity."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "The document provides aggregate adverse reaction rates (e.g., 17% injection site reactions, 15% systemic reactions in adults; 0.2% and 10.4% in children) and lists adverse events by incidence category (>1% vs <1%). However, detailed study designs, statistical analyses, confidence intervals, and raw data tables are not included. Individual study protocols are not described. The document acknowledges that post-marketing events cannot establish causality due to voluntary reporting from uncertain population sizes."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 provides a comprehensive list of post-marketing adverse events organized by system organ class, including serious events like anaphylaxis, autoimmune diseases (SLE, vasculitis, polyarteritis nodosa), neurological disorders, and skin reactions (Stevens-Johnson syndrome). The document references VAERS reporting system with contact information. Post-approval pregnancy data spans 1986-2018 with 105 pregnancies tracked. However, the document notes inability to establish causality or reliable frequency estimates from voluntary reports."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "RECOMBIVAX HB, approved in 1986, has limited pre-licensure safety documentation by modern standards. Pediatric trials included only 147 children with just 5-day follow-up periods, which is insufficient to detect rare or delayed adverse events. The document lacks placebo-controlled trial data and detailed study methodologies. However, some strengths exist: vulnerable subgroups (premature infants, dialysis patients, pregnant women) are reasonably addressed, and post-marketing surveillance has accumulated decades of data identifying serious but rare events including neurological and autoimmune conditions. The overall safety profile relies heavily on post-marketing experience rather than robust pre-licensure evidence, reflecting the regulatory standards of the 1980s rather than current requirements."
+  }
+}

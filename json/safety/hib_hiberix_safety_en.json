@@ -1,0 +1,52 @@
+{
+  "vaccine_id": "hib_hiberix",
+  "analysis_type": "safety",
+  "language": "en",
+  "criteria": {
+    "pediatric_sample_size": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study 1 enrolled a substantial pediatric population: 2,963 children received HIBERIX for the primary series (at 2, 4, and 6 months), and 2,336 received the booster dose at 15-18 months. Control groups included 520 children each for Control PRP-T and DTaP-IPV/Hib. Seven additional studies contributed 1,008 children who received HIBERIX as a booster dose. The demographic breakdown shows 51.2% male, 61% white, 8% Asian, 9% black, and 22% other racial/ethnic groups. The total population across all trials is approximately 4,000+ children, which is adequate for detecting common adverse reactions."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "explanation": "Solicited adverse reactions were only collected within 4 days of vaccination (day of vaccination and the next 3 days). Serious adverse reactions were monitored for 31 days post-immunization in the 7 additional studies. There is no evidence of long-term safety follow-up extending months or years post-vaccination. This short follow-up window is insufficient to detect delayed adverse events or long-term safety signals."
+    },
+    "comparison_group": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Study 1 was a randomized, controlled clinical trial comparing HIBERIX against two active comparators: a U.S.-licensed monovalent Haemophilus b Conjugate Vaccine (Control PRP-T from Sanofi Pasteur SA) with n=520, and a U.S.-licensed combined DTaP-IPV/Hib vaccine (Sanofi Pasteur Ltd.) with n=520. While this uses active controls rather than placebo, it allows for direct comparison of safety profiles against established vaccines. However, it should be noted that seven additional studies lacked a comparator group receiving a U.S.-licensed Haemophilus b Conjugate Vaccine."
+    },
+    "active_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The trials employed active solicitation of adverse reactions. Solicited local reactions (pain, redness, swelling) and general adverse reactions (irritability, drowsiness, fever, loss of appetite, fussiness, restlessness) were systematically collected within 4 days of vaccination. The insert includes detailed tables (Tables 1, 2, and 3) with specific percentages for each adverse reaction by dose and grade severity. Grade 3 (severe) reactions were specifically tracked. This demonstrates structured active surveillance methodology, though limited to a 4-day window."
+    },
+    "neurological_monitoring": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Neurological safety concerns are addressed but incompletely. Guillain-Barre Syndrome (GBS) is mentioned as a warning, noting that if GBS occurred within 6 weeks of a prior tetanus toxoid-containing vaccine, the decision to give HIBERIX should be based on risk-benefit analysis. Syncope with transient neurological signs (visual disturbance, paresthesia, tonic-clonic limb movements) is documented. Serious adverse reactions included 1 convulsion on Day 14 after Dose 1 (1/2,963) and 1 new onset febrile seizure on Day 1 after Dose 4 (1/2,336). Postmarketing reports include convulsions (with or without fever) and hypotonic-hyporesponsive episodes. However, there is no systematic neurological assessment protocol or long-term neurological follow-up described in the clinical trials."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "explanation": "Some vulnerable populations are addressed but with limitations. Premature infants: A warning notes that apnea following intramuscular vaccination has been observed in some infants born prematurely, advising individual risk-benefit assessment. Immunocompromised children: The insert states that safety and effectiveness in immunosuppressed children have not been evaluated, acknowledging this gap. The pediatric age range is specifically defined (6 weeks through 4 years). However, the document explicitly states safety and effectiveness have not been established in children younger than 6 weeks or aged 5-16 years. No specific data is provided for children with chronic illnesses or other high-risk conditions."
+    },
+    "data_transparency": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "The insert provides substantial transparent safety data: detailed tables showing adverse reaction percentages by dose number and severity grade; breakdown of sample sizes for each study arm; demographic information (sex, race/ethnicity); specific NCT trial identifier (NCT01000974) for Study 1; clear definitions of grading scales (e.g., Grade 3 pain defined as 'cried when limb was moved/spontaneously painful'); and temperature thresholds for fever definitions. Geographic locations of additional studies (Europe, Canada, Latin America, Germany) are disclosed. However, raw data and confidence intervals for adverse reactions are not provided."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "explanation": "Section 6.2 documents postmarketing experience with specific adverse reactions identified after approval, including: extensive swelling of vaccinated limb, injection site induration, allergic reactions (including anaphylactic/anaphylactoid reactions), angioedema, convulsions (with or without fever), hypotonic-hyporesponsive episodes, somnolence, syncope, vasovagal responses, apnea, rash, and urticaria. The insert appropriately notes that voluntary reporting makes it impossible to reliably estimate frequency or establish causal relationships. VAERS reporting information is provided (1-800-822-7967). Manufacturer contact for reporting is included (GlaxoSmithKline at 1-888-825-5249)."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "HIBERIX demonstrates adequate safety documentation in several areas: substantial pediatric sample size (~4,000+ children), randomized controlled comparison against licensed vaccines, active solicitation of adverse reactions with detailed severity grading, reasonable data transparency with published trial identifiers, and established postmarketing surveillance. However, significant limitations exist: follow-up duration is critically short (only 4 days for solicited reactions, 31 days for serious events), with no long-term safety monitoring. Neurological monitoring captured some serious events (convulsions, febrile seizures) but lacks systematic neurological assessment protocols. Vulnerable populations like immunocompromised children explicitly lack safety data. Overall, the safety profile is reasonably documented for short-term common reactions but insufficient for detecting delayed or rare adverse events."
+  }
+}

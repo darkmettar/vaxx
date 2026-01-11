@@ -1,0 +1,45 @@
+{
+  "last_updated": "2026-01-11T00:30:00Z",
+  "vaccines": {
+    "hepb_recombivax": {
+      "name": "Recombivax HB",
+      "type": "HepB",
+      "manufacturer": "Merck",
+      "description": "Hepatitis B vaccine for prevention of infection caused by all known subtypes of hepatitis B virus. Approved for all ages. 3-dose series (0.5 mL for children 0-19 years) given at 0, 1, and 6 months.",
+      "sources": ["hepb_recombivax_insert.pdf"],
+      "use_txt": false,
+      "trial_en": "done",
+      "trial_pt": "pending",
+      "safety_en": "done",
+      "safety_pt": "pending",
+      "verified": false
+    },
+    "hib_hiberix": {
+      "name": "Hiberix",
+      "type": "Hib",
+      "manufacturer": "GlaxoSmithKline",
+      "description": "Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate) for prevention of invasive disease caused by H. influenzae type b. Approved for children 6 weeks through 4 years. 4-dose series at 2, 4, 6, and 15-18 months of age.",
+      "sources": ["hib_hiberix_insert.pdf"],
+      "use_txt": true,
+      "trial_en": "done",
+      "trial_pt": "pending",
+      "safety_en": "done",
+      "safety_pt": "pending",
+      "verified": false
+    },
+    "mmr_mmrii": {
+      "name": "M-M-R II",
+      "type": "MMR",
+      "manufacturer": "Merck",
+      "description": "Measles, Mumps, and Rubella Virus Vaccine Live (RA 27/3 strain) for prevention of measles, mumps, and rubella. Originally licensed September 1978. Source document is 1978 FDA FOIA clinical trial summary.",
+      "sources": ["mmr_mmrii_clinical.pdf"],
+      "use_txt": true,
+      "trial_en": "analyzing",
+      "trial_pt": "pending",
+      "safety_en": "analyzing",
+      "safety_pt": "pending",
+      "verified": false
+    }
+  },
+  "errors": []
+}

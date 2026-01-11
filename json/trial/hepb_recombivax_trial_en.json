@@ -1,0 +1,108 @@
+{
+  "vaccine_id": "hepb_recombivax",
+  "analysis_type": "trial",
+  "language": "en",
+  "criteria": {
+    "placebo_control": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One referenced study (Beasley et al., 1983) was a 'Randomized Double-Blind, Placebo-Controlled Trial' for HBIG efficacy. However, the primary vaccine efficacy study in neonates (Section 14.1) used 'untreated historical controls' rather than a concurrent placebo group. The adolescent regimen comparison (Section 14.3) was an 'open, randomized, multicenter study' without placebo control.",
+      "level_description": "While one referenced study used placebo control (for HBIG), the main vaccine efficacy data relied on historical controls rather than concurrent placebo groups. Immunogenicity studies were open-label without placebo comparators."
+    },
+    "double_blind": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "One referenced study (Beasley et al., 1983) was described as 'Double-Blind.' However, the key adolescent comparison study (Section 14.3) is explicitly described as 'an open, randomized, multicenter study.' Other immunogenicity studies do not specify blinding.",
+      "level_description": "Double-blinding was used in one referenced HBIG study but not in the primary vaccine trials. The adolescent regimen comparison was explicitly open-label, which introduces potential observer and participant bias."
+    },
+    "randomization": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "The adolescent two-dose vs. three-dose study (Section 14.3) was described as 'an open, randomized, multicenter study.' One referenced study (Beasley et al., 1983) was also randomized. However, no details on randomization methods are provided.",
+      "level_description": "Randomization was used in at least one key study and one referenced trial, but no description of randomization methodology (e.g., allocation concealment, sequence generation) is provided in the document."
+    },
+    "pediatric_sample_size": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.1: '434 doses of RECOMBIVAX HB, 5 mcg, were administered to 147 healthy infants and children (up to 10 years of age).' Section 14.1: '130 infants after nine months of follow-up.' Section 14.2: 'protective level of antibody in 100% of 92 infants, 99% of 129 children, and in 99% of 112 adolescents.' Section 14.3: 255 adolescents in two-dose arm, 121 in three-dose arm.",
+      "level_description": "Pediatric sample sizes ranged from 92 to 255 subjects per age group. While adequate for immunogenicity assessment, these are relatively modest sample sizes for detecting rare adverse events. The safety monitoring study (147 children for 434 doses) is small."
+    },
+    "follow_up_duration": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Section 6.1: 'monitored for 5 days after each dose.' Section 14.1: 'after nine months of follow-up.' Section 2.4: 'The duration of the protective effect of RECOMBIVAX HB in healthy vaccinees is unknown at present.'",
+      "level_description": "Active safety monitoring was limited to only 5 days post-dose, which is inadequate for detecting delayed adverse events. The 9-month efficacy follow-up in neonates is reasonable for infection prevention but inadequate for long-term safety assessment. The document explicitly acknowledges that long-term protective duration is unknown."
+    },
+    "separate_age_groups": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Clinical studies reported results separately for: infants and children up to 10 years of age (Section 6.1, 14.2); neonates born to HBsAg/HBeAg positive mothers (Section 14.1); adolescents 11-15 years (Section 14.3); young adults 20-29 years, adults 30-39 years, and adults >=40 years (Section 14.4); predialysis/dialysis patients (Section 14.5).",
+      "level_description": "The document provides separate immunogenicity and safety data for multiple age groups including infants, children, adolescents, and adult age brackets, allowing assessment of age-specific responses."
+    },
+    "inclusion_exclusion_criteria": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Studies included 'healthy infants and children' and 'healthy adults.' Section 14.1 specified neonates 'born of mothers positive for both HBsAg and HBeAg.' Section 14.5 addresses chronic HCV patients and dialysis patients. No detailed inclusion/exclusion criteria are provided.",
+      "level_description": "The document describes study populations in general terms (e.g., 'healthy') but does not provide specific inclusion/exclusion criteria, making it impossible to assess the rigor of participant selection or generalizability."
+    },
+    "standardized_adverse_events": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.1 reports adverse reactions by system organ class (General Disorders, Gastrointestinal, Respiratory, Nervous System, Skin, Musculoskeletal, etc.) with frequency thresholds (>1% vs <1%). Specific reactions are listed including injection site reactions, fever (defined as >=101F or >=100F), and systemic complaints.",
+      "level_description": "Adverse events are reported by system organ class with frequency categories, suggesting some standardization. However, the document does not describe the use of standardized grading scales or definitions for severity assessment."
+    },
+    "active_monitoring_serious": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Section 6.1: 'monitored for 5 days after each dose.' Section 6.2 (Post-Marketing Experience) lists serious events reported voluntarily, including Guillain-Barre syndrome, multiple sclerosis, seizures, Stevens-Johnson syndrome, thrombocytopenia, encephalitis, etc., but states 'it is not possible to reliably estimate their frequency or establish a causal relationship.'",
+      "level_description": "Active monitoring was limited to 5 days post-vaccination, which is grossly inadequate for detecting serious adverse events that may have delayed onset. Serious events are only captured through passive post-marketing surveillance with acknowledged limitations in establishing causality and frequency."
+    },
+    "autoimmune_neurological": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 6.2 (Post-Marketing Experience) lists: 'Autoimmune diseases including systemic lupus erythematosus (SLE), lupus-like syndrome, vasculitis, and polyarteritis nodosa.' Neurological: 'Guillain-Barre syndrome; multiple sclerosis; exacerbation of multiple sclerosis; myelitis including transverse myelitis; seizure; febrile seizure; peripheral neuropathy including Bell's Palsy; radiculopathy; encephalitis.' These are passive reports only.",
+      "level_description": "Autoimmune and neurological events are documented in post-marketing surveillance, but these were not systematically monitored in clinical trials. The document explicitly states a causal relationship cannot be established for these post-marketing reports."
+    },
+    "vulnerable_subgroups": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 5.2-5.3 addresses premature infants and infants <2000g. Section 8.1 reports pregnancy data (26 women in clinical studies, 105 in post-approval reports). Section 8.5 notes geriatric populations showed 'diminished antibody response' in subjects >60 years. Section 14.5 covers chronic HCV patients (~70% seroprotection) and predialysis/dialysis patients (lower response rates).",
+      "level_description": "Some vulnerable subgroups are addressed (premature infants, pregnancy, elderly, immunocompromised dialysis patients, HCV patients), but data are limited and often from post-marketing or observational sources rather than controlled trials designed to assess these populations."
+    },
+    "statistical_analysis": {
+      "rating": "insufficient",
+      "emoji": "🔴",
+      "what_document_states": "Results are presented as percentages of seroprotection (e.g., '100% of 92 infants,' '96% of 1213 healthy adults,' '99% of 255 subjects'). Section 14.1 states 'estimated efficacy in prevention of chronic hepatitis B infection was 95%.' No confidence intervals, p-values, or statistical methodology is described.",
+      "level_description": "The document reports only point estimates without confidence intervals, p-values, or description of statistical methods. The claim that two-dose regimen 'appears similar' to three-dose regimen lacks formal statistical comparison."
+    },
+    "data_transparency": {
+      "rating": "partial",
+      "emoji": "⚠️",
+      "what_document_states": "Section 15 provides 9 references to published studies and CDC recommendations. Some numerical data are provided (sample sizes, seroconversion rates). However, individual patient data, complete safety databases, and detailed study protocols are not available in this document.",
+      "level_description": "The prescribing information references published studies and provides summary statistics, but detailed raw data, complete safety databases, and full study protocols are not included. Access to underlying data would require retrieval of cited references."
+    },
+    "post_marketing_surveillance": {
+      "rating": "adequate",
+      "emoji": "✅",
+      "what_document_states": "Section 6.2 provides extensive post-marketing experience including hypersensitivity reactions, autoimmune diseases, neurological disorders, and other serious events. Section 17 instructs reporting to VAERS. The document states the vaccine has been marketed since 1986 with ongoing surveillance through 2018 (revision date).",
+      "level_description": "The document includes a comprehensive list of post-marketing adverse events and provides mechanisms for ongoing surveillance (VAERS, manufacturer reporting). Over 30 years of post-marketing data collection is reflected."
+    },
+    "conflict_of_interest": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "The document identifies Merck Sharp & Dohme Corp. as manufacturer and distributor. No disclosure of conflicts of interest, funding sources for clinical trials, or investigator relationships is provided.",
+      "level_description": "The prescribing information does not include any conflict of interest disclosures or information about trial funding. The manufacturer conducted the studies but no financial relationships or potential biases are addressed."
+    },
+    "all_cause_mortality": {
+      "rating": "absent",
+      "emoji": "❓",
+      "what_document_states": "No mortality data or death rates are reported in the clinical trials section or adverse events section. The document does not provide information on all-cause mortality in vaccinated vs. control groups.",
+      "level_description": "The document contains no information about deaths in clinical trials or all-cause mortality comparisons. This critical safety endpoint is not addressed."
+    }
+  },
+  "overall": {
+    "rating": "partial",
+    "emoji": "⚠️",
+    "summary": "RECOMBIVAX HB prescribing information reflects trials from the 1980s era with methodological limitations by current standards. Strengths include separate age group analysis, adequate immunogenicity data, and extensive post-marketing surveillance over 30+ years. Significant limitations include: reliance on historical rather than concurrent placebo controls for efficacy, open-label design in key trials, very short active safety monitoring (5 days), absence of statistical rigor in reporting (no confidence intervals or p-values), no mortality data, and no conflict of interest disclosure. The document adequately demonstrates immunogenicity but provides limited evidence for comprehensive safety assessment, particularly for rare or delayed adverse events."
+  }
+}
